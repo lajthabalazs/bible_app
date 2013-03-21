@@ -17,7 +17,7 @@ public class VerseAdapter implements ListAdapter {
 
 	private Book book;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
-	private Context context;
+	private Context context; 
 	private LayoutInflater inflater;
 	private Chapter chapter;
 	
