@@ -1,10 +1,10 @@
-JÓNÁS PRÓFÉTA KÖNYVE
+Jónás Próféta Könyve
 fa4dh6fed 1,1
-És lőn az Úrnak szava Jónáshoz, az Amittai fiához,mondván:
+És lőn az Úrnak szava Jónáshoz, az Amittai fiához, mondván:
 fa4dh6fed 1,2
 Kelj fel, menj Ninivébe, a nagy városba, és kiálts ellene, mert gonoszságuk felhatolt elémbe!
 fa4dh6fed 1,3
-És felkele Jónás, hogy Tarsisba szaladnaaz Úr elől. Leméne azért Jáfóba, és talála ott egy hajót, a mely méne Tarsisba, és megadván a hajóbért, beszálla abba, hogy Tarsisba menne velök az Úr színe elől.
+És felkele Jónás, hogy Tarsisba szaladna az Úr elől. Leméne azért Jáfóba, és talála ott egy hajót, a mely méne Tarsisba, és megadván a hajóbért, beszálla abba, hogy Tarsisba menne velök az Úr színe elől.
 fa4dh6fed 1,4
 Az Úr pedig nagy szelet bocsáta a tengerre, és nagy vihar lőn a tengeren, és a hajó már-már töredezik vala.
 fa4dh6fed 1,5
@@ -32,37 +32,37 @@ fa4dh6fed 1,15
 fa4dh6fed 1,16
 Azok az emberek pedig nagy félelemmel félék az Urat, és áldozattal áldozának az Úrnak, és fogadásokat fogadának.
 fa4dh6fed 2,1
-Az Úr pedig egy nagy halat rendelt, hogy benyelje Jónást.És lőn Jónás a halnak gyomrában három nap és három éjjel.
+Az Úr pedig egy nagy halat rendelt, hogy benyelje Jónást. És lőn Jónás a halnak gyomrában három nap és három éjjel.
 fa4dh6fed 2,2
 És könyörge Jónás az Úrnak, az ő Istenének a halnak gyomrából.
 fa4dh6fed 2,3
-És mondá: Nyomorúságomban az Úrhoz kiálték és meghallgata engem; a Seol torkából sikoltékmeghallád az én szómat.
+És mondá: Nyomorúságomban az Úrhoz kiálték és meghallgata engem; a Seol torkából sikolték és meghallád az én szómat.
 fa4dh6fed 2,4
-Mert mélységbe vetettél engem, tenger közepébe, és körülfogott engem a víz; örvényeidés habjaid mind átmentek rajtam!
+Mert mélységbe vetettél engem, tenger közepébe, és körülfogott engem a víz; örvényeid és habjaid mind átmentek rajtam!
 fa4dh6fed 2,5
 És én mondám: Elvettettem a te szemeid elől; vajha láthatnám még szentséged templomát!
 fa4dh6fed 2,6
 Körülvettek engem a vizek lelkemig, mély ár kerített be engem, hinár szövődött fejemre.
 fa4dh6fed 2,7
-A hegyek alapjáig sülyedtem alá;a föld závárjai felettem örökre! Mindazáltal kiemelted éltemet a mulásból, oh Uram, Istenem!
+A hegyek alapjáig sülyedtem alá; bezáródtak a föld závárjai felettem örökre! Mindazáltal kiemelted éltemet a mulásból, oh Uram, Istenem!
 fa4dh6fed 2,8
 Mikor elcsüggedt bennem az én lelkem, megemlékeztem az Úrról, és bejutott az én könyörgésem te hozzád, a te szentséged templomába.
 fa4dh6fed 2,9
 A kik hiú bálványokra ügyelnek, elhagyják boldogságukat;
 fa4dh6fed 2,10
-De énhálaadó szóval áldozom néked; megadom, a mit fogadtam. Az Úré a szabadítás.
+De én hálaadó szóval áldozom néked; megadom, a mit fogadtam. Az Úré a szabadítás.
 fa4dh6fed 2,11
 És szóla az Úr a halnak, és kiveté Jónást a szárazra.
 fa4dh6fed 3,1
-És lőn az Úrnak szava Jónáshoz másodszormondván:
+És lőn az Úrnak szava Jónáshoz másodszor is, mondván:
 fa4dh6fed 3,2
 Kelj fel, menj Ninivébe, a nagy városba, és hirdesd néki azt a beszédet, a mit én parancsolok néked.
 fa4dh6fed 3,3
-És felkele Jónás, és elméne Ninivébe az Úr szava szerint. Ninive pedig nagy városa vala Istennek, három napi járó
+És felkele Jónás, és elméne Ninivébe az Úr szava szerint. Ninive pedig nagy városa vala Istennek, három napi járó föld. 
 fa4dh6fed 3,4
 És kezde Jónás bemenni a városba egy napi járóra, és kiálta és monda: Még negyven nap, és elpusztul Ninive!
 fa4dh6fed 3,5
-A niniveiek pedig hivének Istenben, ésbőjtöt hirdetének, és nagyjaiktól fogva kicsinyeikig zsákba öltözének.
+A niniveiek pedig hivének Istenben, és bőjtöt hirdetének, és nagyjaiktól fogva kicsinyeikig zsákba öltözének.
 fa4dh6fed 3,6
 És eljuta a beszéd Ninive királyához, és felkele királyi székéből, és leveté magáról az ő királyi ruháját, és zsákba borítkozék, és üle a porba.
 fa4dh6fed 3,7
@@ -72,11 +72,11 @@ Hanem öltözzenek zsákba az emberek és barmok, és kiáltsanak az Istenhez er
 fa4dh6fed 3,9
 Ki tudja? talán visszatér és megengesztelődik az Isten és elfordul haragjának búsulásától, és nem veszünk el!
 fa4dh6fed 3,10
-És látá Isten az ő cselekedeteiket, hogy megtértek az ő gonosz útjokról: és megbánáaz Isten azt a gonoszt, a melyről mondá, hogy végrehajtja rajtok, és nem hajtá végre.
+És látá Isten az ő cselekedeteiket, hogy megtértek az ő gonosz útjokról: és megbáná  az Isten azt a gonoszt, a melyről mondá, hogy végrehajtja rajtok, és nem hajtá végre.
 fa4dh6fed 4,1
 És igen rossznak látszék ez Jónás előtt, és megharaguvék.
 fa4dh6fed 4,2
-Könyörge azért az Úrhoz, és mondá: Kérlek, Uram! Avagy nem ez vala-é az én mondásom, mikor még az én hazámban valék? azért siettem, hogy Tarsisba futnék, mert tudtam, hogy te irgalmas és kegyelmes Isten vagy, nagy türelmű és nagy irgalmasságú és a gonosz miattbánkódó.
+Könyörge azért az Úrhoz, és mondá: Kérlek, Uram! Avagy nem ez vala-é az én mondásom, mikor még az én hazámban valék? azért siettem, hogy Tarsisba futnék, mert tudtam, hogy te irgalmas és kegyelmes Isten vagy, nagy türelmű és nagy irgalmasságú és a gonosz miatt is   bánkódó.
 fa4dh6fed 4,3
 Most azért Uram, vedd el, kérlek, az én lelkemet én tőlem, mert jobb meghalnom, mintsem élnem!
 fa4dh6fed 4,4
@@ -84,14 +84,14 @@ Az Úr pedig mondá: Avagy méltán haragszol-é?
 fa4dh6fed 4,5
 Majd kiméne Jónás a városból, és üle a város keleti része felől, és csinála ott magának hajlékot, és üle az alatt az árnyékban, a míg megláthatná, mi lészen a városból?
 fa4dh6fed 4,6
-Az Úr Isten pedig egy tököt rendele, és felnöve az Jónás fölé, hogy árnyékot tartson feje fölött és megoltalmazza őtbántásától. És nagy örömmel örvendezék Jónás a tök miatt.
+Az Úr Isten pedig egy tököt rendele, és felnöve az Jónás fölé, hogy árnyékot tartson feje fölött és megoltalmazza őt a hévség bántásától. És nagy örömmel örvendezék Jónás a tök miatt.
 fa4dh6fed 4,7
-De másnapra férget rendele az Isten hajnal-költekor, és megszúráa tököt, és elszárada.
+De másnapra férget rendele az Isten hajnal-költekor, és megszúrá az a tököt, és elszárada.
 fa4dh6fed 4,8
 És lőn napköltekor, hogy tikkasztó keleti szelet rendele Isten, és a nap rátűzött a Jónás fejére, és ő elbágyada. Kiváná azért magának a halált, és monda: Jobb halnom, mint élnem!
 fa4dh6fed 4,9
 És monda az Isten Jónásnak: Avagy méltán haragszol-é a tök miatt? És monda: Méltán haragszom, mind halálig!
 fa4dh6fed 4,10
-Az Úr pedig monda: Te szánod a tököt, a melyért nem fáradtál ésnem neveltél, a mely egy éjjel támadt és más éjjel elveszett:
+Az Úr pedig monda: Te szánod a tököt, a melyért nem fáradtál és a melyet nem neveltél, a mely egy éjjel támadt és más éjjel elveszett:
 fa4dh6fed 4,11
-Én pedig ne szánjam Ninivét, a nagy várost, a melyben több van tizenkétszer tízezer embernél, a kik nem tudnak különbséget tenni jobb- és balkezük között, és barom is sok van?!
+Én pedig ne szánjam Ninivét, a nagy várost, a melyben több van tizenkétszer tízezer embernél, a kik nem tudnak különbséget tenni jobb- és balkezük között, és barom is sok van?!  

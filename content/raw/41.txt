@@ -1,20 +1,20 @@
-NÁHUM PRÓFÉTA KÖNYVE
+Náhum Próféta Könyve
 fa4dh6fed 1,1
-Niniveterhe; az elkosi Náhum látásának könyve.
+Ninive terhe; az elkosi Náhum látásának könyve.
 fa4dh6fed 1,2
-Buzgón szerető és bosszúálló Isten az Úr, bosszúálló az Úr, és telve haraggal; bosszút áll az Úr az ő ellenségein, éstartó az ő gyűlölői ellen.
+Buzgón szerető és bosszúálló Isten az Úr, bosszúálló az Úr, és telve haraggal; bosszút áll az Úr az ő ellenségein, és haragot  tartó az ő gyűlölői ellen.
 fa4dh6fed 1,3
-Hosszútűrő az Úr és nagyhatalmú, és nem hagy büntetlenül. Szélvészben és viharban van az Úrnak útja, éslábainak pora a felhő.
+Hosszútűrő az Úr és nagyhatalmú, és nem hagy büntetlenül. Szélvészben és viharban van az Úrnak útja, és lábainak pora a felhő.
 fa4dh6fed 1,4
-Megfeddi a tengertés kiapasztja azt, és minden folyamot kiszáraszt. Elfonnyad a Básán és a Kármel, és a Libánon virága elfonnyad.
+Megfeddi a tengert és kiapasztja azt, és minden folyamot kiszáraszt. Elfonnyad a Básán és a Kármel, és a Libánon virága elfonnyad.
 fa4dh6fed 1,5
-A hegyek reszketnek előtte, és a halmok szétmállanak. Tekintetétől megrendül a föld,és a világ, és minden, a mi rajta él.
+A hegyek reszketnek előtte, és a halmok szétmállanak. Tekintetétől megrendül a föld, és a világ, és minden, a mi rajta él.
 fa4dh6fed 1,6
-Ki állhatna meg haragja előtt, és ki birhatná ki búsulásának tüzét? Heve szétfoly, mint a láng,és a kőszálak is szétporlanak tőle.
+Ki állhatna meg haragja előtt, és ki birhatná ki búsulásának tüzét? Heve szétfoly, mint a láng, és a kőszálak is szétporlanak tőle.
 fa4dh6fed 1,7
-Jó az Úr,erősség a szorongatás idején,és ő ismeri a benne bízókat.
+Jó az Úr, erősség a szorongatás idején, és ő ismeri a benne bízókat.
 fa4dh6fed 1,8
-De gáttörő árvízként pusztít annak helyén,és gyűlölőit setétség üldözi.
+De gáttörő árvízként pusztít annak helyén, és gyűlölőit setétség üldözi.
 fa4dh6fed 1,9
 Mit koholtok az Úr ellen? Elpusztít ő, nem lészen kétszer veszedelem.
 fa4dh6fed 1,10
@@ -28,23 +28,23 @@ Most már leveszem rólad az ő igáját, és bilincseidet leszaggatom.
 fa4dh6fed 1,14
 Felőled pedig azt rendeli az Úr: Nevednek ne támadjon többé magva; isteneid házából kivesztem a faragott és öntött képeket; megásom sírodat, mert becstelen vagy.
 fa4dh6fed 1,15
-Ímé a hegyeken örömhírhozónak lábai! Békességet hirdet.Ünnepeld Júda ünnepeidet, fizesd le fogadásaidat; mert nem vonul át rajtad többé asemmirekellő; mindenestől kiirtatott.
+Ímé a hegyeken örömhírhozónak lábai! Békességet hirdet. Ünnepeld Júda ünnepeidet, fizesd le fogadásaidat; mert nem vonul át rajtad többé a semmirekellő; mindenestől kiirtatott.
 fa4dh6fed 2,1
 Pusztító jön fel ellened; őrizd a várat, nézzed az útat, erősítsd derekadat, keményítsd meg erődet igen.
 fa4dh6fed 2,2
-Mert helyreállítja az Úr Jákób büszkeségét,mint Izráel büszkeségét; mert rablók rabolták ki őket, csemetéiket pedig kivágták.
+Mert helyreállítja az Úr Jákób büszkeségét, mint Izráel büszkeségét; mert rablók rabolták ki őket, csemetéiket pedig kivágták.
 fa4dh6fed 2,3
-Vitézeinek pajzsa veres, katonáinakbíborszínű,szekere aczéltűzbenfegyverkezése napján, és a dárdákat rengetik.
+Vitézeinek pajzsa veres, katonáinak ruházata bíborszínű, hadi szekere aczéltűzben ragyog fegyverkezése napján, és a dárdákat rengetik.
 fa4dh6fed 2,4
 Az utczákon robognak a szekerek, összeütköznek a piaczokon; tekintetök mint a fáklyák, futkosnak mint a villámok.
 fa4dh6fed 2,5
-Emlegetihőseit; ingadoznak lépéseikben, sietnek a kőfalra, és felállíttatik a védősáncz.
+Emlegeti vitézlő hőseit; ingadoznak lépéseikben, sietnek a kőfalra, és felállíttatik a védősáncz.
 fa4dh6fed 2,6
 A folyóvizek kapui megnyílnak, és a palota megrendül.
 fa4dh6fed 2,7
 De elvégeztetett: felfedik, elvitetik, és szolgálói keseregnek, mint nyögő galambok, mellöket vervén.
 fa4dh6fed 2,8
-Pedig Ninive olyan, mint avizű tó, eleitől fogva: mégis futnak ők. Álljatok meg, álljatok meg! De vissza se tekint senki.
+Pedig Ninive olyan, mint a bő vizű tó, eleitől fogva: mégis futnak ők. Álljatok meg, álljatok meg! De vissza se tekint senki.
 fa4dh6fed 2,9
 Raboljatok ezüstöt, raboljatok aranyat; száma sincs a rejtett kincseknek, gazdag minden drága edényben.
 fa4dh6fed 2,10
@@ -54,9 +54,9 @@ Hol van az oroszlánok tanyája, és az oroszlán-kölyköknek ama legelője, a 
 fa4dh6fed 2,12
 Az oroszlán torkig valót ragadozott kölykeinek, és fojtogatott nőstényeinek, és megtöltötte barlangjait zsákmánynyal, tanyáit pedig prédával.
 fa4dh6fed 2,13
-Ímé rádazt mondja a Seregek Ura, és füstté égetem szekereit. Oroszlán-kölykeidet kard emészti meg, és kiirtom e földről zsákmányodat, és nem hallatszik többé követeidnek szava.
+Ímé rád török, azt mondja a Seregek Ura, és füstté égetem szekereit. Oroszlán-kölykeidet kard emészti meg, és kiirtom e földről zsákmányodat, és nem hallatszik többé követeidnek szava.
 fa4dh6fed 3,1
-Jaj a vérszopó városnak!Mindenestől hazugerőszakkal telve,nem szűnik rabolni.
+Jaj a vérszopó városnak!  Mindenestől hazug és erőszakkal telve, és nem szűnik rabolni.
 fa4dh6fed 3,2
 Ostor-csattogás, kerék-zörgés zaja; dobogó ló, robogó szekér;
 fa4dh6fed 3,3
@@ -64,7 +64,7 @@ Törtető lovag, kardok villogása, dárda villanása, sebesült tömegek, holta
 fa4dh6fed 3,4
 A szép parázna sok paráznaságáért, a hitetésnek mesternője miatt, a ki népeket ejtett meg paráznaságával, és nemzetségeket bűbájaival:
 fa4dh6fed 3,5
-Ímé, rádazt mondja a Seregek Ura, és orczádra fordítom ruhádnak alját, és népeknek mutatom meg meztelenségedet, és országoknakgyalázatodat.
+Ímé, rád török, azt mondja a Seregek Ura, és orczádra fordítom ruhádnak alját, és népeknek mutatom meg meztelenségedet, és országoknak gyalázatodat.
 fa4dh6fed 3,6
 Rútságot hányatok rád, és gyalázattal illetlek téged, és olyanná teszlek, mint a kit csudálnak.
 fa4dh6fed 3,7
@@ -72,11 +72,11 @@ fa4dh6fed 3,7
 fa4dh6fed 3,8
 Avagy jobb vagy-é Nó-Amonnál, a mely a folyamoknál fekszik, vizek veszik körül; a melynek tenger a sáncza, tenger a kőfala?
 fa4dh6fed 3,9
-Kús volt erőssége meg Égyiptom, és száma sem voltPuth és Libia is segítőid voltak;
+Kús volt erőssége meg Égyiptom, és száma sem volt annak. Puth és Libia is segítőid voltak;
 fa4dh6fed 3,10
 De ez is számkivetésbe, fogságba jutott; kisdedeik is falhoz verettek minden utcza sarkán; főembereire sorsot vetettek, és nagyjait mind bilincsekbe verték.
 fa4dh6fed 3,11
-Te is megrészegedel,elfeledtté leszel; te is keresel majd menedéket a gyűlölködő elől.
+Te is megrészegedel, elfeledtté leszel; te is keresel majd menedéket a gyűlölködő elől.
 fa4dh6fed 3,12
 Minden erősséged olyan, mint a zsenge gyümölcsű fügefa; ha megrázatnak, az evő szájába hullnak.
 fa4dh6fed 3,13
@@ -90,6 +90,6 @@ Többen voltak kalmáraid, mint az égnek csillagai: a szöcske csapong és elre
 fa4dh6fed 3,17
 Fejedelmeid mint a sáska, vezéreid mint a tücsök-raj; hideg időkben gyepűkben tanyáz, napkeletkor pedig elrepül, és helye sem tudható meg, hol volt.
 fa4dh6fed 3,18
-Szunnyadoznak pásztoraid, Assiria királya, feküsznekhőseid; néped a hegyeken széledez, és nincsen, a ki összegyűjtse.
+Szunnyadoznak pásztoraid, Assiria királya, feküsznek  vitézlő hőseid; néped a hegyeken széledez, és nincsen, a ki összegyűjtse.
 fa4dh6fed 3,19
-Nincs enyhítés a te sebedre, gyógyíthatatlan a te nyavalyád. A kik híredet hallják, mind tapsolnak feletted, mert kire nem hatott volna ki a te gonoszságod soha?
+Nincs enyhítés a te sebedre, gyógyíthatatlan a te nyavalyád. A kik híredet hallják, mind tapsolnak feletted, mert kire nem hatott volna ki a te gonoszságod soha?  

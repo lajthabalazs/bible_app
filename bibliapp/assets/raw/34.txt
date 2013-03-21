@@ -1,8 +1,8 @@
-DÁNIEL PRÓFÉTA KÖNYVE
+Dániel Próféta Könyve
 fa4dh6fed 1,1
-Jojakim,Júda királya uralkodásának harmadik esztendejében jöve Nabukodonozor, a babiloni király Jeruzsálemre, és megszállá azt.
+Jojakim,  Júda királya uralkodásának harmadik esztendejében jöve Nabukodonozor, a babiloni király Jeruzsálemre, és megszállá azt.
 fa4dh6fed 1,2
-És kezébe adá az Úr Jojakimot, a Júda királyát, és az Isten háza edényeinek egy részét; és vivé azokat Sineárföldére, az ő istenének házába, és az edényeket bevivé az ő istenének kincsesházába.
+És kezébe adá az Úr Jojakimot, a Júda királyát, és az Isten háza edényeinek egy részét; és vivé azokat Sineár földére, az ő istenének házába, és az edényeket bevivé az ő istenének kincsesházába.
 fa4dh6fed 1,3
 És mondá a király Aspenáznak, az udvarmesterek fejedelmének, hogy hozzon az Izráel fiai közül és királyi magból való s előkelő származású ifjakat,
 fa4dh6fed 1,4
@@ -12,11 +12,11 @@ fa4dh6fed 1,5
 fa4dh6fed 1,6
 Valának pedig ezek között a Júda fiai közül: Dániel, Ananiás, Misáel és Azariás.
 fa4dh6fed 1,7
-És az udvarmesterek fejedelme neveket ada nékik; tudniillik elnevezé Dánielt Baltazárnak,Ananiást Sidráknak, Misáelt Misáknak, Azariást Abednegónak.
+És az udvarmesterek fejedelme neveket ada nékik; tudniillik elnevezé Dánielt Baltazárnak, Ananiást Sidráknak, Misáelt Misáknak, Azariást Abednegónak.
 fa4dh6fed 1,8
-De Dániel eltökélé az ő szívében, hogy nemfertőzteti meg magát a király ételével és a borral, a melyből az iszik vala, és kéré az udvarmesterek fejedelmét, hogy ne kelljen magát megfertőztetnie.
+De Dániel eltökélé az ő szívében, hogy nem fertőzteti meg magát a király ételével és a borral, a melyből az iszik vala, és kéré az udvarmesterek fejedelmét, hogy ne kelljen magát megfertőztetnie.
 fa4dh6fed 1,9
-És az Isten kegyelemre és irgalomratevé Dánielt az udvarmesterek fejedelme előtt;
+És az Isten kegyelemre és irgalomra méltóvá tevé Dánielt az udvarmesterek fejedelme előtt;
 fa4dh6fed 1,10
 És mondá az udvarmesterek fejedelme Dánielnek: Félek én az én uramtól, a királytól, a ki megrendelte a ti ételeteket és italotokat; minek lássa, hogy a ti orczátok hitványabb amaz ifjakénál, a kik egykorúak veletek? és így bűnbe kevernétek az én fejemet a királynál.
 fa4dh6fed 1,11
@@ -32,15 +32,15 @@ fa4dh6fed 1,15
 fa4dh6fed 1,16
 Elvevé azért a felügyelő az ő ételöket és az ő italokul rendelt bort, és ad vala nékik zöldségféléket.
 fa4dh6fed 1,17
-És ada az Isten ennek anégy gyermeknek tudományt, minden írásban való értelmet és bölcseséget; Dániel pedig értett mindenféle látomáshoz és álmokhoz
+És ada az Isten ennek a négy gyermeknek tudományt, minden írásban való értelmet és bölcseséget; Dániel pedig értett mindenféle látomáshoz és álmokhoz is. 
 fa4dh6fed 1,18
-Miután pedig elmúlt az idő, a mikorrameghagyta vala a király, hogyvigyék őket, bevivé őket az udvarmesterek fejedelme Nabukodonozor elé.
+Miután pedig elmúlt az idő, a mikorra meghagyta vala a király, hogy eléje vigyék őket, bevivé őket az udvarmesterek fejedelme Nabukodonozor elé.
 fa4dh6fed 1,19
 És szóla velök a király, és mindnyájok között sem találtaték olyan, mint Dániel, Ananiás, Misáel és Azariás, és állának a király előtt.
 fa4dh6fed 1,20
 És minden bölcs és értelmes dologban, a mely felől a király tőlök tudakozódék, tízszerte okosabbaknak találá őket mindazoknál az írástudóknál és varázslóknál, a kik egész országában valának.
 fa4dh6fed 1,21
-Ésvala Dániel a Cyrus király elsőesztendejéig.
+És ott vala Dániel a Cyrus király első  esztendejéig.
 fa4dh6fed 2,1
 És Nabukodonozor uralkodásának második esztendejében álmokat láta Nabukodonozor, és nyugtalan lőn az ő lelke, és álma félbeszakadt.
 fa4dh6fed 2,2
@@ -52,13 +52,13 @@ fa4dh6fed 2,4
 fa4dh6fed 2,5
 Felele a király, és monda a Káldeusoknak: Az én szavam áll! Ha tehát meg nem mondjátok nékem az álmot és annak értelmét, darabokra tépettek, és a ti házaitok szemétdombokká tétetnek.
 fa4dh6fed 2,6
-Ha pedig az álmot és annak értelmét megjelentitek: ajándékokat, jutalmat ésnagy tisztességet vesztek tőlem; ezért az álmot és annak értelmét jelentsétek meg nékem.
+Ha pedig az álmot és annak értelmét megjelentitek: ajándékokat, jutalmat és nagy tisztességet vesztek tőlem; ezért az álmot és annak értelmét jelentsétek meg nékem.
 fa4dh6fed 2,7
 Felelének másodszor, és mondának: A király mondja meg az álmot az ő szolgáinak: és az értelmét megjelentjük.
 fa4dh6fed 2,8
 Felele a király, és monda: Bizonnyal tudom én, hogy csak időt akartok ti nyerni, mert látjátok, hogy áll az én szavam.
 fa4dh6fed 2,9
-Hogy ha az álmot meg nem mondjátok nékem,egy ítélet lehet felőletek: hogy hamis és tétovázó beszédet koholtok, hogy azzal tartsatok engem, míg az idő múlik. Mondjátok meg azért nékem az álmot, akkor tudom, hogy az értelmét is megjelenthetitek nékem.
+Hogy ha az álmot meg nem mondjátok nékem, csak egy ítélet lehet felőletek: hogy hamis és tétovázó beszédet koholtok, hogy azzal tartsatok engem, míg az idő múlik. Mondjátok meg azért nékem az álmot, akkor tudom, hogy az értelmét is megjelenthetitek nékem.
 fa4dh6fed 2,10
 Felelének a Káldeusok a királynak, és mondák: Nincs ember a földön, a ki a király dolgát megjelenthesse: mivelhogy bármilyen nagy és hatalmas király sem kívánt még egyetlen írástudótól, varázslótól és Káldeustól sem ilyen dolgot.
 fa4dh6fed 2,11
@@ -76,15 +76,15 @@ fa4dh6fed 2,16
 fa4dh6fed 2,17
 Ekkor Dániel haza méne, és elmondá e dolgot Ananiásnak, Misáelnek és Azariásnak, az ő társainak:
 fa4dh6fed 2,18
-Hogy kérjenek az egek Istenétől irgalmasságote titok végett, hogy el ne veszszenek Dániel és az ő társai a többi babiloni bölcsekkel együtt.
+Hogy kérjenek az egek Istenétől irgalmasságot e titok végett, hogy el ne veszszenek Dániel és az ő társai a többi babiloni bölcsekkel együtt.
 fa4dh6fed 2,19
 Akkor Dánielnek megjelenteték az a titok éjjeli látásban. Áldá akkor Dániel az egek Istenét.
 fa4dh6fed 2,20
-Szóla Dániel, és monda: Áldott legyen az Istennek neve örökkön örökké: mert övé abölcseség és az erő.
+Szóla Dániel, és monda: Áldott legyen az Istennek neve örökkön örökké: mert övé a bölcseség és az erő.
 fa4dh6fed 2,21
-És ő változtatja meg az időket és az időknek részeit; döntkirályokat és tesz királyokat; ád bölcseséget a bölcseknek és tudományt az értelmeseknek.
+És ő változtatja meg az időket és az időknek részeit; dönt   királyokat és tesz királyokat; ád bölcseséget a bölcseknek és tudományt az értelmeseknek.
 fa4dh6fed 2,22
-Ő jelenti meg a mélyés elrejtett dolgokat, tudja mi van a setétségben; és világosság lakozik vele!
+Ő jelenti meg a mély és elrejtett dolgokat, tudja mi van a setétségben; és világosság lakozik vele!
 fa4dh6fed 2,23
 Néked adok hálát, atyáimnak Istene, és dicsérlek én téged, hogy bölcseséget és erőt adtál nékem, és mostan megjelentetted nékem, a mit kértünk tőled; mert a király dolgát megjelentetted nékünk!
 fa4dh6fed 2,24
@@ -92,9 +92,9 @@ Beméne azért Dániel Ariókhoz, a kit rendelt vala a király, hogy elveszítse
 fa4dh6fed 2,25
 Akkor Ariók sietve bevivé Dánielt a király elébe, és mondá: Találtam férfiút Júdának fogoly fiai között, a ki a megfejtést megjelenti a királynak.
 fa4dh6fed 2,26
-Szóla a király, és monda Dánielnek, a kitBaltazárnak nevezének: Csakugyan képes vagy megjelenteni nékem az álmot, a melyet láttam, és annak értelmét?
+Szóla a király, és monda Dánielnek, a kit Baltazárnak nevezének: Csakugyan képes vagy megjelenteni nékem az álmot, a melyet láttam, és annak értelmét?
 fa4dh6fed 2,27
-Felele Dániel a király előtt, és mondá: A titkot, a melyről a király tudakozódék, a bölcsek, varázslók, írástudók, jövendőmondók meg nem jelenthetika királynak;
+Felele Dániel a király előtt, és mondá: A titkot, a melyről a király tudakozódék, a bölcsek, varázslók, írástudók, jövendőmondók meg nem jelenthetik a királynak;
 fa4dh6fed 2,28
 De van Isten az égben, a ki a titkokat megjelenti; és ő tudtára adta Nabukodonozor királynak: mi lészen az utolsó napokban. A te álmod és a te fejed látása a te ágyadban ez volt:
 fa4dh6fed 2,29
@@ -104,83 +104,83 @@ Nékem pedig ez a titok nem bölcseségből, a mely bennem minden élő felett v
 fa4dh6fed 2,31
 Te látád, oh király, és ímé egy nagy kép; ez a kép, mely hatalmas vala és kiváló az ő fényessége, előtted áll vala, és az ábrázata rettenetes volt.
 fa4dh6fed 2,32
-Annak azképnek feje tiszta aranyból, melle és karjai ezüstből, hasa és oldalai rézből,
+Annak az álló képnek feje tiszta aranyból, melle és karjai ezüstből, hasa és oldalai rézből,
 fa4dh6fed 2,33
 Lábszárai vasból, lábai pedig részint vasból, részint cserépből valának.
 fa4dh6fed 2,34
-Nézed vala, a míg egy kő leszakada kéznélkül, és letöré azt azképet vas- és cseréplábairól, és darabokra zúzá azokat.
+Nézed vala, a míg egy kő leszakada kéz érintése nélkül, és letöré azt az álló képet vas- és cseréplábairól, és darabokra zúzá azokat.
 fa4dh6fed 2,35
-Akkor egygyé zúzódék a vas, cserép, réz, ezüst és arany, és lőnek mint a nyári szérűn a polyva, és felkapá azokat a szél, és helyöket sem találák azoknak. Az a kő pedig, a mely leüté azképet nagy hegygyé lőn, és betölté az egész földet.
+Akkor egygyé zúzódék a vas, cserép, réz, ezüst és arany, és lőnek mint a nyári szérűn a polyva, és felkapá azokat a szél, és helyöket sem találák azoknak. Az a kő pedig, a mely leüté az álló képet nagy hegygyé lőn, és betölté az egész földet.
 fa4dh6fed 2,36
 Ez az álom, és értelmét is megmondjuk a királynak.
 fa4dh6fed 2,37
 Te, oh király! királyok királya, kinek az egek Istene birodalmat, hatalmat, erőt és dicsőséget adott;
 fa4dh6fed 2,38
-És valahol emberek fiai, mezei állatok és égi madarak lakoznak, a tekezedbe adta azokat, és úrrá tett téged mindezeken: Te vagy az arany-fej.
+És valahol emberek fiai, mezei állatok és égi madarak lakoznak, a te kezedbe adta azokat, és úrrá tett téged mindezeken: Te vagy az arany-fej.
 fa4dh6fed 2,39
 És utánad más birodalom támad, alábbvaló mint te; és egy másik, egy harmadik birodalom, rézből való, a mely az egész földön uralkodik.
 fa4dh6fed 2,40
-A negyedik birodalom pedig erős lesz, mint a vas; merta vas széttör és összezúz mindent; bizony mint a vas pusztít, mind amazokat szétzúzza és elpusztítja.
+A negyedik birodalom pedig erős lesz, mint a vas; mert miként a vas széttör és összezúz mindent; bizony mint a vas pusztít, mind amazokat szétzúzza és elpusztítja.
 fa4dh6fed 2,41
 Hogy pedig lábakat és ujjakat részint cserépből, részint vasból valónak láttál: a birodalom kétfelé oszol, de lesz benne a vasnak erejéből, a mint láttad, hogy a vas elegy volt az agyagcseréppel.
 fa4dh6fed 2,42
 És hogy a lába ujjai részint vas, részint cserép: az a birodalom részint erős, részint pedig törékeny lesz.
 fa4dh6fed 2,43
-Hogy pedig vasat elegyülve láttál agyagcseréppel: azok emberimag által vegyülnek össze, de egymással nem egyesülnek, minthogy a vas nem egyesül a cseréppel.
+Hogy pedig vasat elegyülve láttál agyagcseréppel: azok emberi mag által vegyülnek össze, de egymással nem egyesülnek, minthogy a vas nem egyesül a cseréppel.
 fa4dh6fed 2,44
-És azoknak a királyoknak idejében támaszt az egek Istene birodalmat, melysoha örökké meg nem romol, és ez a birodalom más népre nem száll átszétzúzza és elrontja mindazokat a birodalmakat, maga pedig megáll örökké.
+És azoknak a királyoknak idejében támaszt az egek Istene birodalmat, mely  soha örökké meg nem romol, és ez a birodalom más népre nem száll át hanem szétzúzza és elrontja mindazokat a birodalmakat, maga pedig megáll örökké.
 fa4dh6fed 2,45
-Minthogy láttad, hogy a hegyről kő szakad vala le kéznélkül, és szétzúzá a vasat, rezet, cserepet, ezüstöt és aranyat: a nagy Isten azt jelentette meg a királynak, a mi majd ezután lészen; és igaz az álom, és bizonyos annak értelme.
+Minthogy láttad, hogy a hegyről kő szakad vala le kéz érintése nélkül, és szétzúzá a vasat, rezet, cserepet, ezüstöt és aranyat: a nagy Isten azt jelentette meg a királynak, a mi majd ezután lészen; és igaz az álom, és bizonyos annak értelme.
 fa4dh6fed 2,46
 Akkor Nabukodonozor király arczra borula és imádá Dánielt, és meghagyá, hogy ételáldozattal és jó illattal áldozzanak néki.
 fa4dh6fed 2,47
 Szóla a király Dánielnek, és monda: Bizonynyal a ti Istenetek, ő az isteneknek Istene, és a királyoknak ura és a titkok megjelentője, hogy te is megjelenthetted ezt a titkot!
 fa4dh6fed 2,48
-Akkor a királyfölmagasztalá Dánielt, és sok nagy ajándékot ada néki, és hatalmat adott néki Babilonnak egész tartománya felett, és a babiloni összes bölcseknek előljárójává tevé őt.
+Akkor a király   fölmagasztalá Dánielt, és sok nagy ajándékot ada néki, és hatalmat adott néki Babilonnak egész tartománya felett, és a babiloni összes bölcseknek előljárójává tevé őt.
 fa4dh6fed 2,49
-És Dániel kéré a királyt,hogy Sidrákot, Misákot és Abednégót rendelje a babiloni tartomány gondviselésére; Dániel pedig a király udvarában vala.
+És Dániel kéré a királyt, hogy Sidrákot, Misákot és Abednégót rendelje a babiloni tartomány gondviselésére; Dániel pedig a király udvarában vala.
 fa4dh6fed 3,1
-Nabukodonozor király csináltata egy aranyképet, magassága hatvan sing, szélessége hat sing; felállíttatá azt a Dura mezején, Babilon tartományában.
+Nabukodonozor király csináltata egy arany  álló képet, magassága hatvan sing, szélessége hat sing; felállíttatá azt a Dura mezején, Babilon tartományában.
 fa4dh6fed 3,2
-És Nabukodonozor király egybegyűjteté a fejedelmeket, helytartókat, kormányzókat, bírákat, kincstartókat, tanácsosokat, törvénytevőket és a tartományok minden igazgatóját, hogy jőjjenek azképnek felavatására, a melyet Nabukodonozor király állíttatott vala.
+És Nabukodonozor király egybegyűjteté a fejedelmeket, helytartókat, kormányzókat, bírákat, kincstartókat, tanácsosokat, törvénytevőket és a tartományok minden igazgatóját, hogy jőjjenek az álló képnek felavatására, a melyet Nabukodonozor király állíttatott vala.
 fa4dh6fed 3,3
-Akkor egybegyűlének a fejedelmek, helytartók, kormányzók, bírák, kincstartók, tanácsosok, törvénytevők és a tartományok minden igazgatója azkép felavatására, a melyet Nabukodonozor király állíttatott, és megállának azkép előtt, a melyet Nabukodonozor állíttatott.
+Akkor egybegyűlének a fejedelmek, helytartók, kormányzók, bírák, kincstartók, tanácsosok, törvénytevők és a tartományok minden igazgatója az álló kép felavatására, a melyet Nabukodonozor király állíttatott, és megállának az álló kép előtt, a melyet Nabukodonozor állíttatott.
 fa4dh6fed 3,4
 És a hírnök hangosan kiálta: Meghagyatik néktek, oh népek, nemzetek és nyelvek!
 fa4dh6fed 3,5
-Mihelyt halljátok a kürtnek, sípnak, cziterának, hárfának, lantnak, dudának és mindenféle hangszernek szavát: boruljatok le, és imádjátok az aranyképet, a melyet Nabukodonozor király állíttatott.
+Mihelyt halljátok a kürtnek, sípnak, cziterának, hárfának, lantnak, dudának és mindenféle hangszernek szavát: boruljatok le, és imádjátok az arany álló képet, a melyet Nabukodonozor király állíttatott.
 fa4dh6fed 3,6
 Akárki pedig, a ki nem borul le és nem imádja, tüstént bevettetik az égő, tüzes kemenczébe.
 fa4dh6fed 3,7
-Azért mihelyt hallák mind a népek a kürtnek, sípnak, cziterának, hárfának, lantnak és mindenféle hangszernek szavát: leborulának, mind a népek, nemzetségek és nyelvek,imádák az aranyképet, a melyet Nabukodonozor király állíttatott.
+Azért mihelyt hallák mind a népek a kürtnek, sípnak, cziterának, hárfának, lantnak és mindenféle hangszernek szavát: leborulának, mind a népek, nemzetségek és nyelvek, és imádák az arany álló képet, a melyet Nabukodonozor király állíttatott.
 fa4dh6fed 3,8
 Elmenének azért ebben az időben káldeabeli férfiak, és vádat emelének a zsidók ellen;
 fa4dh6fed 3,9
 Szólának pedig és mondák Nabukodonozor királynak: Király! örökké élj!
 fa4dh6fed 3,10
-Te, oh király! parancsolatot adtál ki, hogy minden ember, mihelyt meghallja a kürtnek, sípnak, cziterának, hárfának, lantnak, dudának és mindenféle hangszernek szavát: boruljon le, és imádja az aranyképet;
+Te, oh király! parancsolatot adtál ki, hogy minden ember, mihelyt meghallja a kürtnek, sípnak, cziterának, hárfának, lantnak, dudának és mindenféle hangszernek szavát: boruljon le, és imádja az arany álló képet;
 fa4dh6fed 3,11
 A ki pedig nem borul le és nem imádja, vettessék be az égő, tüzes kemenczébe.
 fa4dh6fed 3,12
-Vannak zsidó férfiak, a kiket a babilonitartomány gondviselésére rendeltél, Sidrák, Misák és Abednégó: ezek a férfiak nem becsülnek téged, oh király, a te isteneidet nem tisztelik, és az aranyképet, a melyet felállíttattál, nem imádják.
+Vannak zsidó férfiak, a kiket a babiloni tartomány gondviselésére rendeltél, Sidrák, Misák és Abednégó: ezek a férfiak nem becsülnek téged, oh király, a te isteneidet nem tisztelik, és az arany álló képet, a melyet felállíttattál, nem imádják.
 fa4dh6fed 3,13
-Akkor Nabukodonozorharaggal és felgerjedéssel meghagyá, hogy hozzák elő Sidrákot, Misákot és Abednégót; erre elhozák a férfiakat a király elé.
+Akkor Nabukodonozor nagy haraggal és felgerjedéssel meghagyá, hogy hozzák elő Sidrákot, Misákot és Abednégót; erre elhozák a férfiakat a király elé.
 fa4dh6fed 3,14
-Szóla Nabukodonozor, és monda nékik: Sidrák, Misák és Abednégó! Szántszándékból nem tisztelitek-é az énistenemet és nem imádjátok-é az aranyképet, a melyet felállíttattam?
+Szóla Nabukodonozor, és monda nékik: Sidrák, Misák és Abednégó! Szántszándékból nem tisztelitek-é az én istenemet és nem imádjátok-é az arany álló képet, a melyet felállíttattam?
 fa4dh6fed 3,15
-Ha tehát készek vagytok: mihelyt halljátok a kürtnek, sípnak, cziterának, hárfának, lantnak, dudának és mindenféle hangszernek szavát, leboruljatok és imádjátok azképet, a melyet én csináltattam. De ha nem imádjátok, tüstént bevettettek az égő, tüzes kemenczébe; és kicsoda az az Isten, a kikiszabadítson titeket az én kezeimből?
+Ha tehát készek vagytok: mihelyt halljátok a kürtnek, sípnak, cziterának, hárfának, lantnak, dudának és mindenféle hangszernek szavát, leboruljatok és imádjátok az álló képet, a melyet én csináltattam. De ha nem imádjátok, tüstént bevettettek az égő, tüzes kemenczébe; és kicsoda az az Isten, a ki kiszabadítson titeket az én kezeimből?
 fa4dh6fed 3,16
 Felelének Sidrák, Misák és Abednégó, és mondának a királynak: Oh Nabukodonozor! Nem szükség erre felelnünk néked.
 fa4dh6fed 3,17
 Ímé, a mi Istenünk, a kit mi szolgálunk, ki tud minket szabadítani az égő, tüzes kemenczéből, és a te kezedből is, oh király, kiszabadít minket.
 fa4dh6fed 3,18
-De ha nemlegyen tudtodra, oh király, hogy mi a teisteneidnek nem szolgálunk, és az aranyképet, a melyet felállíttatál, nem imádjuk.
+De ha nem tenné is, legyen tudtodra, oh király, hogy mi a te  isteneidnek nem szolgálunk, és az arany álló képet, a melyet felállíttatál, nem imádjuk.
 fa4dh6fed 3,19
-Akkor Nabukodonozor eltelék haraggal, és az ő orczájának színe elváltozék Sidrák, Misák és Abednégó ellen;szóla, és meghagyá, hogy fűtsék be a kemenczét hétszerte inkább, mint szokták vala befűteni.
+Akkor Nabukodonozor eltelék haraggal, és az ő orczájának színe elváltozék Sidrák, Misák és Abednégó ellen; azért szóla, és meghagyá, hogy fűtsék be a kemenczét hétszerte inkább, mint szokták vala befűteni.
 fa4dh6fed 3,20
-És meghagyá a legerősebb férfiaknak az ő seregében, hogy kötözzék meg Sidrákot, Misákot és Abednégót,vessék őket az égő, tüzes kemenczébe.
+És meghagyá a legerősebb férfiaknak az ő seregében, hogy kötözzék meg Sidrákot, Misákot és Abednégót, és vessék őket az égő, tüzes kemenczébe.
 fa4dh6fed 3,21
-Erre ezek a férfiak alsó ruhástul, köntösöstül, palástostul ésöltönyöstül megkötöztettek, és az égő, tüzes kemenczébe vettettek.
+Erre ezek a férfiak alsó ruhástul, köntösöstül, palástostul és egyéb öltönyöstül megkötöztettek, és az égő, tüzes kemenczébe vettettek.
 fa4dh6fed 3,22
 A miatt azonban, hogy a király parancsolata szigorú volt és a kemencze rendkivül izzó vala: azokat a férfiakat, a kik Sidrákot, Misákot és Abednégót felvitték, megölé a tűznek lángja.
 fa4dh6fed 3,23
@@ -194,31 +194,31 @@ Nabukodonozor ekkor az égő, tüzes kemencze szájához járula, és szóla és
 fa4dh6fed 3,27
 És egybegyűlvén a fejedelmek, helytartók és kormányzók és a király tanácsosai, nézik vala ezeket a férfiakat, hogy a tűznek semmi hatalma nem lett az ő testükön, és hogy egy hajszáluk sem égett meg, és az ő alsó ruháik meg nem változtak, és a tűz szaga sem járta át őket.
 fa4dh6fed 3,28
-Szóla Nabukodonozor, és monda: Áldott ezeknek Istene, a Sidrák, Misák és Abednégó Istene, a ki küldötte az ő angyalátés kiszabadította az ő szolgáit, a kik ő benne bíztak; és a király parancsolatát megszegték ésadták az ő testöket és nem szolgáltak és nem imádtak más istent az ő Istenökön kivül.
+Szóla Nabukodonozor, és monda: Áldott ezeknek Istene, a Sidrák, Misák és Abednégó Istene, a ki küldötte az ő angyalát és kiszabadította az ő szolgáit, a kik ő benne bíztak; és a király parancsolatát megszegték és veszedelemre adták az ő testöket és nem szolgáltak és nem imádtak más istent az ő Istenökön kivül.
 fa4dh6fed 3,29
 Parancsolom azért, hogy minden nép, nemzetség és nyelv, a mely káromlást mond Sidrák, Misák és Abednégó Istene ellen, darabokra tépessék, és annak háza szemétdombbá tétessék: mert nincs más Isten, a ki így megszabadíthasson.
 fa4dh6fed 3,30
-Akkor a király nagyre emelé Sidrákot,Misákot és Abednégót Babilon tartományában.
+Akkor a király nagy tisztesség re emelé Sidrákot, Misákot és Abednégót Babilon tartományában.
 fa4dh6fed 3,31
-Nabukodonozor király minden népnek, nemzetnek és nyelveknek, a kik az egész földön lakoznak,Békességetek bőséges legyen!
+Nabukodonozor király minden népnek, nemzetnek és nyelveknek, a kik az egész földön lakoznak, mondá: Békességetek bőséges legyen!
 fa4dh6fed 3,32
-A jeleket éscsudákat, a melyeket cselekedett velem a felséges Isten, illendő dolognak tartom megjelenteni.
+A jeleket és  csudákat, a melyeket cselekedett velem a felséges Isten, illendő dolognak tartom megjelenteni.
 fa4dh6fed 3,33
-Mely nagyok az ő jelei és mely hatalmasak az ő csudái! az ő országa örökkévaló ország és az ő uralkodásanemzedékről nemzedékre
+Mely nagyok az ő jelei és mely hatalmasak az ő csudái! az ő országa örökkévaló ország és az ő uralkodása  nemzedékről nemzedékre száll. 
 fa4dh6fed 4,1
 Én Nabukodonozor békében valék az én házamban, és virágzó az én palotámban.
 fa4dh6fed 4,2
-Álmotláték és megrettente engem, és a gondolatok az én ágyamban, és az én fejemnek látásai megháborítának engem.
+Álmot  láték és megrettente engem, és a gondolatok az én ágyamban, és az én fejemnek látásai megháborítának engem.
 fa4dh6fed 4,3
-És parancsolatot adék, hogy hozzákelőmbe Babilonnak minden bölcsét, hogy az álom jelentését tudassák velem.
+És parancsolatot adék, hogy hozzák előmbe Babilonnak minden bölcsét, hogy az álom jelentését tudassák velem.
 fa4dh6fed 4,4
 Akkor bejövének az írástudók, varázslók, Káldeusok és jövendőmondók; és én elbeszélém nékik az álmot, de az értelmét nem jelentették meg nékem.
 fa4dh6fed 4,5
-Végezetre bejöve elém Dániel, a kinek neveBaltazár, mint az én istenemnek neve, és a kiben a szent isteneknek lelke van, és elmondám néki az álmot.
+Végezetre bejöve elém Dániel, a kinek neve Baltazár, mint az én istenemnek neve, és a kiben a szent isteneknek lelke van, és elmondám néki az álmot.
 fa4dh6fed 4,6
-Baltazár, az írástudókelseje, tudom, hogy a szent isteneknek lelke van benned, és semmi titok sem homályos előtted, az én álmom látásait, a miket láttam, és azoknak jelentését beszéld el.
+Baltazár, az írástudók elseje, tudom, hogy a szent isteneknek lelke van benned, és semmi titok sem homályos előtted, az én álmom látásait, a miket láttam, és azoknak jelentését beszéld el.
 fa4dh6fed 4,7
-Az én fejem látásai az én ágyambanLátám, hogy ímé, egy faa föld közepette, és annak magassága rendkivüli volt.
+Az én fejem látásai az én ágyamban ezek  voltak: Látám, hogy ímé, egy fa álla a föld közepette, és annak magassága rendkivüli volt.
 fa4dh6fed 4,8
 Nagy volt a fa és erős, és magassága az égig ért, és az egész föld széléig volt látható.
 fa4dh6fed 4,9
@@ -228,79 +228,79 @@ Látám fejem látásaiban az én ágyamban, és ímé: egy Vigyázó és Szent 
 fa4dh6fed 4,11
 Erősen kiálta, és így szóla: Vágjátok ki a fát és vagdaljátok le az ágait, rázzátok le leveleit és hányjátok szét gyümölcseit, fussanak el a vadak alóla, és a madarak az ő ágairól.
 fa4dh6fed 4,12
-De gyökerének törzsökét hagyjátok meg a földben, és vas és ércz lánczokbaa mező füvén; égi harmattal öntöztessék, és a barmokkal legyen része a föld füvében.
+De gyökerének törzsökét hagyjátok meg a földben, és vas és ércz lánczokba  verve a mező füvén; égi harmattal öntöztessék, és a barmokkal legyen része a föld füvében.
 fa4dh6fed 4,13
 Az ő emberi szíve változzék el, és baromnak szíve adassék néki, és hét idő múljék el felette.
 fa4dh6fed 4,14
-Vigyázók határozatából van ez a rendelet, és a Szentek parancsolata ez a végzés, hogy megtudják az élők, hogy a felségesuralkodik az emberek birodalmán, és a kinek akarja, annak adja azt, és az emberek között az alábbvalót emeli fel arra.
+Vigyázók határozatából van ez a rendelet, és a Szentek parancsolata ez a végzés, hogy megtudják az élők, hogy a felséges  Isten uralkodik az emberek birodalmán, és a kinek akarja, annak adja azt, és az emberek között az alábbvalót emeli fel arra.
 fa4dh6fed 4,15
-Ezt az álmot láttam én, Nabukodonozor király, és te, Baltazár, mondd meg annak értelmét; mivelhogy az én országomnak egyetlen bölcse sem tudta nékem megmondani a jelentését; de tetudod, mert szent isteneknek lelke van benned.
+Ezt az álmot láttam én, Nabukodonozor király, és te, Baltazár, mondd meg annak értelmét; mivelhogy az én országomnak egyetlen bölcse sem tudta nékem megmondani a jelentését; de te tudod, mert szent isteneknek lelke van benned.
 fa4dh6fed 4,16
-Ekkor Dániel, a kinek neve Baltazár, közel egy óráig rémüldözék, és az ő gondolatai háboríták őt. Szóla a király, és monda: Baltazár, az álom és annak jelentése meg ne rettentsenek téged! Felele Baltazár, és monda: Uram, az áloma te gyűlölőidre, a magyarázata pedig a te ellenségeidre!
+Ekkor Dániel, a kinek neve Baltazár, közel egy óráig rémüldözék, és az ő gondolatai háboríták őt. Szóla a király, és monda: Baltazár, az álom és annak jelentése meg ne rettentsenek téged! Felele Baltazár, és monda: Uram, az álom szálljon a te gyűlölőidre, a magyarázata pedig a te ellenségeidre!
 fa4dh6fed 4,17
 A fa, a melyet láttál, a mely nagy és erős volt, és a melynek magassága az eget érte és ellátszék az egész földre;
 fa4dh6fed 4,18
 És levelei szépek, gyümölcse pedig sok, és táplálék rajta mindeneknek; alatta tartózkodék a mező vada, és ágain az égi madarak lakozának:
 fa4dh6fed 4,19
-Te vagy az, oh király, a ki nagygyá és erőssé lettél, a kineknagysága megnövekedék és fölér az égig, és hatalmad a föld végéig.
+Te vagy az, oh király, a ki nagygyá és erőssé lettél, a kinek nagysága megnövekedék és fölér az égig, és hatalmad a föld végéig.
 fa4dh6fed 4,20
-Hogy pedig láta a király Vigyázót és Szentet leszállani az égből, és azt mondá: Vágjátok le a fát és pusztítsátok el azt; de gyökereinek törzsökét a földben hagyjátok, és vas és ércz lánczokbaa mező füvén, és égi harmattal öntöztessék és a mezei barmokkal legyen része, a míg hét idő múlik el felette;
+Hogy pedig láta a király Vigyázót és Szentet leszállani az égből, és azt mondá: Vágjátok le a fát és pusztítsátok el azt; de gyökereinek törzsökét a földben hagyjátok, és vas és ércz lánczokba verve a mező füvén, és égi harmattal öntöztessék és a mezei barmokkal legyen része, a míg hét idő múlik el felette;
 fa4dh6fed 4,21
 Ez a jelentése, oh király, és a felséges Isten végezése ez, a mely bekövetkezik az én uramra, a királyra,
 fa4dh6fed 4,22
-Éskivetnek téged az emberek közül, és a mezei barmokkal lesz a te lakozásod, és füvet adnak enned, mint az ökröknek, és égi harmattal öntöznek téged, és hét idő múlik el feletted, mígnem megérted, hogy a felségesuralkodik az emberek birodalmán, és annak adja azt, a kinek akarja.
+És kivetnek téged az emberek közül, és a mezei barmokkal lesz a te lakozásod, és füvet adnak enned, mint az ökröknek, és égi harmattal öntöznek téged, és hét idő múlik el feletted, mígnem megérted, hogy a felséges  Isten uralkodik az emberek birodalmán, és annak adja azt, a kinek akarja.
 fa4dh6fed 4,23
 Hogy pedig mondák, hogy a fa gyökereinek törzsökét hagyják meg: országod megmarad néked, mihelyest megismered, hogy az Ég uralkodik.
 fa4dh6fed 4,24
 Azért, oh király, az én tanácsom tessék néked, és vétkeidtől igazság által szabadulj és a te hamisságaidtól a szegényekhez való irgalmasság által. Így talán tartós lesz a békességed.
 fa4dh6fed 4,25
-Mindezbetelék Nabukodonozor királyon.
+Mindez betelék Nabukodonozor királyon.
 fa4dh6fed 4,26
 Tizenkét hónap mulva a babiloni királyi palotán sétála.
 fa4dh6fed 4,27
-Szóla a király és mondá:Nem ez-é ama nagy Babilon, a melyet én építettem királyság házának, az én hatalmasságom ereje által és dicsőségem tisztességére?
+Szóla a király és mondá:  Nem ez-é ama nagy Babilon, a melyet én építettem királyság házának, az én hatalmasságom ereje által és dicsőségem tisztességére?
 fa4dh6fed 4,28
 Még a szó a király szájában volt, a mikor szózat szálla le az égből: Néked szól, oh Nabukodonozor király, a birodalom elvétetett tőled.
 fa4dh6fed 4,29
-És kivetnek téged az emberek közül, és a mezei barmokkal lesz a lakozásod,füvet adnak enned, mint az ökröknek, és hét idő múlik el feletted, a míg megesméred, hogy a felségesuralkodik az emberek birodalmán, és annak adja azt, a kinek akarja.
+És kivetnek téged az emberek közül, és a mezei barmokkal lesz a lakozásod, és füvet adnak enned, mint az ökröknek, és hét idő múlik el feletted, a míg megesméred, hogy a felséges Isten uralkodik az emberek birodalmán, és annak adja azt, a kinek akarja.
 fa4dh6fed 4,30
-Abban az órában betelék a beszéd Nabukodonozoron: és az emberek közül kivetteték, és füvet evék mint az ökrök, és égi harmattal öntözteték az ő teste, mígnem szőre megnöve, mint a saskeselyűés körmei, mint a madarakéi.
+Abban az órában betelék a beszéd Nabukodonozoron: és az emberek közül kivetteték, és füvet evék mint az ökrök, és égi harmattal öntözteték az ő teste, mígnem szőre megnöve, mint a saskeselyű tolla, és körmei, mint a madarakéi.
 fa4dh6fed 4,31
-És az idő elteltével én, Nabukodonozor, szemeimet az égre emelém, és az én értelmem visszajöve, és áldám a felségesés dícsérém és dicsőítém az örökké élőt, kinek hatalma örökkévalóhatalom és országa nemzedékről-nemzedékre
+És az idő elteltével én, Nabukodonozor, szemeimet az égre emelém, és az én értelmem visszajöve, és áldám a felséges Istent, és dícsérém és dicsőítém az örökké élőt, kinek hatalma örökkévaló hatalom és országa nemzedékről-nemzedékre áll. 
 fa4dh6fed 4,32
-És a föld minden lakosa olyan mint asemmi; és az ő akaratja szerint cselekszik az ég seregében és a föld lakosai között, és nincs, a ki az ő kezétmegfoghatná és ezt mondaná néki: Mit cselekedtél?
+És a föld minden lakosa olyan mint a  semmi; és az ő akaratja szerint cselekszik az ég seregében és a föld lakosai között, és nincs, a ki az ő kezét megfoghatná és ezt mondaná néki: Mit cselekedtél?
 fa4dh6fed 4,33
 Abban az időben visszatére hozzám az én értelmem, és országom dicsőségére az én ékességem, és méltóságom is visszatére hozzám, és az én tanácsosaim és főembereim fölkeresének engem, és visszahelyeztettem az én országomba, és rendkívüli nagyság adatott nékem.
 fa4dh6fed 4,34
-Mostén, Nabukodonozor, dicsérem, magasztalom és dicsőítem a mennyei királyt: mert minden cselekedeteigazság, és az ő utai ítélet, és azokat, a kikkevélységben járnak, megalázhatja.
+Most azért én, Nabukodonozor, dicsérem, magasztalom és dicsőítem a mennyei királyt: mert minden cselekedete igazság, és az ő utai ítélet, és azokat, a kik  kevélységben járnak, megalázhatja.
 fa4dh6fed 5,1
 Belsazár király nagy lakomát szerze az ő ezer főemberének, és az ezer előtt bort ivék.
 fa4dh6fed 5,2
-Borozás közben mondá Belsazár, hogy hozzák elő az arany és ezüst edényeket, a melyeketelvive Nabukodonozor, az ő atyja a jeruzsálemi templomból, hogy igyanak azokból a király és az ő főemberei, az ő feleségei és az ő ágyasai.
+Borozás közben mondá Belsazár, hogy hozzák elő az arany és ezüst edényeket, a melyeket  elvive Nabukodonozor, az ő atyja a jeruzsálemi templomból, hogy igyanak azokból a király és az ő főemberei, az ő feleségei és az ő ágyasai.
 fa4dh6fed 5,3
 Akkor előhozák az arany edényeket, a melyeket elvivének az Isten házának templomából, mely Jeruzsálemben vala, és ivának azokból a király és az ő főemberei, az ő feleségei és az ő ágyasai.
 fa4dh6fed 5,4
 Bort ivának, és dicsérék az arany-, ezüst-, ércz-, vas-, fa- és kőisteneket.
 fa4dh6fed 5,5
-Abban az órában emberikéznek ujjai tünének fel, és írának a gyertyatartóval szemben a király palotájának meszelt falán, és a király nézé azt a kézfejet, a mely ír vala.
+Abban az órában emberi kéznek ujjai tünének fel, és írának a gyertyatartóval szemben a király palotájának meszelt falán, és a király nézé azt a kézfejet, a mely ír vala.
 fa4dh6fed 5,6
 Ekkor a király ábrázatja megváltozék, és az ő gondolatai megháboríták őt, és derekának inai megoldódának és az ő térdei egymáshoz verődének.
 fa4dh6fed 5,7
-Erősen kiáltozék a király, hogy hozzák előa varázslókat, a Káldeusokat és jövendölőket. Szóla a király és monda a babiloni bölcseknek: Akárki legyen az az ember, a ki elolvassa ezt az írást, és annak értelmét megjelenti nékem, bíborba öltöztetik és aranyláncz lesz a nyakában, és mint harmadik parancsol az országban.
+Erősen kiáltozék a király, hogy hozzák elő a varázslókat, a Káldeusokat és jövendölőket. Szóla a király és monda a babiloni bölcseknek: Akárki legyen az az ember, a ki elolvassa ezt az írást, és annak értelmét megjelenti nékem, bíborba öltöztetik és aranyláncz lesz a nyakában, és mint harmadik parancsol az országban.
 fa4dh6fed 5,8
 Akkor bemenének a király bölcsei mind, de nem tudták elolvasni az írást, sem annak értelmét megfejteni a királynak.
 fa4dh6fed 5,9
 Akkor Belsazár király igen megrettene, és az ő ábrázatja elváltozék rajta, és az ő főemberei is megzavarodának.
 fa4dh6fed 5,10
-A királyasszony a király és az ő főembereinek beszédei miatt beméne a lakoma házába,szóla a királyasszony, és monda: Király, örökké élj! Ne rettentsenek téged a te gondolataid, és a te ábrázatod ne változzék el!
+A királyasszony a király és az ő főembereinek beszédei miatt beméne a lakoma házába, és szóla a királyasszony, és monda: Király, örökké élj! Ne rettentsenek téged a te gondolataid, és a te ábrázatod ne változzék el!
 fa4dh6fed 5,11
-Van egyférfiú a te országodban, a kiben a szent isteneknek lelke van, és a te atyád idejében értelem, tudomány, és az istenek bölcseségéhez hasonló bölcseség találtaték benne, és a kit Nabukodonozor király, a teatyád, az írástudók, varázslók, Káldeusok és jövendölők fejévé tőn; igen, a te atyád, a király;
+Van egy férfiú a te országodban, a kiben a szent isteneknek lelke van, és a te atyád idejében értelem, tudomány, és az istenek bölcseségéhez hasonló bölcseség találtaték benne, és a kit Nabukodonozor király, a te  atyád, az írástudók, varázslók, Káldeusok és jövendölők fejévé tőn; igen, a te atyád, a király;
 fa4dh6fed 5,12
-Mivelhogy Dánielben, a kit a király Baltazárnak nevezett, nagyobb lélek, tudomány és értelem, álmoknak magyarázata és titkok megjelentése és rejtélyek megfejtése találtatott. Mosthivattassék elő Dániel, és ő megjelenti az értelmet.
+Mivelhogy Dánielben, a kit a király Baltazárnak nevezett, nagyobb lélek, tudomány és értelem, álmoknak magyarázata és titkok megjelentése és rejtélyek megfejtése találtatott. Most azért hivattassék elő Dániel, és ő megjelenti az értelmet.
 fa4dh6fed 5,13
-Erre Dániel a király elé viteték. Szóla a király, és monda Dánielnek: Te vagy-é amaDániel, a ki a júdabeli foglyok fiai közül való, a kit ide hozott a király, az én atyám, Júdából?
+Erre Dániel a király elé viteték. Szóla a király, és monda Dánielnek: Te vagy-é ama Dániel, a ki a júdabeli foglyok fiai közül való, a kit ide hozott a király, az én atyám, Júdából?
 fa4dh6fed 5,14
-És a kifelől hallottam, hogy az isteneknek lelke van benned, és értelem és tudomány és kiváló bölcseség találtatott te benned?
+És a ki felől hallottam, hogy az isteneknek lelke van benned, és értelem és tudomány és kiváló bölcseség találtatott te benned?
 fa4dh6fed 5,15
 Csak imént hozatának elém a bölcsek és varázslók, hogy elolvassák ezt az írást és jelentését tudassák velem; de nem tudják a dolog értelmét megjelenteni.
 fa4dh6fed 5,16
@@ -308,63 +308,63 @@ De felőled azt hallottam, hogy te tudod az értelmet megfejteni és a titkokat 
 fa4dh6fed 5,17
 Erre Dániel felele, és monda a királynak: Ajándékaid tiéid legyenek, és adományaidat másnak adjad, mindazáltal az írást elolvasom a királynak, és jelentését megmondom néki.
 fa4dh6fed 5,18
-Te, oh király! A felséges Isten birodalmat és méltóságot, dicsőséget és tisztességetada Nabukodonozornak, a te atyádnak;
+Te, oh király! A felséges Isten birodalmat és méltóságot, dicsőséget és tisztességet ada Nabukodonozornak, a te atyádnak;
 fa4dh6fed 5,19
 És a méltóság miatt, a melyet ada néki, a népek, nemzetek és nyelvek mind féltek és rettegtek tőle; megölt, a kit akart; és életben tartott a kit akart; felemelt, a kit akart; és megalázott, a kit akart;
 fa4dh6fed 5,20
-De mikor a szívefelfuvalkodott, és a lelke megkeményedett megátalkodottan: levetteték az ő birodalmának királyi székéből, és dicsőségét elvevék tőle;
+De mikor a szíve felfuvalkodott, és a lelke megkeményedett megátalkodottan: levetteték az ő birodalmának királyi székéből, és dicsőségét elvevék tőle;
 fa4dh6fed 5,21
 És az emberek fiai közül kivetteték, és az ő szíve olyanná lőn, mint a barmoké; és a vadszamarakkal lőn az ő lakása, és fűvel etették őt, mint az ökröket, és a teste égi harmattal öntöztetett, míg megismeré, hogy a felséges Isten uralkodik az emberek országán, és azt helyezteti arra, a kit akar.
 fa4dh6fed 5,22
 És te, Belsazár, az ő fia, nem aláztad meg a szívedet, noha mindezt tudtad.
 fa4dh6fed 5,23
-Sőt felemelkedtél az egek Ura ellen,és az ő házának edényeit elődbe hozták, és te és a te főembereid, a te feleségeid és a te ágyasaid bort ittak azokból; és az ezüst- és arany-, ércz-, vas-, fa- és kőisteneket dícséréd, a kik nem látnak, sem nem hallanak, sem nem értenek; az Istent pedig, a kinek kezében van a telelked, és előtte minden te útad, nem dicsőítetted.
+Sőt felemelkedtél az egek Ura ellen, és az ő házának edényeit elődbe hozták, és te és a te főembereid, a te feleségeid és a te ágyasaid bort ittak azokból; és az ezüst- és arany-, ércz-, vas-, fa- és kőisteneket dícséréd, a kik nem látnak, sem nem hallanak, sem nem értenek; az Istent pedig, a kinek kezében van a te lelked, és előtte minden te útad, nem dicsőítetted.
 fa4dh6fed 5,24
 Azért küldetett ő általa ez a kéz, és jegyeztetett fel ez az írás.
 fa4dh6fed 5,25
 És ez az írás, a mely feljegyeztetett: Mene, Mene, Tekel, Ufarszin!
 fa4dh6fed 5,26
-Eze szavaknak az értelme: Mene,számba vette Isten a te országlásodat ésvéget vet annak.
+Ez pedig e szavaknak az értelme: Mene, azaz számba vette Isten a te országlásodat és  véget vet annak.
 fa4dh6fed 5,27
-Tekel,megmérettél a mérlegen és híjjával találtattál.
+Tekel, azaz megmérettél a mérlegen és híjjával találtattál.
 fa4dh6fed 5,28
-Peresz,elosztatott a te országod és adatott a médeknekés persáknak.
+Peresz, azaz elosztatott a te országod és adatott a médeknek és persáknak.
 fa4dh6fed 5,29
-Akkor szóla Belsazár, és öltöztették Dánielt bíborba, és aranylánczotnyakába, és kikiálták felőle, hogy ő parancsol mint harmadikaz országban.
+Akkor szóla Belsazár, és öltöztették Dánielt bíborba, és aranylánczot vetének nyakába, és kikiálták felőle, hogy ő parancsol mint harmadik az országban.
 fa4dh6fed 5,30
-Ugyanazonaz éjszakán megöleték Belsazár,a Káldeusokkirálya.
+Ugyanazon az éjszakán megöleték Belsazár,  a Káldeusok királya.
 fa4dh6fed 5,31
 És a méd Dárius foglalá el az országot mintegy hatvankét esztendős korában.
 fa4dh6fed 6,1
 Tetszék Dáriusnak, és rendele a birodalom fölé százhúsz tiszttartót, hogy az egész birodalomban legyenek;
 fa4dh6fed 6,2
-És azok fölé három igazgatót, a kik közülegy vala Dániel, hogy a tiszttartók nékik adjanak számot, és a királynak semmi károsodása ne legyen.
+És azok fölé három igazgatót, a kik közül egy vala Dániel, hogy a tiszttartók nékik adjanak számot, és a királynak semmi károsodása ne legyen.
 fa4dh6fed 6,3
 Akkor ez a Dániel felülhaladá az igazgatókat és a tiszttartókat, mivelhogy rendkivüli lélek volt benne, úgy hogy a király őt szándékozék tenni az egész birodalom fölé.
 fa4dh6fed 6,4
 Akkor az igazgatók és tiszttartók igyekvének okot találni Dániel ellen a birodalom dolgai miatt; de semmi okot vagy vétket nem találhatának; mert hűséges volt, és semmi fogyatkozás, sem vétek nem találtaték benne.
 fa4dh6fed 6,5
-Akkor mondák azok a férfiak: Nem találunk ebben a Dánielben semmi okot, hacsak nem találhatunk elleneaz ő Istenének törvényében!
+Akkor mondák azok a férfiak: Nem találunk ebben a Dánielben semmi okot, hacsak nem találhatunk ellene valamit az ő Istenének törvényében!
 fa4dh6fed 6,6
 Akkor azok az igazgatók és tiszttartók berohantak a királyhoz, és így szólának: Dárius király, örökké élj!
 fa4dh6fed 6,7
 Tanácsot tartottak az ország összes igazgatói: a helytartók, fejedelmek, tanácsosok és a kormányzók, hogy királyi végzés hozassék, és erős tilalom adassék, hogy ha valaki harmincz napig kér valamit valamely istentől vagy embertől, tekívüled, oh király, vettessék az oroszlánok vermébe.
 fa4dh6fed 6,8
-Mostoh király, erősítsd meg e tilalmat és add ki írásban, hogy meg ne változtasséka médek és persák vissza nem vonható törvénye szerint.
+Most azért, oh király, erősítsd meg e tilalmat és add ki írásban, hogy meg ne változtassék a médek és persák vissza nem vonható törvénye szerint.
 fa4dh6fed 6,9
 Annakokáért Dárius király adott írást és tilalmat.
 fa4dh6fed 6,10
-Dániel pedig, a mint megtudta, hogy megiratott az írás, beméne az ő házába; és az ő felső termének ablakai nyitva valának Jeruzsálemfelé; és háromszornapjában térdeire esék, könyörge és dícséretet tőn az ő Istene előtt, a miként azelőtt cselekszik vala.
+Dániel pedig, a mint megtudta, hogy megiratott az írás, beméne az ő házába; és az ő felső termének ablakai nyitva valának Jeruzsálem felé; és háromszor napjában térdeire esék, könyörge és dícséretet tőn az ő Istene előtt, a miként azelőtt cselekszik vala.
 fa4dh6fed 6,11
 Akkor azok a férfiak berohantak és megtalálák Dánielt, a mint könyörge és esedezék az ő Istene előtt.
 fa4dh6fed 6,12
 Ekkor bemenének, és mondák a királynak a király tilalma felől: Nem megírtad-é a tilalmat, hogy ha valaki kér valamit valamely istentől vagy embertől harmincz napig, tekívüled oh király, vettessék az oroszlánok vermébe? Felele a király és monda: Áll a szó! a médek és persák vissza nem vonható törvénye szerint.
 fa4dh6fed 6,13
-Erre felelének, és mondák a királynak:Dániel, a ki a júdabeli foglyokfiai közül való, nem becsül téged, oh király, sem a tilalmat, a mit megírtál; hanem háromszor napjában elkönyörgi könyörgését.
+Erre felelének, és mondák a királynak: Dániel, a ki a júdabeli foglyok fiai közül való, nem becsül téged, oh király, sem a tilalmat, a mit megírtál; hanem háromszor napjában elkönyörgi könyörgését.
 fa4dh6fed 6,14
 Akkor a király, a mint hallotta ezt, igen restelkedék a miatt, és szíve szerint azon volt, hogy Dánielt megszabadítsa, és napnyugotig törekedék őt megmenteni.
 fa4dh6fed 6,15
-Erre azok a férfiak berohantak a királyhoz, és mondák a királynak: Tudd meg, király, hogy ez a médek és persák törvénye, hogy semmi tilalom vagy végzés, a melyet a király rendel, megne változtassék.
+Erre azok a férfiak berohantak a királyhoz, és mondák a királynak: Tudd meg, király, hogy ez a médek és persák törvénye, hogy semmi tilalom vagy végzés, a melyet a király rendel, meg ne változtassék.
 fa4dh6fed 6,16
 Erre szóla a király, és előhozák Dánielt, és veték az oroszlánok vermébe. Szóla a király, és mondá Dánielnek: A te Istened, a kinek te szüntelen szolgálsz, ő szabadítson meg téged!
 fa4dh6fed 6,17
@@ -378,21 +378,21 @@ fa4dh6fed 6,20
 fa4dh6fed 6,21
 Akkor Dániel szóla a királynak: Király, örökké élj!
 fa4dh6fed 6,22
-Az én Istenem elbocsátá aző angyalát, és bezárá az oroszlánok száját és nem árthattak nékem; mert ártatlannak találtattam ő előtte és te előtted sem követtem el, oh király, semmi vétket.
+Az én Istenem elbocsátá az ő angyalát, és bezárá az oroszlánok száját és nem árthattak nékem; mert ártatlannak találtattam ő előtte és te előtted sem követtem el, oh király, semmi vétket.
 fa4dh6fed 6,23
-Akkor a király igenörvende, és Dánielt kihozatá a veremből. És kivevék Dánielt a veremből, és semmi sérelem nemtaláltaték ő rajta: mert hitt az ő Istenében.
+Akkor a király igen örvende, és Dánielt kihozatá a veremből. És kivevék Dánielt a veremből, és semmi sérelem nem találtaték ő rajta: mert hitt az ő Istenében.
 fa4dh6fed 6,24
-És parancsola a király, és előhozák azokat a férfiakat, a kikDánielt vádolák, és az oroszlánok vermébe vettetének mind ők, mind fiaik és feleségeik; és még a verem fenekére sem jutának, a mikor rájok rontának az oroszlánok és minden csontjokat összezúzták.
+És parancsola a király, és előhozák azokat a férfiakat, a kik Dánielt vádolák, és az oroszlánok vermébe vettetének mind ők, mind fiaik és feleségeik; és még a verem fenekére sem jutának, a mikor rájok rontának az oroszlánok és minden csontjokat összezúzták.
 fa4dh6fed 6,25
 Akkor Dárius király ira minden népnek, nemzetnek és nyelvnek, a kik az egész földön lakozának: Békességtek bőséges legyen!
 fa4dh6fed 6,26
-Én tőlem adatott ez a végzés, hogy az én birodalmamnak minden országábanféljék és rettegjék a Dániel Istenét; mert ő az élő Isten, és örökké megmarad, és az ő országa meg nem romol, és uralkodása mind végig
+Én tőlem adatott ez a végzés, hogy az én birodalmamnak minden országában féljék és rettegjék a Dániel Istenét; mert ő az élő Isten, és örökké megmarad, és az ő országa meg nem romol, és uralkodása mind végig megtart; 
 fa4dh6fed 6,27
 A ki megment és megszabadít, jeleket és csodákat cselekszik mennyen és földön; a ki megszabadította Dánielt az oroszlánok hatalmából.
 fa4dh6fed 6,28
-És ennek a Dánielnek jó szerencsés lőn dolga a Dárius országában és a persaCzírus országában.
+És ennek a Dánielnek jó szerencsés lőn dolga a Dárius országában és a persa Czírus országában.
 fa4dh6fed 7,1
-Belsazárnak,a babiloni királynak első esztendejében álmot láta Dániel és fejének látásait az ő ágyában. Az álmot akkor följegyzé; a dolog velejét elmondá.
+Belsazárnak, a babiloni királynak első esztendejében álmot láta Dániel és fejének látásait az ő ágyában. Az álmot akkor följegyzé; a dolog velejét elmondá.
 fa4dh6fed 7,2
 Szóla Dániel, és monda: Látám az én látásomban éjszaka, és ímé, az égnek négy szele háborút támaszta a nagy tengeren;
 fa4dh6fed 7,3
@@ -406,187 +406,187 @@ Ez után látám, és ímé, egy másik, olyan mint a párducz, és négy madár
 fa4dh6fed 7,7
 Ezek után látám éjszakai látásokban, és ímé, negyedik állat, rettenetes és iszonyú és rendkivül erős; nagy vasfogai valának, falt és zúzott és a maradékot lábaival összetaposta, és ez különbözék mindazoktól az állatoktól, a melyek előtte valának, és tíz szarva vala néki.
 fa4dh6fed 7,8
-a szarvakat szemlélém, ímé, másik kicsiny szarv növekedék ki azok között, és három az elébbi szarvak közül kiszakasztaték ő előtte, és ímé, emberszemekhez hasonló szemek valának ebben a szarvban, ésnagyokat szóló száj.
+Mialatt a szarvakat szemlélém, ímé, másik kicsiny szarv növekedék ki azok között, és három az elébbi szarvak közül kiszakasztaték ő előtte, és ímé, emberszemekhez hasonló szemek valának ebben a szarvban, és nagyokat szóló száj.
 fa4dh6fed 7,9
 Nézém, míg királyi székek tétetének, és az öreg korú leüle, ruhája hófehér, és fejének haja, mint a tiszta gyapjú; széke tüzes láng, ennek kerekei égő tűz;
 fa4dh6fed 7,10
-Tűzfolyam foly és jő vala ki az ő színe felől;ezerszer ezeren szolgálának néki, és tízezerszer tízezeren állának előtte; ítélők ülének le, és könyveknyittatának meg.
+Tűzfolyam foly és jő vala ki az ő színe felől; ezerszer ezeren szolgálának néki, és tízezerszer tízezeren állának előtte; ítélők ülének le, és könyvek nyittatának meg.
 fa4dh6fed 7,11
-Nézém akkor a nagyzóbeszédek hangja miatt, a melyeket a szarv szóla; nézém, míg megöleték az az állat, és az ő teste elvesze, és tűzbe vetteték megégetésre.
+Nézém akkor a nagyzó beszédek hangja miatt, a melyeket a szarv szóla; nézém, míg megöleték az az állat, és az ő teste elvesze, és tűzbe vetteték megégetésre.
 fa4dh6fed 7,12
-A többi állatoktól is elvéteték az ő hatalmok; deideig-óráig tartó élet adaték nékik.
+A többi állatoktól is elvéteték az ő hatalmok; de  ideig-óráig tartó élet adaték nékik.
 fa4dh6fed 7,13
 Látám éjszakai látásokban, és ímé az égnek felhőiben mint valami emberfia jőve; és méne az öreg korúhoz, és eleibe vivék őt.
 fa4dh6fed 7,14
-És ada néki hatalmat, dicsőséget és országot, és minden nép, nemzet és nyelv néki szolgála; az ő hatalma örökkévalóhatalom, a mely el nem múlik, és az ő országa meg nem rontatik.
+És ada néki hatalmat, dicsőséget és országot, és minden nép, nemzet és nyelv néki szolgála; az ő hatalma örökkévaló hatalom, a mely el nem múlik, és az ő országa meg nem rontatik.
 fa4dh6fed 7,15
-Megrendülék én, Dániel, az én lelkemben ezek miatt, és fejem látásaimegháborítának engem.
+Megrendülék én, Dániel, az én lelkemben ezek miatt, és fejem látásai megháborítának engem.
 fa4dh6fed 7,16
 Oda menék egyhez az ott állók közül, és bizonyosat kérék tőle mindezek felől, és szóla nékem, és e dolognak értelmét tudatá velem:
 fa4dh6fed 7,17
 Ezek a nagy állatok, mik négyen voltak, négy király, a kik támadnak e földön.
 fa4dh6fed 7,18
-De a magasságosnek szentei veszik majd az országot, és bírják az országot örökké és örökkön örökké.
+De a magasságos egek nek szentei veszik majd az országot, és bírják az országot örökké és örökkön örökké.
 fa4dh6fed 7,19
 Akkor bizonyosat kívánék tudni a negyedik állat felől, a mely különbözék mindamazoktól, és rendkivül rettenetes vala; vasfogai és érczkörmei valának, falt és zúzott, és a maradékot lábaival összetaposta.
 fa4dh6fed 7,20
-A tíz szarv felől is, a melyek a fején valának, és a felől, a mely utóbb növekedék és három esék ki előle; és ennek a szarvnak szemei valának és nagyokatszóló szája; termete is nagyobb a társaiénál.
+A tíz szarv felől is, a melyek a fején valának, és a felől, a mely utóbb növekedék és három esék ki előle; és ennek a szarvnak szemei valának és nagyokat szóló szája; termete is nagyobb a társaiénál.
 fa4dh6fed 7,21
 Látám, hogy ez a szarv hadakozék a szentek ellen, és legyőzé őket.
 fa4dh6fed 7,22
-Mígnem eljöve az öreg korú,és az ítélet adaték a magasságosszenteinek; és az idő eljöve, és elvevék az országot a szentek.
+Mígnem eljöve az öreg korú, és az ítélet adaték a magasságos  egek szenteinek; és az idő eljöve, és elvevék az országot a szentek.
 fa4dh6fed 7,23
 Így szóla: A negyedik állat negyedik ország lesz e földön, a mely különb lesz minden országnál, és megeszi az egész földet, és eltapodja és szétzúzza azt.
 fa4dh6fed 7,24
 A tíz szarv pedig ez: Ebből az országból tíz király támad, és más támad utánok, és az különb lesz mint az előbbiek, és három királyt fog megalázni.
 fa4dh6fed 7,25
-És sokat szól a Felséges ellen és a magasságosszenteitmegrontja, és véli, hogy megváltoztatja az időket és törvényt; és az őkezébe adatnak ideig, időkig és fél időig.
+És sokat szól a Felséges ellen és a magasságos egek szenteit  megrontja, és véli, hogy megváltoztatja az időket és törvényt; és az ő kezébe adatnak ideig, időkig és fél időig.
 fa4dh6fed 7,26
 De ítélők ülnek és az ő hatalmát elveszik, hogy megrontassék és végleg elveszszen.
 fa4dh6fed 7,27
-Az ország pedig és a hatalom és az egész ég alatt levő országok nagysága átadatik a magasságosszentei népének; az ő országa örökkévaló ország, és minden hatalmasság néki szolgál és engedelmeskedik.
+Az ország pedig és a hatalom és az egész ég alatt levő országok nagysága átadatik a magasságos egek   szentei népének; az ő országa örökkévaló ország, és minden hatalmasság néki szolgál és engedelmeskedik.
 fa4dh6fed 7,28
 Itt vége lőn a beszédnek. Engemet, Dánielt pedig az én gondolatim igen megrettentének és az én ábrázatom elváltozék rajtam; de e beszédet megtartám szívemben.
 fa4dh6fed 8,1
-Belsazárkirály uralkodásának harmadik esztendejében látomás jelenék meg nékem, Dánielnek, annak utánna, a mely először jelent meg nékem.
+Belsazár király uralkodásának harmadik esztendejében látomás jelenék meg nékem, Dánielnek, annak utánna, a mely először jelent meg nékem.
 fa4dh6fed 8,2
-És láték látomásban; és mikor láték, Susánvárában voltam, a mely Elámtartományában van; és láték látomásban, és ímé az Ulai folyam mellett valék.
+És láték látomásban; és mikor láték, Susán várában voltam, a mely Elám tartományában van; és láték látomásban, és ímé az Ulai folyam mellett valék.
 fa4dh6fed 8,3
 És felemelém szemeimet és látám, és ímé egy kos álla a folyam előtt, és két szarva vala; és az a két szarv magas vala, de egyik a másiknál magasabb, és a magasabb később növekedék.
 fa4dh6fed 8,4
-Látám azta kostöklelkezni napnyugot, észak és dél felé; és semmi állat sem állhata meg előtte, és senki sem szabadíthata meg kezéből, és tetszése szerint cselekedék, és nagygyá lőn.
+Látám azt  a kost szarvaival öklelkezni napnyugot, észak és dél felé; és semmi állat sem állhata meg előtte, és senki sem szabadíthata meg kezéből, és tetszése szerint cselekedék, és nagygyá lőn.
 fa4dh6fed 8,5
-És míg én szemlélém, ímé, egy kecskebak jöve napnyugot felől az egész föld színére, és nem is illeté a földet; és ennek a baknaktekintélyes szarva vala az ő szemei között.
+És míg én szemlélém, ímé, egy kecskebak jöve napnyugot felől az egész föld színére, és nem is illeté a földet; és ennek a baknak tekintélyes szarva vala az ő szemei között.
 fa4dh6fed 8,6
-És méne a kétszarvú koshoz,a melyet láték állani a folyam előtt; és feléje futa erejének indulatában.
+És méne a kétszarvú koshoz, a melyet láték állani a folyam előtt; és feléje futa erejének indulatában.
 fa4dh6fed 8,7
-És látám a koshoz érni; és néki dühödött és leüté a kost, és letöré két szarvát, és nem vala erő a kosban megállani előtte, és leüté a földre és megtapodá, ésnem vala a kosnak senkije, a ki őt megmentse annak kezéből.
+És látám a koshoz érni; és néki dühödött és leüté a kost, és letöré két szarvát, és nem vala erő a kosban megállani előtte, és leüté a földre és megtapodá, és nem vala a kosnak senkije, a ki őt megmentse annak kezéből.
 fa4dh6fed 8,8
-A kecskebak pedig igen nagygyá lőn; de mikor elhatalmasodék,eltörék a nagy szarv, és helyébe négy tekintélyesnöve az égnek négy szele felé.
+A kecskebak pedig igen nagygyá lőn; de mikor elhatalmasodék,  eltörék a nagy szarv, és helyébe négy tekintélyes szarv növe az égnek négy szele felé.
 fa4dh6fed 8,9
-És azok közül egyből egy kis szarv támada, és nagyon megnöve délre, napkeletre és a kívánatosfelé.
+És azok közül egyből egy kis szarv támada, és nagyon megnöve délre, napkeletre és a kívánatos  föld felé.
 fa4dh6fed 8,10
-És megnöve mind az ég seregéig; és a földre veteama seregből és a csillagokból, és azokat megtapodá.
+És megnöve mind az ég seregéig; és a földre vete némelyeket ama seregből és a csillagokból, és azokat megtapodá.
 fa4dh6fed 8,11
-És a seregnekfejedelméig növekedék, és elvette tőle a mindennapi áldozatot, és elhányattaték az ő szentségének helye.
+És a seregnek  fejedelméig növekedék, és elvette tőle a mindennapi áldozatot, és elhányattaték az ő szentségének helye.
 fa4dh6fed 8,12
 És sereg rendeltetett a mindennapi áldozat ellen, a vétek miatt; és földre veti az igazságot, és cselekszik, és jó szerencséje van.
 fa4dh6fed 8,13
-És hallék egy szentet szólni; és monda egyik szent annak, a ki szól vala: Meddig tart e látomás a mindennapi áldozat és a pusztító véteks a szent hely és a seregtapostatik?
+És hallék egy szentet szólni; és monda egyik szent annak, a ki szól vala: Meddig tart e látomás a mindennapi áldozat és a pusztító vétek felől? s a szent hely és a sereg meddig tapostatik?
 fa4dh6fed 8,14
-És monda nékem: Kétezer és háromszáz estvéigreggelig, azután kiderül a szenthely igazsága.
+És monda nékem: Kétezer és háromszáz estvéig és reggelig, azután kiderül a szenthely igazsága.
 fa4dh6fed 8,15
 És lőn, hogy mikor én, Dániel, látám e látomást és keresém az értelmét: ímé előmbe álla egy férfiúhoz hasonló alak.
 fa4dh6fed 8,16
-És emberi szót hallék az Ulai közén; kiálta pedig és monda: Gábriel, értesdmeg azzal a látást!
+És emberi szót hallék az Ulai közén; kiálta pedig és monda: Gábriel, értesd meg azzal a látást!
 fa4dh6fed 8,17
 És oda jöve, a hol én állék, és a mint jöve, megrettenék és orczámra esém, és monda nékem: Értsd meg, embernek fia! mert az utolsó időre szól ez a látomás.
 fa4dh6fed 8,18
-És mikor szóla velem, ájultan esém orczámmal a földre; de megilleteengem és helyemre állíta;
+És mikor szóla velem, ájultan esém orczámmal a földre; de megillete engem és helyemre állíta;
 fa4dh6fed 8,19
-És monda: Ímé, én megmondom néked, mi lesz a haragnak végén? Mert a végső időre
+És monda: Ímé, én megmondom néked, mi lesz a haragnak végén? Mert a végső időre szól. 
 fa4dh6fed 8,20
-Az a kétszarvú kos, melyet láttál, Médiának ésPersiának királya.
+Az a kétszarvú kos, melyet láttál, Médiának és Persiának királya.
 fa4dh6fed 8,21
-A szőrös kecskebakGörögország királya, a nagy szarv pedig, a mely szemei között vala,az az első király.
+A szőrös kecskebak Görögország királya, a nagy szarv pedig, a mely szemei között vala, az az első király.
 fa4dh6fed 8,22
-Hogy pedig azletöretteték, és négy álla helyébe: négy ország támad abból a nemzetből, de nem annak erejével.
+Hogy pedig az letöretteték, és négy álla helyébe: négy ország támad abból a nemzetből, de nem annak erejével.
 fa4dh6fed 8,23
 És ezek országai után, mikor elfogynak a gonoszok, támad egy kemény orczájú, ravaszságokhoz értő király.
 fa4dh6fed 8,24
-És annak nagy ereje lesz, noha nem a maga ereje által, és csudálatosképen pusztít és jó szerencsével halad és cselekszik, és elpusztítja az erőseket és a szentekneknépét.
+És annak nagy ereje lesz, noha nem a maga ereje által, és csudálatosképen pusztít és jó szerencsével halad és cselekszik, és elpusztítja az erőseket és a szenteknek népét.
 fa4dh6fed 8,25
-És a maga eszénés szerencsés lesz az álnokság az ő kezében, és szívében felfuvalkodik és hirtelen elveszt sokakat; sőt a fejedelmek fejedelme ellen is feltámad, de kéz nélkül rontatik meg.
+És a maga eszén jár, és szerencsés lesz az álnokság az ő kezében, és szívében felfuvalkodik és hirtelen elveszt sokakat; sőt a fejedelmek fejedelme ellen is feltámad, de kéz nélkül rontatik meg.
 fa4dh6fed 8,26
-És az estvéről ésreggelről való látomás, a mely megmondatott, igazság; te azonban pecsételd be a látomást, mertsok napra való.
+És az estvéről és reggelről való látomás, a mely megmondatott, igazság; te azonban pecsételd be a látomást, mert  sok napra való.
 fa4dh6fed 8,27
-És én, Dániel, elájulék és beteg valék néhány napig, de felkelék és a király dolgátvégezém; és álmélkodám ezen a látáson, és senki sem értette.
+És én, Dániel, elájulék és beteg valék néhány napig, de felkelék és a király dolgát végezém; és álmélkodám ezen a látáson, és senki sem értette.
 fa4dh6fed 9,1
-Dáriusnak, az Asvérusfiának első esztendejében, a ki a Médiabeliek nemzetségéből vala, a ki királylyá tétetett vala a Káldeusok országán;
+Dáriusnak, az Asvérus fiának első esztendejében, a ki a Médiabeliek nemzetségéből vala, a ki királylyá tétetett vala a Káldeusok országán;
 fa4dh6fed 9,2
-Uralkodásának első esztendejében én, Dániel, megfigyeltem a könyvekben az esztendők számát, a melyről az Úr ígéje lőn Jeremiás prófétához,hogy hetven esztendőnek kell eltelni Jeruzsálem omladékain.
+Uralkodásának első esztendejében én, Dániel, megfigyeltem a könyvekben az esztendők számát, a melyről az Úr ígéje lőn Jeremiás prófétához, hogy hetven esztendőnek kell eltelni Jeruzsálem omladékain.
 fa4dh6fed 9,3
-És orczámat az Úr Istenhez emelém, hogy keressemimádsággal, könyörgéssel, bőjtöléssel, zsákban és hamuban.
+És orczámat az Úr Istenhez emelém, hogy keressem őt imádsággal, könyörgéssel, bőjtöléssel, zsákban és hamuban.
 fa4dh6fed 9,4
-És imádkozám az Úrhoz, az én Istenemhez, és vallást tevék, és mondám: Kérlek, oh Uram,nagy és rettenetes Isten, a ki megtartja a szövetséget és a kegyességet azoknak, a kik őt szeretik és teljesítik az ő parancsolatait.
+És imádkozám az Úrhoz, az én Istenemhez, és vallást tevék, és mondám: Kérlek, oh Uram,  nagy és rettenetes Isten, a ki megtartja a szövetséget és a kegyességet azoknak, a kik őt szeretik és teljesítik az ő parancsolatait.
 fa4dh6fed 9,5
-Vétkeztünk és gonoszságot míveltünk, hitetlenül cselekedtünkés pártot ütöttünk ellened, és eltávoztunk a te parancsolataidtól és ítéleteidtől.
+Vétkeztünk és gonoszságot míveltünk, hitetlenül cselekedtünk és pártot ütöttünk ellened, és eltávoztunk a te parancsolataidtól és ítéleteidtől.
 fa4dh6fed 9,6
-És nem hallgatánk a te szolgáidra, aprófétákra, a kik a te nevedben szóltak a mi királyainknak, fejedelmeinknek, atyáinknak és az ország egész népének.
+És nem hallgatánk a te szolgáidra, a  21.] prófétákra, a kik a te nevedben szóltak a mi királyainknak, fejedelmeinknek, atyáinknak és az ország egész népének.
 fa4dh6fed 9,7
-Tied Uram az igazság, mienk pedig orczánk pirulása, a mint ez ma vanJúda férfiain, Jeruzsálem lakosain és az egész Izráelen, a közel és távol valókon, mindama földeken, a melyekre kivetetted őket az ő gonoszságuk miatt, a melylyel vétkeztek ellened.
+Tied Uram az igazság, mienk pedig orczánk pirulása, a mint ez ma van Júda férfiain, Jeruzsálem lakosain és az egész Izráelen, a közel és távol valókon, mindama földeken, a melyekre kivetetted őket az ő gonoszságuk miatt, a melylyel vétkeztek ellened.
 fa4dh6fed 9,8
 Miénk, oh Uram, orczánk pirulása, a mi királyainké, fejedelmeinké és atyáinké, a kik vétkeztünk ellened.
 fa4dh6fed 9,9
-A mi Urunké Istenünké azirgalmasság és a bocsánat, mertpártot ütöttünk ellene;
+A mi Urunké Istenünké az  irgalmasság és a bocsánat, mert pártot ütöttünk ellene;
 fa4dh6fed 9,10
-És nem hallgattunk az Úrnak, a mi Istenünknek szavára,hogy járjunk az ő törvényeiben, a melyeket előnkbe adott, az ő szolgái, a próféták által.
+És nem hallgattunk az Úrnak, a mi Istenünknek szavára, 20.] hogy járjunk az ő törvényeiben, a melyeket előnkbe adott, az ő szolgái, a próféták által.
 fa4dh6fed 9,11
-És az egész Izráel áthágta a te törvényedet, és elhajlottak, hogy ne hallgassanak a te szódra. Ezért reánk szakad az átok éseskü, a mely meg van írva Mózesnek, az Isten szolgájának törvényében; mert vétkeztünk ellene!
+És az egész Izráel áthágta a te törvényedet, és elhajlottak, hogy ne hallgassanak a te szódra. Ezért reánk szakad az átok és 63.] eskü, a mely meg van írva Mózesnek, az Isten szolgájának törvényében; mert vétkeztünk ellene!
 fa4dh6fed 9,12
-És teljesíté az ő szavait, a melyeket szóla ellenünk és ami bíráink ellen, a kik minket ítéltek, hogy nagy veszedelmet hoz reánk; mert nem történt olyan az egész ég alatt, a milyen történt Jeruzsálemben.
+És teljesíté az ő szavait, a melyeket szóla ellenünk és a mi bíráink ellen, a kik minket ítéltek, hogy nagy veszedelmet hoz reánk; mert nem történt olyan az egész ég alatt, a milyen történt Jeruzsálemben.
 fa4dh6fed 9,13
-A mint írva van aMózes törvényében, az a veszedelem mind reánk jöve! És az Úrnak, a mi Istenünknek szine előtt nem esedeztünk, hogy megtértünk volna a mi álnokságainkból, és figyeltünk volna a te igazságodra.
+A mint írva van a Mózes törvényében, az a veszedelem mind reánk jöve! És az Úrnak, a mi Istenünknek szine előtt nem esedeztünk, hogy megtértünk volna a mi álnokságainkból, és figyeltünk volna a te igazságodra.
 fa4dh6fed 9,14
 Azért készen tartotta az Úr a veszedelmet, és azt reánk hozá: mert igaz az Úr, a mi Istenünk minden cselekedetében, melyeket cselekszik; mert nem hallgattunk az ő szavára.
 fa4dh6fed 9,15
-Most azért, oh mi Urunk, Istenünk! a ki kihoztad a tenépedet Égyiptom földéből hatalmas kézzel, és nevet szereztél magadnak, mint ma is van: vétkeztünk, gonoszul cselekedtünk!
+Most azért, oh mi Urunk, Istenünk! a ki kihoztad a te  népedet Égyiptom földéből hatalmas kézzel, és nevet szereztél magadnak, mint ma is van: vétkeztünk, gonoszul cselekedtünk!
 fa4dh6fed 9,16
-Uram, a teigazságod teljessége szerint forduljon el, kérlek, a te haragod és búsulásod a te városodtól, Jeruzsálemtől, a te szentséges hegyedtől, mert a mi bűneinkért és a mi atyáink hamisságaiértgyalázatára van Jeruzsálem és a te néped mindeneknek mi körültünk.
+Uram, a te igazságod teljessége szerint forduljon el, kérlek, a te haragod és búsulásod a te városodtól, Jeruzsálemtől, a te szentséges hegyedtől, mert a mi bűneinkért és a mi atyáink hamisságaiért gyalázatára van Jeruzsálem és a te néped mindeneknek mi körültünk.
 fa4dh6fed 9,17
-És most hallgasd meg, oh Istenünk, a te szolgádnak könyörgését és esedezéseit, ésvilágosítsd meg az Úrért a te orczádat a te szent helyeden, a mely elpusztíttatott.
+És most hallgasd meg, oh Istenünk, a te szolgádnak könyörgését és esedezéseit, és  világosítsd meg az Úrért a te orczádat a te szent helyeden, a mely elpusztíttatott.
 fa4dh6fed 9,18
-Hajtsad, én Istenem, a te füledetés hallgass meg; nyisd meg szemeidet és tekintsd meg a mi pusztulásunkat és a várost, a mely a te nevedrőlneveztetik; mert nem a mi igazságunkban, hanem a te nagy irgalmasságodbanterjesztjük elődbe a mi esedezéseinket.
+Hajtsad, én Istenem, a te füledet hozzánk és hallgass meg; nyisd meg szemeidet és tekintsd meg a mi pusztulásunkat és a várost, a mely a te nevedről  neveztetik; mert nem a mi igazságunkban, hanem a te nagy irgalmasságodban bízva terjesztjük elődbe a mi esedezéseinket.
 fa4dh6fed 9,19
-Uram, hallgass meg! Uram, légy kegyelmes! Uram, légy figyelmetes, és cselekedd meg, ne késedelmezzél tennen magadért,oh én Istenem; mert a te nevedről neveztetik a te városod és a te néped.
+Uram, hallgass meg! Uram, légy kegyelmes! Uram, légy figyelmetes, és cselekedd meg, ne késedelmezzél tennen magadért, oh én Istenem; mert a te nevedről neveztetik a te városod és a te néped.
 fa4dh6fed 9,20
-És még szólék és imádkozám, és vallást tevék az én bűnömről, és az én népemnek, az Izráelnek bűnéről; és esedezésemet az Úr elé, az én Istenem elé terjesztém az énIstenemnek szent hegyéért.
+És még szólék és imádkozám, és vallást tevék az én bűnömről, és az én népemnek, az Izráelnek bűnéről; és esedezésemet az Úr elé, az én Istenem elé terjesztém az én  Istenemnek szent hegyéért.
 fa4dh6fed 9,21
-És még az imádságot mondom vala, mikor ama férfiú, Gábriel,a kit elébb a látomásban láttam vala, sebességgel repülvén, megillete engem az estvéli áldozat idején.
+És még az imádságot mondom vala, mikor ama férfiú, Gábriel, a kit elébb a látomásban láttam vala, sebességgel repülvén, megillete engem az estvéli áldozat idején.
 fa4dh6fed 9,22
 És értésemre adá, és szóla nékem és monda: Dániel, most jöttem ki, hogy értelemre tanítsalak.
 fa4dh6fed 9,23
 A te esedezésed kezdetén egy szózat támadt, és én eljöttem, hogy megjelentsem; mert te kedves vagy: vedd eszedbe azért a szózatot, és értsd meg a látomást!
 fa4dh6fed 9,24
-Hetvenhét szabatott a te népedre és szent városodra, hogy vége szakadjon a gonoszságnak és bepecsételtessék a bűn, és hogy eltöröltessék a hamisság és elhozassék az örök igazság, és bepecsételtessék a látomás és a próféták, és felkenettessék a Szentek szente.
+Hetven hét szabatott a te népedre és szent városodra, hogy vége szakadjon a gonoszságnak és bepecsételtessék a bűn, és hogy eltöröltessék a hamisság és elhozassék az örök igazság, és bepecsételtessék a látomás és a próféták, és felkenettessék a Szentek szente.
 fa4dh6fed 9,25
-Tudd meg azért és vedd eszedbe: AJeruzsálem újraépíttetése felől való szózat keletkezésétől a Messiás- fejedelemig hét hét és hatvankét hét van és újra megépíttetnek az utczák és a kerítések,még pedig viszontagságos időkben.
+Tudd meg azért és vedd eszedbe: A  Jeruzsálem újraépíttetése felől való szózat keletkezésétől a Messiás- fejedelemig hét hét és hatvankét hét van és újra megépíttetnek az utczák és a kerítések,  még pedig viszontagságos időkben.
 fa4dh6fed 9,26
-A hatvankét hét mulva pedig kiirtatik a Messiásés senkije sem lesz. És a várost és aszenthelyet elpusztítja a következő fejedelem népe; és vége leszvízözön által, és végig tart a háború, elhatároztatott a pusztulás.
+A hatvankét hét mulva pedig kiirtatik a Messiás  és senkije sem lesz. És a várost és a szenthelyet elpusztítja a következő fejedelem népe; és vége lesz mintegy vízözön által, és végig tart a háború, elhatároztatott a pusztulás.
 fa4dh6fed 9,27
-És egy héten át sokakkal megerősíti a szövetséget, de a hét felén véget vet a véres áldozatnak és az ételáldozatnak, és útálatosságok szárnyán pusztít,a míg az enyészet és a mi elhatároztatott, a pusztítóra szakad.
+És egy héten át sokakkal megerősíti a szövetséget, de a hét felén véget vet a véres áldozatnak és az ételáldozatnak, és útálatosságok szárnyán pusztít, a míg az enyészet és a mi elhatároztatott, a pusztítóra szakad.
 fa4dh6fed 10,1
-Czírusnak,Persia királyának harmadik esztendejében egy ige jelenteték Dánielnek, aki Baltazárnak nevezteték; igaz az ige és nagy bajról való; és figyele az igére és megérté a látomást.
+Czírusnak,  Persia királyának harmadik esztendejében egy ige jelenteték Dánielnek, a ki Baltazárnak nevezteték; igaz az ige és nagy bajról való; és figyele az igére és megérté a látomást.
 fa4dh6fed 10,2
 Azokon a napokon én, Dániel, bánkódtam három egész hétig.
 fa4dh6fed 10,3
 Kívánatos étket nem ettem, hús és bor nem ment az én számba, és soha sem kentem meg magamat, míg el nem telék az egész három hét.
 fa4dh6fed 10,4
-És az első hónapnak huszonnegyedik napján, ímé én a nagyfolyóvíznek, azaz a Hiddekelnek partján valék.
+És az első hónapnak huszonnegyedik napján, ímé én a nagy folyóvíznek, azaz a Hiddekelnek partján valék.
 fa4dh6fed 10,5
-És felemelém szemeimet, és látám, és ímé: egy férfiú, gyolcsba öltözve, és derekaufázi aranynyal övezve.
+És felemelém szemeimet, és látám, és ímé: egy férfiú, gyolcsba öltözve, és dereka  ufázi aranynyal övezve.
 fa4dh6fed 10,6
 És teste olyan mint a társiskő, és orczája olyan mint a villám, és szemei olyanok mint az égő szövétnekek, karjai és lábatája mint az izzó ércznek színe, és az ő beszédének szava olyan, mint a sokaság zúgása.
 fa4dh6fed 10,7
-És egyedül én, Dániel láttam e látomást, a férfiak pedig, a kik velem valának,nem látták a látomást; hanem nagy rettenés szálla reájok, és elfutának, hogy elrejtőzzenek.
+És egyedül én, Dániel láttam e látomást, a férfiak pedig, a kik velem valának, nem látták a látomást; hanem nagy rettenés szálla reájok, és elfutának, hogy elrejtőzzenek.
 fa4dh6fed 10,8
-És én egyedül hagyattam, és látám ezt a nagy látomást, és semmi erő sem marada bennem, és orczám eltorzula, ésoda lőn minden erőm.
+És én egyedül hagyattam, és látám ezt a nagy látomást, és semmi erő sem marada bennem, és orczám eltorzula, és oda lőn minden erőm.
 fa4dh6fed 10,9
-És hallám az ő beszédének szavát; és mikor hallám az ő beszédének szavát, én ájultanorczámra esém, és pedig orczámmal a földre.
+És hallám az ő beszédének szavát; és mikor hallám az ő beszédének szavát, én ájultan orczámra esém, és pedig orczámmal a földre.
 fa4dh6fed 10,10
 És ímé, egy kéz illete engem, és felsegített térdeimre és tenyereimre;
 fa4dh6fed 10,11
 És monda nékem: Dániel, kedves férfiú! Értsd meg a beszédeket, a melyeket én szólok néked, és állj helyedre, mert most te hozzád küldettem! És mikor e szót szólá velem, felállék reszketve.
 fa4dh6fed 10,12
-És monda nékem: Ne félj Dániel: mert az első naptól fogva, hogy szívedet adtad megértésre éssanyargatásra a te Istened előtt, meghallgattattak a te beszédid, és én a te beszédeid miatt jöttem.
+És monda nékem: Ne félj Dániel: mert az első naptól fogva, hogy szívedet adtad megértésre és sanyargatásra a te Istened előtt, meghallgattattak a te beszédid, és én a te beszédeid miatt jöttem.
 fa4dh6fed 10,13
-De Persiának fejedelme ellenem állott huszonegy napig, és íméMihály, egyike az előkelő fejedelmeknek, eljöve segítségemre, és én ott maradék a persa királyoknál;
+De Persiának fejedelme ellenem állott huszonegy napig, és ímé Mihály, egyike az előkelő fejedelmeknek, eljöve segítségemre, és én ott maradék a persa királyoknál;
 fa4dh6fed 10,14
-Jöttem pedig, hogy tudtodra adjam, a mi a te népedre azutolsó időkben következik: mert a látomás azokra a napokra
+Jöttem pedig, hogy tudtodra adjam, a mi a te népedre az utolsó időkben következik: mert a látomás azokra a napokra szól. 
 fa4dh6fed 10,15
 És mikor ilyen szavakkal szóla velem, orczámmal a földre esém és megnémulék.
 fa4dh6fed 10,16
-És ímé, olyan valaki, mint egy ember-fia, megilleté ajkaimat és megnyitáma számat és szólék és mondám annak, a ki előttemálla: Uram, a látomás miatt reám fordulának az én fájdalmaim, annyira, hogy semmi erőm nincsen.
+És ímé, olyan valaki, mint egy ember-fia, megilleté ajkaimat és megnyitám a számat és szólék és mondám annak, a ki előttem álla: Uram, a látomás miatt reám fordulának az én fájdalmaim, annyira, hogy semmi erőm nincsen.
 fa4dh6fed 10,17
 És mi módon szólhat ezzel az én Urammal ennek az én Uramnak szolgája? Hiszen bennem attól fogva nem álla meg az erő, és lélekzet sem marada bennem.
 fa4dh6fed 10,18
@@ -594,21 +594,21 @@ fa4dh6fed 10,18
 fa4dh6fed 10,19
 És monda: Ne félj, te kedves férfiú; békesség néked, légy erős és bizony erős! És mikor szóla velem, megerősödém, és mondék: Szóljon az én Uram, mert megerősítél engemet.
 fa4dh6fed 10,20
-És monda: Tudod-é, miért jöttem hozzád? És most visszatérek, hogy küzdjeka persa fejedelem ellen; és ha én kimegyek,ímé Görögország fejedelme jő elő!
+És monda: Tudod-é, miért jöttem hozzád? És most visszatérek, hogy küzdjek a persa fejedelem ellen; és ha én kimegyek, ímé Görögország fejedelme jő elő!
 fa4dh6fed 10,21
-De megjelentem néked, a mi fel van jegyezve az igazság írásában; és senki sincsen, a ki én velem tartana ezek ellenében, hanem csakMihály a ti fejedelmetek.
+De megjelentem néked, a mi fel van jegyezve az igazság írásában; és senki sincsen, a ki én velem tartana ezek ellenében, hanem csak Mihály a ti fejedelmetek.
 fa4dh6fed 11,1
-Én is a médDárius első esztendejében mellette állék, hogy őt támogassam és segítségére legyek.
+Én is a méd Dárius első esztendejében mellette állék, hogy őt támogassam és segítségére legyek.
 fa4dh6fed 11,2
 És most igazságot jelentek néked: Ímé, még három király támad Persiában, és a negyedik meggazdagul nagy gazdagsággal mindenki felett, és mikor hatalomhoz jut az ő gazdagsága által, mindent megmozdít Görögország ellen.
 fa4dh6fed 11,3
-És támad egy erőskirály és uralkodik nagy hatalommal és tetszése szerint cselekszik.
+És támad egy erős király és uralkodik nagy hatalommal és tetszése szerint cselekszik.
 fa4dh6fed 11,4
-De alighogytámadt, megrontatik az ő országa és elosztatik az égnek négy tája szerint, de nemaz ő maradékira, és nem az ő hatalma szerint, a melylyel ő uralkodott, mert szétszaggattatik az ő birodalma, és másoknakezeken kivül.
+De alighogy támadt, megrontatik az ő országa és elosztatik az égnek négy tája szerint, de nem száll az ő maradékira, és nem az ő hatalma szerint, a melylyel ő uralkodott, mert szétszaggattatik az ő birodalma, és másoknak adatik ezeken kivül.
 fa4dh6fed 11,5
-És elhatalmasodik a déli király, de az ő vezérei közül iséshatalmat vesz rajta és uralkodik, nagy uralkodás lesz az ő uralkodása.
+És elhatalmasodik a déli király, de az ő vezérei közül is egyik, és ez hatalmat vesz rajta és uralkodik, nagy uralkodás lesz az ő uralkodása.
 fa4dh6fed 11,6
-És esztendők mulva szövetkeznek, és a déli királyleánya az északi királyhoz megy, hogy békéltessen, de a kar erejét meg nem tarthatja, és ő sem áll meg, sem az ő karja, hanem kiszolgáltatják őt és az ő kisérőit és az ő nemzőjét és azt, a ki őt egy ideig gyámolította.
+És esztendők mulva szövetkeznek, és a déli király leánya az északi királyhoz megy, hogy békéltessen, de a kar erejét meg nem tarthatja, és ő sem áll meg, sem az ő karja, hanem kiszolgáltatják őt és az ő kisérőit és az ő nemzőjét és azt, a ki őt egy ideig gyámolította.
 fa4dh6fed 11,7
 De támad helyébe az ő gyökerének csemetéje közül, a ki a had ellen jön majd, és tör az északi király erősségeire, és azokat megszállja és beveszi.
 fa4dh6fed 11,8
@@ -628,21 +628,21 @@ fa4dh6fed 11,14
 fa4dh6fed 11,15
 Mert eljő észak királya, és töltést emel és beveszi az erősített várost; és délnek seregei meg nem állnak, sem az ő válogatott népe, és semmi erő nem bír ellene állni.
 fa4dh6fed 11,16
-És az, a ki reátört, a maga tetszése szerint cselekszik, és senki sem lesz, a ki ellene álljon, és megállapodika dicső földön, és megsemmisül az az ő kezétől.
+És az, a ki reátört, a maga tetszése szerint cselekszik, és senki sem lesz, a ki ellene álljon, és megállapodik  a dicső földön, és megsemmisül az az ő kezétől.
 fa4dh6fed 11,17
-Azután maga elé tűzi, hogy bemegy az ő egész országának erejével, és békés szándékot mutat, és leányasszonyt ad nékihogy megrontsa, de az nem áll meg és nem tart vele.
+Azután maga elé tűzi, hogy bemegy az ő egész országának erejével, és békés szándékot mutat, és leányasszonyt ad néki feleségül, hogy megrontsa, de az nem áll meg és nem tart vele.
 fa4dh6fed 11,18
 És fordítja orczáját a szigetekre, és sokat elfoglal; de az ő gyalázatosságának véget vet egy vezér, a mellett, hogy megfizet néki az ő gyalázatosságáért.
 fa4dh6fed 11,19
 És fordítja orczáját a maga országának erősségeire, és meghanyatlik, elesik és nem találtatik meg.
 fa4dh6fed 11,20
-Ennek helyébe jön az, a ki adószedőt jártat végig az ország dicsőde rövid időn megrontatik, noha nem haraggal, sem viadalban.
+Ennek helyébe jön az, a ki adószedőt jártat végig az ország dicső földén, de rövid időn megrontatik, noha nem haraggal, sem viadalban.
 fa4dh6fed 11,21
 És ennek helyébe egy útálatos áll, a kire nem teszik az ország ékességét; hanem alattomban jő, és hízelkedéssel jut az országhoz.
 fa4dh6fed 11,22
 És a beözönlő seregek elárasztatnak az ő orczája előtt és megtöretnek; még egy szövetséges fejedelem is.
 fa4dh6fed 11,23
-Mert a vele való megbarátkozás óta csalárdul cselekszikés reátör és győzedelmet vesz rajta kevés néppel.
+Mert a vele való megbarátkozás óta csalárdul cselekszik ellene, és reátör és győzedelmet vesz rajta kevés néppel.
 fa4dh6fed 11,24
 Alattomban még az ország gazdag részeibe is behatol, és azt cselekszi, a mit nem cselekedtek sem az ő atyái, sem az ő atyáinak atyái: zsákmányt, prédát és gazdagságot tékozol előlők, és az erősségek ellen is cselt kohol, de csak egy ideig.
 fa4dh6fed 11,25
@@ -650,13 +650,13 @@ fa4dh6fed 11,25
 fa4dh6fed 11,26
 És a kik az ő ételét eszik, megrontják őt, és az ő serege elszéled, és sokan elhullanak seb miatt.
 fa4dh6fed 11,27
-De ennek a két királynak szíve is gonoszt forral, és egy asztalnál hazugságot szólnakde siker nélkül, mert a vég még bizonyos időre
+De ennek a két királynak szíve is gonoszt forral, és egy asztalnál hazugságot szólnak egymásnak; de siker nélkül, mert a vég még bizonyos időre elmarad. 
 fa4dh6fed 11,28
-Azért visszatér az ő földére nagy gazdagsággal; de az ő szíve a szent szövetség ellen van, éstesz, és újra visszatér az ő földére.
+Azért visszatér az ő földére nagy gazdagsággal; de az ő szíve a szent szövetség ellen van, és ellene tesz, és újra visszatér az ő földére.
 fa4dh6fed 11,29
 Bizonyos időben megjő, és délre megy: de nem lesz utolszor úgy, mint először volt.
 fa4dh6fed 11,30
-Mert kitteus hajók jőnek ellene és megijed, és visszatér és dühöng a szent szövetség ellen és cselekszikvisszatér és ügyel azokra, a kik elhagyják a szent szövetséget.
+Mert kitteus hajók jőnek ellene és megijed, és visszatér és dühöng a szent szövetség ellen és cselekszik ellene; visszatér és ügyel azokra, a kik elhagyják a szent szövetséget.
 fa4dh6fed 11,31
 És seregek állanak fel az ő részéről, és megfertéztetik a szenthelyet, az erősséget, és megszüntetik a mindennapi áldozatot, és felteszik a pusztító útálatosságot.
 fa4dh6fed 11,32
@@ -666,17 +666,17 @@ fa4dh6fed 11,33
 fa4dh6fed 11,34
 És miközben elhullanak, megsegíttetnek kicsiny segítséggel, és sokan csatlakoznak hozzájok képmutató beszédekkel.
 fa4dh6fed 11,35
-És elhullanak az értelmesek közül is, hogy megpróbáltassanak, megtisztíttassanak és megfehéríttessenek a vég idejéig; mert a rendelt idő mégvan.
+És elhullanak az értelmesek közül is, hogy megpróbáltassanak, megtisztíttassanak és megfehéríttessenek a vég idejéig; mert a rendelt idő még hátra van.
 fa4dh6fed 11,36
-És a király a maga tetszése szerint cselekszik és felfuvalkodik és felmagasztalja magát minden isten felett, és az istenek Istene ellen is vakmerőn szól, és szerencsés lesz, mígnem betelik a harag; mert a mi elhatároztatott, az végrehajtatik.
+És a király a maga tetszése szerint cselekszik és felfuvalkodik és felmagasztalja magát minden isten felett, és az istenek Istene ellen is vakmerőn szól, és szerencsés lesz, mígnem betelik a harag; mert a mi elhatároztatott, az végre is hajtatik.
 fa4dh6fed 11,37
 Nem gondol atyáinak isteneivel, nem gondol az asszonyok kedvenczével, és egy istennel sem; hanem mindennek fölibe magasztalja magát.
 fa4dh6fed 11,38
-De a helyett tiszteli az erődök istenét annak helyén; és azt az istent, a kit nem ismertek az ő atyái, tiszteli aranynyal, ezüsttel, drágakövekkel és becseskal.
+De a helyett tiszteli az erődök istenét annak helyén; és azt az istent, a kit nem ismertek az ő atyái, tiszteli aranynyal, ezüsttel, drágakövekkel és becses ajándékok kal.
 fa4dh6fed 11,39
 És az erődített városokban így teszen az idegen istenek nevében: a ki hódol, annak dicsőségét megsokasítja és sokak felett ad nékik hatalmat; a földet elosztja jutalom gyanánt.
 fa4dh6fed 11,40
-De a vég idején összetűz vele a déli király, és mint a forgószél, úgy megy reá az északi király szekerekkel, lovasokkal és sok hajóval, és betör az országokba, elözönli és végigjárja.
+De a vég idején összetűz vele a déli király, és mint a forgószél, úgy megy reá az északi király szekerekkel, lovasokkal és sok hajóval, és betör az országokba, elözönli és végigjárja azokat .
 fa4dh6fed 11,41
 És bemegy a dicső földre, és sokan elesnek; de ezek megszabadulnak az ő kezéből: Edom, Moáb és az Ammon fiainak színe-java.
 fa4dh6fed 11,42
@@ -686,30 +686,30 @@ fa4dh6fed 11,43
 fa4dh6fed 11,44
 De megriasztják őt napkeletről és északról való hírek, és kivonul nagy haraggal, hogy elveszessen és megöljön sokakat.
 fa4dh6fed 11,45
-És felvonja az ő sátor-palotáját a tengerek és a dicsőszent hegy között; és végére jut, és senki sem segít rajta.
+És felvonja az ő sátor-palotáját a tengerek és a dicső szent hegy között; és végére jut, és senki sem segít rajta.
 fa4dh6fed 12,1
-És abban az időben felkélMihály, a nagy fejedelem, a ki a te néped fiaiért áll, mert nyomorúságos idő lesz, a milyen nem volt attól fogva, hogy nép kezdett lenni, mindezideig. És abban az időben megszabadul a te néped; a ki csak beírva találtatik a könyvben.
+És abban az időben felkél Mihály, a nagy fejedelem, a ki a te néped fiaiért áll, mert nyomorúságos idő lesz, a milyen nem volt attól fogva, hogy nép kezdett lenni, mindezideig. És abban az időben megszabadul a te néped; a ki csak beírva találtatik a könyvben.
 fa4dh6fed 12,2
-És sokan azok közül, a kik alusznaka föld porában, felserkennek, némelyek örök életre, némelyek pedig gyalázatra és örökkévaló útálatosságra.
+És sokan azok közül, a kik alusznak a föld porában, felserkennek, némelyek örök életre, némelyek pedig gyalázatra és örökkévaló útálatosságra.
 fa4dh6fed 12,3
 Az értelmesek pedig fénylenek, mint az égnek fényessége; és a kik sokakat az igazságra visznek, miként a csillagok örökkön örökké.
 fa4dh6fed 12,4
-Te pedig, Dániel, zárd bee beszédeket, és pecsételd be a könyvet a végső időig: tudakozzák majd sokan, és nagyobbá lesz a tudás.
+Te pedig, Dániel, zárd be  e beszédeket, és pecsételd be a könyvet a végső időig: tudakozzák majd sokan, és nagyobbá lesz a tudás.
 fa4dh6fed 12,5
-És széttekinték én, Dániel, és ímé másik kettő állaegyik a folyóvíz partjáninnét, a másik túl a folyóvíz partján.
+És széttekinték én, Dániel, és ímé másik kettő álla ott, egyik a folyóvíz partján innét, a másik túl a folyóvíz partján.
 fa4dh6fed 12,6
-És mondáa gyolcsba öltözött férfiúnak, a ki a folyóvíz felett vala: Mikor lesz végök e csudadolgoknak?
+És mondá egyik  a gyolcsba öltözött férfiúnak, a ki a folyóvíz felett vala: Mikor lesz végök e csudadolgoknak?
 fa4dh6fed 12,7
-És hallám a gyolcsba öltözött férfiút, a ki a folyóvíz felett vala, hogy felemelé az ő jobb kezét és bal kezétaz ég felé, és megesküvék az örökké élőre, hogy ideig,időkig és fél időig, és mikor elvégezik a szent nép erejének rontását, mindezek elvégeztetnek.
+És hallám a gyolcsba öltözött férfiút, a ki a folyóvíz felett vala, hogy felemelé az ő jobb kezét és bal kezét az ég felé, és megesküvék az örökké élőre, hogy ideig, időkig és fél időig, és mikor elvégezik a szent nép erejének rontását, mindezek elvégeztetnek.
 fa4dh6fed 12,8
-Én pedig hallámde nem értém, és mondám: Uram, mi lesz ezeknek vége?
+Én pedig hallám ezt, de nem értém, és mondám: Uram, mi lesz ezeknek vége?
 fa4dh6fed 12,9
-És monda: Menj el Dániel, mert be vannak zárva és pecsételvee beszédek a vég idejéig.
+És monda: Menj el Dániel, mert be vannak zárva és pecsételve e beszédek a vég idejéig.
 fa4dh6fed 12,10
 Megtisztulnak, megfehérednek és megpróbáltatnak sokan, az istentelenek pedig istentelenül cselekesznek, és az istentelenek közül senki sem érti; de az értelmesek értik,
 fa4dh6fed 12,11
-És az időtől fogva, hogy elvétetik a mindennapiáldozat, és feltétetik a pusztító útálatosság, ezerkétszáz és kilenczven nap lesz.
+És az időtől fogva, hogy elvétetik a mindennapi áldozat, és feltétetik a pusztító útálatosság, ezerkétszáz és kilenczven nap lesz.
 fa4dh6fed 12,12
 Boldog, a ki várja és megéri az ezerháromszáz és harminczöt napot.
 fa4dh6fed 12,13
-Te pedig menj el a vég felé; és majd nyugszol, és felkelsz a te sorsodra a napoknak végén.
+Te pedig menj el a vég felé; és majd nyugszol, és felkelsz a te sorsodra a napoknak végén.  

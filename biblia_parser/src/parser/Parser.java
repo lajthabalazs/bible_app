@@ -12,12 +12,16 @@ import org.htmlcleaner.HtmlCleaner;
 import org.htmlcleaner.PrettyXmlSerializer;
 import org.htmlcleaner.TagNode;
 
-public class Parser {
+public class Parser { 
+	private static final String[] SMALL_WORDS = {"az", "a", "és"};
+
+	private static final String[] LARGE_WORDS = {"I.", "II.", "III.", "IV.", "V.", "VI.", "VII.", "VIII.", "IX.", "X."};
+
 	public static void main(String[] args) {
-		File sourceFolder= new File("e:\\work\\biblia\\content");
-		File outputFolder = new File("e:\\work\\biblia\\content\\raw");
-		File xmlFolder = new File("e:\\work\\biblia\\content\\xml");
-		//write(sourceFolder, outputFolder, xmlFolder, "38");
+		File sourceFolder= new File("e:\\work\\bible_app\\content");
+		File outputFolder = new File("e:\\work\\bible_app\\content\\raw");
+		File xmlFolder = new File("e:\\work\\bible_app\\content\\xml");
+		//write(sourceFolder, outputFolder, xmlFolder, "03");
 		parseAll(sourceFolder, outputFolder, xmlFolder);
 	}
 	
@@ -68,7 +72,7 @@ public class Parser {
 							if (content instanceof ContentNode) {
 								if (!content.toString().trim().equals("")) { 
 									try {
-										writer.write(content.toString().trim());
+										writer.write(capitalizeString(content.toString().trim()));
 										writer.flush();
 										break;
 									} catch (IOException e) {
@@ -78,11 +82,14 @@ public class Parser {
 							}
 						}
 					} else {
+						@SuppressWarnings("rawtypes")
 						List pChildren = ((TagNode) node).getAllChildren();
+						StringBuilder contentBuilder = new StringBuilder();
 						for (Object pChild : pChildren){
 							if (pChild instanceof TagNode && ((TagNode)pChild).getName().equals("b")) {
 								for (Object bChild : ((TagNode)pChild).getAllChildren()) {
 									if (bChild instanceof TagNode) {
+										System.out.println(((TagNode)bChild).getAttributeByName("name"));
 										writer.write("\nfa4dh6fed ");
 										writer.write(((TagNode)bChild).getAttributeByName("name"));
 										writer.write("\n");
@@ -90,11 +97,32 @@ public class Parser {
 									}
 								}
 							}
+							if (pChild instanceof TagNode && ((TagNode)pChild).getName().equals("em")) {
+								for (Object emChild : ((TagNode)pChild).getAllChildren()) {
+									if (emChild instanceof ContentNode) {
+										if (((ContentNode)emChild).getContent().trim().equals("[")) {
+											continue;
+										}
+										if (((ContentNode)emChild).getContent().trim().equals("]")) {
+											continue;
+										}
+										if (contentBuilder.length() > 0) {
+											contentBuilder.append(" ");
+										}
+										contentBuilder.append(((ContentNode)emChild).getContent().trim());
+									}									
+								}
+							}
 							if (pChild instanceof ContentNode) {
-								writer.write(((ContentNode)pChild).getContent().trim());
-								writer.flush();
+								if (contentBuilder.length() > 0) {
+									contentBuilder.append(" ");
+								}
+								contentBuilder.append(((ContentNode)pChild).getContent().trim());
 							}
 						}
+						System.out.println(contentBuilder.toString());
+						writer.write(contentBuilder.toString());
+						writer.flush();
 					}
 				}
 			}
@@ -120,6 +148,28 @@ public class Parser {
 				found = false;
 			}
 		}
-		return String.valueOf(chars);
+		
+		String capitalized = String.valueOf(chars);
+		String[] parts = capitalized.split(" ");
+		StringBuilder bulider = new StringBuilder();
+		for (String part : parts) {
+			for (String lowercase : SMALL_WORDS){
+				if (part.toLowerCase().equals(lowercase)) {
+					part = part.toLowerCase();
+					break;
+				}
+			}
+			for (String uppercase : LARGE_WORDS){
+				if (part.toUpperCase().equals(uppercase)) {
+					part = part.toUpperCase();
+					break;
+				}
+			}
+			if ((bulider.length() > 0) && (part.length() > 0)) {
+				bulider.append(" ");
+			}
+			bulider.append(part);
+		}
+		return bulider.toString();
 	}
 }

@@ -21,16 +21,18 @@ public final class R {
         public static final int paper_1280x720=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f080009;
+        public static final int action_settings=0x7f08000b;
         public static final int bookList=0x7f080001;
         public static final int bookTitle=0x7f080002;
-        public static final int chapterDetails=0x7f080005;
-        public static final int chapterList=0x7f080003;
-        public static final int chapterTitle=0x7f080004;
+        public static final int chapterDetails=0x7f080006;
+        public static final int chapterList=0x7f080004;
+        public static final int chapterListTitle=0x7f080003;
+        public static final int chapterTitle=0x7f080005;
         public static final int parseButton=0x7f080000;
-        public static final int verseContent=0x7f080008;
-        public static final int verseList=0x7f080006;
-        public static final int verseTitle=0x7f080007;
+        public static final int verseContent=0x7f08000a;
+        public static final int verseList=0x7f080008;
+        public static final int verseListTitle=0x7f080007;
+        public static final int verseTitle=0x7f080009;
     }
     public static final class layout {
         public static final int activity_reader=0x7f030000;
@@ -57,15 +59,9 @@ public final class R {
         Base application theme, dependent on API level. This theme is replaced
         by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
     
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
          */
         public static final int AppBaseTheme=0x7f060000;
         /**  Application theme. 
- All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
     }

@@ -1,4 +1,4 @@
-ESZTER KÖNYVE
+Eszter Könyve
 fa4dh6fed 1,1
 Ahasvérus idejében történt (ez az Ahasvérus az, a ki uralkodott Indiától fogva Szerecsenországig százhuszonhét tartományon),
 fa4dh6fed 1,2
@@ -14,7 +14,7 @@ Fehér gyapjú és kék bíbor szőnyegek valának megerősítve a fehér gyapj�
 fa4dh6fed 1,7
 Ittak pedig arany poharakból és különb-különbféle poharakból, és királyi bor bőven vala, királyi módon.
 fa4dh6fed 1,8
-És az ivás, rendelet folytán, kényszer nélkülmert így hagyta meg a király háza minden gondviselőjének, hogy kinek-kinek akarata szerint cselekedjenek.
+És az ivás, rendelet folytán, kényszer nélkül történt; mert így hagyta meg a király háza minden gondviselőjének, hogy kinek-kinek akarata szerint cselekedjenek.
 fa4dh6fed 1,9
 Vásti királyné is lakomát szerze a nőknek, a királyi házban, mely Ahasvérus királyé vala.
 fa4dh6fed 1,10
@@ -24,9 +24,9 @@ Hogy hozzák el Vástit, a királynét a király elé, királyi koronával, hogy
 fa4dh6fed 1,12
 De Vásti királyné nem akara menni a király szavára, mely vala az udvarmesterek által. Erre igen megharagudott a király, és az ő haragja felgerjede benne.
 fa4dh6fed 1,13
-És monda a király az időket mérő bölcseknek, (mert a királynak összes dolgai a jog- és törvénytudók elé
+És monda a király az időket mérő bölcseknek, (mert a királynak összes dolgai a jog- és törvénytudók elé tartoznak. 
 fa4dh6fed 1,14
-Legközelebb valának pedig hozzá: Karséna, Sétár, Admata, Társis, Méres, Marséna, Mémukán, Persiának és Médiának hétfejedelme, a kik láták a király arczát,elől ülének az országban):
+Legközelebb valának pedig hozzá: Karséna, Sétár, Admata, Társis, Méres, Marséna, Mémukán, Persiának és Médiának hét fejedelme, a kik láták a király arczát, és elől ülének az országban):
 fa4dh6fed 1,15
 Törvény szerint mit kellene cselekedni Vásti királynéval, mivelhogy nem teljesíté Ahasvérus királynak az udvarmesterek által üzent beszédét?
 fa4dh6fed 1,16
@@ -34,9 +34,9 @@ Akkor monda Mémukán a király és a fejedelmek előtt: Nemcsak a király ellen
 fa4dh6fed 1,17
 Mert a királyné cselekedetének híre fut minden asszonyhoz, úgy, hogy megvetik férjeiket szemeik előtt, és azt mondják: Ahasvérus király megparancsolá, hogy Vásti királyné hozzá menjen, és nem ment.
 fa4dh6fed 1,18
-És e naponfogják mondani Persia és Média fejedelemasszonyai, a kik meghallják a királyné cselekedetét, a király minden fejedelmének, és lesz elég megvetés és harag.
+És e napon ugyanazt fogják mondani Persia és Média fejedelemasszonyai, a kik meghallják a királyné cselekedetét, a király minden fejedelmének, és lesz elég megvetés és harag.
 fa4dh6fed 1,19
-Ha azért a királynak tetszik, bocsásson ki királyi parancsot a maga részéről és irattassék a Persa-Méd törvények közé,visszavonhatatlanul, hogy ne jőjjön többé Vásti Ahasvérus király színe elé, és hogy az ő királyságát adja a király másnak, a ki jobb ő nálánál.
+Ha azért a királynak tetszik, bocsásson ki királyi parancsot a maga részéről és irattassék a Persa-Méd törvények közé,  visszavonhatatlanul, hogy ne jőjjön többé Vásti Ahasvérus király színe elé, és hogy az ő királyságát adja a király másnak, a ki jobb ő nálánál.
 fa4dh6fed 1,20
 És hallják meg a király rendeletét, a melyet teend, egész országában, mert igen nagy az, hogy minden asszony adja meg a tiszteletet az ő férjének, a legnagyobbtól a legkisebbig.
 fa4dh6fed 1,21
@@ -54,7 +54,7 @@ fa4dh6fed 2,4
 fa4dh6fed 2,5
 Vala egy zsidó férfiú Susán várában, a kinek neve Márdokeus, Jáirnak fia, a ki Simei fia, a ki Kis fia, Benjámin nemzetségéből,
 fa4dh6fed 2,6
-A ki Jeruzsálemből fogva vitetett el a száműzött néppel, a mely elvitetett Jekóniással,Júda királyával együtt, a kit rabságba vitt el Nabukodonozor, babilóniai király.
+A ki Jeruzsálemből fogva vitetett el a száműzött néppel, a mely elvitetett Jekóniással, Júda királyával együtt, a kit rabságba vitt el Nabukodonozor, babilóniai király.
 fa4dh6fed 2,7
 És ez gondviselője volt Hadassának, azaz Eszternek az ő nagybátyja leányának; mert sem atyja, sem anyja nem volt, és a leány szép alakú és szép ábrázatú vala, s mikor meghalt az ő atyja és anyja, Márdokeus leánya gyanánt magához fogadá.
 fa4dh6fed 2,8
@@ -102,25 +102,25 @@ fa4dh6fed 3,5
 fa4dh6fed 3,6
 De kevés volt előtte, hogy csakis Márdokeusra magára vesse rá kezét, (mert megmondták néki Márdokeus nemzetségét) azért igyekezett Hámán elveszteni minden zsidót, a ki Ahasvérus egész országában vala, a Márdokeus nemzetét.
 fa4dh6fed 3,7
-Az első hónapban, ez Nisán hónapja, Ahasvérus királyságának tizenkettedik évében, Púrt,azaz sorsot vetének Hámán előtt napról-napra és hónapról-hónapra a tizenkettedikig, s ez Adár hónapja.
+Az első hónapban, ez Nisán hónapja, Ahasvérus királyságának tizenkettedik évében, Púrt, azaz sorsot vetének Hámán előtt napról-napra és hónapról-hónapra a tizenkettedikig, s ez Adár hónapja.
 fa4dh6fed 3,8
 És monda Hámán Ahasvérus királynak: Van egy nép, elszórva és elkülönítve a népek között, országod minden tartományában, és az ő törvényei különböznek minden nemzetségtől, és a király törvényeit nem teljesíti; a királynak bizony nem illik úgy hagyni őket.
 fa4dh6fed 3,9
 Ha a királynak tetszik, írja meg, hogy ők elvesztessenek, és én tízezer tálentom ezüstöt mérek a hivatalnokok kezeibe, hogy a király kincstárába vigyék.
 fa4dh6fed 3,10
-Akkor lehúzá a király az ő gyűrűjét a maga kezéről,és adá azt az Agágibeli Hámánnak, Hammedáta fiának, a zsidók ellenségének.
+Akkor lehúzá a király az ő gyűrűjét a maga kezéről, és adá azt az Agágibeli Hámánnak, Hammedáta fiának, a zsidók ellenségének.
 fa4dh6fed 3,11
 És monda a király Hámánnak: Az ezüst tied legyen s a nép is, hogy azt cselekedjed vele, a mi néked tetszik.
 fa4dh6fed 3,12
-Előhivatának azért a király irnokai az első hónap tizenharmadik napján, és megiraték minden úgy, a miként Hámán parancsolá, a király fejedelmeinek és a kormányzóknak, a kik az egyes tartományokban valának, és minden egyes nép fejeinek; minden tartománynak annak írása szerint, és minden egyes népnek az ő nyelve szerint, Ahasvérus király nevében iratott és megpecsételtetett a királygyűrűjével.
+Előhivatának azért a király irnokai az első hónap tizenharmadik napján, és megiraték minden úgy, a miként Hámán parancsolá, a király fejedelmeinek és a kormányzóknak, a kik az egyes tartományokban valának, és minden egyes nép fejeinek; minden tartománynak annak írása szerint, és minden egyes népnek az ő nyelve szerint, Ahasvérus király nevében iratott és megpecsételtetett a király gyűrűjével.
 fa4dh6fed 3,13
 És elküldettek a levelek futárok által a király minden tartományába, hogy kipusztítsák, megöljék és megsemmisítsék mind a zsidókat, ifjútól a vénig, gyermekeket és asszonyokat egy napon, tizenharmadik napján a tizenkettedik hónapnak, (ez Adár hónapja) és hogy javaikat elragadják.
 fa4dh6fed 3,14
-Az írásnak mássa, hogy tétessék törvény minden egyes tartományban, meghirdettetett minden népnek, hogy legyenek készenazon a napon.
+Az írásnak mássa, hogy tétessék törvény minden egyes tartományban, meghirdettetett minden népnek, hogy legyenek készen azon a napon.
 fa4dh6fed 3,15
 A futárok kimenének gyorsan a király parancsával. És a törvény Susán várában is kiadatott; a király pedig és Hámán leültek, hogy igyanak; de Susán városa felháborodott.
 fa4dh6fed 4,1
-Márdokeus pedig megtudta mindazt, a mi történt; és Márdokeus megszaggatá ruháit, zsákba és hamuba öltözék, és a város közepére ménekiálta nagy és keserves kiáltással.
+Márdokeus pedig megtudta mindazt, a mi történt; és Márdokeus megszaggatá ruháit, zsákba és hamuba öltözék, és a város közepére méne és kiálta nagy és keserves kiáltással.
 fa4dh6fed 4,2
 És eljött a királynak kapuja elé; mert nem volt szabad bemenni a király kapuján zsákruhában.
 fa4dh6fed 4,3
@@ -138,9 +138,9 @@ fa4dh6fed 4,8
 fa4dh6fed 4,9
 Elméne azért Haták, és elmondá Eszternek Márdokeus szavait.
 fa4dh6fed 4,10
-És monda Eszter Hatáknak, és meghagyá néki, hogyMárdokeussal:
+És monda Eszter Hatáknak, és meghagyá néki, hogy tudassa Márdokeussal:
 fa4dh6fed 4,11
-A király minden szolgája és a király tartományainak népe tudja, hogy minden férfinak és asszonynak, a ki bemegy a királyhoz a belső udvarba hivatlanul, egy a törvénye, hogy megölettessék, kivévén, a kire a királyaranypálczáját kinyujtja, az él; én pedig nem hívattam, hogy a királyhoz bemenjek, már harmincz napja.
+A király minden szolgája és a király tartományainak népe tudja, hogy minden férfinak és asszonynak, a ki bemegy a királyhoz a belső udvarba hivatlanul, egy a törvénye, hogy megölettessék, kivévén, a kire a király aranypálczáját kinyujtja, az él; én pedig nem hívattam, hogy a királyhoz bemenjek, már harmincz napja.
 fa4dh6fed 4,12
 És megmondák Márdokeusnak Eszter szavait.
 fa4dh6fed 4,13
@@ -158,7 +158,7 @@ Történt pedig harmadnapon, hogy Eszter felöltözött királyiasan, és megál
 fa4dh6fed 5,2
 És lőn, a mint meglátá a király Eszter királynét, hogy áll az udvarban, kegyet talála szemei előtt, és kinyujtá a király Eszterre az arany pálczát, a mely kezében vala, akkor oda méne Eszter, és megilleté az arany pálcza végét.
 fa4dh6fed 5,3
-És monda néki a király: Minéked Eszter királyné? És mi a kérésed? Ha az ország fele is,megadatik néked.
+És monda néki a király: Mi kell néked Eszter királyné? És mi a kérésed? Ha az ország fele is, megadatik néked.
 fa4dh6fed 5,4
 És felele Eszter: Ha a királynak tetszik, jőjjön a király és Hámán ma a lakomára, melyet néki készítettem.
 fa4dh6fed 5,5
@@ -180,15 +180,15 @@ fa4dh6fed 5,12
 fa4dh6fed 5,13
 De mindez semmit sem ér nékem, valamíg látom a zsidó Márdokeust ülni a király kapujában.
 fa4dh6fed 5,14
-És monda néki Zéres, az ő felesége és minden barátja: Csináljanak ötven könyöknyi magasfát, és reggel mondd meg a királynak, hogy Márdokeust akaszszák reá, és akkor menj a királylyal a lakomára vígan. És tetszett a dolog Hámánnak, és megcsináltatta a fát.
+És monda néki Zéres, az ő felesége és minden barátja: Csináljanak ötven könyöknyi magas fát, és reggel mondd meg a királynak, hogy Márdokeust akaszszák reá, és akkor menj a királylyal a lakomára vígan. És tetszett a dolog Hámánnak, és megcsináltatta a fát.
 fa4dh6fed 6,1
 Azon éjjel kerülte az álom a királyt, és megparancsolá, hogy hozzák elő a történetek emlékkönyvét, és ezek olvastattak a király előtt.
 fa4dh6fed 6,2
-És írva találák, a mint Márdokeus feljelentéBigtánát és Térest, a király két udvarmesterét, a küszöb őrzőit, a kik azon voltak, hogy rávetik kezöket Ahasvérus királyra.
+És írva találák, a mint Márdokeus feljelenté Bigtánát és Térest, a király két udvarmesterét, a küszöb őrzőit, a kik azon voltak, hogy rávetik kezöket Ahasvérus királyra.
 fa4dh6fed 6,3
-És monda a király: Micsoda tisztességet és méltóságot adtak azért Márdokeusnak? És felelének a király apródjai, az ő szolgái: Semmit sem juttattak néki
+És monda a király: Micsoda tisztességet és méltóságot adtak azért Márdokeusnak? És felelének a király apródjai, az ő szolgái: Semmit sem juttattak néki azért. 
 fa4dh6fed 6,4
-Akkor monda a király: Ki van az udvarban? (Mert Hámán jöve a királyi ház külső udvarába, hogy megmondja a királynak, hogy akasztassa fel Márdokeust afára, a melyet készittetett néki.)
+Akkor monda a király: Ki van az udvarban? (Mert Hámán jöve a királyi ház külső udvarába, hogy megmondja a királynak, hogy akasztassa fel Márdokeust a fára, a melyet készittetett néki.)
 fa4dh6fed 6,5
 És felelének néki a király apródjai: Ímé Hámán áll az udvarban. És mondja a király: Jőjjön be!
 fa4dh6fed 6,6
@@ -196,23 +196,23 @@ fa4dh6fed 6,6
 fa4dh6fed 6,7
 És monda Hámán a királynak: A férfiúnak, a kinek a király tisztességet kiván,
 fa4dh6fed 6,8
-Hozzanak királyi ruhát,a melyben a király jár, és lovat, a melyen a király szokott ülniés a melynek fejére királyi koronát szoktak tenni.
+Hozzanak királyi ruhát, a melyben a király jár, és lovat, a melyen a király szokott ülni és a melynek fejére királyi koronát szoktak tenni.
 fa4dh6fed 6,9
-És adják azt a ruhát és lovat a király egyik legelső fejedelmének a kezébe, és öltöztessék fel azt a férfiút, a kinek a király tisztességet kiván, és hordozzák őt a lovon a város utczáin, és kiáltsák előtte:Így cselekesznek a férfiúval, a kinek a király tisztességet kiván.
+És adják azt a ruhát és lovat a király egyik legelső fejedelmének a kezébe, és öltöztessék fel azt a férfiút, a kinek a király tisztességet kiván, és hordozzák őt a lovon a város utczáin, és kiáltsák előtte: Így cselekesznek a férfiúval, a kinek a király tisztességet kiván.
 fa4dh6fed 6,10
-Akkor monda a király Hámánnak: Siess, hozd elő azt a ruhát és azt a lovat, a mint mondád,és cselekedjél úgy a zsidó Márdokeussal, a ki a király kapujában ül, és semmit el ne hagyj mindabból, a mit szóltál.
+Akkor monda a király Hámánnak: Siess, hozd elő azt a ruhát és azt a lovat, a mint mondád, és cselekedjél úgy a zsidó Márdokeussal, a ki a király kapujában ül, és semmit el ne hagyj mindabból, a mit szóltál.
 fa4dh6fed 6,11
-Előhozá azért Hámán a ruhát és a lovat, és felöltöztetéMárdokeust, és lovon hordozá őt a város utczáján, és kiáltá előtte: Így cselekesznek a férfiúval, a kinek a király tisztességet kiván.
+Előhozá azért Hámán a ruhát és a lovat, és felöltözteté Márdokeust, és lovon hordozá őt a város utczáján, és kiáltá előtte: Így cselekesznek a férfiúval, a kinek a király tisztességet kiván.
 fa4dh6fed 6,12
 És Márdokeus megtére a király kapujához. Hámán pedig siete házába, búsulva és fejét betakarva.
 fa4dh6fed 6,13
-És elbeszélé Hámán Zéresnek, az ő feleségének és minden barátjának mindazt, a mi vele történt. És mondának néki az ő bölcsei és Zéres, az ő felesége: Ha Márdokeus, a ki előtt kezdtél hanyatlani, a zsidók magvából való: nem bírsz vele,hanem bizony elesel előtte.
+És elbeszélé Hámán Zéresnek, az ő feleségének és minden barátjának mindazt, a mi vele történt. És mondának néki az ő bölcsei és Zéres, az ő felesége: Ha Márdokeus, a ki előtt kezdtél hanyatlani, a zsidók magvából való: nem bírsz vele, hanem bizony elesel előtte.
 fa4dh6fed 6,14
-És a míg így beszélének vele, eljövének a király udvarmesterei, és siettek Hámánt a lakomára vinni, amelyet készített vala Eszter.
+És a míg így beszélének vele, eljövének a király udvarmesterei, és siettek Hámánt a lakomára vinni, a melyet készített vala Eszter.
 fa4dh6fed 7,1
 És elméne a király és Hámán a lakomára, Eszter királynéhoz.
 fa4dh6fed 7,2
-És mondaa király Eszternek másodnapon is, borivás közben: Mi a te kivánságod Eszter királyné? Megadatik. És micsoda a te kérésed? Ha az országnak fele is, meglészen.
+És monda a király Eszternek másodnapon is, borivás közben: Mi a te kivánságod Eszter királyné? Megadatik. És micsoda a te kérésed? Ha az országnak fele is, meglészen.
 fa4dh6fed 7,3
 És felele Eszter királyné, és monda: Ha kegyet találtam szemeid előtt, oh király! és ha a királynak tetszik, add meg nékem életemet kivánságomra, és nemzetségemet kérésemre.
 fa4dh6fed 7,4
@@ -220,21 +220,21 @@ Mert eladattunk, én és az én nemzetségem, hogy kipusztítsanak, megöljenek 
 fa4dh6fed 7,5
 És szóla Ahasvérus király, és monda Eszternek, a királynénak: Ki az és hol van az, a kit az ő szíve erre vitt, hogy azt cselekedné?
 fa4dh6fed 7,6
-És monda Eszter: Az ellenség és gyűlölő, ez a gonoszHámán! Akkor Hámán megrettene a király és királyné előtt.
+És monda Eszter: Az ellenség és gyűlölő, ez a gonosz Hámán! Akkor Hámán megrettene a király és királyné előtt.
 fa4dh6fed 7,7
-A király pedig felkele haragjában a borivástóla palotakertbe; Hámán pedig ott maradt, hogy életéért könyörögjön Eszter királynénál; mert látta, hogy a király részéről elvégeztetett az ő veszte.
+A király pedig felkele haragjában a borivástól és méne a palotakertbe; Hámán pedig ott maradt, hogy életéért könyörögjön Eszter királynénál; mert látta, hogy a király részéről elvégeztetett az ő veszte.
 fa4dh6fed 7,8
 És mikor a király visszatért a palota kertjéből a borivás házába, Hámán a kerevetre esék, a melyen Eszter vala. Akkor monda a király: Erőszakot is akar elkövetni a királynén én nálam a házban?! A mint e szó kijött a király szájából, Hámán arczát befedék.
 fa4dh6fed 7,9
-És monda Harbona, az udvarmesterek egyike a király előtt: Ímé a fais, a melyet készített Hámán Márdokeusnak, a ki a király javáraszólott vala, ott áll Hámán házában, ötven könyöknyi magas. És monda a király: Akasszátok őtmagát reá!
+És monda Harbona, az udvarmesterek egyike a király előtt: Ímé a fa is, a melyet készített Hámán Márdokeusnak, a ki a király javára szólott vala, ott áll Hámán házában, ötven könyöknyi magas. És monda a király: Akasszátok őt magát reá!
 fa4dh6fed 7,10
 Felakaszták azért Hámánt a fára, a melyet készített Márdokeusnak, és megszünék a király haragja.
 fa4dh6fed 8,1
-Azon a napon adá Ahasvérus király Eszter királynénak Hámánnak, a zsidók ellenségének házát, és Márdokeus beméne a király elébe, mert elmondottaEszter, micsodája ő néki.
+Azon a napon adá Ahasvérus király Eszter királynénak Hámánnak, a zsidók ellenségének házát, és Márdokeus beméne a király elébe, mert elmondotta Eszter, micsodája ő néki.
 fa4dh6fed 8,2
-Lehúzá azért a király az ő gyűrűjét, a melyet Hámántól elvett,és adá azt Márdokeusnak. Eszter pedig Márdokeust tette Hámán házának fejévé.
+Lehúzá azért a király az ő gyűrűjét, a melyet Hámántól elvett, és adá azt Márdokeusnak. Eszter pedig Márdokeust tette Hámán házának fejévé.
 fa4dh6fed 8,3
-És tovább szóla Eszter a király előtt, és leborult annak lábaihoz és sírt és könyörgött, hogy semmisítse meg az agági Hámán gonoszságátés tervét, a melyet kigondolt a zsidók ellen.
+És tovább szóla Eszter a király előtt, és leborult annak lábaihoz és sírt és könyörgött, hogy semmisítse meg az agági Hámán gonoszságát és tervét, a melyet kigondolt a zsidók ellen.
 fa4dh6fed 8,4
 És a király kinyujtá Eszterre az arany pálczát, és Eszter felkelt és megálla a király előtt,
 fa4dh6fed 8,5
@@ -242,33 +242,33 @@ fa4dh6fed 8,5
 fa4dh6fed 8,6
 Mert hogyan tudnám nézni azt a nyomorúságot, mely érné az én nemzetségemet, és hogyan tudnám nézni az én atyámfiainak veszedelmét?
 fa4dh6fed 8,7
-Monda pedig Ahasvérus király Eszter királynénak és a zsidó Márdokeusnak: ÍméHámán házát Eszternek adtam, és őtfelakasztották a fára azért, mert a zsidókra bocsátotta kezét.
+Monda pedig Ahasvérus király Eszter királynénak és a zsidó Márdokeusnak: Ímé Hámán házát Eszternek adtam, és őt felakasztották a fára azért, mert a zsidókra bocsátotta kezét.
 fa4dh6fed 8,8
-Ti pedig írjatok a zsidóknak, a mint tetszik néktek a király nevében és pecsételjétek meg a király gyűrűjével; mert azírás, a mely a király nevében van írva és a királynak gyűrűjével van megpecsételve,vissza nem vonható.
+Ti pedig írjatok a zsidóknak, a mint tetszik néktek a király nevében és pecsételjétek meg a király gyűrűjével; mert az írás, a mely a király nevében van írva és a királynak gyűrűjével van megpecsételve, vissza nem vonható.
 fa4dh6fed 8,9
-Hivattatának azért a király irnokai azonnal, a harmadikhónapban (ez a Siván hónap), annak huszonharmadik napján, és megírák úgy, a miként Márdokeus parancsolá a zsidóknak és a fejedelmeknek, a kormányzóknak és a tartományok fejeinek, Indiától fogva Szerecsenországigszázhuszonhét tartományba; minden tartománynak annak írása szerint, és minden nemzetségnek az ő nyelvén, és a zsidóknak az ő írások és az ő nyelvök szerint.
+Hivattatának azért a király irnokai azonnal, a harmadik hónapban (ez a Siván hónap), annak huszonharmadik napján, és megírák úgy, a miként Márdokeus parancsolá a zsidóknak és a fejedelmeknek, a kormányzóknak és a tartományok fejeinek, Indiától fogva Szerecsenországig százhuszonhét tartományba; minden tartománynak annak írása szerint, és minden nemzetségnek az ő nyelvén, és a zsidóknak az ő írások és az ő nyelvök szerint.
 fa4dh6fed 8,10
 És megírá Ahasvérus király nevében, és megpecsételé a király gyűrűjével. És külde leveleket lovas futárok által, a kik lovagolnak a királyi ménes gyors paripáin,
 fa4dh6fed 8,11
 Hogy megengedte a király a zsidóknak, a kik bármely városban vannak, hogy egybegyűljenek és keljenek fel életökért, és hogy kipusztítsák, megöljék és megsemmisítsék minden népnek és tartománynak seregét, a mely őket nyomorgatja, kicsinyeket és nőket, és hogy javaikat elragadják.
 fa4dh6fed 8,12
-Egy napon, Ahasvérus királynak minden tartományában, tizenharmadik napján a tizenkettedikhónapnak (ez Adár hónapja).
+Egy napon, Ahasvérus királynak minden tartományában, tizenharmadik napján a tizenkettedik hónapnak (ez Adár hónapja).
 fa4dh6fed 8,13
 Az írásnak mássa, hogy adassék törvény minden egyes tartományban, meghirdettetett minden népnek, hogy a zsidók készen legyenek azon a napon, hogy megbosszulják magokat ellenségeiken.
 fa4dh6fed 8,14
 A futárok a királyi gyors paripákon kimenének sietve és sürgősen a király parancsolata szerint; és kiadatott a törvény Susán várában is.
 fa4dh6fed 8,15
-Márdokeus pedig kiméne a király elől kék bíbor és fehér királyiruhában, és nagy arany koronával, és bíborbársony palástban, és Susán városa vígada és örvendeze.
+Márdokeus pedig kiméne a király elől kék bíbor és fehér királyi  ruhában, és nagy arany koronával, és bíborbársony palástban, és Susán városa vígada és örvendeze.
 fa4dh6fed 8,16
 A zsidóknak világosság támada, öröm, vigasság és tisztesség.
 fa4dh6fed 8,17
-És minden tartományban és minden városban, a hová a király szava és rendelete eljuta, öröme és vigalma lőn a zsidóknak, lakoma és ünnep,és sokan a föld népei közül zsidókká lettek; mert a zsidóktól valófélelem szállta meg őket.
+És minden tartományban és minden városban, a hová a király szava és rendelete eljuta, öröme és vigalma lőn a zsidóknak, lakoma és ünnep, és sokan a föld népei közül zsidókká lettek; mert a zsidóktól való félelem szállta meg őket.
 fa4dh6fed 9,1
-A tizenkettedik hónapban azért (ez az Adár hónap), annak tizenharmadik napján, a mikor eljötta király szavának és végzésének, hogy akkor teljesíttessék, azon a napon,a melyen a zsidók ellenségei remélték, hogy hatalmat vesznek rajtok, ellenkezőleg fordult; mert magok a zsidók vőnek hatalmat azokon, a kik őket gyűlölék.
+A tizenkettedik hónapban azért (ez az Adár hónap), annak tizenharmadik napján, a mikor eljött az ideje a király szavának és végzésének, hogy akkor teljesíttessék, azon a napon, a melyen a zsidók ellenségei remélték, hogy hatalmat vesznek rajtok, ellenkezőleg fordult; mert magok a zsidók vőnek hatalmat azokon, a kik őket gyűlölék.
 fa4dh6fed 9,2
-Egybegyűlének a zsidók városaikban, Ahasvérus király minden tartományában, hogy rávessék kezöket azokra, a kikvesztöket keresték, és senki sem állhatott meg előttük; mert miattok való félelem szállott minden népre.
+Egybegyűlének a zsidók városaikban, Ahasvérus király minden tartományában, hogy rávessék kezöket azokra, a kik vesztöket keresték, és senki sem állhatott meg előttük; mert miattok való félelem szállott minden népre.
 fa4dh6fed 9,3
-És a tartományok minden feje, fejedelmek, kormányzók és a király hivatalnokai magasztalták a zsidókat;mert a Márdokeustól való félelem szállott rájok.
+És a tartományok minden feje, fejedelmek, kormányzók és a király hivatalnokai magasztalták a zsidókat; mert a Márdokeustól való félelem szállott rájok.
 fa4dh6fed 9,4
 Mert nagy volt Márdokeus a király házában, és híre elment minden tartományba; mert ez a férfiú, Márdokeus, emelkedett és nagyobbodott.
 fa4dh6fed 9,5
@@ -282,49 +282,49 @@ Porátát, Adáliát és Aridátát.
 fa4dh6fed 9,9
 Parmástát, Arisait, Aridait és Vajzátát.
 fa4dh6fed 9,10
-Tíz fiát Hámánnak, Hammedáta fiának, a zsidók ellenségének megölték; dezsákmányra nem tették rá kezöket.
+Tíz fiát Hámánnak, Hammedáta fiának, a zsidók ellenségének megölték; de zsákmányra nem tették rá kezöket.
 fa4dh6fed 9,11
 Azon a napon megtudá a király a Susán várában megöletteknek számát.
 fa4dh6fed 9,12
 És monda a király Eszter királynénak: Susán várában megöltek a zsidók és megsemmisítettek ötszáz férfiút és Hámán tíz fiát; a király többi tartományaiban mit cselekesznek? Mi a kivánságod? és megadatik néked. És mi még a te kérésed? és meglészen.
 fa4dh6fed 9,13
-És monda Eszter: Ha a királynak tetszik, engedje meg holnap is a zsidóknak, a kik Susánban laknak, hogy cselekedjenek a mai parancsolat szerint, és Hámán tíz fiátakaszszák fel a fára.
+És monda Eszter: Ha a királynak tetszik, engedje meg holnap is a zsidóknak, a kik Susánban laknak, hogy cselekedjenek a mai parancsolat szerint, és Hámán tíz fiát akaszszák fel a fára.
 fa4dh6fed 9,14
 És szóla a király, hogy úgy tegyenek. És kiadaték a parancs Susánban, és Hámán tíz fiát felakasztották.
 fa4dh6fed 9,15
 És összegyűltek a zsidók, a kik Susánban valának, Adár havának tizennegyedik napján is, és megölének Susánban háromszáz férfiút; de zsákmányra nem tették rá kezöket.
 fa4dh6fed 9,16
-És a többi zsidók is, a kik a király tartományaiban voltak, összegyűlének és feltámadtak életökért, és békében maradtak ellenségeiktől; megölének pedig gyűlölőikből hetvenötezeret; de zsákmányranem tették rá kezöket.
+És a többi zsidók is, a kik a király tartományaiban voltak, összegyűlének és feltámadtak életökért, és békében maradtak ellenségeiktől; megölének pedig gyűlölőikből hetvenötezeret; de zsákmányra nem tették rá kezöket.
 fa4dh6fed 9,17
-az Adár hónapjának tizenharmadik napján, és megnyugovának a tizennegyedik napon, és tették azt vigalom és öröm napjává.
+Történt ez az Adár hónapjának tizenharmadik napján, és megnyugovának a tizennegyedik napon, és tették azt vigalom és öröm napjává.
 fa4dh6fed 9,18
-De a zsidók, a kik Susánban valának, egybegyűlének azontizenharmadik és tizennegyedik napján, és megnyugovának azontizenötödik napján, és azt tettékvigalom és öröm napjává.
+De a zsidók, a kik Susánban valának, egybegyűlének azon hónap tizenharmadik és tizennegyedik napján, és megnyugovának azon hónap tizenötödik napján, és azt tették vigalom és öröm napjává.
 fa4dh6fed 9,19
-Azért a vidéki zsidók, a kik kerítetlen falvakban laktak, Adár hónapjának tizennegyedik napját tették öröm és vigalomvá és ünneppé, a melyen ajándékokatküldözgetnek egymásnak.
+Azért a vidéki zsidók, a kik kerítetlen falvakban laktak, Adár hónapjának tizennegyedik napját tették öröm és vigalom napjá vá és ünneppé, a melyen ajándékokat küldözgetnek egymásnak.
 fa4dh6fed 9,20
 És megírá Márdokeus e dolgokat, és leveleket külde minden zsidónak, a ki Ahasvérus király minden tartományában, közel és távol, vala.
 fa4dh6fed 9,21
 Meghagyva nékik, hogy tartsák meg az Adár hónapnak tizennegyedik napját és annak tizenötödik napját évről-évre,
 fa4dh6fed 9,22
-Mint olyan napokat, a melyeken megnyugovának a zsidók ellenségeiktől, és mint olyan hónapot, a melyben keserűségök örömre és siralmuk ünnepre fordult; hogy tartsák meg azokat vigalom és öröm napjaiul, és küldjenek adjándékotegymásnak és adományokat a szegényeknek.
+Mint olyan napokat, a melyeken megnyugovának a zsidók ellenségeiktől, és mint olyan hónapot, a melyben keserűségök örömre és siralmuk ünnepre fordult; hogy tartsák meg azokat vigalom és öröm napjaiul, és küldjenek adjándékot egymásnak és adományokat a szegényeknek.
 fa4dh6fed 9,23
-És felfogadák a zsidók,hogy megcselekszik, a mit kezdettek és a mit Márdokeus íra nékik.
+És felfogadák a zsidók, hogy megcselekszik, a mit kezdettek és a mit Márdokeus íra nékik.
 fa4dh6fed 9,24
-Mert az agági Hámán, Hammedátának fia, minden zsidónak ellensége, szándékozott a zsidókatelveszteni, és Púrt, azaz sorsot vetett, hogy őket megrontsa és megsemmisítse;
+Mert az agági Hámán, Hammedátának fia, minden zsidónak ellensége, szándékozott a zsidókat elveszteni, és Púrt, azaz sorsot vetett, hogy őket megrontsa és megsemmisítse;
 fa4dh6fed 9,25
-De mikor a király tudomására jutott, megparancsolá levélben, hogy gonosz szándéka, a melyet gondolt a zsidók ellen,forduljon az ő fejére, és felakaszták őt és fiait a fára.
+De mikor a király tudomására jutott, megparancsolá levélben, hogy gonosz szándéka, a melyet gondolt a zsidók ellen, forduljon az ő fejére, és felakaszták őt és fiait a fára.
 fa4dh6fed 9,26
-Annakokáért elnevezék e napokat Púrimnaka Púr nevétől. És azért ezen levél minden szava szerint, és a mit láttak erre nézve, és a mi érte őket:
+Annakokáért elnevezék e napokat Púrimnak a Púr nevétől. És azért ezen levél minden szava szerint, és a mit láttak erre nézve, és a mi érte őket:
 fa4dh6fed 9,27
-Elhatározák és elfogadák a zsidók mind magokra, mind ivadékokra és mindazokra, a kikhozzájok csatlakoznak, örök időkre, hogy megtartják e két napot,írásuk és határozatuk szerint, minden esztendőben.
+Elhatározák és elfogadák a zsidók mind magokra, mind ivadékokra és mindazokra, a kik hozzájok csatlakoznak, örök időkre, hogy megtartják e két napot, írásuk és határozatuk szerint, minden esztendőben.
 fa4dh6fed 9,28
-És ezen napok emlékezetben lesznek és megülik azokat nemzedékről- nemzedékre, családról-családra, tartományról-tartományra és városról- városra. És ezek a Púrimnapjai el nem múlnak a zsidók között, és emlékök ki nem vész ivadékaik közül.
+És ezen napok emlékezetben lesznek és megülik azokat nemzedékről- nemzedékre, családról-családra, tartományról-tartományra és városról- városra. És ezek a Púrim napjai el nem múlnak a zsidók között, és emlékök ki nem vész ivadékaik közül.
 fa4dh6fed 9,29
-Ira pedig Eszter királyné, Abihail leánya és a zsidó Márdokeus egész hatalommal, hogy megerősítsék emásodik levelet a Púrimról.
+Ira pedig Eszter királyné, Abihail leánya és a zsidó Márdokeus egész hatalommal, hogy megerősítsék e második levelet a Púrimról.
 fa4dh6fed 9,30
 És külde leveleket minden zsidónak Ahasvérus országának százhuszonhét tartományába, békességes és igazságos szavakkal;
 fa4dh6fed 9,31
-Hogy megerősíttessenek ezek a Púrim napjai, meghatározottidejökben, a miképen meghagyta nékik a zsidó Márdokeus és Eszter királyné, és a mint elrendeltékmagokra és ivadékaikra a bőjtölés és jajkiáltás dolgát.
+Hogy megerősíttessenek ezek a Púrim napjai, meghatározott idejökben, a miképen meghagyta nékik a zsidó Márdokeus és Eszter királyné, és a mint elrendelték magokra és ivadékaikra a bőjtölés és jajkiáltás dolgát.
 fa4dh6fed 9,32
 És Eszter beszéde megerősíté ezt a Púrim történetét, és könyvbe iraték.
 fa4dh6fed 10,1
@@ -332,4 +332,4 @@ fa4dh6fed 10,1
 fa4dh6fed 10,2
 Az ő erejének és hatalmának minden cselekedete pedig és Márdokeus nagy méltóságának története, a mellyel felmagasztalá őt a király, avagy nincsenek-é megírva Média és Persia királyainak évkönyveiben,
 fa4dh6fed 10,3
-Mert a zsidó Márdokeus második volt Ahasvérus király után, nagy a zsidók között, és kedves az ő atyjafiai sokasága előtt, a ki javát keresé népének, és békességet szerze minden ivadékának.
+Mert a zsidó Márdokeus második volt Ahasvérus király után, nagy a zsidók között, és kedves az ő atyjafiai sokasága előtt, a ki javát keresé népének, és békességet szerze minden ivadékának.  

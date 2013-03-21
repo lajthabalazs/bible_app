@@ -1,4 +1,4 @@
-MÓZES HARMADIK KÖNYVE A LÉVITÁK EGYHÁZI SZOLGÁLATÁRÓL
+Mózes Harmadik Könyve a Léviták Egyházi Szolgálatáról
 fa4dh6fed 1,1
 Szólítá Mózest és beszéle vele az Úr a gyülekezet sátorából, mondván:
 fa4dh6fed 1,2
@@ -38,7 +38,7 @@ Mikor valaki ételáldozatot akar áldozni az Úrnak, lisztlángból áldozzék,
 fa4dh6fed 2,2
 És vigye azt az Áron fiaihoz, a papokhoz, és vegyen ki abból egy tele marokkal; annak lisztlángjából és olajából, az egész temjénével együtt, és füstölögtesse el a pap az oltáron annak emlékeztető részéül. Ez a tűzáldozat kedves illatú az Úrnak.
 fa4dh6fed 2,3
-A mi pedig megmarad az ételáldozatból,Ároné és az ő fiaié legyen; szentségesez az Úrnak tűzáldozatai között.
+A mi pedig megmarad az ételáldozatból, Ároné és az ő fiaié legyen; szentséges áldozat ez az Úrnak tűzáldozatai között.
 fa4dh6fed 2,4
 Hogyha pedig ételáldozatot kemenczében sültből akar áldozni valaki lisztlángból, olajjal elegyített kovásztalan lepényei, vagy olajjal megkent kovásztalan pogácsái legyenek.
 fa4dh6fed 2,5
@@ -52,11 +52,11 @@ fa4dh6fed 2,8
 fa4dh6fed 2,9
 És vegyen a pap az ételáldozatból emlékeztető részt, és füstölögtesse el az oltáron; tűzáldozat ez, kedves illatú az Úrnak.
 fa4dh6fed 2,10
-A mi pedig megmarad az ételáldozatból, Áronéés az ő fiaié legyen; szentséges áldozat ez az Úrnak tűzáldozatai között.
+A mi pedig megmarad az ételáldozatból, Ároné és az ő fiaié legyen; szentséges áldozat ez az Úrnak tűzáldozatai között.
 fa4dh6fed 2,11
 Semmi ételáldozat, a mit az Úrnak áldoztok, kovászszal ne készüljön; mert kovászból és mézből semmit se füstölögtethettek az Úrnak a tűzáldozatok között.
 fa4dh6fed 2,12
-Zsengeáldozatul felvihetitekazokat az Úrnak, de az oltárra nem juthatnak fel kedves illatul.
+Zsengeáldozatul felvihetitek azokat az Úrnak, de az oltárra nem juthatnak fel kedves illatul.
 fa4dh6fed 2,13
 Minden te ételáldozatodat pedig sózd meg sóval, és a te ételáldozatodból soha el ne maradjon a te Istened szövetségének sója; minden te áldozatodhoz sót adj.
 fa4dh6fed 2,14
@@ -70,11 +70,11 @@ Hogyha hálaáldozattal áldozik valaki, ha tulokféléből, akár hímmel, aká
 fa4dh6fed 3,2
 És tegye a kezét az ő áldozatjának fejére, és ölje meg azt a gyülekezet sátorának nyílásánál, és Áron fiai, a papok, öntsék a vért köröskörül az oltárra.
 fa4dh6fed 3,3
-Azután vigyen a hálaáldozatból tűzáldozatotaz Úrnak: a kövérjét, a mely a belet takarja, és mindazt a kövérjét, a mely a belek között van.
+Azután vigyen a hálaáldozatból tűzáldozatot az Úrnak: a kövérjét, a mely a belet takarja, és mindazt a kövérjét, a mely a belek között van.
 fa4dh6fed 3,4
 A két vesét is, és a rajtuk lévő kövérséget, a mely a véknyaknál van, és a májon lévő hártyát a vesékkel együtt vegye el.
 fa4dh6fed 3,5
-Ésfüstölögtessék el azt Áron fiai az oltáron az égőáldozattal együtt a tűzön lévő fán: tűzáldozat ez, kedves illatú az Úrnak.
+És  füstölögtessék el azt Áron fiai az oltáron az égőáldozattal együtt a tűzön lévő fán: tűzáldozat ez, kedves illatú az Úrnak.
 fa4dh6fed 3,6
 Hogyha pedig valaki juhféléből áldozik hálaáldozatot az Úrnak, akár hím, akár nőstény legyen az, épekkel áldozzék.
 fa4dh6fed 3,7
@@ -96,13 +96,13 @@ fa4dh6fed 3,14
 fa4dh6fed 3,15
 A két vesét is, és a rajtuk lévő kövérséget, a mely a véknyaknál van, és a májon lévő hártyát a vesékkel együtt vegye el.
 fa4dh6fed 3,16
-És füstölögtesse el azokat a pap az oltáron tűzáldozati eledelül, kedves illatul. A kövérje mind az Úré.
+És füstölögtesse el azokat a pap az oltáron tűzáldozati eledelül, kedves illatul. A kövérje mind az Úré legyen .
 fa4dh6fed 3,17
-Örökkévaló rendtartás legyen a ti nemzetségeiteknél minden ti lakhelyeteken:semmi kövért és semmi vért meg ne egyetek!
+Örökkévaló rendtartás legyen a ti nemzetségeiteknél minden ti lakhelyeteken:  semmi kövért és semmi vért meg ne egyetek!
 fa4dh6fed 4,1
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 4,2
-Szólj az Izráel fiainak, mondván: Ha valaki tévedésből vétkezik az Úrnak valamely parancsolata ellen, úgy a mint nem kellene cselekednie, és aközül valamelyiknek ellene cselekszik:
+Szólj az Izráel fiainak, mondván: Ha valaki tévedésből vétkezik az Úrnak valamely parancsolata ellen, úgy a mint nem kellene cselekednie, és a parancsolatok közül valamelyiknek ellene cselekszik:
 fa4dh6fed 4,3
 Ha a felkent pap vétkezik, a népnek romlására: hozzon az ő bűnéért, a melyet elkövetett, egy tulkot, fiatal ép marhát az Úrnak bűnáldozatul.
 fa4dh6fed 4,4
@@ -118,7 +118,7 @@ Azután a tuloknak, a mely bűnáldozatra való, minden kövérjét szedje ki be
 fa4dh6fed 4,9
 A két vesét is, és a rajtuk lévő kövérséget, a mely a véknyaknál van, és a májon lévő hártyát a vesékkel együtt vegye el,
 fa4dh6fed 4,10
-A miképen kiszedik ahálaáldozatra való tulokból; és füstölögtesse el azokat a pap az égőáldozatnak oltárán.
+A miképen kiszedik a hálaáldozatra való tulokból; és füstölögtesse el azokat a pap az égőáldozatnak oltárán.
 fa4dh6fed 4,11
 A tuloknak pedig bőrét és minden húsát, fejével és lábszáraival együtt, bélit és ganéját,
 fa4dh6fed 4,12
@@ -128,7 +128,7 @@ Hogyha pedig az Izráel fiainak egész közönsége megtéved, és a gyülekezet
 fa4dh6fed 4,14
 Mikor kitudódik a bűn, a melyet elkövettek: akkor áldozzék a gyülekezet egy tulkot, fiatal marhát a bűnért, és vigye azt a gyülekezetnek sátora elé.
 fa4dh6fed 4,15
-És a gyülekezet vénei tegyék kezeiket a tuloknak fejére az Úr előtt, és ölje meg a tulkotaz Úr előtt.
+És a gyülekezet vénei tegyék kezeiket a tuloknak fejére az Úr előtt, és ölje meg a tulkot a  pap az Úr előtt.
 fa4dh6fed 4,16
 Azután vigyen be a felkent pap a tulok véréből a gyülekezet sátorába.
 fa4dh6fed 4,17
@@ -138,7 +138,7 @@ fa4dh6fed 4,18
 fa4dh6fed 4,19
 Minden kövérjét pedig szedje ki belőle, és füstölögtesse el az oltáron.
 fa4dh6fed 4,20
-És úgy cselekedjék azzal a tulokkal, mint abűnért való tulokkal cselekvék, úgy cselekedjék vele, és engesztelést szerez számukra a pap, és megbocsáttatik nékik.
+És úgy cselekedjék azzal a tulokkal, mint a bűnért való tulokkal cselekvék, úgy cselekedjék vele, és engesztelést szerez számukra a pap, és megbocsáttatik nékik.
 fa4dh6fed 4,21
 És vigye ki a tulkot a táboron kivül, és égesse el azt, miképen elégette az első tulkot. A gyülekezet bűnéért való áldozat ez.
 fa4dh6fed 4,22
@@ -160,7 +160,7 @@ fa4dh6fed 4,29
 fa4dh6fed 4,30
 És vegyen a pap annak véréből az újjával, és tegyen az égőáldozat oltárának szarvaira, a vérét pedig mind öntse az oltárnak aljára.
 fa4dh6fed 4,31
-Azután vegye elminden kövérjét, a mint elveszik a hálaáldozatnak kövérjét: és füstölögtesse el a pap az oltáron, kedves illatul az Úrnak. Ekképen szerezzen néki engesztelést a pap, és megbocsáttatik annak.
+Azután vegye el minden kövérjét, a mint elveszik a hálaáldozatnak kövérjét: és füstölögtesse el a pap az oltáron, kedves illatul az Úrnak. Ekképen szerezzen néki engesztelést a pap, és megbocsáttatik annak.
 fa4dh6fed 4,32
 Ha pedig bárányt visz az ő bűnért való áldozatául, nőstényt és épet vigyen.
 fa4dh6fed 4,33
@@ -188,17 +188,17 @@ fa4dh6fed 5,8
 fa4dh6fed 5,9
 És hintsen a bűnért való áldozat véréből az oltár oldalára, a többi vért pedig nyomják ki az oltár aljára; bűnért való áldozat ez.
 fa4dh6fed 5,10
-A másikat készítse el egészen égőáldozatul, úgy, a mintszokás; ekképen szerez néki engesztelést a pap az ő bűnéért, a melyet elkövetett, és megbocsáttatik néki.
+A másikat készítse el egészen égőáldozatul, úgy, a mint szokás; ekképen szerez néki engesztelést a pap az ő bűnéért, a melyet elkövetett, és megbocsáttatik néki.
 fa4dh6fed 5,11
 Ha pedig nincs módja két gerliczéhez vagy két galambfihoz sem: vigyen áldozatul az, a ki vétkezett, egy efa lánglisztnek tizedrészét bűnért való áldozatul; ne tegyen ahhoz olajat, és ne adjon ahhoz tömjént, mert bűnért való áldozat ez.
 fa4dh6fed 5,12
 És vigye azt a paphoz, és markolja ki abból a pap teli marokkal az emlékeztető részét, és füstölögtesse el az oltáron az Úrnak tűzáldozataival. Bűnért való áldozat az.
 fa4dh6fed 5,13
-Így szerezzen néki engesztelést a pap az ő bűnéért, a melyet elkövetett valamivel amaközül, és megbocsáttatik néki. És legyen a papé, mint az ételáldozat.
+Így szerezzen néki engesztelést a pap az ő bűnéért, a melyet elkövetett valamivel ama bűnök közül, és megbocsáttatik néki. És legyen a papé, mint az ételáldozat. 
 fa4dh6fed 5,14
 Azután szóla az Úr Mózesnek, mondván:
 fa4dh6fed 5,15
-Ha valaki hűtlenséget követ el, és tévedésből vétkesen elvesz az Úrnak szentelt dolgokból: vigyen az ő vétkéért való áldozatot az Úrnak, egy ép kost a nyájból, a mint te becsülöd, ezüst siklusokban, a szent siklusszerint, vétekért való áldozatul.
+Ha valaki hűtlenséget követ el, és tévedésből vétkesen elvesz az Úrnak szentelt dolgokból: vigyen az ő vétkéért való áldozatot az Úrnak, egy ép kost a nyájból, a mint te becsülöd, ezüst siklusokban, a szent siklus szerint, vétekért való áldozatul.
 fa4dh6fed 5,16
 És a mit vétkesen elvett a szent dologból, azt fizesse meg, és tegye hozzá az ötödrészét, és adja azt a papnak. Így szerez néki engesztelést a pap a vétekért való áldozat kosával, és megbocsáttatik néki.
 fa4dh6fed 5,17
@@ -210,7 +210,7 @@ Bűnért való áldozat ez, mivelhogy bűnt követett el az Úr ellen.
 fa4dh6fed 6,1
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 6,2
-Mikor vétkezik valaki,és hűtlenséget követ el az Úr ellen,eltagadja felebarátjának reábízott vagy kezébe adott holmiját, vagy megrabolja vagy zsarolja felebarátját;
+Mikor vétkezik valaki, és hűtlenséget követ el az Úr ellen, tudniillik eltagadja felebarátjának reábízott vagy kezébe adott holmiját, vagy megrabolja vagy zsarolja felebarátját;
 fa4dh6fed 6,3
 Vagy ha elveszett holmit talált, és eltagadja, vagy valami miatt hamisan esküszik, akármi is az, a mit az ember úgy cselekszik, hogy vétkezik vele:
 fa4dh6fed 6,4
@@ -224,23 +224,23 @@ fa4dh6fed 6,7
 fa4dh6fed 6,8
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 6,9
-Parancsolj Áronnak és az ő fiainak, mondván: Ez az egészen égőáldozat törvénye: Legyen az egészen égőáldozat az oltáron levő tüzelőhelyen egész éjszaka, mind reggelig, és az oltárnak tüze égvemaradjon azon.
+Parancsolj Áronnak és az ő fiainak, mondván: Ez az egészen égőáldozat törvénye: Legyen az egészen égőáldozat az oltáron levő tüzelőhelyen egész éjszaka, mind reggelig, és az oltárnak tüze égve maradjon azon.
 fa4dh6fed 6,10
 A pap öltse fel az ő gyolcs ruháját, és a gyolcs lábravalót is öltse fel az ő testére, és szedje el a hamut, a mivé égette a tűz az égőáldozatot az oltáron, és töltse azt az oltár mellé.
 fa4dh6fed 6,11
 Azután vesse le azt a ruháját, és öltözzék más ruhába, és vigye ki a hamut a táboron kivül, tiszta helyre.
 fa4dh6fed 6,12
-Az oltáron lévő tűz pedig égve maradjon azon, el ne aludjék, hanem égessen fát rajta a pap minden reggel, és rakja reá az egészen égőáldozatot, és azon füstölögtesse el a hálaáldozat kövérjét.
+Az oltáron lévő tűz pedig égve maradjon azon, el ne aludjék, hanem égessen fát rajta a pap minden reggel, és rakja reá az egészen égőáldozatot, és azon füstölögtesse el a hálaáldozat kövérjét is .
 fa4dh6fed 6,13
 A tűz szüntelen égve maradjon az oltáron, és el ne aludjék.
 fa4dh6fed 6,14
-Ez pedig azételáldozatnak törvénye: az Áron fiai áldozzák azt az Úr előtt az oltáron.
+Ez pedig az  ételáldozatnak törvénye: az Áron fiai áldozzák azt az Úr előtt az oltáron.
 fa4dh6fed 6,15
 És vegyen valaki közülök az ételáldozat lisztlángjából egy marokkal, és annak olajából is, a tömjént pedig, a mely az ételáldozathoz való, mind; és égesse el az oltáron; annak emlékeztető része kedves illat az Úr előtt.
 fa4dh6fed 6,16
 A mi pedig megmarad belőle, egyék meg Áron és az ő fiai, kovásztalanul egyék meg, szenthelyen, a gyülekezet sátorának pitvarában egyék meg azt.
 fa4dh6fed 6,17
-Ne süssékkovászszal,nékik adtam azt, részökül az én tűzáldozataimból; igen szentséges az, mint a bűnért és vétekért való áldozat.
+Ne süssék azt kovászszal, mert nékik adtam azt, részökül az én tűzáldozataimból; igen szentséges az, mint a bűnért és vétekért való áldozat.
 fa4dh6fed 6,18
 Az Áron fiai közül minden férfiú egye azt. Örökkévaló rendtartás legyen ez a ti nemzetségeiteknél az Úrnak tűzáldozatai felől. Valaki illeti azokat, szent legyen.
 fa4dh6fed 6,19
@@ -252,25 +252,25 @@ Serpenyőben készíttessék, olajjal összegyúrva vidd el azt, az ételáldoza
 fa4dh6fed 6,22
 A mely pap az ő helyébe kenetik fel az ő fiai közül, az mívelje ezt. Örökkévaló rendtartás ez, az Úrnak mindenestől füstölögtessék el.
 fa4dh6fed 6,23
-Mert a pap minden ételáldozatának mindenestől meg kell égettetni, nem kellmegenni.
+Mert a pap minden ételáldozatának mindenestől meg kell égettetni, nem kell abból semmit  megenni.
 fa4dh6fed 6,24
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 6,25
-Szólj Áronnak és az ő fiainak, mondván: Ez a bűnért való áldozat törvénye: a mely helyen meg szokták ölni az egészen égőáldozatot, azon a helyenöljék meg a bűnért való áldozatot az Úr előtt; igen szentséges az.
+Szólj Áronnak és az ő fiainak, mondván: Ez a bűnért való áldozat törvénye: a mely helyen meg szokták ölni az egészen égőáldozatot, azon a helyen öljék meg a bűnért való áldozatot az Úr előtt; igen szentséges az.
 fa4dh6fed 6,26
 A mely pap megáldozza azt a bűnért, az egye meg azt, szent helyen egye meg, a gyülekezet sátorának pitvarában.
 fa4dh6fed 6,27
-Valami annak a húsát érinti, szent legyen, és ha annak véréből valami a ruhájára esik, azt, a mire a vér esett, mosd meg szenthelyen.
+Valami annak a húsát érinti, szent legyen, és ha annak véréből valami a ruhájára esik valakinek , azt, a mire a vér esett, mosd meg szenthelyen.
 fa4dh6fed 6,28
 És a cserépedényt, a melyben azt főzték, törjék el; hogyha pedig érczfazékban főzték, súrolják meg, és mossák meg vízzel.
 fa4dh6fed 6,29
 A papok között minden férfiú eheti azt; igen szentséges az.
 fa4dh6fed 6,30
-Valamely bűnért való áldozat véréből bevisznek a gyülekezet sátorába, a szenthelyen való engesztelés végett, az meg nem ehető:tűzzel égettessék meg.
+Valamely bűnért való áldozat véréből bevisznek a gyülekezet sátorába, a szenthelyen való engesztelés végett, az meg nem ehető:  tűzzel égettessék meg.
 fa4dh6fed 7,1
 Ez pedig a vétekért való áldozatnak törvénye; igen szentséges az.
 fa4dh6fed 7,2
-A mely helyen megölik az egészen égőáldozatot, ott öljék meg a vétekért való áldozatot, és a vérét hintsék az oltárra köröskörül.
+A mely helyen megölik az egészen égőáldozatot, ott öljék meg a vétekért való áldozatot is , és a vérét hintsék az oltárra köröskörül.
 fa4dh6fed 7,3
 A kövérjét pedig áldozzák meg mind, a farkát is, és a mely kövér a belet takarja.
 fa4dh6fed 7,4
@@ -290,9 +290,9 @@ Az olajjal elegyített és száraz ételáldozat is mind az Áron fiaié legyen 
 fa4dh6fed 7,11
 Ez pedig a hálaáldozat törvénye, a melyet áldoznak az Úrnak.
 fa4dh6fed 7,12
-Ha dicsőítésül áldozza azt valaki, a dicsőítés áldozatjával együtt áldozzék olajjal elegyített kovásztalanlepényeket, és olajjal megkent kovásztalan pogácsákat, és lisztlángból gyúrt, olajjal elegyített lepényeket.
+Ha dicsőítésül áldozza azt valaki, a dicsőítés áldozatjával együtt áldozzék olajjal elegyített kovásztalan lepényeket, és olajjal megkent kovásztalan pogácsákat, és lisztlángból gyúrt, olajjal elegyített lepényeket.
 fa4dh6fed 7,13
-A lepényeken kivül kovászos kenyeretis vigyen áldozatául, dicsőítő hálaáldozatjával együtt.
+A lepényeken kivül kovászos kenyeret is vigyen áldozatául, dicsőítő hálaáldozatjával együtt.
 fa4dh6fed 7,14
 És mindezekből az áldozatokból áldozzék egyet-egyet az Úrnak felmutatott áldozatul; és legyen azé a papé, a ki a hálaáldozatnak vérét elhinti.
 fa4dh6fed 7,15
@@ -300,13 +300,13 @@ fa4dh6fed 7,15
 fa4dh6fed 7,16
 Hogyha fogadásból vagy szabadakaratból áldozza valaki az ő áldozatát, a mely napon áldozza azt, azon a napon egyék meg az ő áldozatát; a mi pedig megmarad abból, másnap egyék meg.
 fa4dh6fed 7,17
-A mi pedig annak az áldozatnak húsábólmegmarad, harmadnapon tűzzel égettessék meg.
+A mi pedig annak az áldozatnak húsából tovább is megmarad, harmadnapon tűzzel égettessék meg.
 fa4dh6fed 7,18
 Mert ha az ő hálaadó áldozatának húsából harmadnapon eszik valaki, nem lesz az kedves; a ki áldozta azt, annak nem számíttatik az az ő javára, sőt útálatos lesz; és valaki eszik abból, hordozza az ő vétségének terhét.
 fa4dh6fed 7,19
-Azt a húst pedig, a mely valami tisztátalanhoz ér, meg ne egyék,tűzzel égessék meg. A mi különben a húst illeti, mindenki ehetik húst, a ki tiszta;
+Azt a húst pedig, a mely valami tisztátalanhoz ér, meg ne egyék, hanem tűzzel égessék meg. A mi különben a húst illeti, mindenki ehetik húst, a ki tiszta;
 fa4dh6fed 7,20
-De az, a ki eszik a békeáldozatnak húsából, a mely az Úré, noha az ő tisztátalansága rajta van,az ilyen ember gyomláltassék ki az ő népe közül.
+De az, a ki eszik a békeáldozatnak húsából, a mely az Úré, noha az ő tisztátalansága rajta van, az ilyen ember gyomláltassék ki az ő népe közül.
 fa4dh6fed 7,21
 Ha valaki akármi tisztátalanhoz ér, tisztátalan emberhez, vagy tisztátalan baromhoz, vagy akármihez, a mi tisztátalan útálatosság, és eszik a hálaadó áldozatnak húsából, a mely az Úré, gyomláltassék ki az az ember az ő népe közül.
 fa4dh6fed 7,22
@@ -314,11 +314,11 @@ Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 7,23
 Szólj az Izráel fiainak, mondván: Az ökörnek, a báránynak és a kecskének semmi kövérjét meg ne egyétek.
 fa4dh6fed 7,24
-A hullott állatnak kövérje, és amegszaggatottnak kövérje, akármi munkához felhasználható, de enni meg ne egyétek!
+A hullott állatnak kövérje, és a vadtól megszaggatottnak kövérje, akármi munkához felhasználható, de enni meg ne egyétek!
 fa4dh6fed 7,25
-Mert akárki egyék is az aféle állatoknakkövérjéből, a melyekből tűzáldozatot visznek az Úrnak, az az ember, a kieszik, gyomláltassék ki az ő népe közül.
+Mert akárki egyék is az aféle állatoknak kövérjéből, a melyekből tűzáldozatot visznek az Úrnak, az az ember, a ki ilyet eszik, gyomláltassék ki az ő népe közül.
 fa4dh6fed 7,26
-És semmivért se egyetek meg bármely lakhelyeteken: se madárnak, se baromnak vérét.
+És semmi vért se egyetek meg bármely lakhelyeteken: se madárnak, se baromnak vérét.
 fa4dh6fed 7,27
 Valaki megeszik valami féle vért, az az ember gyomláltassék ki az ő népe közül.
 fa4dh6fed 7,28
@@ -326,7 +326,7 @@ Szóla ismét az Úr Mózesnek és monda:
 fa4dh6fed 7,29
 Szólj az Izráel fiainak, mondván: A ki hálaáldozattal áldozik az Úrnak, maga vigye az Úrnak az ő áldozatát az ő hálaáldozatából.
 fa4dh6fed 7,30
-A maga keze vigye az Úrnak tűzáldozatát: a kövérjét a szegyével együtt vigye el, a szegyéthogy meglóbálják azt az Úr előtt.
+A maga keze vigye az Úrnak tűzáldozatát: a kövérjét a szegyével együtt vigye el, a szegyét azért, hogy meglóbálják azt az Úr előtt.
 fa4dh6fed 7,31
 A pap pedig füstölögtesse el azt a kövért az oltáron, a szegye pedig legyen Ároné és az ő fiaié.
 fa4dh6fed 7,32
@@ -334,9 +334,9 @@ A jobblapoczkát is a papnak adjátok a hálaadó áldozatból, hogy azt felmuta
 fa4dh6fed 7,33
 A ki Áron fiai közül a hálaáldozat vérét és kövérjét megáldozza, a jobblapoczka annak a része legyen.
 fa4dh6fed 7,34
-Mert a meglóbáltszegyet és a felmutatott lapoczkát elveszem Izráel fiaitól az ő hálaadó áldozataikból, és adom azokat Áron papnak és az ő fiainak, örökre kiszabott részül, az Izráel fiaitól.
+Mert a meglóbált szegyet és a felmutatott lapoczkát elveszem Izráel fiaitól az ő hálaadó áldozataikból, és adom azokat Áron papnak és az ő fiainak, örökre kiszabott részül, az Izráel fiaitól.
 fa4dh6fed 7,35
-Ez az Áron felkenetési része, és az ő fiainak felkenetési része az Úrnak tűzáldozataiból, a naptól fogva, a melyen előállítá őket, hogypapi szolgálatot tegyenek az Úrnak;
+Ez az Áron felkenetési része, és az ő fiainak felkenetési része az Úrnak tűzáldozataiból, a naptól fogva, a melyen előállítá őket, hogy papi szolgálatot tegyenek az Úrnak;
 fa4dh6fed 7,36
 A melyet parancsolt az Úr, hogy adják nékik az Izráel fiai, a mely napon felkente őket, örökre kiszabott részül az ő nemzetségökben.
 fa4dh6fed 7,37
@@ -346,7 +346,7 @@ A melyet parancsolt az Úr Mózesnek a Sinai hegyen, a mely napon parancsolta az
 fa4dh6fed 8,1
 Szóla továbbá az Úr Mózesnek, mondván:
 fa4dh6fed 8,2
-VegyedÁront és az ő fiait is vele, és az öltözeteket, a kenetnek olaját, és bűnért való áldozati tulkot, két kost és egy kosár kovásztalan kenyeret.
+Vegyed Áront és az ő fiait is vele, és az öltözeteket, a kenetnek olaját, és bűnért való áldozati tulkot, két kost és egy kosár kovásztalan kenyeret.
 fa4dh6fed 8,3
 És az egész gyülekezetet gyűjtsd egybe a gyülekezet sátorának nyílásához.
 fa4dh6fed 8,4
@@ -356,15 +356,15 @@ Akkor monda Mózes a gyülekezetnek: Ez a dolog, a mit az Úr parancsolt cseleke
 fa4dh6fed 8,6
 És előállatá Mózes Áront és az ő fiait, és megmosá őket vízzel.
 fa4dh6fed 8,7
-És reá adáa köntöst, és felövezé őt az övvel,és reáveté a palástot, az efódot is reáadá, és felövezé az efód övével, és megerősíté azt rajta.
+És reá adá Áronra a köntöst, és felövezé őt az övvel, és reáveté a palástot, az efódot is reáadá, és felövezé az efód övével, és megerősíté azt rajta.
 fa4dh6fed 8,8
-És feltevé arra a hósent, és betevé a hósenbe azUrimot és a Thummimot.
+És feltevé arra a hósent, és betevé a hósenbe az Urimot és a Thummimot.
 fa4dh6fed 8,9
-Azután feltevé fejére a süveget, és elől odatevé a süvegre az aranylapot, a szent koronát, a mint parancsolta vala az Úr Mózesnek.
+Azután feltevé fejére a süveget, és elől odatevé a süvegre az arany lapot, a szent koronát, a mint parancsolta vala az Úr Mózesnek.
 fa4dh6fed 8,10
 Vevé Mózes a kenetnek olaját is, és megkené a hajlékot minden bennevalóval egybe, és felszentelé azokat.
 fa4dh6fed 8,11
-És hinte abból az oltárra is hétszer, és felkené az oltárt és annak minden edényét, a mosdómedenczét is a lábával együtt, hogyazokat megszentelje.
+És hinte abból az oltárra is hétszer, és felkené az oltárt és annak minden edényét, a mosdómedenczét is a lábával együtt, hogy azokat megszentelje.
 fa4dh6fed 8,12
 Az Áron fejére is tölte a kenetnek olajából, és megkené őt, hogy felszentelje őt.
 fa4dh6fed 8,13
@@ -374,17 +374,17 @@ Azután előhoza egy tulkot a bűnért való áldozatra, és Áron az ő fiaival
 fa4dh6fed 8,15
 És miután megölték azt, vőn Mózes annak véréből, és tőn az újjával az oltárnak szarvaira köröskörül, és megtisztítá az oltárt, a többi vért pedig önté az oltárnak aljára; és felszentelte azt, hogy engesztelést szerezzen rajta.
 fa4dh6fed 8,16
-Azután vevé mindazt a kövérséget, a mely annak a bélin vala, és a máj hártyáját, és a két veséjét és azoknak kövérségét, és elfüstölögteté Mózesaz oltáron.
+Azután vevé mindazt a kövérséget, a mely annak a bélin vala, és a máj hártyáját, és a két veséjét és azoknak kövérségét, és elfüstölögteté Mózes azokat az oltáron.
 fa4dh6fed 8,17
-A tulkot pedig, azaz annak bőrét, húsát és ganéját megégeté tűzzel a táboron kivül,a mint az Úr parancsolta vala Mózesnek.
+A tulkot pedig, azaz annak bőrét, húsát és ganéját megégeté tűzzel a táboron kivül, a mint az Úr parancsolta vala Mózesnek.
 fa4dh6fed 8,18
 Azután előállatá az égőáldozatra való kost, és Áron és az ő fiai rátevék kezeiket a kos fejére.
 fa4dh6fed 8,19
-És megölék; Mózes pedig elhinté a vért az oltárra köröskörül.
+És megölék azt ; Mózes pedig elhinté a vért az oltárra köröskörül.
 fa4dh6fed 8,20
 És a kost tagjaira vagdalák, és Mózes elfüstölögteté annak a fejét, a tagjait és a kövérjét.
 fa4dh6fed 8,21
-A beleket pedig és a lábszárakat megmosta vízben, és elfüstölögteté Mózes az egész kost az oltáron. Kedves illatú égőáldozat ez, tűzáldozat ez az Úrnak,a mint megparancsolta vala az Úr Mózesnek.
+A beleket pedig és a lábszárakat megmosta vízben, és elfüstölögteté Mózes az egész kost az oltáron. Kedves illatú égőáldozat ez, tűzáldozat ez az Úrnak, a mint megparancsolta vala az Úr Mózesnek.
 fa4dh6fed 8,22
 Azután előállatá a másik kost is, a felavatási kost, és rátevék Áron és az ő fiai kezeiket a kos fejére.
 fa4dh6fed 8,23
@@ -394,21 +394,21 @@ Előállatá az Áron fiait is, és tőn Mózes a vérből azok jobb fülének c
 fa4dh6fed 8,25
 És vevé a kövérjét és a farkát és mindazt a kövérjét, a mely a bélen van, továbbá a máj hártyáját, és a két vesét azoknak kövérjével egybe, és a jobb lapoczkát;
 fa4dh6fed 8,26
-És a kovásztalan kenyerek kosarából, a mely az Úr előtt vala, vőn egy kovásztalan lepényt, egy olajos kalácsot, és egy pogácsát, és rakáa kövérségekre és a jobb lapoczkára;
+És a kovásztalan kenyerek kosarából, a mely az Úr előtt vala, vőn egy kovásztalan lepényt, egy olajos kalácsot, és egy pogácsát, és raká azokat a kövérségekre és a jobb lapoczkára;
 fa4dh6fed 8,27
 És tevé mindezeket az Áron kezeire és az ő fiainak kezeire, és meglóbáltatá azokat az Úr előtt.
 fa4dh6fed 8,28
 Azután elvevé azokat Mózes az ő kezeikből, és elfüstölögteté az oltáron az egészen égőáldozattal egybe. Felavatási áldozatok ezek, kedves illatú tűzáldozat ez az Úrnak.
 fa4dh6fed 8,29
-Elvevé pedig Mózes a szegyet, és meglóbálá azt az Úr előtt; a felavatási kosból a Mózes része lőn ez, a mint megparancsolta vala az ÚrMózesnek.
+Elvevé pedig Mózes a szegyet, és meglóbálá azt az Úr előtt; a felavatási kosból a Mózes része lőn ez, a mint megparancsolta vala az Úr Mózesnek.
 fa4dh6fed 8,30
 Azután vőn Mózes a kenetnek olajából és a vérből, a mely az oltáron vala, és meghinté Áront és az ő ruháit, az ő fiait és az ő fiainak ruháit ő vele együtt, és megszentelé Áront és az ő ruháit, és az ő fiait és az ő fiainak ruháit ő vele együtt.
 fa4dh6fed 8,31
-És monda Mózes Áronnak és az ő fiainak: Főzzétek meg a hústa gyülekezet sátorának nyílásánál, és ott egyétek meg azt és a kenyeret, a mely a felavatási áldozat kosarában van, a miképen megparancsoltam, mondván: Áron és az ő fiai egyék meg azt.
+És monda Mózes Áronnak és az ő fiainak: Főzzétek meg a húst a gyülekezet sátorának nyílásánál, és ott egyétek meg azt és a kenyeret, a mely a felavatási áldozat kosarában van, a miképen megparancsoltam, mondván: Áron és az ő fiai egyék meg azt.
 fa4dh6fed 8,32
 A mi pedig megmarad a húsból és kenyérből, tűzzel égessétek meg.
 fa4dh6fed 8,33
-De a gyülekezet sátorának nyílásán ki ne menjetek hét napig, addig a napig, a melyen betelnek a ti felavatástoknak napjai, mert hét nap avat fel benneteket
+De a gyülekezet sátorának nyílásán ki ne menjetek hét napig, addig a napig, a melyen betelnek a ti felavatástoknak napjai, mert hét nap avat fel benneteket az  Úr. 
 fa4dh6fed 8,34
 A miképen e napon cselekedett, úgy parancsolta az Úr hogy cselekedjünk, hogy néktek engesztelést szerezzünk.
 fa4dh6fed 8,35
@@ -428,11 +428,11 @@ Elvivék azért, a miket Mózes parancsolt vala, a gyülekezet sátora elé, és
 fa4dh6fed 9,6
 És monda Mózes: Ez a dolog, a melyet az Úr parancsolt, cselekedjétek meg; és megjelenik néktek az Úr dicsősége.
 fa4dh6fed 9,7
-Áronnak pedig monda Mózes: Járulj az oltárhoz, és készítsd el a te bűnért való áldozatodatés egészen égőáldozatodat, és végezz engesztelést magadért és a népért. Készítsd el a nép áldozatát is, és végezz engesztelést érettök is, a mint megparancsolta az Úr.
+Áronnak pedig monda Mózes: Járulj az oltárhoz, és készítsd el a te bűnért való áldozatodat és egészen égőáldozatodat, és végezz engesztelést magadért és a népért. Készítsd el a nép áldozatát is, és végezz engesztelést érettök is, a mint megparancsolta az Úr.
 fa4dh6fed 9,8
 Járula azért Áron az oltárhoz, és megölé a borjút, a mely az övé, bűnért való áldozatul.
 fa4dh6fed 9,9
-Áron fiai pedig odavivék ő hozzá a vért, és ő bemártá az újját a vérbe, és tőn abból az oltár szarvaira, avért pedig kiönté az oltár aljához.
+Áron fiai pedig odavivék ő hozzá a vért, és ő bemártá az újját a vérbe, és tőn abból az oltár szarvaira, a többi vért pedig kiönté az oltár aljához.
 fa4dh6fed 9,10
 A kövérjét pedig és a veséket és a máj hártyáját elfüstölögteté a bűnért való áldozatból az oltáron, a mint az Úr parancsolta vala Mózesnek.
 fa4dh6fed 9,11
@@ -462,45 +462,45 @@ Azután felemelé kezeit Áron a népre, és megáldá azt és leszálla, miutá
 fa4dh6fed 9,23
 És beméne Mózes és Áron a gyülekezetnek sátorába, azután kijövének és megáldák a népet, az Úrnak dicsősége pedig megjelenék az egész népnek.
 fa4dh6fed 9,24
-Tűz jöveugyanis ki az Úr elől, és megemészté az oltáron az égőáldozatot és a kövérségeket. És látá ezt az egész nép, és ujjongának és arczra esének.
+Tűz jöve  ugyanis ki az Úr elől, és megemészté az oltáron az égőáldozatot és a kövérségeket. És látá ezt az egész nép, és ujjongának és arczra esének.
 fa4dh6fed 10,1
 Nádáb pedig és Abihu, Áronnak fiai, vevék egyen-egyen az ő temjénezőjöket, és tőnek azokba szenet és rakának arra füstölő szert, és vivének az Úr elé idegen tüzet, a melyet nem parancsolt vala nékik.
 fa4dh6fed 10,2
-Tűz jöve azért ki az Úr elől,és megemészté őket, és meghalának az Úr előtt.
+Tűz jöve azért ki az Úr elől,  és megemészté őket, és meghalának az Úr előtt.
 fa4dh6fed 10,3
 És monda Mózes Áronnak: Ez az, a mit szólt vala az Úr, mondván: A kik hozzám közel vannak, azokban kell megszenteltetnem, és az egész nép előtt megdicsőíttetnem.
 fa4dh6fed 10,4
-Áron pedig mélyen hallgata. Szólítá azért Mózes Misáelt és Elsafánt, Uzzielnek,az Áron nagybátyjának fiait, és monda nékik: Jertek ide, vigyétek ki atyátokfiait a szenthely elől, a táboron kivül.
+Áron pedig mélyen hallgata. Szólítá azért Mózes Misáelt és Elsafánt, Uzzielnek, az Áron nagybátyjának fiait, és monda nékik: Jertek ide, vigyétek ki atyátokfiait a szenthely elől, a táboron kivül.
 fa4dh6fed 10,5
 És odamenének, és kivivék őket az ő köntöseikben a táboron kivül, a mint szólott vala Mózes.
 fa4dh6fed 10,6
-Azután monda Mózes Áronnak és az ő fiainak, Eleázárnak és Ithamárnak: Fejeteketmeg ne meztelenítsétek, ruháitokat meg ne szaggassátok, hogy meg ne haljatok és haragra ne gerjedjenaz egész gyülekezet ellen; a ti atyátokfiai pedig, Izráelnek egész háza sirassák az égést, a melyet égetett az Úr.
+Azután monda Mózes Áronnak és az ő fiainak, Eleázárnak és Ithamárnak: Fejeteket meg ne meztelenítsétek, ruháitokat meg ne szaggassátok, hogy meg ne haljatok és haragra ne gerjedjen az  Úr az egész gyülekezet ellen; a ti atyátokfiai pedig, Izráelnek egész háza sirassák az égést, a melyet égetett az Úr.
 fa4dh6fed 10,7
 A gyülekezet sátorának nyílásán se menjetek ki, hogy meg ne haljatok; mert az Úr kenetének olaja van rajtatok. És cselekvének a Mózes beszéde szerint.
 fa4dh6fed 10,8
 Áronnak pedig szóla az Úr, mondván:
 fa4dh6fed 10,9
-Bort és szeszes italt neigyatok te és a te fiaid veled, mikor bementek a gyülekezet sátorába, hogy meg ne haljatok. Örökkévaló rendtartás legyen ez a ti nemzetségeitekben.
+Bort és szeszes italt ne  igyatok te és a te fiaid veled, mikor bementek a gyülekezet sátorába, hogy meg ne haljatok. Örökkévaló rendtartás legyen ez a ti nemzetségeitekben.
 fa4dh6fed 10,10
 Hogy különbséget tehessetek a szent és közönséges között, a tiszta és tisztátalan között.
 fa4dh6fed 10,11
 És hogy taníthassátok Izráel fiait mindazokra a rendelésekre, a melyeket az Úr szólott vala nékik Mózes által.
 fa4dh6fed 10,12
-Mózes pedig szóla Áronnak és az ő megmaradt fiainak, Eleázárnak és Ithamárnak: Vegyétek az ételáldozatot, a mely megmaradt az Úrnak tűzáldozatiból, és egyétek megazt kovásztalan kenyerekkel az oltár mellett; mert igen szentséges az.
+Mózes pedig szóla Áronnak és az ő megmaradt fiainak, Eleázárnak és Ithamárnak: Vegyétek az ételáldozatot, a mely megmaradt az Úrnak tűzáldozatiból, és egyétek meg azt kovásztalan kenyerekkel az oltár mellett; mert igen szentséges az.
 fa4dh6fed 10,13
-Azért egyétek azt szent helyen, mert kiszabott részed, és fiaidnak is kiszabott része az, az Úrnak tűzáldozatiból; mertígy parancsolta nékem.
+Azért egyétek azt szent helyen, mert kiszabott részed, és fiaidnak is kiszabott része az, az Úrnak tűzáldozatiból; mert így parancsolta nékem.
 fa4dh6fed 10,14
-A meglóbált szegyet pedig, és a felmutatott lapoczkát egyétek meg tiszta helyen, te, és a te fiaid és leányaid is veled, mert kiszabott részül adattakazok néked s kiszabott részül a te fiaidnak is, Izráel fiainak hálaadó áldozataiból.
+A meglóbált szegyet pedig, és a felmutatott lapoczkát egyétek meg tiszta helyen, te, és a te fiaid és leányaid is veled, mert kiszabott részül adattak azok néked s kiszabott részül a te fiaidnak is, Izráel fiainak hálaadó áldozataiból.
 fa4dh6fed 10,15
 A felmutatott lapoczkát és meglóbált szegyet a tűzáldozat kövérségeivel együtt vigyék be, hogy meglóbálják az Úr előtt, és ez lesz a te kiszabott részed, és veled a te fiaidé örökké, a mint megparancsolta vala az Úr.
 fa4dh6fed 10,16
 Azután szorgalmatosan tudakozódék Mózes a bűnáldozatra való bak felől, de ímé elégett vala. Haragra gerjede azért Eleázár és Ithamár ellen, Áronnak megmaradt fiai ellen, mondván:
 fa4dh6fed 10,17
-Miért nem ettétek meg a bűnért való áldozatot a szenthelyen? Hiszen igen szentséges az, és néktek adta aztgyülekezet vétkének hordozásáért, hogy engesztelést szerezzetek annak az Úr előtt.
+Miért nem ettétek meg a bűnért való áldozatot a szenthelyen? Hiszen igen szentséges az, és néktek adta azt az  Úr a gyülekezet vétkének hordozásáért, hogy engesztelést szerezzetek annak az Úr előtt.
 fa4dh6fed 10,18
-Ímé, nem vitetett be annak vére a szenthely belsejébe, meg kellett volna azért ennetek a szenthelyen, a mint megparancsoltamvala.
+Ímé, nem vitetett be annak vére a szenthely belsejébe, meg kellett volna azért ennetek a szenthelyen, a mint megparancsoltam vala.
 fa4dh6fed 10,19
-Áron pedig szóla Mózesnek: Ímé ma áldozták meg az ő bűnért való áldozatukat és egészen égőáldozatukat az Úr előtt, engem pedig ilyenértek: Ha megettem volna ma a bűnért való áldozatot, vajjon jó lett volna-é az Úr előtt?
+Áron pedig szóla Mózesnek: Ímé ma áldozták meg az ő bűnért való áldozatukat és egészen égőáldozatukat az Úr előtt, engem pedig ilyen keserűségek értek: Ha megettem volna ma a bűnért való áldozatot, vajjon jó lett volna-é az Úr előtt?
 fa4dh6fed 10,20
 Mikor ezt hallotta vala Mózes, jónak tetszék ez néki.
 fa4dh6fed 11,1
@@ -510,9 +510,9 @@ Szóljatok Izráel fiainak, mondván: Ezek azok az állatok, a melyeket megehett
 fa4dh6fed 11,3
 Mindazt, a minek hasadt a körme, és egészen ketté hasadt körme van, és kérődző a barmok közt, megehetitek.
 fa4dh6fed 11,4
-De a kérődzőkés a hasadt körműek közül ne egyétek meg ezeket: A tevét, mert az kérődző ugyan, de nincs hasadt körme; tisztátalan ez néktek.
+De a kérődzők és a hasadt körműek közül ne egyétek meg ezeket: A tevét, mert az kérődző ugyan, de nincs hasadt körme; tisztátalan ez néktek.
 fa4dh6fed 11,5
-A hörcsököt,mert kérődző ugyan, de nem hasadt a körme; tisztátalan ez néktek.
+A hörcsököt, mert kérődző ugyan, de nem hasadt a körme; tisztátalan ez néktek.
 fa4dh6fed 11,6
 A nyulat, mert kérődző ugyan, de nem hasadt a körme; tisztátalan ez néktek.
 fa4dh6fed 11,7
@@ -524,7 +524,7 @@ Mindazokból, a melyek a vizekben élnek, ezeket ehetitek meg: A minek úszósz�
 fa4dh6fed 11,10
 A minek pedig nincsen úszószárnya és pikkelye a tengerekben és folyóvizekben, legyen az akármely vízben nyüzsgő, és akármely vízben élő állat; mind útálatos az néktek.
 fa4dh6fed 11,11
-De legyenekútálatosak néktek; azoknak húsából ne egyetek, és holttestöket is útáljátok.
+De legyenek is útálatosak néktek; azoknak húsából ne egyetek, és holttestöket is útáljátok.
 fa4dh6fed 11,12
 A minek nincs úszószárnya és pikkelye a vizekben, mind útálatos az néktek.
 fa4dh6fed 11,13
@@ -544,7 +544,7 @@ Az eszterág és a szarka az ő nemével, a büdös banka és a denevér.
 fa4dh6fed 11,20
 Minden szárnyas féreg, a mely négy lábon jár, útálatos néktek.
 fa4dh6fed 11,21
-Csak azt ehetitek meg a négylábú szárnyas férgek közül, a melynek lábain felűlszárai vannak, hogy szökdécselhessen azokkal a földön.
+Csak azt ehetitek meg a négylábú szárnyas férgek közül, a melynek lábain felűl szökő- szárai vannak, hogy szökdécselhessen azokkal a földön.
 fa4dh6fed 11,22
 Ezeket egyétek meg azok közül: az arbé-sáskát az ő nemével, a szolám- sáskát az ő nemével, a khargol-sáskát az ő nemével és a khagab-sáskát az ő nemével.
 fa4dh6fed 11,23
@@ -568,15 +568,15 @@ Ezek tisztátalanok néktek minden csúszó-mászó között; valaki illeti ezek
 fa4dh6fed 11,32
 És minden, a mire ezek közül holtuk után esik valamelyik, tisztátalan legyen; akármely faedény, akár ruha, vagy bőr, vagy zsák; akármely eszköz, a mivel dolgozni szoktak, vízbe tétessék, és tisztátalan legyen estvéig, ezután tiszta legyen.
 fa4dh6fed 11,33
-Akármely cserépedény pedig, a melybe beleesikazokból, mindazzal együtt, a mi benne van, tisztátalan legyen, és aztörjétek el.
+Akármely cserépedény pedig, a melybe beleesik valami azokból, mindazzal együtt, a mi benne van, tisztátalan legyen, és az edényt törjétek el.
 fa4dh6fed 11,34
-Minden megehető eledel, a melyhezvíz jut, tisztátalan, és minden megiható ital is mindenedényben tisztátalan legyen.
+Minden megehető eledel, a melyhez az  ilyen edényből víz jut, tisztátalan, és minden megiható ital is minden ilyen edényben tisztátalan legyen.
 fa4dh6fed 11,35
-És minden, a mire azoknak holttestéből esik, tisztátalan; kemencze és tűzhely lerontassék; tisztátalanok azok és tisztátalanok legyenek néktek.
+És minden, a mire azoknak holttestéből esik valami , tisztátalan; kemencze és tűzhely lerontassék; tisztátalanok azok és tisztátalanok legyenek néktek.
 fa4dh6fed 11,36
-De a forrás, a kút,az egybegyűlt víz tiszta legyen; de a mi azoknak holttestéhez ér, tisztátalan.
+De a forrás, a kút, az egybegyűlt víz tiszta legyen; de a mi azoknak holttestéhez ér, tisztátalan.
 fa4dh6fed 11,37
-Hogyha azoknak holttestéből reáesik is valamely vetőmagra, a mely elvetendő, tiszta legyen
+Hogyha azoknak holttestéből reáesik is valamely vetőmagra, a mely elvetendő, tiszta legyen az. 
 fa4dh6fed 11,38
 De ha vizet töltenek a magra, és úgy esik rá azoknak holttestéből, tisztátalan az ilyen néktek.
 fa4dh6fed 11,39
@@ -602,11 +602,11 @@ Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 12,2
 Szólj Izráel fiainak, mondván: Ha az asszony lebetegszik, és fiat szül, tisztátalan legyen hét napig; az ő havi betegségének ideje szerint legyen tisztátalan.
 fa4dh6fed 12,3
-A nyolczadik napon pedig metéljék körül aférfitesténekbőrét.
+A nyolczadik napon pedig metéljék körül a fiú férfitestének bőrét.
 fa4dh6fed 12,4
-Azután harminczhárom napig maradjona vértől való tisztulás miatt; semmi szent dolgot ne illessen, a szent helyre se menjen be, míg el nem telnek az ő tisztulásának napjai.
+Azután harminczhárom napig maradjon otthon a vértől való tisztulás miatt; semmi szent dolgot ne illessen, a szent helyre se menjen be, míg el nem telnek az ő tisztulásának napjai.
 fa4dh6fed 12,5
-Ha pedig leányt szül, két hétig legyen tisztátalan, mint havi betegségekor, és hatvanhat napig maradjona vértől való tisztulása végett.
+Ha pedig leányt szül, két hétig legyen tisztátalan, mint havi betegségekor, és hatvanhat napig maradjon otthon a vértől való tisztulása végett.
 fa4dh6fed 12,6
 Mikor pedig letelnek az ő tisztulásának napjai, fiú miatt vagy leány miatt, hozzon egészen égőáldozatul esztendős bárányt, galambfiat vagy gerliczét bűnért való áldozatul, a gyülekezet sátorának nyílása elé a paphoz.
 fa4dh6fed 12,7
@@ -616,11 +616,11 @@ Ha pedig nincs elég módja bárányhoz, vigyen két gerliczét vagy két galamb
 fa4dh6fed 13,1
 Szóla ismét az Úr Mózesnek és Áronnak, mondván:
 fa4dh6fed 13,2
-Ha valamely ember testének bőrén daganat, vagy tarjagosság, vagy fehér folt támad, és az ő testének bőrén poklos fakadékká lehet: vigyék elÁronhoz, a paphoz, vagy egyvalamelyikhez az ő papfiai közül.
+Ha valamely ember testének bőrén daganat, vagy tarjagosság, vagy fehér folt támad, és az ő testének bőrén poklos fakadékká lehet: vigyék el az  ilyet Áronhoz, a paphoz, vagy egyvalamelyikhez az ő papfiai közül.
 fa4dh6fed 13,3
 És nézze meg a pap azt a test bőrén lévő fakadékot. Ha a szőr a fakadékban fehérré változott, és ha a fakadéknak felülete mélyebben van az ő testének bőrénél: akkor poklos fakadék az. Mihelyt látja ezt a pap, tisztátalannak ítélje azt.
 fa4dh6fed 13,4
-Ha pedig fehér folt van a teste bőrén, de annak felülete nincs mélyebben a bőrnél, és a szőre sem változott meg fehérré, akkor rekeszsze külön a pap a fakadékoshét napig.
+Ha pedig fehér folt van a teste bőrén, de annak felülete nincs mélyebben a bőrnél, és a szőre sem változott meg fehérré, akkor rekeszsze külön a pap a fakadékos embert hét napig.
 fa4dh6fed 13,5
 A hetedik napon pedig nézze meg őt a pap, s ha szerinte a fakadék egy állapotban van, át nem terjedt tovább a fakadék a bőrön, a pap másodszor is rekeszsze őt külön hét napig.
 fa4dh6fed 13,6
@@ -656,7 +656,7 @@ fa4dh6fed 13,20
 fa4dh6fed 13,21
 Ha pedig megnézi azt a pap, és íme nincs abban fehér szőr, és nem is esett alább a bőrnél, sőt meghalványodott az: akkor rekeszsze külön azt a pap hét napig.
 fa4dh6fed 13,22
-Ha azonban tovább terjed a bőrön; akkor tisztátalannak ítélje azt a pap,fakadék az.
+Ha azonban tovább terjed a bőrön; akkor tisztátalannak ítélje azt a pap, poklos fakadék az.
 fa4dh6fed 13,23
 De ha elébbi állapotában marad a folt, nem terjedt: a kelevény forradása az, azért tisztának ítélje azt a pap.
 fa4dh6fed 13,24
@@ -674,11 +674,11 @@ fa4dh6fed 13,29
 fa4dh6fed 13,30
 És a pap megnézi a fakadékot, és íme annak felülete mélyebben van a bőrnél; és abban a szőr sárga és vékony: akkor ítélje azt a pap tisztátalannak, var az, fejnek vagy szakállnak poklossága az.
 fa4dh6fed 13,31
-Ha pedig megnézi a pap a varas fakadékot, és ímé annak felülete nincsen mélyebben a bőrnél, és nincsen abban fekete szőr: akkor rekeszsze külön a pap,varas fakadékahét napig.
+Ha pedig megnézi a pap a varas fakadékot, és ímé annak felülete nincsen mélyebben a bőrnél, és nincsen abban fekete szőr: akkor rekeszsze külön a pap azt , a kinek varas fakadéka van, hét napig.
 fa4dh6fed 13,32
 És nézze meg a pap a fakadékot a hetedik napon, és ha nem terjedt a var, és nem lett benne sárga szőr, és a varnak felülete nem lett mélyebbé a bőrnél:
 fa4dh6fed 13,33
-Akkor borotválkozzék meg, de a varat le ne borotválja; a pap pedig másodszor is rekeszsze külön a varashét napig.
+Akkor borotválkozzék meg, de a varat le ne borotválja; a pap pedig másodszor is rekeszsze külön a varas embert hét napig.
 fa4dh6fed 13,34
 És a pap nézze meg a varat a hetedik napon, és ha nem terjed a var a bőrön, és annak felülete nincsen mélyebben a bőrnél: akkor tisztának ítélje azt a pap és mossa meg a ruháit, és tiszta lesz.
 fa4dh6fed 13,35
@@ -690,11 +690,11 @@ De ha a var szerinte egy állapotban van, és fekete szőr indult abban, meggyó
 fa4dh6fed 13,38
 Ha pedig valamely férfi vagy asszony testének bőrén foltok, fehér foltok támadnak,
 fa4dh6fed 13,39
-És megnézi a pap, és ímé a testök bőrén lévő foltok halavány fehérek: a bőrön fakadt sömör az, tiszta az az.
+És megnézi a pap, és ímé a testök bőrén lévő foltok halavány fehérek: a bőrön fakadt sömör az, tiszta az az ember .
 fa4dh6fed 13,40
-Hogyha valamely embernek egészen elhull a haja, kopasz az,tiszta az.
+Hogyha valamely embernek egészen elhull a haja, kopasz az, és tiszta az.
 fa4dh6fed 13,41
-És ha előlről hull el a haja, elől kopasz az,tiszta az.
+És ha előlről hull el a haja, elől kopasz az, és tiszta az.
 fa4dh6fed 13,42
 Hogyha pedig az ő egész kopasz, vagy elől kopasz fején vörhenyes fehér fakadék támad, poklos fakadék az az ő egész kopasz vagy elől kopasz fején.
 fa4dh6fed 13,43
@@ -712,11 +712,11 @@ Vagy lenből és gyapjúból készült fonadékon vagy szöveten; vagy bőrön, 
 fa4dh6fed 13,49
 És ha az a fakadék zöld vagy vörhenyes színű a ruhán, vagy bőrön, vagy szöveten, vagy fonadékon, vagy akármely bőrből való eszközön: poklos fakadék az, mutassák azért meg a papnak.
 fa4dh6fed 13,50
-És nézze meg a pap a fakadékot és rekeszsze különa fakadék van, hét napig.
+És nézze meg a pap a fakadékot és rekeszsze külön azt a min a fakadék van, hét napig.
 fa4dh6fed 13,51
 A hetedik napon pedig nézze meg a fakadékot. Ha terjed a fakadék a ruhán vagy szöveten, vagy fonadékon vagy bőrön, és akármely készítményen, a mivé a bőr feldolgoztatik: emésztő poklosság az a fakadék, tisztátalan az.
 fa4dh6fed 13,52
-Azért égesse meg azt a ruhát, vagy a gyapjúból vagy a lenből készült szövetet vagy fonadékot, vagy akármely bőrből való eszközt, a melyen a fakadék leend; mert emésztő poklosság az, tűzön égessék meg
+Azért égesse meg azt a ruhát, vagy a gyapjúból vagy a lenből készült szövetet vagy fonadékot, vagy akármely bőrből való eszközt, a melyen a fakadék leend; mert emésztő poklosság az, tűzön égessék meg azt. 
 fa4dh6fed 13,53
 De ha megnézi a pap, és ímé nem terjedt a fakadék a ruhán, vagy szöveten, vagy fonadékon, vagy akármely bőrből való eszközön:
 fa4dh6fed 13,54
@@ -734,7 +734,7 @@ Ez a törvénye a poklos fakadéknak, akár gyapjú-, akár lenruhán, akár sz�
 fa4dh6fed 14,1
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 14,2
-Ez legyen a poklos embernek törvénye az ő megtisztulásának napján, hogy vigyéka paphoz.
+Ez legyen a poklos embernek törvénye az ő megtisztulásának napján, hogy vigyék a paphoz.
 fa4dh6fed 14,3
 A pap pedig menjen ki a táboron kivül, és nézze meg a pap, és ha meggyógyult a pokloson a poklos fakadék:
 fa4dh6fed 14,4
@@ -742,15 +742,15 @@ Akkor parancsolja meg a pap, hogy hozzanak a megtisztulandó emberért két él�
 fa4dh6fed 14,5
 Azután parancsolja meg a pap, hogy az egyik madarat öljék meg cserépedényben, forrásvíz felett.
 fa4dh6fed 14,6
-Az élő madaratvegye azt és a czédrusfát, a karmazsint és az izsópot; és mártsa be azokat és az élő madarat a megölt madárnak vérébe aforrásvíz felett.
+Az élő madarat pedig, vegye azt és a czédrusfát, a karmazsint és az izsópot; és mártsa be azokat és az élő madarat a megölt madárnak vérébe a forrásvíz felett.
 fa4dh6fed 14,7
 És hintse meg a poklosságból megtisztulandó embert hétszer, és ítélje azt tisztának; az élő madarat pedig bocsássa szabadon a mezőre.
 fa4dh6fed 14,8
-Azután a megtisztulandóember mossa ki az ő ruháit, borotválja le minden szőrét, és mosódjék meg vízben, és tiszta lesz; így menjen be azután a táborba, de a sátorán kivül maradjon hét napig.
+Azután a megtisztulandó ember mossa ki az ő ruháit, borotválja le minden szőrét, és mosódjék meg vízben, és tiszta lesz; így menjen be azután a táborba, de a sátorán kivül maradjon hét napig.
 fa4dh6fed 14,9
-A hetedik napon pedig borotválja le minden szőrét: a haját, szakállát, szemöldökeit és mindenszőrét borotválja le, és mossa ki ruháit, és mossa meg a testét vízben, és tiszta lesz.
+A hetedik napon pedig borotválja le minden szőrét: a haját, szakállát, szemöldökeit és minden egyéb szőrét borotválja le, és mossa ki ruháit, és mossa meg a testét vízben, és tiszta lesz.
 fa4dh6fed 14,10
-A nyolczadik napon pedig vegyen két ép bárányt, meg egy ép nőstény bárányt, egy esztendőst, és olajjal elegyített három tizedlisztlángot ételáldozatul, és egy lóg olajt.
+A nyolczadik napon pedig vegyen két ép bárányt, meg egy ép nőstény bárányt, egy esztendőst, és olajjal elegyített három tized efa lisztlángot ételáldozatul, és egy lóg olajt.
 fa4dh6fed 14,11
 A pap pedig, a ki a tisztítást végzi, állassa a megtisztulandó embert mindezekkel együtt az Úr elébe, a gyülekezet sátorának nyílásához.
 fa4dh6fed 14,12
@@ -772,7 +772,7 @@ Azután készítsen a pap bűnért való áldozatot, és szerezzen engesztelést
 fa4dh6fed 14,20
 És vigye fel a pap az égőáldozatot és az ételáldozatot az oltárra; így szerezzen néki engesztelést a pap, és tiszta lesz.
 fa4dh6fed 14,21
-Hogyha pedig szegény ő, és nincs módjaakkor vegyen egy bárányt vétekért való áldozatul meglóbálás végett, hogy engesztelésül legyen érte; meg egy tizedlisztlángot, olajjal elegyítve, ételáldozatul, és egy lóg olajt.
+Hogyha pedig szegény ő, és nincs módja azokhoz, akkor vegyen egy bárányt vétekért való áldozatul meglóbálás végett, hogy engesztelésül legyen érte; meg egy tized efa lisztlángot, olajjal elegyítve, ételáldozatul, és egy lóg olajt.
 fa4dh6fed 14,22
 És két gerliczét vagy két galambfiat, a mint a módja engedi, és legyen az egyik bűnért való áldozat, a másik pedig egészen égőáldozat.
 fa4dh6fed 14,23
@@ -794,7 +794,7 @@ fa4dh6fed 14,30
 fa4dh6fed 14,31
 Azt, a mi kitelik az ő módjától: az egyiket bűnért való áldozatul, a másikat pedig egészen égőáldozatul az ételáldozattal egybe; így szerezzen engesztelést a pap a megtisztulandó embernek az Úr előtt.
 fa4dh6fed 14,32
-Ez a törvénye annak, a kin poklos fakadék van,a kinek nincs módja az ő megtisztulásánál.
+Ez a törvénye annak, a kin poklos fakadék van, de a kinek nincs módja az ő megtisztulásánál.
 fa4dh6fed 14,33
 Szóla ismét az Úr Mózesnek és Áronnak, mondván:
 fa4dh6fed 14,34
@@ -804,7 +804,7 @@ Akkor menjen el az, a kié a ház, és jelentse meg a papnak, mondván: Mint a p
 fa4dh6fed 14,36
 A pap pedig parancsolja meg, hogy takarítsák ki a házat, mielőtt oda menne a pap a poklosság megnézésére, hogy semmi se legyen tisztátalanná, a mi a házban van; és csak azután menjen be a pap a ház megnézésére.
 fa4dh6fed 14,37
-És ha látja a poklosságot, hogy ímé a poklosság a háznak falain zöld vagy vörhenyes horpadásokbanés annak felülete alább esik a falnál:
+És ha látja a poklosságot, hogy ímé a poklosság a háznak falain zöld vagy vörhenyes horpadásokban mutatkozik, és annak felülete alább esik a falnál:
 fa4dh6fed 14,38
 Akkor menjen ki a pap a házból, a háznak ajtaja elé, és zárja be a házat hét napra.
 fa4dh6fed 14,39
@@ -832,7 +832,7 @@ A háznak megtisztítása végett pedig vegyen elő két madarat, czédrusfát, 
 fa4dh6fed 14,50
 És ölje meg az egyik madarat cserépedényben, forrásvíz felett.
 fa4dh6fed 14,51
-Azután vegye a czédrusfát, az izsópot, a karmazsint és az élő madarat, és mártsa be azokat a megölt madár vérébe és a forrásvízbe, és hintse mega házat hétszer.
+Azután vegye a czédrusfát, az izsópot, a karmazsint és az élő madarat, és mártsa be azokat a megölt madár vérébe és a forrásvízbe, és hintse meg azzal a házat hétszer.
 fa4dh6fed 14,52
 És tisztítsa meg a házat a madár vérével, a forrásvízzel, az élő madárral, a czédrusfával, az izsóppal és a karmazsinnal.
 fa4dh6fed 14,53
@@ -844,13 +844,13 @@ A ruha és a ház poklosságának is.
 fa4dh6fed 14,56
 A daganatnak, a tarjagosságnak és a fehér foltnak;
 fa4dh6fed 14,57
-Hogy megtudhassák: mikor tiszta és mikor tisztátalanEz a poklosság törvénye.
+Hogy megtudhassák: mikor tiszta és mikor tisztátalan valami? Ez a poklosság törvénye.
 fa4dh6fed 15,1
 Szóla ismét az Úr Mózesnek s Áronnak, mondván:
 fa4dh6fed 15,2
 Szóljatok Izráel fiainak és mondjátok meg nékik: Ha valamely férfiúnak magfolyása támad, az ő folyása tisztátalan.
 fa4dh6fed 15,3
-És pedig tisztátalan lesz e folyás miatt:folytonos az ő magfolyása, akár megreked testében ez a folyás; tisztátalanság ez ő nála.
+És pedig tisztátalan lesz e folyás miatt: akár folytonos az ő magfolyása, akár megreked testében ez a folyás; tisztátalanság ez ő nála.
 fa4dh6fed 15,4
 Minden ágy, a melyen fekszik a magfolyós, tisztátalan, és minden holmi is, a melyre ráül, tisztátalan lesz.
 fa4dh6fed 15,5
@@ -860,7 +860,7 @@ Az is, aki a holmira ül, a melyen a magfolyós ült vala, mossa meg ruháit, é
 fa4dh6fed 15,7
 Az is, a ki illeti a magfolyósnak testét, mossa meg a ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig.
 fa4dh6fed 15,8
-És ha ráköp a magfolyós a tiszta emberre, mossa mega ruháját, és mosódjék meg vízben, és tisztátalan legyen estvéig.
+És ha ráköp a magfolyós a tiszta emberre, mossa meg ez a ruháját, és mosódjék meg vízben, és tisztátalan legyen estvéig.
 fa4dh6fed 15,9
 És minden nyereg is, a melyre a magfolyós ráült, tisztátalan legyen.
 fa4dh6fed 15,10
@@ -882,7 +882,7 @@ fa4dh6fed 15,17
 fa4dh6fed 15,18
 És az asszony is, a kivel férfiú hál magömléssel. Mosódjanak meg vízben, és tisztátalanok legyenek estvéig.
 fa4dh6fed 15,19
-Mikor asszony lesz magfolyóssávéressé lesz az ő magfolyása a testén, hét napig legyen az ő havi bajában, és valaki illeti azt, tisztátalan legyen estvéig.
+Mikor asszony lesz magfolyóssá és véressé lesz az ő magfolyása a testén, hét napig legyen az ő havi bajában, és valaki illeti azt, tisztátalan legyen estvéig.
 fa4dh6fed 15,20
 Mindaz is, a min hál az ő havi bajában, tisztátalan legyen és mindaz is, a min ül, tisztátalan legyen.
 fa4dh6fed 15,21
@@ -930,7 +930,7 @@ fa4dh6fed 16,8
 fa4dh6fed 16,9
 És áldozza meg Áron azt a bakot, a melyre az Úrért való sors esett, és készítse el azt bűnért való áldozatul.
 fa4dh6fed 16,10
-Azt a bakot pedig, a melyre az Azázelért való sors esett, állassa elevenen az Úr elé, hogy engesztelés legyen általa,hogy elküldje azt Azázelnek a pusztába.
+Azt a bakot pedig, a melyre az Azázelért való sors esett, állassa elevenen az Úr elé, hogy engesztelés legyen általa, és hogy elküldje azt Azázelnek a pusztába.
 fa4dh6fed 16,11
 Áron pedig úgy áldozza meg a bűnért való áldozati tulkot, a mely az övé, és úgy szerezzen engesztelést magáért és háza népéért, hogy ölje meg a bűnért való áldozati tulkot, a mely az övé.
 fa4dh6fed 16,12
@@ -964,7 +964,7 @@ A bűnért való áldozat kövérjét pedig füstölögtesse el az oltáron.
 fa4dh6fed 16,26
 Az pedig, a ki elvitte az Azázelnek való bakot, mossa meg ruháit, és a testét is mossa le vízben, és azután menjen be a táborba.
 fa4dh6fed 16,27
-A bűnért való áldozati tulkot pedig, és a bűnért való áldozati bakot, a melyeknek vére engesztelés végett bevitetett a szenthelyre, vigye kia táboron kivül, és égessék meg azoknak bőrét, húsát és ganéját tűzzel.
+A bűnért való áldozati tulkot pedig, és a bűnért való áldozati bakot, a melyeknek vére engesztelés végett bevitetett a szenthelyre, vigye ki a táboron kivül, és égessék meg azoknak bőrét, húsát és ganéját tűzzel.
 fa4dh6fed 16,28
 És a ki elégeti ezeket, mossa meg ruháit, és a testét is mossa le vízben, és azután így menjen be a táborba.
 fa4dh6fed 16,29
@@ -990,25 +990,25 @@ fa4dh6fed 17,4
 fa4dh6fed 17,5
 Azért hogy vigyék el Izráel fiai az ő véres áldozataikat, a melyeket áldoznak vala a mezőn, vigyék el azokat az Úrnak, a gyülekezet sátorának nyílásához, a paphoz, és áldozzák meg azokat hálaáldozatul az Úrnak.
 fa4dh6fed 17,6
-És hintsea pap a vért az Úr oltárára, a mely a gyülekezet sátorának nyílásánál van, a kövérjét pedig füstölögtesse el kedves illatul az Úrnak.
+És hintse a pap a vért az Úr oltárára, a mely a gyülekezet sátorának nyílásánál van, a kövérjét pedig füstölögtesse el kedves illatul az Úrnak.
 fa4dh6fed 17,7
 És ne áldozzák többé véres áldozataikat az ördögöknek, a kikkel ők paráználkodnak. Örökkévaló rendtartás legyen ez nékik nemzetségről nemzetségre.
 fa4dh6fed 17,8
-Mondjad nékikis: Valaki az Izráel házából, vagy a köztök tartózkodó jövevények közül, egészen égőáldozatot áldoz vagy véres áldozatot,
+Mondjad nékik ezt is: Valaki az Izráel házából, vagy a köztök tartózkodó jövevények közül, egészen égőáldozatot áldoz vagy véres áldozatot,
 fa4dh6fed 17,9
 És nem viszi azt a gyülekezet sátorának nyílásához, hogy elkészítse azt az Úrnak: irtassék ki az ilyen ember az ő népe közül.
 fa4dh6fed 17,10
-És ha valaki Izráel házából, vagy a köztök tartózkodó jövevények közül valamiféle vért megeszik:kiontom haragomat az ellen, a ki a vért megette, és kiirtom azt az ő népei közül.
+És ha valaki Izráel házából, vagy a köztök tartózkodó jövevények közül valamiféle vért megeszik:   kiontom haragomat az ellen, a ki a vért megette, és kiirtom azt az ő népei közül.
 fa4dh6fed 17,11
-Mert a testnek életea vérben van, én pedig az oltárraadtam azt néktek, hogy engesztelésül legyen a ti életetekért, mert a vér a benne levő élet által szerez engesztelést.
+Mert a testnek élete a vérben van, én pedig az oltárra adtam azt néktek, hogy engesztelésül legyen a ti életetekért, mert a vér a benne levő élet által szerez engesztelést.
 fa4dh6fed 17,12
 Azért mondtam Izráel fiainak: Egy lélek se egyék vért közületek; a köztetek tartózkodó jövevény se egye meg a vért.
 fa4dh6fed 17,13
 És ha valaki Izráel fiai közül, vagy a köztök tartózkodó jövevények közül vadászásban vadat vagy madarat fog, a mely megehető: ontsa ki annak vérét, és fedje be azt földdel.
 fa4dh6fed 17,14
-Mert minden testnek élete az ő vérea benne levő élettel. Azért mondom Izráel fiainak: Semmiféle testnek a vérét meg ne egyétek, mert minden testnek élete az ő vére; valaki megeszi azt, irtassék ki.
+Mert minden testnek élete az ő vére a benne levő élettel. Azért mondom Izráel fiainak: Semmiféle testnek a vérét meg ne egyétek, mert minden testnek élete az ő vére; valaki megeszi azt, irtassék ki.
 fa4dh6fed 17,15
-Ha pedig valaki elhullott, vagymegszaggatott állatot eszik, akár benszülött, akár jövevény: mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig, azután tiszta.
+Ha pedig valaki elhullott, vagy vadtól megszaggatott állatot eszik, akár benszülött, akár jövevény: mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig, azután tiszta.
 fa4dh6fed 17,16
 Hogyha meg nem mossa ruháit, sem a testét le nem mossa: viselje az ő vétségének terhét.
 fa4dh6fed 18,1
@@ -1026,37 +1026,37 @@ Senki se közelgessen valamely vér szerint való rokonához, hogy felfedje anna
 fa4dh6fed 18,7
 A te atyádnak szemérmét és a te anyádnak szemérmét fel ne fedd; a te anyád ő, fel ne fedd az ő szemérmét.
 fa4dh6fed 18,8
-A te atyád feleségének szemérmét fel ne fedd,a te atyádnak szemérme az.
+A te atyád feleségének szemérmét fel ne fedd,  a te atyádnak szemérme az.
 fa4dh6fed 18,9
-A te atyád leányának, vagy a te anyád leányának, a te leánytestvérednekszemérmét, akár otthon született, akár kivül született legyen; fel ne fedd szemérmöket.
+A te atyád leányának, vagy a te anyád leányának, a te leánytestvérednek szemérmét, akár otthon született, akár kivül született legyen; fel ne fedd szemérmöket.
 fa4dh6fed 18,10
 A te fiad leányának szemérmét, vagy a te leányod leányáét, ezeknek szemérmét fel ne fedd, mert a te szemérmeid azok.
 fa4dh6fed 18,11
-A te atyád feleségeleányának szemérmét, a ki a te atyádnak magzatja, leánytestvéred ő, fel ne fedd ennek szemérmét.
+A te atyád felesége leányának szemérmét, a ki a te atyádnak magzatja, leánytestvéred ő, fel ne fedd ennek szemérmét.
 fa4dh6fed 18,12
-A te atyád leánytestvérénekszemérmét fel ne fedd, a te atyádnak vér szerint való rokona ő.
+A te atyád leánytestvérének szemérmét fel ne fedd, a te atyádnak vér szerint való rokona ő.
 fa4dh6fed 18,13
 A te anyád leánytestvérének szemérmét fel ne fedd, mert a te anyádnak vér szerint való rokona ő.
 fa4dh6fed 18,14
-A te atyád fiútestvérénekszemérmét fel ne fedd, annak feleségéhez ne közelgess, nagynénéd ő.
+A te atyád fiútestvérének szemérmét fel ne fedd, annak feleségéhez ne közelgess, nagynénéd ő.
 fa4dh6fed 18,15
-A te menyednek szemérmét fel ne fedd; a te fiadnak felesége ő: ne fedd fel aző szemérmét.
+A te menyednek szemérmét fel ne fedd; a te fiadnak felesége ő: ne fedd fel az ő szemérmét.
 fa4dh6fed 18,16
-A te fiútestvéred feleségének szemérmét fel ne fedd; a te fiútestvérednek szemérmeaz.
+A te fiútestvéred feleségének szemérmét fel ne fedd; a te fiútestvérednek szemérme az.
 fa4dh6fed 18,17
-Valamely asszonynak és az ő leányánakszemérmét fel ne fedd; az ő fiának leányát, vagy leányának leányát el ne vedd, hogy annak szemérmét felfedjed; mert vér szerint való rokonok ők; fajtalankodás ez.
+Valamely asszonynak és az ő leányának szemérmét fel ne fedd; az ő fiának leányát, vagy leányának leányát el ne vedd, hogy annak szemérmét felfedjed; mert vér szerint való rokonok ők; fajtalankodás ez.
 fa4dh6fed 18,18
 De feleségül se végy senkit az ő leánytestvére mellé, hogy ellenkezés ne legyen, ha felfeded ő mellette amannak szemérmét az ő életében.
 fa4dh6fed 18,19
-Asszonyhoz ne közelgess, az ő havi tisztátalansága alatt, hogy felfedjed az ő szemérmét.
+Asszonyhoz ne közelgess, az ő havi tisztátalansága alatt, hogy felfedjed az ő szemérmét. 
 fa4dh6fed 18,20
-És a te felebarátodnakfeleségéhez se add magad közösülésre, hogy azzal magadat megfertőztessed.
+És a te felebarátodnak feleségéhez se add magad közösülésre, hogy azzal magadat megfertőztessed.
 fa4dh6fed 18,21
-A te magzatodbólne adj, hogy oda áldozzák a Moloknak, és meg ne szentségtelenítsd a te Istenednek nevét. Én vagyok az Úr.
+A te magzatodból  ne adj, hogy oda áldozzák a Moloknak, és meg ne szentségtelenítsd a te Istenednek nevét. Én vagyok az Úr.
 fa4dh6fed 18,22
-Férfiúvalne hálj úgy, a mint asszonynyal hálnak: útálatosság az.
+Férfiúval  ne hálj úgy, a mint asszonynyal hálnak: útálatosság az.
 fa4dh6fed 18,23
-És semmiféle barommalse közösülj, hogy azzal magadat megfertőztessed, és asszony se álljon meg barom előtt, hogy meghágja őt; fertelmesség az.
+És semmiféle barommal se közösülj, hogy azzal magadat megfertőztessed, és asszony se álljon meg barom előtt, hogy meghágja őt; fertelmesség az.
 fa4dh6fed 18,24
 Egyikkel se fertőztessétek meg magatokat ezek közül; mert mindezekkel ama pogányok fertőztették meg magokat, kiket én kiűzök ti előletek.
 fa4dh6fed 18,25
@@ -1066,7 +1066,7 @@ Tartsátok meg azért ti az én rendeléseimet és végzéseimet, és ez útála
 fa4dh6fed 18,27
 (Mert mindezeket az útálatosságokat megcselekedték annak a földnek lakosai, a mely előttetek van; és fertelmessé lőn az a föld),
 fa4dh6fed 18,28
-Hogy ki ne okádjon titeket az a föld, ha megfertőztetitek azt, a mint kiokádja azt a népet, a melyelőttetek van.
+Hogy ki ne okádjon titeket az a föld, ha megfertőztetitek azt, a mint kiokádja azt a népet, a mely előttetek van.
 fa4dh6fed 18,29
 Mert a ki megcselekszik valamit ez útálatosságokból, mind kiirtatik az így cselekvő ember az ő népe közül.
 fa4dh6fed 18,30
@@ -1074,45 +1074,45 @@ Tartsátok meg azért a mit én megtartani rendelek, hogy egyet se kövessetek a
 fa4dh6fed 19,1
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 19,2
-Szólj Izráel fiainak egész gyülekezetéhez, és mondd nékik: Szentek legyetek,mert én az Úr, a ti Istenetek szent vagyok.
+Szólj Izráel fiainak egész gyülekezetéhez, és mondd nékik: Szentek legyetek,  mert én az Úr, a ti Istenetek szent vagyok.
 fa4dh6fed 19,3
-Az ő anyjátés atyját minden ember tisztelje, és az énszombatjaimat megtartsátok. Én vagyok az Úr, a ti Istenetek.
+Az ő anyját és atyját minden ember tisztelje, és az én szombatjaimat megtartsátok. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 19,4
-Ne hajoljatok a bálványokhoz, és ne csináljatok magatoknaköntött isteneket. Én vagyok az Úr, a ti Istenetek.
+Ne hajoljatok a bálványokhoz, és ne csináljatok magatoknak öntött isteneket. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 19,5
 Hogyha hálaadó áldozatot áldoztok az Úrnak, úgy áldozzátok, hogy kedvesen fogadtassatok.
 fa4dh6fed 19,6
-A ti áldozástok napján és a következőn egyétek meg;a mi pedig harmadnapra marad, égessétek meg tűzben.
+A ti áldozástok napján és a következőn egyétek meg; a mi pedig harmadnapra marad, égessétek meg tűzben.
 fa4dh6fed 19,7
 Ha pedig harmadnapra eszik valaki abból, útálatos az, nem lehet kedves.
 fa4dh6fed 19,8
 És a ki eszi azt, viselje az ő álnokságának terhét; mivelhogy megfertőztette az Úrnak szentségét, irtassék ki az ilyen ember az ő népe közül.
 fa4dh6fed 19,9
-Mikor a ti földetek termését learatjátok, ne arasd leegészen a te meződnek szélét, és az elhullott gabonafejeket fel ne szedd.
+Mikor a ti földetek termését learatjátok, ne arasd le  egészen a te meződnek szélét, és az elhullott gabonafejeket fel ne szedd.
 fa4dh6fed 19,10
 Szőlődet se mezgéreld le, és elhullott szemeit se szedd fel szőlődnek, a szegénynek és a jövevénynek hagyd meg azokat. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 19,11
-Ne orozzatok,se ne hazudjatok éssenki meg ne csalja az ő felebarátját.
+Ne orozzatok, se ne hazudjatok és senki meg ne csalja az ő felebarátját.
 fa4dh6fed 19,12
-És ne esküdjetekhamisan az én nevemre, mert megfertőzteted a te Istenednek nevét. Én vagyok az Úr.
+És ne esküdjetek  hamisan az én nevemre, mert megfertőzteted a te Istenednek nevét. Én vagyok az Úr.
 fa4dh6fed 19,13
-A te felebarátodat ne zsarold, se ki ne rabold. A napszámosbére ne maradjon nálad reggelig.
+A te felebarátodat ne zsarold, se ki ne rabold. A napszámos  bére ne maradjon nálad reggelig.
 fa4dh6fed 19,14
 Siketet ne szidalmazz, és vak elé gáncsot ne vess; hanem félj a te Istenedtől. Én vagyok az Úr.
 fa4dh6fed 19,15
-Ne kövessetek el igazságtalanságot az ítéletben; ne nézd a szegénynek személyét,se a hatalmas személyét ne becsüld; igazságosan ítélj a te felebarátodnak.
+Ne kövessetek el igazságtalanságot az ítéletben; ne nézd a szegénynek személyét,  se a hatalmas személyét ne becsüld; igazságosan ítélj a te felebarátodnak.
 fa4dh6fed 19,16
 Ne járj rágalmazóként a te néped között; ne támadj fel a te felebarátodnak vére ellen. Én vagyok az Úr.
 fa4dh6fed 19,17
-Ne gyűlöld a te atyádfiátszívedben; fedd mega te felebarátodat nyilván, hogy ne viseljed az ő bűnének terhét.
+Ne gyűlöld a te atyádfiát szívedben; fedd meg a te felebarátodat nyilván, hogy ne viseljed az ő bűnének terhét.
 fa4dh6fed 19,18
-Bosszúállóne légy, és haragot ne tarts a te néped fiai ellen, hanem szeressedfelebarátodat, mint magadat. Én vagyok az Úr.
+Bosszúálló  ne légy, és haragot ne tarts a te néped fiai ellen, hanem szeressed felebarátodat, mint magadat. Én vagyok az Úr.
 fa4dh6fed 19,19
 Az én rendeléseimet megtartsátok: Barmodat másféle állattal ne párosítsd, szántóföldedbe kétféle magot ne vess, és kétféle szövetű ruha ne legyen rajtad.
 fa4dh6fed 19,20
 És ha valaki asszonynyal hál és közösül, és az valamely férfi hatalma alatt lévő rabnő, és sem ki nem váltatott, sem szabadon nem bocsáttatott: büntetés érje, de meg ne ölettessenek, mert nem volt szabad az asszony.
 fa4dh6fed 19,21
-pedig vigye el az ő vétkéért való áldozatát az Úrnak a gyülekezet sátorának nyílásához: egy kost vétekért való áldozatul.
+A férfiú pedig vigye el az ő vétkéért való áldozatát az Úrnak a gyülekezet sátorának nyílásához: egy kost vétekért való áldozatul.
 fa4dh6fed 19,22
 És a pap szerezzen néki engesztelést, a vétekért való áldozat kosával az Úr előtt, az ő bűnéért, a melyet elkövetett, és megbocsáttatik néki az ő bűne, a melyet elkövetett.
 fa4dh6fed 19,23
@@ -1122,33 +1122,33 @@ A negyedik esztendőben pedig annak minden gyümölcse szent legyen, hálaáldoz
 fa4dh6fed 19,25
 Csak az ötödik esztendőben egyétek meg annak gyümölcsét, és annak termését magatoknak gyüjtsétek. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 19,26
-Ne egyetek vérrel valót,ne varázsoljatok és nebűvészkedjetek.
+Ne egyetek vérrel valót, ne varázsoljatok és ne bűvészkedjetek.
 fa4dh6fed 19,27
-A ti hajatokatkerekdedre ne nyírjátok, a szakállad végét se csúfítsd el.
+A ti hajatokat kerekdedre ne nyírjátok, a szakállad végét se csúfítsd el.
 fa4dh6fed 19,28
-Testeteket a holt emberért meg ne hasogassátok,se égetéssel magatokat meg ne bélyegezzétek. Én vagyok az Úr.
+Testeteket a holt emberért meg ne hasogassátok, se égetéssel magatokat meg ne bélyegezzétek. Én vagyok az Úr.
 fa4dh6fed 19,29
 A te leányodat meg ne becstelenítsd, paráznaságra adván azt; hogy paráznává ne legyen a föld, és be ne teljék a föld fajtalansággal.
 fa4dh6fed 19,30
-Az én szombatjaimat megtartsátok;szenthelyemet tiszteljétek. Én vagyok az Úr.
+Az én szombatjaimat megtartsátok; szenthelyemet tiszteljétek. Én vagyok az Úr.
 fa4dh6fed 19,31
-Ne menjetekígézőkhöz, és a jövendőmondókat ne tudakozzátok, hogy magatokat azokkal megfertőztessétek. Én vagyok az Úr, a ti Istenetek.
+Ne menjetek   ígézőkhöz, és a jövendőmondókat ne tudakozzátok, hogy magatokat azokkal megfertőztessétek. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 19,32
 Az ősz ember előtt kelj fel, és a vén ember orczáját becsüld meg, és félj a te Istenedtől. Én vagyok az Úr.
 fa4dh6fed 19,33
-Hogyhajövevény tartózkodik nálad, a ti földeteken, ne nyomorgassátok őt.
+Hogyha jövevény tartózkodik nálad, a ti földeteken, ne nyomorgassátok őt.
 fa4dh6fed 19,34
-Olyan legyen néktek ajövevény, a ki nálatok tartózkodik, mintha közületek való benszülött volna, és szeressed azt mint magadat, mert jövevények voltatok Égyiptom földén. Én vagyok az Úr, a ti Istenetek.
+Olyan legyen néktek a  jövevény, a ki nálatok tartózkodik, mintha közületek való benszülött volna, és szeressed azt mint magadat, mert jövevények voltatok Égyiptom földén. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 19,35
 Ne kövessetek el igazságtalanságot az ítéletben, a hosszmértékben, súlymértékben és ürmértékben.
 fa4dh6fed 19,36
-Igaz mérték,igaz font, igaz efa, és igaz hin legyen közöttetek. Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéből.
+Igaz mérték,  igaz font, igaz efa, és igaz hin legyen közöttetek. Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéből.
 fa4dh6fed 19,37
 Tartsátok meg azért minden rendelésemet és minden végzésemet, és cselekedjetek azok szerint. Én vagyok az Úr.
 fa4dh6fed 20,1
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 20,2
-Izráel fiainak pedig mondd meg: Valaki Izráel fiai közül és az Izráelben tartózkodó jövevények közül odaadja az ő magzatát aMoloknak, halállal lakoljon, a földnek népe kövezze agyon kővel.
+Izráel fiainak pedig mondd meg: Valaki Izráel fiai közül és az Izráelben tartózkodó jövevények közül odaadja az ő magzatát a Moloknak, halállal lakoljon, a földnek népe kövezze agyon kővel.
 fa4dh6fed 20,3
 Én is kiontom haragomat az ilyen emberre, és kiirtom azt az ő népe közül, mivelhogy adott az ő magzatából a Moloknak, hogy megfertőztesse az én szentségemet, és megszentségtelenítse az én szent nevemet.
 fa4dh6fed 20,4
@@ -1158,49 +1158,49 @@ Akkor én ontom ki haragomat arra az emberre és annak házanépére, és kiirto
 fa4dh6fed 20,6
 A mely ember pedig az ígézőkhöz és a jövendőmondókhoz fordul, hogy azok után paráználkodjék, arra is kiontom haragomat, és kiirtom azt az ő népe közül.
 fa4dh6fed 20,7
-Szenteljétek meg azért magatokat, ésszentek legyetek, mert én, az Úr, vagyok a ti Istenetek.
+Szenteljétek meg azért magatokat, és  szentek legyetek, mert én, az Úr, vagyok a ti Istenetek.
 fa4dh6fed 20,8
 És tartsátok meg az én rendeléseimet, és cselekedjétek azokat. Én vagyok az Úr, a ti megszentelőtök.
 fa4dh6fed 20,9
-Mert valakiszidalmazza az ő atyját vagy anyját, halállal lakoljon; atyját és anyját szidalmazta; vére rajta.
+Mert valaki  szidalmazza az ő atyját vagy anyját, halállal lakoljon; atyját és anyját szidalmazta; vére rajta.
 fa4dh6fed 20,10
-Ha valaki más ember feleségével paráználkodik, mivelhogy az ő felebarátjának feleségévelparáználkodik: halállal lakoljon a parázna férfi és a parázna nő.
+Ha valaki más ember feleségével paráználkodik, mivelhogy az ő felebarátjának feleségével paráználkodik: halállal lakoljon a parázna férfi és a parázna nő.
 fa4dh6fed 20,11
-Havalaki az ő atyjának feleségévelhál, az ő atyjának szemérmét fedi fel: halállal lakoljanak mindketten; vérök rajtok.
+Ha valaki az ő atyjának feleségével hál, az ő atyjának szemérmét fedi fel: halállal lakoljanak mindketten; vérök rajtok.
 fa4dh6fed 20,12
-Ha valaki aző menyével hál, halállal lakoljanak mindketten, fertelmességet követtek el; vérök rajtok.
+Ha valaki az ő menyével hál, halállal lakoljanak mindketten, fertelmességet követtek el; vérök rajtok.
 fa4dh6fed 20,13
-És ha valakiférfival hál, úgy a mint asszonynyal hálnak: útálatosságot követtek el mindketten, halállal lakoljanak; vérök rajtok.
+És ha valaki férfival hál, úgy a mint asszonynyal hálnak: útálatosságot követtek el mindketten, halállal lakoljanak; vérök rajtok.
 fa4dh6fed 20,14
-És ha valakifeleségül vesz valamely asszonyt annak anyjával egybe: fajtalankodás ez; tűzzel égessék meg azt és azokat, hogy ne legyen köztetek fajtalankodás.
+És ha valaki feleségül vesz valamely asszonyt annak anyjával egybe: fajtalankodás ez; tűzzel égessék meg azt és azokat, hogy ne legyen köztetek fajtalankodás.
 fa4dh6fed 20,15
-Ha pedig valakibarommal közösül, halállal lakoljon, és a barmot is öljétek meg.
+Ha pedig valaki barommal közösül, halállal lakoljon, és a barmot is öljétek meg.
 fa4dh6fed 20,16
 Ha valamely asszony akármely baromhoz járul, hogy az meghágja őt: öld meg mind az asszonyt, mind a barmot, halállal lakoljanak; vérök rajtok.
 fa4dh6fed 20,17
-És ha valaki feleségül veszi az ő leánytestvérét,atyjának leányát, vagy anyjának leányát, és meglátja annak szemérmét, és az is meglátja az ő szemérmét: gyalázatosság ez; azért irtassanak ki népök fiainak láttára, az ő leánytestvérének szemérmét fedte fel: viselje gonoszságának terhét.
+És ha valaki feleségül veszi az ő leánytestvérét, atyjának leányát, vagy anyjának leányát, és meglátja annak szemérmét, és az is meglátja az ő szemérmét: gyalázatosság ez; azért irtassanak ki népök fiainak láttára, az ő leánytestvérének szemérmét fedte fel: viselje gonoszságának terhét.
 fa4dh6fed 20,18
-És ha valakihavi bajos asszonynyal hál, és felfedi annak szemérmét,forrását feltakarja, és az asszony is felfedi az ő vérének forrását: mindketten irtassanak ki az ő népökből.
+És ha valaki havi bajos asszonynyal hál, és felfedi annak szemérmét, és forrását feltakarja, és az asszony is felfedi az ő vérének forrását: mindketten irtassanak ki az ő népökből.
 fa4dh6fed 20,19
-A te anyád leánytestvérének, vagy azatyád leánytestvérének szemérmét se fedd fel; mivelhogy az ő vérrokonát takarja ki: viseljék gonoszságuk terhét.
+A te anyád leánytestvérének, vagy az atyád leánytestvérének szemérmét se fedd fel; mivelhogy az ő vérrokonát takarja ki: viseljék gonoszságuk terhét.
 fa4dh6fed 20,20
-És ha valaki az ő nagynénjével hál, az őnagybátyjának szemérmét fedte fel: viseljék gonoszságuk terhét, magtalanul haljanak meg.
+És ha valaki az ő nagynénjével hál, az ő nagybátyjának szemérmét fedte fel: viseljék gonoszságuk terhét, magtalanul haljanak meg.
 fa4dh6fed 20,21
-Ha pedig elveszi valaki az őfiútestvérének feleségét: vérfertőzés az; az ő fiútestvérének szemérmét fedte fel; magtalanok legyenek.
+Ha pedig elveszi valaki az ő fiútestvérének feleségét: vérfertőzés az; az ő fiútestvérének szemérmét fedte fel; magtalanok legyenek.
 fa4dh6fed 20,22
-Tartsátok meg mindenrendelésemet és minden végzésemet, és azokat cselekedjétek, hogy ki ne okádjon titeket az a föld, a melybe én viszlek be titeket, hogy ott lakjatok.
+Tartsátok meg minden rendelésemet és minden végzésemet, és azokat cselekedjétek, hogy ki ne okádjon titeket az a föld, a melybe én viszlek be titeket, hogy ott lakjatok.
 fa4dh6fed 20,23
-És ne járjatok annak a népnek rendtartási szerint, a melyetkiűzök én előletek. Mivelhogy mindezeket cselekedték, azért megútáltam őket.
+És ne járjatok annak a népnek rendtartási szerint, a melyet kiűzök én előletek. Mivelhogy mindezeket cselekedték, azért megútáltam őket.
 fa4dh6fed 20,24
-Néktek pedig mondom: Ti örökölni fogjátok az ő földüket, mert én néktek adom azt örökségül, azt atejjel és mézzel folyó földet. Én vagyok az Úr, a ti Istenetek, a ki kiválasztottalak titeket a népek közül.
+Néktek pedig mondom: Ti örökölni fogjátok az ő földüket, mert én néktek adom azt örökségül, azt a tejjel és mézzel folyó földet. Én vagyok az Úr, a ti Istenetek, a ki kiválasztottalak titeket a népek közül.
 fa4dh6fed 20,25
-Tegyetek különbséget azért a tiszta éstisztátalan barmok között, a tiszta és tisztátalan szárnyas állatok között, és ne fertőztessétek meg magatokat barommal vagy szárnyas állattal, sem semmiféle földön csúszó állattal, a melyeket megkülönböztettem előttetek, mint tisztátalanokat.
+Tegyetek különbséget azért a tiszta és  tisztátalan barmok között, a tiszta és tisztátalan szárnyas állatok között, és ne fertőztessétek meg magatokat barommal vagy szárnyas állattal, sem semmiféle földön csúszó állattal, a melyeket megkülönböztettem előttetek, mint tisztátalanokat.
 fa4dh6fed 20,26
 És legyetek nékem szentek, mert én, az Úr, szent vagyok, a ki kiválasztottalak titeket a népek közül, hogy enyéim legyetek.
 fa4dh6fed 20,27
-És akárférfi, akár asszony, hogyha ígéző vagy jövendőmondó lesz közöttök, halállal lakoljanak; kővel kövezzétek azokat agyon; vérök rajtok.
+És akár  férfi, akár asszony, hogyha ígéző vagy jövendőmondó lesz közöttök, halállal lakoljanak; kővel kövezzétek azokat agyon; vérök rajtok.
 fa4dh6fed 21,1
-Szóla ismét az Úr Mózesnek: Szólj a papoknak, Áron fiainak, és mondd meg nékik:meg ne fertőztesse magáthalottal az ő népe között;
+Szóla ismét az Úr Mózesnek: Szólj a papoknak, Áron fiainak, és mondd meg nékik: Senki közülök meg ne fertőztesse magát halottal az ő népe között;
 fa4dh6fed 21,2
 Hanem ha a hozzá legközelebb álló vérrokonával: anyjával, atyjával, fiával, leányával és fiútestvérével,
 fa4dh6fed 21,3
@@ -1208,11 +1208,11 @@ Vagy a hozzá legközelebb álló hajadon leánytestvérével, a ki még nem men
 fa4dh6fed 21,4
 Mint fő-ember ne fertőztesse meg magát az ő népe között, hogy szentségtelenné ne legyen.
 fa4dh6fed 21,5
-Ne nyírjanak kopaszságot afejükön, szakálluk szélét le ne messék, és a testükbe vágásokat ne vágjanak.
+Ne nyírjanak kopaszságot a fejükön, szakálluk szélét le ne messék, és a testükbe vágásokat ne vágjanak.
 fa4dh6fed 21,6
 Szentek legyenek Istenöknek, és az ő Istenöknek nevét meg ne szentségtelenítsék, mert az Úrnak tűzáldozatait, Istenöknek kenyerét ők áldozzák; azért szentek legyenek.
 fa4dh6fed 21,7
-Parázna és megszeplősített asszonyt el ne vegyenek, se olyan asszonyt, a ki elűzetett az ő férjétől, el ne vegyenek; mert aaz ő Istenének van szentelve.
+Parázna és megszeplősített asszonyt el ne vegyenek, se olyan asszonyt, a ki elűzetett az ő férjétől, el ne vegyenek; mert a pap az ő Istenének van szentelve.
 fa4dh6fed 21,8
 Te is szentnek tartsad őt, mert Istenednek kenyerét ő áldozza: szent legyen azért előtted, mert szent vagyok én, az Úr, a ti megszentelőtök.
 fa4dh6fed 21,9
@@ -1220,11 +1220,11 @@ Hogyha valamely papnak leánya vetemedik paráznaságra, megszentségteleníti a
 fa4dh6fed 21,10
 A ki pedig főpap az ő attyafiai között, a kinek fejére töltötték a kenetnek olaját, és a kit felavattak az ő szolgálatára, hogy a szent ruhákba felöltözzék: fejét meg ne meztelenítse, se ruháit meg ne szaggassa,
 fa4dh6fed 21,11
-És semmiféle holttesthezbe ne menjen: atyjával és anyjával se fertőztesse meg magát.
+És semmiféle holttesthez be ne menjen: atyjával és anyjával se fertőztesse meg magát.
 fa4dh6fed 21,12
 És a szenthelyből ki ne menjen, hogy az ő Istenének szenthelyét meg ne szentségtelenítse, mert korona, az ő Istenének kenet-olaja van ő rajta. Én vagyok az Úr.
 fa4dh6fed 21,13
-Hajadontvegyen feleségül.
+Hajadont vegyen feleségül.
 fa4dh6fed 21,14
 Özvegyet, elűzöttet, megszeplősítettet, paráznát: ilyeneket el ne vegyen, hanem hajadont vegyen feleségül az ő népe közül,
 fa4dh6fed 21,15
@@ -1242,7 +1242,7 @@ Vagy púpos, vagy törpe, vagy szemfájós, vagy viszketeges, vagy sömörgös, 
 fa4dh6fed 21,21
 Senki, a kiben fogyatkozás van, elő ne álljon Áronnak, a papnak fiai közül, hogy tűzáldozatot vigyen fel az Úrnak; fogyatkozás van ő benne, ne álljon elő, hogy megáldozza az ő Istenének kenyerét.
 fa4dh6fed 21,22
-Az ő Istenének kenyeréből, a legszentségesebbikből és aszentségesből ehetik.
+Az ő Istenének kenyeréből, a legszentségesebbikből és a  szentségesből ehetik.
 fa4dh6fed 21,23
 Csak a függönyhöz be ne menjen, és az oltárhoz ne közelítsen, mert fogyatkozás van ő benne, hogy meg ne fertőztesse az én szenthelyemet. Én vagyok az Úr, az ő megszentelőjök.
 fa4dh6fed 21,24
@@ -1262,15 +1262,15 @@ Az ilyen ember, a ki effélét illet, tisztátalan legyen estvéig, és a szent 
 fa4dh6fed 22,7
 De mikor lemegy a nap, tiszta lesz, és azután ehetik a szent dolgokból, mert az ő eledele az.
 fa4dh6fed 22,8
-Elhullott vagyszéttépett állatot ne egyék, hogy tisztátalanná ne legyen általa. Én vagyok az Úr.
+Elhullott vagy  széttépett állatot ne egyék, hogy tisztátalanná ne legyen általa. Én vagyok az Úr.
 fa4dh6fed 22,9
 Az én rendelésemet pedig megtartsák, hogy bűnbe ne essenek miatta, és meg ne haljanak a miatt, hogy megrontották azt. Én vagyok az Úr, az ő megszentelőjök.
 fa4dh6fed 22,10
-Idegenember ne egyék szenteltet, a papnak zsellére és bérese se egyék szenteltet.
+Idegen ember ne egyék szenteltet, a papnak zsellére és bérese se egyék szenteltet.
 fa4dh6fed 22,11
 De ha megvásárol valakit a pap a maga pénzén, az ehetik abból, és a ki házánál született: ezek ehetnek az ő eledeléből.
 fa4dh6fed 22,12
-De a pap leánya, ha idegennek lesznem ehetik a szent áldozatból.
+De a pap leánya, ha idegennek lesz a felesége, nem ehetik a szent áldozatból.
 fa4dh6fed 22,13
 Ha azonban a pap leánya özvegygyé lesz vagy elválik, de magzata nincsen, és visszatér az ő atyjának házához, mint leánykorában: akkor ehetik az ő atyjának eledeléből; de idegen nem ehetik abból.
 fa4dh6fed 22,14
@@ -1288,7 +1288,7 @@ Hogy kedvesen fogadtassanak: épek és hímek legyenek, akár tulkok, akár bár
 fa4dh6fed 22,20
 A miben pedig fogyatkozás van, abból semmit se áldozzatok, mert nem lesz kedvessé ti érettetek.
 fa4dh6fed 22,21
-És ha valaki hálaáldozattal áldozik az Úrnak, akár fogadásának teljesítésére, akár szabad akaratból, akár tulokféléből, akár juhféléből: ép legyen, hogy kedves legyen; semmifogyatkozás ne legyen abban.
+És ha valaki hálaáldozattal áldozik az Úrnak, akár fogadásának teljesítésére, akár szabad akaratból, akár tulokféléből, akár juhféléből: ép legyen, hogy kedves legyen; semmi fogyatkozás ne legyen abban.
 fa4dh6fed 22,22
 Vakot, vagy rokkantat, vagy csonkát, vagy fekélyest, vagy viszketegest, vagy varast, ilyeneket ne áldozzatok az Úrnak, és tűzáldozatul ne tegyetek ezekből az oltárra az Úrnak.
 fa4dh6fed 22,23
@@ -1300,7 +1300,7 @@ Se idegen ember kezéből ne áldozzatok semmi ilyenből a ti Istenetek eledelé
 fa4dh6fed 22,26
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 22,27
-Borjú, bárány és kecske, ha megelletett, legyen az anyja alatthét napig, a nyolczadik naptól fogva és azon túl kedves lesz az tűzáldozatul az Úrnak.
+Borjú, bárány és kecske, ha megelletett, legyen az anyja alatt hét napig, a nyolczadik naptól fogva és azon túl kedves lesz az tűzáldozatul az Úrnak.
 fa4dh6fed 22,28
 De tehenet és juhot, azt és annak fiát ne öljétek meg egy napon.
 fa4dh6fed 22,29
@@ -1318,9 +1318,9 @@ Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 23,2
 Szólj Izráel fiainak, és mondd meg nékik az Úrnak ünnepeit, a melyeken szent gyülekezésekre kell összegyülekeznetek. Ezek azok az én ünnepeim:
 fa4dh6fed 23,3
-Hat napon át munkálkodjatok, a hetedik naponnyugodalomnak, szent gyülekezésnek szombatja van, semmi dolgot ne végezzetek: az Úrnak szombatja legyen az minden lakhelyeteken.
+Hat napon át munkálkodjatok, a hetedik napon nyugodalomnak, szent gyülekezésnek szombatja van, semmi dolgot ne végezzetek: az Úrnak szombatja legyen az minden lakhelyeteken.
 fa4dh6fed 23,4
-Ezek az Úrnak ünnepei, szent gyülekezések, a melyekre szabott idejökben kell összegyülekeznetek.
+Ezek az Úrnak ünnepei, szent gyülekezések napjai , a melyekre szabott idejökben kell összegyülekeznetek.
 fa4dh6fed 23,5
 Az első hónapban, a hónapnak tizennegyedikén, estennen az Úrnak páskhája.
 fa4dh6fed 23,6
@@ -1328,25 +1328,25 @@ E hónapnak tizenötödik napján pedig az Úr kovásztalan kenyerének ünnepe.
 fa4dh6fed 23,7
 Az első napon szent gyülekezéstek legyen, semmi robota munkát ne végezzetek.
 fa4dh6fed 23,8
-Hét napon át pedig tűzáldozatot áldozzatok az Úrnak, és a hetedik napon szent gyülekezéstek: semmi robota munkát ne végezzetek.
+Hét napon át pedig tűzáldozatot áldozzatok az Úrnak, és a hetedik napon szent gyülekezéstek is legyen : semmi robota munkát ne végezzetek.
 fa4dh6fed 23,9
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 23,10
-Szólj Izráel fiainak és mondd meg nékik: Mikor bementek a földre, a melyet én adok néktek, és megaratjátok annak vetését: a ti aratástok zsengéjénekkévéjét vigyétek a papnak.
+Szólj Izráel fiainak és mondd meg nékik: Mikor bementek a földre, a melyet én adok néktek, és megaratjátok annak vetését: a ti aratástok zsengéjének első kévéjét vigyétek a papnak.
 fa4dh6fed 23,11
 Az pedig lóbálja meg a kévét az Úr előtt, hogy kedvesen fogadtassék érettetek; a szombat után való napon lóbálja azt meg a pap.
 fa4dh6fed 23,12
 A mely napon pedig meglóbáltatjátok a kévét, áldozzatok az Úrnak egy ép, esztendős bárányt egészen égőáldozatul.
 fa4dh6fed 23,13
-Ahhoz pedig ételáldozatul két tizedlánglisztet, olajjal elegyítve; tűzáldozatul az Úrnak, kedves illatul; italáldozatul pedig egy hin bornak negyedrészét.
+Ahhoz pedig ételáldozatul két tized efa lánglisztet, olajjal elegyítve; tűzáldozatul az Úrnak, kedves illatul; italáldozatul pedig egy hin bornak negyedrészét.
 fa4dh6fed 23,14
-kenyeret pedig és pergelt búzaszemeket és zsenge kalászokat ne egyetek mind a napig, a míg be nem viszitek a ti Isteneteknek áldozatját. Örök rendtartás ez nemzetségről nemzetségre minden lakóhelyeteken.
+Új kenyeret pedig és pergelt búzaszemeket és zsenge kalászokat ne egyetek mind a napig, a míg be nem viszitek a ti Isteneteknek áldozatját. Örök rendtartás ez nemzetségről nemzetségre minden lakóhelyeteken.
 fa4dh6fed 23,15
 Számláljatok azután a szombatra következő naptól, attól a naptól, a melyen beviszitek a meglóbálni való kévét, hét hetet, egészek legyenek azok.
 fa4dh6fed 23,16
 A hetedik hétre következő napig számláljatok ötven napot, és akkor járuljatok új ételáldozattal az Úrhoz.
 fa4dh6fed 23,17
-A ti lakóhelyeitekből hozzatok fel két meglóbálni való kenyeret; két tizedlisztlángból legyenek azok, kovászszalsütve, zsengékül az Úrnak.
+A ti lakóhelyeitekből hozzatok fel két meglóbálni való kenyeret; két tized efa lisztlángból legyenek azok, kovászszal sütve, zsengékül az Úrnak.
 fa4dh6fed 23,18
 A kenyérrel együtt pedig áldozzatok meg hét bárányt, épeket, esztendősöket, és egy tulkot, fiatal bikát, és két kost; egészen égőáldozatul legyenek ezek az Úrnak, étel- és italáldozatjokkal egybe; kedves illatú tűzáldozat ez az Úrnak.
 fa4dh6fed 23,19
@@ -1356,17 +1356,17 @@ fa4dh6fed 23,20
 fa4dh6fed 23,21
 És gyülekezzetek egybe ugyanazon a napon; szent gyülekezéstek legyen néktek, semmi robota munkát ne végezzetek. Örök rendtartás ez minden lakóhelyeteken a ti nemzetségeitek szerint.
 fa4dh6fed 23,22
-Mikor pedig földetek termését learatjátok: ne arasd le egészen a meződnekszéleit, és az elhullott gabonafejeket fel ne szedd; a szegénynek és jövevénynek hagyd azokat. Én vagyok az Úr, a ti Istenetek.
+Mikor pedig földetek termését learatjátok: ne arasd le egészen a meződnek  széleit, és az elhullott gabonafejeket fel ne szedd; a szegénynek és jövevénynek hagyd azokat. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 23,23
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 23,24
-Szólj Izráel fiaihoz, mondván: A hetedikhónapban, a hónap első napján ünnepetek legyen néktek, emlékeztető kürtzengéssel, szent gyülekezéssel.
+Szólj Izráel fiaihoz, mondván: A hetedik hónapban, a hónap első napján ünnepetek legyen néktek, emlékeztető kürtzengéssel, szent gyülekezéssel.
 fa4dh6fed 23,25
 Semmi robota munkát ne végezzetek, és tűzáldozattal áldozzatok az Úrnak.
 fa4dh6fed 23,26
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 23,27
-Ugyanennek a hetedik hónapnak tizedikénaz engesztelés napja van: szent gyülekezéstek legyen néktek, és sanyargassátok meg magatokat, és tűzáldozattal áldozzatok az Úrnak.
+Ugyanennek a hetedik hónapnak tizedikén  az engesztelés napja van: szent gyülekezéstek legyen néktek, és sanyargassátok meg magatokat, és tűzáldozattal áldozzatok az Úrnak.
 fa4dh6fed 23,28
 Semmi dolgot ne végezzetek azon a napon, mert engesztelésnek napja az, hogy engesztelés legyen érettetek az Úr előtt, a ti Istenetek előtt.
 fa4dh6fed 23,29
@@ -1380,17 +1380,17 @@ fa4dh6fed 23,32
 fa4dh6fed 23,33
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 23,34
-Szólj Izráel fiainak, mondván: Ugyanennek a hetedikhónapnak tizenötödikén a sátorok ünnepe legyen az Úrnak hét napig.
+Szólj Izráel fiainak, mondván: Ugyanennek a hetedik  hónapnak tizenötödikén a sátorok ünnepe legyen az Úrnak hét napig.
 fa4dh6fed 23,35
 Az első napon szent gyülekezés legyen, semmi robota munkát ne végezzetek.
 fa4dh6fed 23,36
-Hétnapon áldozzatok az Úrnak tűzáldozatot, a nyolczadik napon pedig szent gyülekezéstek legyen éstűzáldozattal áldozzatok az Úrnak; berekesztő ünnep ez, semmi robota munkát ne végezzetek azon.
+Hét napon áldozzatok az Úrnak tűzáldozatot, a nyolczadik napon pedig szent gyülekezéstek legyen és újra tűzáldozattal áldozzatok az Úrnak; berekesztő ünnep ez, semmi robota munkát ne végezzetek azon.
 fa4dh6fed 23,37
 Ezek az Úrnak ünnepei, a melyeken szent gyülekezésekre kell gyülekeznetek, hogy áldozzatok az Úrnak tűzáldozattal, egészen égőáldozattal, ételáldozattal, véres- és italáldozattal: minden napét a maga napján.
 fa4dh6fed 23,38
 Az Úrnak szombatjain kivül, adományaitokon kivül, fogadásból és szabad akaratból való minden ajándékaitokon kivül a melyeket adni szoktatok az Úrnak,
 fa4dh6fed 23,39
-Ugyancsak a hetedik hónapnak tizenötödik napján, a mikor a földnek termését betakarjátok, az Úrnak ünnepét ünnepeljétek hét napig: az első napon nyugodalom napja, és a nyolczadik napon is nyugodalom napja
+Ugyancsak a hetedik hónapnak tizenötödik napján, a mikor a földnek termését betakarjátok, az Úrnak ünnepét ünnepeljétek hét napig: az első napon nyugodalom napja, és a nyolczadik napon is nyugodalom napja legyen. 
 fa4dh6fed 23,40
 És vegyetek magatoknak az első napon szép fának gyümölcsét, pálmafa ágait, sűrű levelű fa lombját, és patak mellett való fűzgalyakat, és örvendezzetek az Úr előtt, a ti Istenetek előtt hét napig.
 fa4dh6fed 23,41
@@ -1404,27 +1404,27 @@ fa4dh6fed 23,44
 fa4dh6fed 24,1
 Szóla ismét az Úr Mózesnek, mondván:
 fa4dh6fed 24,2
-Parancsold meg Izráel fiainak, hogy hozzanak néked tisztafaolajat, a melyet a világításhoz sajtoltak, hogy szünet nélkül égő lámpákat gyújthassanak.
+Parancsold meg Izráel fiainak, hogy hozzanak néked tiszta faolajat, a melyet a világításhoz sajtoltak, hogy szünet nélkül égő lámpákat gyújthassanak.
 fa4dh6fed 24,3
-A bizonyság függönyén kivül, a gyülekezet sátorában úgy helyheztesse elÁron, hogy estvétől fogva reggelig az Úr előtt legyeÖrökkévaló rendtartás legyen ez a ti nemzetségeiteknél.
+A bizonyság függönyén kivül, a gyülekezet sátorában úgy helyheztesse el azokat Áron, hogy estvétől fogva reggelig az Úr előtt legye nek. Örökkévaló rendtartás legyen ez a ti nemzetségeiteknél.
 fa4dh6fed 24,4
-A tisztagyertyatartóra rakja fel a mécseket;az Úr előtt legyenek szüntelen.
+A tiszta arany gyertyatartóra rakja fel a mécseket; az Úr előtt legyenek szüntelen.
 fa4dh6fed 24,5
-És végy lisztlángot, és süss abból tizenkét lepényt; két tizedlegyen egy lepény.
+És végy lisztlángot, és süss abból tizenkét lepényt; két tized efából legyen egy lepény.
 fa4dh6fed 24,6
-És helyheztesd el azokat két rendben; hatot egy rendbe, a tisztaasztalra az Úr elé.
+És helyheztesd el azokat két rendben; hatot egy rendbe, a tiszta arany asztalra az Úr elé.
 fa4dh6fed 24,7
 És tégy mindenik rendhez tiszta tömjént, és legyen emlékeztetőül a kenyér mellett, tűzáldozatul az Úrnak.
 fa4dh6fed 24,8
-Szombat napról szombat napra rakja fel aztaz Úr elé szüntelen; örök szövetség ez Izráel fiaival.
+Szombat napról szombat napra rakja fel azt a  pap az Úr elé szüntelen; örök szövetség ez Izráel fiaival.
 fa4dh6fed 24,9
-Azután legyen az Ároné és az ő fiaié,a kik egyék meg azokat szent helyen, mert mint igen szentséges, az övé az, az Úrnak tűzáldozataiból, örök rendelés szerint.
+Azután legyen az Ároné és az ő fiaié, a kik egyék meg azokat szent helyen, mert mint igen szentséges, az övé az, az Úrnak tűzáldozataiból, örök rendelés szerint.
 fa4dh6fed 24,10
 Kiméne pedig egy izráelbeli asszonynak fia, a ki égyiptomi férfiútól való vala, Izráel fiai közé, és versengének a táborban az izráelbeli asszonynak fia és egy izráelbeli férfi.
 fa4dh6fed 24,11
-És káromlá az izráelbeli asszony fia aznevét és átkozódék; elvivék azért azt Mózeshez. Az ő anyjának neve pedig Selomith vala, Dibrinek leánya, Dán nemzetségéből.
+És káromlá az izráelbeli asszony fia az Isten nevét és átkozódék; elvivék azért azt Mózeshez. Az ő anyjának neve pedig Selomith vala, Dibrinek leánya, Dán nemzetségéből.
 fa4dh6fed 24,12
-És őrizet aláveték azt, míg kijelentést nyernének az Úr akarata felől.
+És őrizet alá veték azt, míg kijelentést nyernének az Úr akarata felől.
 fa4dh6fed 24,13
 Szóla azért az Úr Mózesnek, mondván:
 fa4dh6fed 24,14
@@ -1432,7 +1432,7 @@ Vidd ki az átkozódót a táboron kivül, és mindazok, a kik hallották, tegy�
 fa4dh6fed 24,15
 Izráel fiainak pedig szólj, ezt mondván: Ha valaki az ő Istenét átkozza, viselje az ő bűnének terhét.
 fa4dh6fed 24,16
-És a ki szidalmazza az Úrnak nevét, halállal lakoljon, kövezze azt agyon az egész gyülekezet; akár jövevény, akár benszülött, ha szidalmazza aznevét, halállal lakoljon.
+És a ki szidalmazza az Úrnak nevét, halállal lakoljon, kövezze azt agyon az egész gyülekezet; akár jövevény, akár benszülött, ha szidalmazza az Úrnak nevét, halállal lakoljon.
 fa4dh6fed 24,17
 Ha valaki agyon üt valamely embert, halállal lakoljon.
 fa4dh6fed 24,18
@@ -1440,7 +1440,7 @@ Ha pedig barmot üt agyon valaki, fizesse meg azt: barmot baromért.
 fa4dh6fed 24,19
 És ha valaki sérelmet ejt a felebarátján, a mint ő cselekedett, vele is úgy cselekedjenek:
 fa4dh6fed 24,20
-Törésttörésért, szemet szemért, fogat fogért; a milyen sérelmet ő ejtett máson, olyan ejtessék rajta is.
+Törést törésért, szemet szemért, fogat fogért; a milyen sérelmet ő ejtett máson, olyan ejtessék rajta is.
 fa4dh6fed 24,21
 A ki barmot üt agyon, fizesse meg azt, de a ki embert üt agyon, halállal lakoljon.
 fa4dh6fed 24,22
@@ -1454,7 +1454,7 @@ Szólj Izráel fiainak és mondd meg nékik: Mikor bementek a földre, a melyet 
 fa4dh6fed 25,3
 Hat esztendőn át vesd a te szántóföldedet, és hat esztendőn át messed a te szőlődet, és takarítsd be annak termését;
 fa4dh6fed 25,4
-A hetedikesztendőben pedig szombati nyugodalma legyen a földnek, az Úrnak szombatja: szántóföldedet ne vesd be, és szőlődet meg ne mesd.
+A hetedik esztendőben pedig szombati nyugodalma legyen a földnek, az Úrnak szombatja: szántóföldedet ne vesd be, és szőlődet meg ne mesd.
 fa4dh6fed 25,5
 A mi a te tarló földeden magától terem, le ne arasd, és a mi a te metszetlen szőlődön terem, meg ne szedjed; mert nyugalom esztendeje lesz az a földnek.
 fa4dh6fed 25,6
@@ -1466,17 +1466,17 @@ Számlálj azután hét szombat-esztendőt, hétszer hét esztendőt, úgy hogy 
 fa4dh6fed 25,9
 Akkor fúvasd végig a riadó kürtöt a hetedik hónapban, a hónap tizedikén; az engesztelés napján fúvasd végig a kürtöt a ti egész földeteken.
 fa4dh6fed 25,10
-És szenteljétek meg az ötvenedik esztendőt, és hirdessetek szabadságot a földön, annak minden lakójának; kürtöléslegyen ez néktek, és kapja vissza kiki az ő birtokát, és térjen vissza kiki az ő nemzetségéhez.
+És szenteljétek meg az ötvenedik esztendőt, és hirdessetek szabadságot a földön, annak minden lakójának; kürtölés nek esztendeje legyen ez néktek, és kapja vissza kiki az ő birtokát, és térjen vissza kiki az ő nemzetségéhez.
 fa4dh6fed 25,11
-Kürtölésez, az legyen néktek az ötvenedik esztendő; ne vessetek és le se arassátok, a mit önként teremés a metszetlen szőlőjét se szedjétek meg annak.
+Kürtölés nek  esztendeje ez, az legyen néktek az ötvenedik esztendő; ne vessetek és le se arassátok, a mit önként terem a föld, és a metszetlen szőlőjét se szedjétek meg annak.
 fa4dh6fed 25,12
-Mert kürtölésez, szent legyen néktek, a mezőről egyétek meg annak termését.
+Mert kürtölés nek esztendeje ez, szent legyen néktek, a mezőről egyétek meg annak termését.
 fa4dh6fed 25,13
 A kürtölésnek ebben az esztendejében, kapja vissza ismét kiki az ő birtokát.
 fa4dh6fed 25,14
 Ha pedig eladsz valami eladni valót a te felebarátodnak, vagy vásárolsz valamit a te felebarátodtól: egymást meg ne csaljátok.
 fa4dh6fed 25,15
-A kürtöléskövető esztendők száma szerint vásárolj a te felebarátodtól; a terméses esztendők száma szerint adjon el néked.
+A kürtölés esztendejét követő esztendők száma szerint vásárolj a te felebarátodtól; a terméses esztendők száma szerint adjon el néked.
 fa4dh6fed 25,16
 Az esztendők nagyobb számához képest nagyobb árt adj azért, a mit veszesz, az esztendők kisebb számához képest pedig kisebb árt adj azért, a mit veszesz, mert a termések számát adja ő el néked.
 fa4dh6fed 25,17
@@ -1492,7 +1492,7 @@ fa4dh6fed 25,21
 fa4dh6fed 25,22
 És mikor a nyolczadik esztendőre vettek, akkor is az ó termésből esztek egészen a kilenczedik esztendeig; mindaddig ó gabonát esztek, míg ennek termése be nem jön.
 fa4dh6fed 25,23
-A földet pedig senki el ne adja örökre, mert enyéma föld; csak jövevények és zsellérek vagytok ti nálam.
+A földet pedig senki el ne adja örökre, mert enyém a föld; csak jövevények és zsellérek vagytok ti nálam.
 fa4dh6fed 25,24
 Azért a ti birtokotoknak egész földén megengedjétek, hogy a föld kiváltható legyen.
 fa4dh6fed 25,25
@@ -1502,29 +1502,29 @@ Ha pedig nincs valakinek kiváltó rokona, de maga tesz szert annyira, hogy eleg
 fa4dh6fed 25,27
 Számlálja meg az eladása óta eltelt esztendőket, a felül lévőt pedig térítse meg annak, a kinek eladta volt, és újra övé legyen az ő birtoka.
 fa4dh6fed 25,28
-Ha pedig nincsen módjában, hogy visszatéríthesse annak, akkor maradjon az ő eladott birtoka annál, a ki megvette azt,a kürtölésnek esztendejéig: a kürtölésnek esztendejében pedig szabaduljon fel, és újra övé legyen az ő birtoka.
+Ha pedig nincsen módjában, hogy visszatéríthesse annak, akkor maradjon az ő eladott birtoka annál, a ki megvette azt, egészen a kürtölésnek esztendejéig: a kürtölésnek esztendejében pedig szabaduljon fel, és újra övé legyen az ő birtoka.
 fa4dh6fed 25,29
 Ha valaki lakó-házat ad el kerített városban, az kiválthatja azt az eladás esztendejének elteléséig; egy esztendőn át válthatja ki azt.
 fa4dh6fed 25,30
-Ha pedig ki nem váltják az esztendőnek teljes elteléséig, akkor a ház, a mely kerített városban van, örökre azé és annak nemzetségeié marad, a ki megvette azt; nem szabadul fela kürtölésnek esztendejében.
+Ha pedig ki nem váltják az esztendőnek teljes elteléséig, akkor a ház, a mely kerített városban van, örökre azé és annak nemzetségeié marad, a ki megvette azt; nem szabadul fel a kürtölésnek esztendejében.
 fa4dh6fed 25,31
 Az olyan falvak házai pedig, a melyek nincsenek körülkerítve, mezei földek gyanánt számíttassanak, kiválthatók legyenek, és a kürtölésnek esztendejében felszabaduljanak.
 fa4dh6fed 25,32
-A mi pedig a léviták városait illeti, az ő birtokukban lévő városok házaia léviták által mindenkor kiválthatók legyenek,
+A mi pedig a léviták városait illeti, az ő birtokukban lévő városok házai a léviták által mindenkor kiválthatók legyenek,
 fa4dh6fed 25,33
-De a mit kiváltvalaki a léviták közül, szabaduljon fel a kürtölésnek esztendejében, az eladott ház, és az ő birtokának városa; mert a léviták városainak házaibirtokuk nékik Izráel fiai között.
+De a mit ki nem vált is valaki a léviták közül, szabaduljon fel a kürtölésnek esztendejében, az eladott ház, és az ő birtokának városa; mert a léviták városainak házai tulajdon birtokuk nékik Izráel fiai között.
 fa4dh6fed 25,34
 De a városaikhoz tartozó szántóföldeket el ne adják, mert örök birtokuk az nékik.
 fa4dh6fed 25,35
 Ha a te atyádfia elszegényedik, és keze erőtlenné lesz melletted, segítsd meg őt, akár jövevény, akár zsellér, hogy megélhessen melletted.
 fa4dh6fed 25,36
-Ne végy ő tőlekamatot vagy uzsorát, hanem félj a te Istenedtől, hogy megélhessen melletted a te atyádfia.
+Ne végy ő tőle kamatot vagy uzsorát, hanem félj a te Istenedtől, hogy megélhessen melletted a te atyádfia.
 fa4dh6fed 25,37
 Pénzedet ne add néki kamatra, se uzsoráért ne add a te eleségedet.
 fa4dh6fed 25,38
-Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéről, hogy néktek adjam Kanaán földét,Istenetek legyek néktek.
+Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéről, hogy néktek adjam Kanaán földét, és Istenetek legyek néktek.
 fa4dh6fed 25,39
-Ha pedig elszegényedik melletted a te atyádfia, és eladja magát néked: neszolgáltassad úgy mint rabszolgát.
+Ha pedig elszegényedik melletted a te atyádfia, és eladja magát néked: ne szolgáltassad úgy mint rabszolgát.
 fa4dh6fed 25,40
 Mint béres, mint zsellér legyen nálad; a kürtölésnek esztendejéig szolgáljon nálad.
 fa4dh6fed 25,41
@@ -1532,9 +1532,9 @@ Azután menjen el tőled ő és vele az ő gyermekei, és térjen vissza az ő n
 fa4dh6fed 25,42
 Mert az én szolgáim ők, a kiket kihoztam Égyiptom földéről: nem adathatnak el, mint rabszolgák.
 fa4dh6fed 25,43
-Ne uralkodjálrajta kegyetlenül, hanem félj a te Istenedtől.
+Ne uralkodjál  rajta kegyetlenül, hanem félj a te Istenedtől.
 fa4dh6fed 25,44
-Mind szolgád, mind szolgálóleányod, a kik lesznek néked, a körületek lévő népek közülazokból vásárolj szolgát és szolgálóleányt;
+Mind szolgád, mind szolgálóleányod, a kik lesznek néked, a körületek lévő népek közül legyenek: azokból vásárolj szolgát és szolgálóleányt;
 fa4dh6fed 25,45
 Meg a zsellérek gyermekei közül is, a kik nálatok tartózkodnak, azokból is vásárolhattok, és azoknak nemzetségéből, a kik veletek vannak, a kiket a ti földeteken nemzettek; és legyenek a ti tulajdonotok.
 fa4dh6fed 25,46
@@ -1548,7 +1548,7 @@ Vagy nagybátyja, vagy nagybátyjának fia váltsa meg azt, vagy az ő nemzetsé
 fa4dh6fed 25,50
 És vessen számot azzal, a ki megvette őt, attól az esztendőtől kezdve, a melyen eladta magát annak, a kürtölésnek esztendejéig, és az ő eladásának ára az esztendők száma szerint legyen, a béres ideje szerint legyen nála.
 fa4dh6fed 25,51
-Ha még sok esztendő vanképest térítse meg annak a váltságot az ő megvásárlásának árából.
+Ha még sok esztendő van hátra, azokhoz képest térítse meg annak a váltságot az ő megvásárlásának árából.
 fa4dh6fed 25,52
 Ha pedig kevés esztendő van hátra a kürtölésnek esztendejéig, akkor is vessen számot vele, és az évek számához képest fizesse vissza az ő váltságát.
 fa4dh6fed 25,53
@@ -1558,39 +1558,39 @@ Ha pedig ilyen módon meg nem váltatik, a kürtölésnek esztendejében szabadu
 fa4dh6fed 25,55
 Mert az én szolgáim Izráel fiai, az én szolgáim ők, a kiket kihoztam Égyiptom földéről. Én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 26,1
-Ne csináljatokmagatoknak bálványokat, se faragott képet, se oszlopot ne emeljetek magatoknak, se kőszobrokat ne állítsatok fel a ti földeteken, hogy meghajoljatok előtte, mert én vagyok az Úr, a ti Istenetek.
+Ne csináljatok   magatoknak bálványokat, se faragott képet, se oszlopot ne emeljetek magatoknak, se kőszobrokat ne állítsatok fel a ti földeteken, hogy meghajoljatok előtte, mert én vagyok az Úr, a ti Istenetek.
 fa4dh6fed 26,2
-Az én szombatjaimat megtartsátok, és az énszenthelyemet tiszteljétek. Én vagyok az Úr.
+Az én szombatjaimat megtartsátok, és az én szenthelyemet tiszteljétek. Én vagyok az Úr.
 fa4dh6fed 26,3
-Ha az én rendeléseim szerint jártok, és az én parancsolataimatmegtartjátok, és azokat megcselekszitek:
+Ha az én rendeléseim szerint jártok, és az én parancsolataimat megtartjátok, és azokat megcselekszitek:
 fa4dh6fed 26,4
 Esőt adok néktek idejében, és a föld megadja az ő termését, a mező fája is megtermi gyümölcsét.
 fa4dh6fed 26,5
 És a ti csépléstek ott éri a szüretet, és a szüret ott éri a vetést, és elégségig ehetitek kenyereteket, és bátorságosan lakhattok a ti földeteken.
 fa4dh6fed 26,6
-Mert békességet adok azon a földön, hogy mikor lefeküsztök, senki felne rettentsen; és kipusztítom az ártalmas vadat arról a földről, és fegyver sem megy át a ti földeteken.
+Mert békességet adok azon a földön, hogy mikor lefeküsztök, senki fel ne rettentsen; és kipusztítom az ártalmas vadat arról a földről, és fegyver sem megy át a ti földeteken.
 fa4dh6fed 26,7
 Sőt elűzitek ellenségeiteket, és elhullanak előttetek fegyver által.
 fa4dh6fed 26,8
-És közületek ötenszázat elűznek, és közületek százan elűznek tízezeret, és elhullanak előttetek a ti ellenségeitek fegyver által.
+És közületek öten százat elűznek, és közületek százan elűznek tízezeret, és elhullanak előttetek a ti ellenségeitek fegyver által.
 fa4dh6fed 26,9
 És hozzátok fordulok, és megszaporítlak titeket, és megsokasítlak titeket és szövetségemet megerősítem veletek.
 fa4dh6fed 26,10
 És réginél régibbet ehettek, és az új elől is régit kell kihordanotok.
 fa4dh6fed 26,11
-És az én hajlékomatközétek helyezem, és meg nem útál titeket az én lelkem.
+És az én hajlékomat közétek helyezem, és meg nem útál titeket az én lelkem.
 fa4dh6fed 26,12
 És közöttetek járok, és a ti Istenetek leszek, ti pedig az én népem lesztek.
 fa4dh6fed 26,13
 Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéről, hogy ne legyetek azoknak rabjai, és összetörtem a ti igátok szegeit, és egyenesen járattalak titeket.
 fa4dh6fed 26,14
-Ha pedig nem hallgattok reám, ésmind e parancsolatokat meg nem cselekeszitek;
+Ha pedig nem hallgattok reám, és mind e parancsolatokat meg nem cselekeszitek;
 fa4dh6fed 26,15
 És ha megvetitek rendeléseimet, és ha az én végzéseimet megútálja a ti lelketek, azáltal, hogy nem cselekszitek meg minden én parancsolatomat, hanem felbontjátok az én szövetségemet:
 fa4dh6fed 26,16
-Bizony azt cselekszem én veletek, hogy rettenetességet bocsátok reátok: a száraz betegséget és a forrólázt, a melyek szemeketégetnek és lelket epesztenek, és a timagotokat hiába vetitek el, mert ellenségeitek emésztik meg azt.
+Bizony azt cselekszem én veletek, hogy rettenetességet bocsátok reátok: a száraz betegséget és a forrólázt, a melyek szemeket égetnek és lelket epesztenek, és a ti magotokat hiába vetitek el, mert ellenségeitek emésztik meg azt.
 fa4dh6fed 26,17
-És kiontom haragomat reátok, hogy elhulljatok a ti ellenségeitek előtt, és uralkodjanak rajtatok a ti gyűlölőitek, ésfussatok, mikor senki nem kerget is titeket.
+És kiontom haragomat reátok, hogy elhulljatok a ti ellenségeitek előtt, és uralkodjanak rajtatok a ti gyűlölőitek, és  fussatok, mikor senki nem kerget is titeket.
 fa4dh6fed 26,18
 Ha pedig ezek után sem hallgattok reám, hétszerte keményebben megostorozlak titeket a ti bűneitekért;
 fa4dh6fed 26,19
@@ -1604,31 +1604,31 @@ fa4dh6fed 26,22
 fa4dh6fed 26,23
 És ha ezek által sem jobbultok meg, hanem ellenemre jártok:
 fa4dh6fed 26,24
-Én is bizonyellenetekre járok, és hétszeresen sújtalak titeket a ti bűneitekért.
+Én is bizony ellenetekre járok, és hétszeresen sújtalak titeket a ti bűneitekért.
 fa4dh6fed 26,25
-És hozok reátok bosszuló fegyvert, a mely bosszút álljon a szövetségHa városaitokba gyülekeztek össze, akkor döghalált bocsátok reátok, és az ellenség kezébe adattok.
+És hozok reátok bosszuló fegyvert, a mely bosszút álljon a szövetség megrontásáért. Ha városaitokba gyülekeztek össze, akkor döghalált bocsátok reátok, és az ellenség kezébe adattok.
 fa4dh6fed 26,26
-Mikor eltöröm nálatok akenyérnek botját, tíz asszony süti majd a ti kenyereteket egy kemenczében, és megmérve viszik vissza a ti kenyereiteket, és esztek, denem elégesztek meg.
+Mikor eltöröm nálatok a  kenyérnek botját, tíz asszony süti majd a ti kenyereteket egy kemenczében, és megmérve viszik vissza a ti kenyereiteket, és esztek, de  nem elégesztek meg.
 fa4dh6fed 26,27
 És ha e mellett sem hallgattok reám, hanem ellenemre jártok:
 fa4dh6fed 26,28
 Én is ellenetekre járok búsult haragomban, és bizony hétszeresen megostorozlak titeket a ti bűneitekért.
 fa4dh6fed 26,29
-És megeszitek a ti fiaitok húsát, ésmegeszitek a ti leányaitok húsát.
+És megeszitek a ti fiaitok húsát, és megeszitek a ti leányaitok húsát.
 fa4dh6fed 26,30
-És lerontom a ti magaslataitokat, és kiirtom a ti nap-oszlopaitokat, és a tiholttesteiteket bálványaitok holttetemeire hányatom, és megútál titeket az én lelkem.
+És lerontom a ti magaslataitokat, és kiirtom a ti nap-oszlopaitokat, és a ti  holttesteiteket bálványaitok holttetemeire hányatom, és megútál titeket az én lelkem.
 fa4dh6fed 26,31
-És városaitokat sivataggá teszem; szenthelyeiteketis elpusztítom, és nem lesz kedves nékem a ti jóillatú áldozatotok.
+És városaitokat sivataggá teszem; szenthelyeiteket is elpusztítom, és nem lesz kedves nékem a ti jóillatú áldozatotok.
 fa4dh6fed 26,32
-És elpusztítoma földet, hogy álmélkodjanak rajta a ti ellenségeitek, a kik letelepednek ebbe.
+És elpusztítom ezt a földet, hogy álmélkodjanak rajta a ti ellenségeitek, a kik letelepednek ebbe.
 fa4dh6fed 26,33
-Titeket pedig elszélesztelek a pogány népek közé, és kivont fegyverreltiteket, és pusztasággá lesz a ti földetek, városaitok pedig sivataggá.
+Titeket pedig elszélesztelek a pogány népek közé, és kivont fegyverrel űzetlek titeket, és pusztasággá lesz a ti földetek, városaitok pedig sivataggá.
 fa4dh6fed 26,34
-Akkorörül a föld az ő szombatjainak az ő pusztaságának egész ideje alatt, ti pedig a ti ellenségeitek földjén lesztek; akkor nyugodni fog a föld és örül az ő szombatjainak.
+Akkor örül a föld az ő szombatjainak az ő pusztaságának egész ideje alatt, ti pedig a ti ellenségeitek földjén lesztek; akkor nyugodni fog a föld és örül az ő szombatjainak.
 fa4dh6fed 26,35
 Pusztaságának egész ideje alatt nyugodni fog, mivelhogy nem nyugodott a ti szombatjaitokon, mikor rajta laktatok.
 fa4dh6fed 26,36
-A kik pedig megmaradnak közületek, azoknak szívébegyávaságot öntök az ő ellenségeiknek földén, és megkergeti őket a szállongó falevél zörrenése, és futnak, mintha fegyver elől futnának, és elhullanak, ha senki nem kergeti is őket.
+A kik pedig megmaradnak közületek, azoknak szívébe gyávaságot öntök az ő ellenségeiknek földén, és megkergeti őket a szállongó falevél zörrenése, és futnak, mintha fegyver elől futnának, és elhullanak, ha senki nem kergeti is őket.
 fa4dh6fed 26,37
 És egymásra hullanak, mint a fegyver előtt, pedig senki sem kergeti őket, és nem lesz megállásotok a ti ellenségeitek előtt.
 fa4dh6fed 26,38
@@ -1636,11 +1636,11 @@ fa4dh6fed 26,38
 fa4dh6fed 26,39
 A kik pedig megmaradnak közületek, elsenyvednek az ő hamisságuk miatt a ti ellenségeitek földén, sőt az ő atyáiknak hamissága miatt is azokkal együtt elsenyvednek.
 fa4dh6fed 26,40
-Akkor megvallják az ő hamisságukat, és atyáiknak hamisságát az ő hűtelenségökben,a melylyel hűtelenkedtek ellenem, és hogy mivel ellenemre jártak.
+Akkor megvallják az ő hamisságukat, és atyáiknak hamisságát az ő hűtelenségökben, a melylyel hűtelenkedtek ellenem, és hogy mivel ellenemre jártak.
 fa4dh6fed 26,41
 Bizony én is ellenökre járok, és beviszem őket az ő ellenségeik földjére; akkor talán megalázódik az ő körülmetéletlen szívök, és akkor az ő bűnöknek büntetését békével szenvedik:
 fa4dh6fed 26,42
-Én pedig megemlékezem Jákóbbal kötött szövetségemről, Izsákkal kötött szövetségemről is, Ábrahámmal kötöttszövetségemről is megemlékezem, és e földről is megemlékezem.
+Én pedig megemlékezem Jákóbbal kötött szövetségemről, Izsákkal kötött szövetségemről is, Ábrahámmal kötött szövetségemről is megemlékezem, és e földről is megemlékezem.
 fa4dh6fed 26,43
 A föld tehát pusztán hagyatik tőlük, és örül az ő szombatjainak, a míg pusztán marad tőlük, ők pedig békével szenvedik bűnöknek büntetését, azért, mert megvetették az én ítéleteimet, és megútálta lelkök az én rendeléseimet.
 fa4dh6fed 26,44
@@ -1666,7 +1666,7 @@ Ha pedig hatvan esztendős és azon felül való, ha férfi, akkor becsüljed ti
 fa4dh6fed 27,8
 Ha pedig szegényebb az, mint te becsülted, akkor állassák a pap elé, és becsülje meg azt a pap; a szerint becsülje azt a pap, a milyen módja van a fogadást tevőnek.
 fa4dh6fed 27,9
-Ha pedigbarom az, a miből áldozni szoktak az Úrnak: mindaz, a mit az eféléből ádaz Úrnak, szent legyen.
+Ha pedig olyan barom az, a miből áldozni szoktak az Úrnak: mindaz, a mit az eféléből ád valaki az Úrnak, szent legyen.
 fa4dh6fed 27,10
 Ne adjon mást helyette, és ki ne cserélje azt: jót hitványért, vagy hitványat jóért; de ha mégis kicserélne barmot barommal: mind ez, mind az, a mivel kicserélte, szent legyen.
 fa4dh6fed 27,11
@@ -1680,7 +1680,7 @@ fa4dh6fed 27,14
 fa4dh6fed 27,15
 Ha pedig az, a ki odaszentelte, megváltja az ő házát: akkor adja ahhoz a te becslésed szerint való árnak ötödrészét, és legyen az övé.
 fa4dh6fed 27,16
-És ha valaki az ő mezei birtokából szentel valamit az Úrnak, akkor a mag szerint becsüld meg, aegy hómer árpa-mag után ötven ezüst siklusra.
+És ha valaki az ő mezei birtokából szentel valamit az Úrnak, akkor a mag szerint becsüld meg, a mely abba megy: egy hómer árpa-mag után ötven ezüst siklusra.
 fa4dh6fed 27,17
 Ha a kürtölésnek esztendejétől szenteli oda az ő mezejét, a mint becsülted, úgy maradjon.
 fa4dh6fed 27,18
@@ -1690,7 +1690,7 @@ fa4dh6fed 27,19
 fa4dh6fed 27,20
 Ha pedig nem váltja meg azt a mezőt, és ha eladja azt a mezőt más valakinek, többé meg nem válthatja azt.
 fa4dh6fed 27,21
-És az a föld, mikor a kürtölésnek esztendejében felszabadul, az Úrnak szenteltessék, mint valamelyszentelt mező, papok birtokává legyen az.
+És az a föld, mikor a kürtölésnek esztendejében felszabadul, az Úrnak szenteltessék, mint valamely néki szentelt mező, papok birtokává legyen az.
 fa4dh6fed 27,22
 Ha pedig pénzen vett mezejét, a mi nem az ő birtokának mezejéből való, valaki az Úrnak szenteli:
 fa4dh6fed 27,23
@@ -1698,13 +1698,13 @@ Akkor számolja fel néki a pap a te becslésed szerint való összeget a kürt�
 fa4dh6fed 27,24
 A kürtölésnek esztendejében visszaszáll a mező arra, a kitől vette azt, a kinek birtoka volt az a föld.
 fa4dh6fed 27,25
-Minden becslésed pedig a szent siklus szerint legyen; húsz géralegyen a siklus.
+Minden becslésed pedig a szent siklus szerint legyen; húsz géra legyen a siklus.
 fa4dh6fed 27,26
-Csak elsőszülöttet, a mely elsőszülöttazÚré, azt ne szenteljen a baromféléből senki; akár borjú akár bárány, az Úré az.
+Csak elsőszülöttet, a mely elsőszülött úgyis az Úré, azt ne szenteljen a baromféléből senki; akár borjú akár bárány, az Úré az.
 fa4dh6fed 27,27
 Ha pedig tisztátalan baromból való az, váltsa meg a te becslésed szerint, és adja hozzá annak ötödrészét; ha pedig nem váltják meg, adassék el a te becslésed szerint.
 fa4dh6fed 27,28
-De semmi, a mit valaki teljesen az Úrnak szentelt, mind abból a mije van, akár ember vagy barom, akár mezei birtokából való, el ne adassék, és meg se váltassék; minden, a mi teljesenszenteltetett, igen szentséges azÚrnak.
+De semmi, a mit valaki teljesen az Úrnak szentelt, mind abból a mije van, akár ember vagy barom, akár mezei birtokából való, el ne adassék, és meg se váltassék; minden, a mi teljesen néki szenteltetett, igen szentséges az  Úrnak.
 fa4dh6fed 27,29
 Senki, a ki teljesen az Úrnak szenteltetett az emberek közül, meg ne váltassék, hanem halálra adassék bizonynyal.
 fa4dh6fed 27,30
@@ -1716,4 +1716,4 @@ fa4dh6fed 27,32
 fa4dh6fed 27,33
 Ne tudakozódjék, ha jó-e vagy hitvány, és el se cserélje azt; de ha mégis elcseréli azt, akkor az, és a mit cserébe adott azért, szent legyen, és meg se váltassék.
 fa4dh6fed 27,34
-Ezek azok a parancsolatok, a melyeket Mózes által parancsolt az Úr Izráel fiainak a Sinai hegyen. $
+Ezek azok a parancsolatok, a melyeket Mózes által parancsolt az Úr Izráel fiainak a Sinai hegyen.  

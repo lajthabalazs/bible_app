@@ -1,24 +1,24 @@
-MÓZES ELSŐ KÖNYVE A TEREMTÉSRŐL
+Mózes Első Könyve a Teremtésről
 fa4dh6fed 1,1
-Kezdetbenteremté Isten az eget és a földet.
+Kezdetben     teremté Isten az eget és a földet.
 fa4dh6fed 1,2
 A föld pedig kietlen és puszta vala, és setétség vala a mélység színén, és az Isten Lelke lebeg vala a vizek felett.
 fa4dh6fed 1,3
-Ésmonda Isten: Legyen világosság: és lőn világosság.
+És monda Isten: Legyen világosság: és lőn világosság.
 fa4dh6fed 1,4
-És látá Isten, hogy jó a világosság; éselválasztá Isten a világosságot a setétségtől.
+És látá Isten, hogy jó a világosság; és elválasztá Isten a világosságot a setétségtől.
 fa4dh6fed 1,5
 És nevezé Isten a világosságot nappalnak, és a setétséget nevezé éjszakának: és lőn este és lőn reggel, első nap.
 fa4dh6fed 1,6
-És monda Isten:Legyen mennyezet a víz között, a mely elválaszsza a vizeket a vizektől.
+És monda Isten: Legyen mennyezet a víz között, a mely elválaszsza a vizeket a vizektől.
 fa4dh6fed 1,7
-Teremté tehát Isten a mennyezetet, és elválasztá a mennyezetalatt való vizeket, a mennyezet felett való vizektől. És úgy lőn.
+Teremté tehát Isten a mennyezetet, és elválasztá a mennyezet alatt való vizeket, a mennyezet felett való vizektől. És úgy lőn.
 fa4dh6fed 1,8
 És nevezé Isten a mennyezetet égnek: és lőn este, és lőn reggel, második nap.
 fa4dh6fed 1,9
-És monda Isten:Gyűljenek egybe az ég alatt való vizek egy helyre, hogy tessék meg a száraz. És úgy lőn.
+És monda Isten:   Gyűljenek egybe az ég alatt való vizek egy helyre, hogy tessék meg a száraz. És úgy lőn.
 fa4dh6fed 1,10
-És nevezé Isten a szárazat földnek; az egybegyűlt vizeketpedig tengernek nevezé. És látá Isten, hogy jó.
+És nevezé Isten a szárazat földnek; az egybegyűlt vizeket pedig tengernek nevezé. És látá Isten, hogy jó.
 fa4dh6fed 1,11
 Azután monda Isten: Hajtson a föld gyenge fűvet, maghozó fűvet, gyümölcsfát, a mely gyümölcsöt hozzon az ő neme szerint, a melyben legyen néki magva e földön. És úgy lőn.
 fa4dh6fed 1,12
@@ -26,11 +26,11 @@ Hajta tehát a föld gyenge fűvet, maghozó fűvet az ő neme szerint, és gyü
 fa4dh6fed 1,13
 És lőn este és lőn reggel, harmadik nap.
 fa4dh6fed 1,14
-És monda Isten: Legyenek világítótestek az ég mennyezetén, hogy elválaszszák a nappalt az éjszakától, és legyenek jelek, és meghatározói ünnepeknek, napoknak és esztendőknek.
+És monda Isten: Legyenek világító testek az ég mennyezetén, hogy elválaszszák a nappalt az éjszakától, és legyenek jelek, és meghatározói ünnepeknek, napoknak és esztendőknek.
 fa4dh6fed 1,15
-És legyenekvilágítókul az ég mennyezetén hogy világítsanak a földre. És úgy lőn.
+És legyenek világítókul az ég mennyezetén hogy világítsanak a földre. És úgy lőn.
 fa4dh6fed 1,16
-Teremté tehát Isten a két nagy világító testet:a nagyobbik világító testet, hogy uralkodjék nappal és a kisebbik világító testet, hogy uralkodjék éjjel; és a csillagokat.
+Teremté tehát Isten a két nagy világító testet: a nagyobbik világító testet, hogy uralkodjék nappal és a kisebbik világító testet, hogy uralkodjék éjjel; és a csillagokat.
 fa4dh6fed 1,17
 És helyezteté Isten azokat az ég mennyezetére, hogy világítsanak a földre;
 fa4dh6fed 1,18
@@ -42,7 +42,7 @@ fa4dh6fed 1,20
 fa4dh6fed 1,21
 És teremté Isten a nagy vízi állatokat, és mindazokat a csúszó-mászó állatokat, a melyek nyüzsögnek a vizekben az ő nemök szerint, és mindenféle szárnyas repdesőt az ő neme szerint. És látá Isten, hogy jó.
 fa4dh6fed 1,22
-És megáldá azokat Isten, mondván:Szaporodjatok, és sokasodjatok, és töltsétek be a tenger vizeit; a madár is sokasodjék a földön.
+És megáldá azokat Isten, mondván: Szaporodjatok, és sokasodjatok, és töltsétek be a tenger vizeit; a madár is sokasodjék a földön.
 fa4dh6fed 1,23
 És lőn este és lőn reggel, ötödik nap.
 fa4dh6fed 1,24
@@ -50,53 +50,53 @@ Azután monda az Isten: Hozzon a föld élő állatokat nemök szerint: barmokat
 fa4dh6fed 1,25
 Teremté tehát Isten a szárazföldi vadakat nemök szerint, a barmokat nemök szerint, és a földön csúszó-mászó mindenféle állatokat nemök szerint. És látá Isten, hogy jó.
 fa4dh6fed 1,26
-És monda Isten: Teremtsünk embert a mi képünkre éshasonlatosságunkra; és uralkodjék a tenger halain, az ég madarain, a barmokon, mind az egész földön, és a földön csúszó-mászó mindenféle állatokon.
+És monda Isten: Teremtsünk embert a mi képünkre és   hasonlatosságunkra; és uralkodjék a tenger halain, az ég madarain, a barmokon, mind az egész földön, és a földön csúszó-mászó mindenféle állatokon.
 fa4dh6fed 1,27
-Teremté tehát az Isten az embert az ő képére, Isten képére teremté őt: férfiúváés asszonynyá teremté őket.
+Teremté tehát az Isten az embert az ő képére, Isten képére teremté őt: férfiúvá  és asszonynyá teremté őket.
 fa4dh6fed 1,28
 És megáldá Isten őket, és monda nékik Isten: Szaporodjatok és sokasodjatok, és töltsétek be a földet és hajtsátok birodalmatok alá; és uralkodjatok a tenger halain, az ég madarain, és a földön csúszó-mászó mindenféle állatokon.
 fa4dh6fed 1,29
-És monda Isten: Ímé néktek adok minden maghozófűvet az egész föld színén, és minden fát, a melyen maghozó gyümölcs van; az legyen néktek eledelül.
+És monda Isten: Ímé néktek adok minden maghozó  fűvet az egész föld színén, és minden fát, a melyen maghozó gyümölcs van; az legyen néktek eledelül.
 fa4dh6fed 1,30
-A föld mindenvadainak pedig, és az ég minden madarainak, és a földön csúszó-mászó mindenféle állatoknak, a melyekben élő lélek van, a zöld fűveketeledelűl. És úgy lőn.
+A föld minden vadainak pedig, és az ég minden madarainak, és a földön csúszó-mászó mindenféle állatoknak, a melyekben élő lélek van, a zöld fűveket adom eledelűl. És úgy lőn.
 fa4dh6fed 1,31
 És látá Isten, hogy minden a mit teremtett vala, ímé igen jó. És lőn este és lőn reggel, hatodik nap.
 fa4dh6fed 2,1
-Éselvégezteték az ég és a föld, és azoknak minden serege.
+És elvégezteték az ég és a föld, és azoknak minden serege.
 fa4dh6fed 2,2
-Mikor pedig elvégezé Isten hetednapon az ő munkáját, a melyetalkotott vala, megszűnék a hetedik napon minden munkájától, a melyet alkotott vala.
+Mikor pedig elvégezé Isten hetednapon az ő munkáját, a melyet alkotott vala, megszűnék a hetedik napon minden munkájától, a melyet alkotott vala.
 fa4dh6fed 2,3
 És megáldá Isten a hetedik napot, és megszentelé azt; mivelhogy azon szűnt vala meg minden munkájától, melyet teremtve szerzett vala Isten.
 fa4dh6fed 2,4
 Ez az égnek és a földnek eredete, a mikor teremtettek. Mikor az Úr Isten a földet és az eget teremté,
 fa4dh6fed 2,5
-Még semmiféle mezei növény sem vala a földön, s még semmiféle mezei fű sem hajtott ki, mert az Úr Istennem bocsátott vala esőt a földre; és ember sem vala, ki a földet mívelje;
+Még semmiféle mezei növény sem vala a földön, s még semmiféle mezei fű sem hajtott ki, mert az Úr Isten még nem bocsátott vala esőt a földre; és ember sem vala, ki a földet mívelje;
 fa4dh6fed 2,6
 Azonban pára szállott vala fel a földről, és megnedvesíté a föld egész színét.
 fa4dh6fed 2,7
-És formálta vala az Úr Isten az emberta földnek porából, és lehellett vala az ő orrába életnek lehelletét. Így lőn az ember élő lélekké.
+És formálta vala az Úr Isten az embert a földnek porából, és lehellett vala az ő orrába életnek lehelletét. Így lőn az ember élő lélekké.
 fa4dh6fed 2,8
 És ültete az Úr Isten egy kertet Édenben, napkelet felől, és abba helyezteté az embert, a kit formált vala.
 fa4dh6fed 2,9
-És nevele az Úr Isten a földből mindenféle fát, tekintetre kedvest és eledelre jót, azélet fáját is, a kertnek közepette, és a jó és gonosz tudásának fáját.
+És nevele az Úr Isten a földből mindenféle fát, tekintetre kedvest és eledelre jót, az élet fáját is, a kertnek közepette, és a jó és gonosz tudásának fáját.
 fa4dh6fed 2,10
 Folyóvíz jő vala pedig ki Édenből a kert megöntözésére; és onnét elágazik és négy főágra szakad vala.
 fa4dh6fed 2,11
-Az elsőnek neve Pison, ez az, a mely megkerüli Havilah egész földét, a hol az arany
+Az elsőnek neve Pison, ez az, a mely megkerüli Havilah egész földét, a hol az arany terem. 
 fa4dh6fed 2,12
 És annak a földnek aranya igen jó; ott van a Bdelliom és az Onix-kő.
 fa4dh6fed 2,13
 A második folyóvíz neve pedig Gihon; ez az, a mely megkerüli az egész Khús földét.
 fa4dh6fed 2,14
-És a harmadik folyóvízneve Hiddekel; ez az, a mely Assiria hosszában foly. A negyedik folyóvíz pedig az Eufrátes.
+És a harmadik folyóvíz neve Hiddekel; ez az, a mely Assiria hosszában foly. A negyedik folyóvíz pedig az Eufrátes.
 fa4dh6fed 2,15
 És vevé az Úr Isten az embert, és helyezteté őt az Éden kertjébe, hogy mívelje és őrizze azt.
 fa4dh6fed 2,16
 És parancsola az Úr Isten az embernek, mondván: A kert minden fájáról bátran egyél.
 fa4dh6fed 2,17
-De a jó és gonosz tudásának fájáról, arról ne egyél; mert a mely napon ejéndel arról,bizony meghalsz.
+De a jó és gonosz tudásának fájáról, arról ne egyél; mert a mely napon ejéndel arról, bizony meghalsz.
 fa4dh6fed 2,18
-És monda az Úr Isten: Nem jó az embernek egyedüllenni; szerzek néki segítő társat, hozzá illőt.
+És monda az Úr Isten: Nem jó az embernek egyedül lenni; szerzek néki segítő társat, hozzá illőt.
 fa4dh6fed 2,19
 És formált vala az Úr Isten a földből mindenféle mezei vadat, és mindenféle égi madarat, és elvivé az emberhez, hogy lássa, minek nevezze azokat; mert a mely nevet adott az ember az élő állatnak, az annak neve.
 fa4dh6fed 2,20
@@ -104,13 +104,13 @@ fa4dh6fed 2,20
 fa4dh6fed 2,21
 Bocsáta tehát az Úr Isten mély álmot az emberre, és ez elaluvék. Akkor kivőn egyet annak oldalbordái közűl, és hússal tölté be annak helyét.
 fa4dh6fed 2,22
-Ésalkotá az Úr Isten azt az oldalbordát, a melyet kivett vala az emberből, asszonynyá, és vivé az emberhez.
+És alkotá az Úr Isten azt az oldalbordát, a melyet kivett vala az emberből, asszonynyá, és vivé az emberhez.
 fa4dh6fed 2,23
 És monda az ember: Ez már csontomból való csont, és testemből való test: ez asszonyembernek neveztessék, mert emberből vétetett.
 fa4dh6fed 2,24
-Annakokáértelhagyja a férfiú az ő atyját és az ő anyját, és ragaszkodik feleségéhez: és lesznek egy testté.
+Annakokáért    elhagyja a férfiú az ő atyját és az ő anyját, és ragaszkodik feleségéhez: és lesznek egy testté.
 fa4dh6fed 2,25
-Valának pedig mindkettenmezítelenek, az ember és az ő felesége, és nem szégyenlik vala.
+Valának pedig mindketten mezítelenek, az ember és az ő felesége, és nem szégyenlik vala.
 fa4dh6fed 3,1
 A kígyó pedig ravaszabb vala minden mezei vadnál, melyet az Úr Isten teremtett vala, és monda az asszonynak: Csakugyan azt mondta az Isten, hogy a kertnek egy fájáról se egyetek?
 fa4dh6fed 3,2
@@ -118,13 +118,13 @@ fa4dh6fed 3,2
 fa4dh6fed 3,3
 De annak a fának gyümölcséből, mely a kertnek közepette van, azt mondá Isten: abból ne egyetek, azt meg se illessétek, hogy meg ne haljatok.
 fa4dh6fed 3,4
-És mondaa kígyó az asszonynak: Bizony nem haltok meg;
+És monda a kígyó az asszonynak: Bizony nem haltok meg;
 fa4dh6fed 3,5
-Hanem tudja az Isten, hogya mely napon ejéndetek abból, megnyilatkoznak a ti szemeitek, és olyanok lésztek mint az Isten: jónak és gonosznak tudói.
+Hanem tudja az Isten, hogy a mely napon ejéndetek abból, megnyilatkoznak a ti szemeitek, és olyanok lésztek mint az Isten: jónak és gonosznak tudói.
 fa4dh6fed 3,6
-És látá az asszony, hogy jó az a fa eledelre s hogy kedves a szemnek, és kivánatos az a fa a bölcseségért: szakaszta azért annak gyümölcséből, és evék, és adavele levő férjének is, és az is evék.
+És látá az asszony, hogy jó az a fa eledelre s hogy kedves a szemnek, és kivánatos az a fa a bölcseségért: szakaszta azért annak gyümölcséből, és evék, és ada vele levő férjének is, és az is evék.
 fa4dh6fed 3,7
-És megnyilatkozának mindkettőjöknek szemei s észrevevék,hogy mezítelenek; figefa levelet aggatának azért össze, és körülkötőket csinálának magoknak.
+És megnyilatkozának mindkettőjöknek szemei s észrevevék, hogy mezítelenek; figefa levelet aggatának azért össze, és körülkötőket csinálának magoknak.
 fa4dh6fed 3,8
 És meghallák az Úr Isten szavát, a ki hűvös alkonyatkor a kertben jár vala; és elrejtőzék az ember és az ő felesége az Úr Isten elől a kert fái között.
 fa4dh6fed 3,9
@@ -136,19 +136,19 @@ fa4dh6fed 3,11
 fa4dh6fed 3,12
 És monda az ember: Az asszony, a kit mellém adtál vala, ő ada nékem arról a fáról, úgy evém.
 fa4dh6fed 3,13
-És monda az Úr Isten az asszonynak: Mit cselekedtél? Az asszony pedig monda:A kígyó ámított el engem, úgy evém.
+És monda az Úr Isten az asszonynak: Mit cselekedtél? Az asszony pedig monda: A kígyó ámított el engem, úgy evém.
 fa4dh6fed 3,14
-És monda az Úr Isten a kígyónak: Mivelhogy ezt cselekedted, átkozott légy minden barom és minden mezei vad között; hasadon járj, ésport egyél életed minden napjaiban.
+És monda az Úr Isten a kígyónak: Mivelhogy ezt cselekedted, átkozott légy minden barom és minden mezei vad között; hasadon járj, és  port egyél életed minden napjaiban.
 fa4dh6fed 3,15
-És ellenségeskedést szerzek közötted és az asszony között, a te magod között, és az ő magva között:az neked fejedre tapos, te pedig annak sarkát mardosod.
+És ellenségeskedést szerzek közötted és az asszony között, a te magod között, és az ő magva között: az neked fejedre tapos, te pedig annak sarkát mardosod.
 fa4dh6fed 3,16
-Az asszonynak monda: Felette igen megsokasítom viselősséged fájdalmait, fájdalommal szűlsz magzatokat; és epekedela te férjed után, ő pedig uralkodik te rajtad.
+Az asszonynak monda: Felette igen megsokasítom viselősséged fájdalmait, fájdalommal szűlsz magzatokat; és epekedel   a te férjed után, ő pedig uralkodik te rajtad.
 fa4dh6fed 3,17
 Az embernek pedig monda: Mivelhogy hallgattál a te feleséged szavára, és ettél arról a fáról, a melyről azt parancsoltam, hogy ne egyél arról: Átkozott legyen a föld te miattad, fáradságos munkával élj belőle életednek minden napjaiban.
 fa4dh6fed 3,18
-Töviset és bogácskórótteremjen tenéked; s egyed a mezőnek fűvét.
+Töviset és bogácskórót teremjen tenéked; s egyed a mezőnek fűvét.
 fa4dh6fed 3,19
-Orczád verítékével egyed a te kenyeredet, míglenvisszatérsz a földbe, mert abból vétettél: mert por vagy te s ismét porrá leszesz.
+Orczád verítékével egyed a te kenyeredet, míglen [Thess. 3,10] visszatérsz a földbe, mert abból vétettél: mert por vagy te s ismét porrá leszesz.
 fa4dh6fed 3,20
 Nevezte vala pedig Ádám az ő feleségét Évának, mivelhogy ő lett anyja minden élőnek.
 fa4dh6fed 3,21
@@ -166,7 +166,7 @@ fa4dh6fed 4,2
 fa4dh6fed 4,3
 Lőn pedig idő multával, hogy Kain ajándékot vive az Úrnak a föld gyümölcséből.
 fa4dh6fed 4,4
-És Ábel is vive az ő juhainak első fajzásából és azoknak kövérségéből. És tekinteaz Úr Ábelre és az ő ajándékára.
+És Ábel is vive az ő juhainak első fajzásából és azoknak kövérségéből. És tekinte az Úr Ábelre és az ő ajándékára.
 fa4dh6fed 4,5
 Kainra pedig és az ő ajándékára nem tekinte, miért is Kain haragra gerjede és fejét lecsüggeszté.
 fa4dh6fed 4,6
@@ -174,11 +174,11 @@ fa4dh6fed 4,6
 fa4dh6fed 4,7
 Hiszen, ha jól cselekszel, emelt fővel járhatsz; ha pedig nem jól cselekszel, a bűn az ajtó előtt leselkedik, és reád van vágyódása; de te uralkodjál rajta.
 fa4dh6fed 4,8
-És szól s beszél vala Kain Ábellel, az ő atyjafiával. És lőn, mikor a mezőn valának, támada Kain Ábelre az ő atyjafiára, ésmegölé őt.
+És szól s beszél vala Kain Ábellel, az ő atyjafiával. És lőn, mikor a mezőn valának, támada Kain Ábelre az ő atyjafiára, és   megölé őt.
 fa4dh6fed 4,9
 És monda az Úr Kainnak: Hol van Ábel a te atyádfia? Ő pedig monda: Nem tudom, avagy őrizője vagyok-é én az én atyámfiának?
 fa4dh6fed 4,10
-Monda pedig: Mit cselekedtél? A te atyádfiának vérekiált én hozzám a földről.
+Monda pedig az Úr : Mit cselekedtél? A te atyádfiának vére kiált én hozzám a földről.
 fa4dh6fed 4,11
 Mostan azért átkozott légy e földön, mely megnyitotta az ő száját, hogy befogadja a te atyádfiának vérét, a te kezedből.
 fa4dh6fed 4,12
@@ -206,19 +206,19 @@ Czilla pedig szűlé Tubálkaint, mindenféle réz- és vasszerszámok kovácsol
 fa4dh6fed 4,23
 Akkor monda Lámekh az ő feleségeinek: Oh Háda és Czilla, hallgassatok szómra, Lámekh feleségei, halljátok beszédem: embert öltem, mert megsebzett; ifjat öltem, mert megütött.
 fa4dh6fed 4,24
-Hahétszeres a bosszú Kainért, hetvenhétszeres az Lámekhért.
+Ha hétszeres a bosszú Kainért, hetvenhétszeres az Lámekhért.
 fa4dh6fed 4,25
-Ádám pedig ismét ismeré az ő feleségét, és az szűle néki fiat, és nevezé annak nevétSéthnek: mert adotténnékem az Isten más magot Ábel helyett, kit megöle Kain.
+Ádám pedig ismét ismeré az ő feleségét, és az szűle néki fiat, és nevezé annak nevét Séthnek: mert adott úgymond, énnékem az Isten más magot Ábel helyett, kit megöle Kain.
 fa4dh6fed 4,26
 Séthnek is született fia, és nevezé annak nevét Énósnak. Akkor kezdték segítségül hívni az Úrnak nevét.
 fa4dh6fed 5,1
-Ez az Ádám nemzetségének könyve. A mely napon teremté Isten azembert, Isten hasonlatosságára teremté azt.
+Ez az Ádám nemzetségének könyve. A mely napon teremté Isten az embert, Isten hasonlatosságára teremté azt.
 fa4dh6fed 5,2
-Férfiúváés asszonynyá teremté őket, és megáldá őket és nevezé az ő nevöket Ádámnak, a mely napon teremtetének.
+Férfiúvá és asszonynyá teremté őket, és megáldá őket és nevezé az ő nevöket Ádámnak, a mely napon teremtetének.
 fa4dh6fed 5,3
-Élt vala pedig Ádám száz harmincz esztendőt, és nemzeaz ő képére és hasonlatosságára és nevezé annak nevét Séthnek.
+Élt vala pedig Ádám száz harmincz esztendőt, és nemze fiat az ő képére és hasonlatosságára és nevezé annak nevét Séthnek.
 fa4dh6fed 5,4
-És telének Ádám napjai, minekutánnaSéthet nemzette, nyolczszáz esztendőre, és nemze fiakat és leányokat.
+És telének Ádám napjai, minekutánna Séthet nemzette, nyolczszáz esztendőre, és nemze fiakat és leányokat.
 fa4dh6fed 5,5
 És lőn Ádám egész életének ideje kilenczszáz harmincz esztendő; és meghala.
 fa4dh6fed 5,6
@@ -254,11 +254,11 @@ fa4dh6fed 5,20
 fa4dh6fed 5,21
 Éle pedig Énókh hatvanöt esztendőt, és nemzé Methuséláht.
 fa4dh6fed 5,22
-És jártÉnókh az Istennel, minekutánna Methuséláht nemzette, háromszáz esztendeig; és nemze fiakat és leányokat.
+És járt Énókh az Istennel, minekutánna Methuséláht nemzette, háromszáz esztendeig; és nemze fiakat és leányokat.
 fa4dh6fed 5,23
 És lőn Énókh egész életének ideje háromszáz hatvanöt esztendő.
 fa4dh6fed 5,24
-És mivel Énókh Istennel jártvala; eltűnék, mert Isten magához vevé.
+És mivel Énókh Istennel járt vala; eltűnék, mert Isten magához vevé.
 fa4dh6fed 5,25
 Éle pedig Methusélah száz nyolczvanhét esztendőt és nemzé Lámekhet.
 fa4dh6fed 5,26
@@ -278,13 +278,13 @@ fa4dh6fed 5,32
 fa4dh6fed 6,1
 Lőn pedig, hogy az emberek sokasodni kezdének a föld színén, és leányaik születének.
 fa4dh6fed 6,2
-És láták az Istennek fiai az emberek leányait, hogy szépek azok, és vevének magoknak feleségeketmind azok közűl, kiket megkedvelnek vala.
+És láták az Istennek fiai az emberek leányait, hogy szépek azok, és vevének magoknak feleségeket  mind azok közűl, kiket megkedvelnek vala.
 fa4dh6fed 6,3
 És monda az Úr: Ne maradjon az én lelkem örökké az emberben, mivelhogy ő test; legyen életének ideje száz húsz esztendő.
 fa4dh6fed 6,4
-Az óriások valának a földön abban az időben, sőt még azután is, mikor az Isten fiai bémenének az emberek leányaihoz, és azokszűlének nékik. Ezek ama hatalmasok, kik eleitől fogva híres-neves emberek voltak.
+Az óriások valának a földön abban az időben, sőt még azután is, mikor az Isten fiai bémenének az emberek leányaihoz, és azok gyermekeket szűlének nékik. Ezek ama hatalmasok, kik eleitől fogva híres-neves emberek voltak.
 fa4dh6fed 6,5
-És látá az Úr, hogy megsokasult az ember gonoszsága a földön,és hogy szíve gondolatának minden alkotása szüntelen csak gonosz.
+És látá az Úr, hogy megsokasult az ember gonoszsága a földön,   és hogy szíve gondolatának minden alkotása szüntelen csak gonosz.
 fa4dh6fed 6,6
 Megbáná azért az Úr, hogy teremtette az embert a földön, és bánkódék az ő szívében.
 fa4dh6fed 6,7
@@ -298,7 +298,7 @@ fa4dh6fed 6,10
 fa4dh6fed 6,11
 A föld pedig romlott vala Isten előtt és megtelék a föld erőszakoskodással.
 fa4dh6fed 6,12
-Tekinte azért Isten a földre, és ímé meg vala romolva, mert minden testmegrontotta vala az ő útát a földön.
+Tekinte azért Isten a földre, és ímé meg vala romolva, mert minden test megrontotta vala az ő útát a földön.
 fa4dh6fed 6,13
 Monda azért Isten Noénak: Minden testnek vége elérkezett előttem, mivelhogy a föld erőszakoskodással telt meg általok: és ímé elvesztem őket a földdel egybe.
 fa4dh6fed 6,14
@@ -310,7 +310,7 @@ Ablakot csinálj a bárkán, és egy singnyire hagyd azt felülről; a bárka aj
 fa4dh6fed 6,17
 Én pedig ímé özönvizet hozok a földre, hogy elveszessek minden testet, a melyben élő lélek van az ég alatt; valami a földön van, elvész.
 fa4dh6fed 6,18
-De te veled szövetséget kötök, és bemégy a bárkába, teés a te fiaid, feleséged és a te fiaidnak feleségei teveled.
+De te veled szövetséget kötök, és bemégy a bárkába, te  és a te fiaid, feleséged és a te fiaidnak feleségei teveled.
 fa4dh6fed 6,19
 És minden élőből, s minden testből, mindenből kettőt-kettőt vígy be a bárkába, hogy veled együtt életben maradjanak: hímek és nőstények legyenek.
 fa4dh6fed 6,20
@@ -318,9 +318,9 @@ A madarak közűl az ő nemök szerint, a barmok közűl az ő nemök szerint é
 fa4dh6fed 6,21
 Te pedig szerezz magadnak mindenféle eledelt, mely megehető, és takarítsd be magadhoz, hogy neked is, azoknak is legyen eledelűl.
 fa4dh6fed 6,22
-És úgy cselekedék Noé;a mint parancsolta vala néki Isten, mindent akképen cselekedék.
+És úgy cselekedék Noé; a mint parancsolta vala néki Isten, mindent akképen cselekedék.
 fa4dh6fed 7,1
-Monda az Úr Noénak: Menj be te, és egész házadnépe a bárkába: mert téged láttalakigaznak előttem ebben a nemzedékben.
+Monda az Úr Noénak: Menj be te, és egész házadnépe a bárkába: mert téged láttalak igaznak előttem ebben a nemzedékben.
 fa4dh6fed 7,2
 Minden tiszta baromból hetet-hetet vígy be, hímet és nőstényét; azokból a barmokból pedig, a melyek nem tiszták, kettőt-kettőt, hímet és nőstényét.
 fa4dh6fed 7,3
@@ -332,7 +332,7 @@ Cselekedék azért Noé mind a szerint, a mint az Úr néki megparancsolta vala.
 fa4dh6fed 7,6
 Noé pedig hatszáz esztendős vala, mikor az özönvíz volt a földön.
 fa4dh6fed 7,7
-Beméne azért Noéés az ő fiai, az ő felesége, és fiainak feleségei ő vele a bárkába, az özönvíz elől.
+Beméne azért Noé  és az ő fiai, az ő felesége, és fiainak feleségei ő vele a bárkába, az özönvíz elől.
 fa4dh6fed 7,8
 A tiszta barmok közűl, és a tisztátalan barmok közűl, a madarak közűl, és minden földön csúszó-mászó állat közűl,
 fa4dh6fed 7,9
@@ -350,7 +350,7 @@ fa4dh6fed 7,14
 fa4dh6fed 7,15
 Kettő-kettő méne be Noéhoz a bárkába minden testből, melyben élő lélek vala.
 fa4dh6fed 7,16
-A melyek pedig bemenének, hím és nőstény méne be minden testből, a mint parancsolta vala Isten őnéki: és az Úr bezára utána.
+A melyek pedig bemenének, hím és nőstény méne be minden testből, a mint parancsolta vala Isten őnéki: és az Úr bezára utána az  ajtót .
 fa4dh6fed 7,17
 Mikor az özönvíz negyven napig volt a földön, annyira nevekedének a vizek, hogy felveheték a bárkát, és az felemelkedék a földről.
 fa4dh6fed 7,18
@@ -360,11 +360,11 @@ Azután a vizek felette igen nagy erőt vevének a földön, és a legmagasabb h
 fa4dh6fed 7,20
 Tizenöt singgel nevekedének a vizek feljebb, minekutánna a hegyek elboríttattak vala.
 fa4dh6fed 7,21
-És oda vesze minden földön járó test, madár, barom, vad, és a földön nyüzsgő minden csúszó-mászó állat; ésminden ember.
+És oda vesze minden földön járó test, madár, barom, vad, és a földön nyüzsgő minden csúszó-mászó állat; és  minden ember.
 fa4dh6fed 7,22
 Mindaz, a minek orrában élő lélek lehellete vala, a szárazon valók közűl mind meghala.
 fa4dh6fed 7,23
-És eltörleminden állatot, a mely a föld színén vala, az embertől a baromig, a csúszó-mászó állatig, és az égi madárig; mindenek eltöröltetének a földről; éscsak Noé marada meg, és azok a kik vele valának a bárkában.
+És eltörle az Isten minden állatot, a mely a föld színén vala, az embertől a baromig, a csúszó-mászó állatig, és az égi madárig; mindenek eltöröltetének a földről; és csak Noé marada meg, és azok a kik vele valának a bárkában.
 fa4dh6fed 7,24
 És erőt vevének a vizek a földön, száz ötven napig.
 fa4dh6fed 8,1
@@ -408,27 +408,27 @@ Minden állat, minden csúszó-mászó, minden madár, minden a mi mozog a föld
 fa4dh6fed 8,20
 És oltárt építe Noé az Úrnak, és vőn minden tiszta állatból és minden tiszta madárból, és áldozék égőáldozattal az oltáron.
 fa4dh6fed 8,21
-És megérezé az Úr a kedves illatot, és monda az Úr az ő szívében: Nem átkozom meg többé a földet az emberért, mertaz ember szívének gondolatja gonosz az ő ifjúságától fogva; és többé nem vesztem el mind az élő állatot, mint cselekedtem.
+És megérezé az Úr a kedves illatot, és monda az Úr az ő szívében: Nem átkozom meg többé a földet az emberért, mert   az ember szívének gondolatja gonosz az ő ifjúságától fogva; és többé nem vesztem el mind az élő állatot, mint cselekedtem.
 fa4dh6fed 8,22
-Ennekutánna míg a föld lészen, vetés és aratás, hideg és meleg, nyár és tél, nap és éjszakameg nem szünnek.
+Ennekutánna míg a föld lészen, vetés és aratás, hideg és meleg, nyár és tél, nap és éjszaka meg nem szünnek.
 fa4dh6fed 9,1
-Azután megáldá Isten Noét és az ő fiait, és azt mondá nékik: Szaporodjatokés sokasodjatok, és töltsétek be a földet.
+Azután megáldá Isten Noét és az ő fiait, és azt mondá nékik: Szaporodjatok és sokasodjatok, és töltsétek be a földet.
 fa4dh6fed 9,2
 És féljen és rettegjen tőletek a földnek minden állatja az égnek minden madara: minden a mi nyüzsög a földön, és a tengernek minden hala kezetekbe adatott;
 fa4dh6fed 9,3
-Minden mozgó állat, a mely él legyen nektek eledelűl; a mint a zöld fűvet, nektekadtam mindazokat.
+Minden mozgó állat, a mely él legyen nektek eledelűl; a mint a zöld fűvet, nektek adtam mindazokat.
 fa4dh6fed 9,4
-Csak a húst az őt elevenítővérrel meg ne egyétek.
+Csak a húst az őt elevenítő  vérrel meg ne egyétek.
 fa4dh6fed 9,5
-De a ti véreteket, a melyben van a ti éltetek,számon kérem; számon kérem minden állattól, azonképen az embertől, kinek-kinek atyjafiától számon kérem az ember életét.
+De a ti véreteket, a melyben van a ti éltetek,  számon kérem; számon kérem minden állattól, azonképen az embertől, kinek-kinek atyjafiától számon kérem az ember életét.
 fa4dh6fed 9,6
-A kiember-vért ont, annak vére ember által ontassék ki; mert Isten a maga képére teremté az embert.
+A ki  ember-vért ont, annak vére ember által ontassék ki; mert Isten a maga képére teremté az embert.
 fa4dh6fed 9,7
-Ti pedigszaporodjatok és sokasodjatok, nyüzsögjetek a földön és sokasodjatok azon.
+Ti pedig szaporodjatok és sokasodjatok, nyüzsögjetek a földön és sokasodjatok azon.
 fa4dh6fed 9,8
 És szóla az Isten Noénak és vele az ő fiainak, mondván:
 fa4dh6fed 9,9
-Én pedig ímészövetséget szerzek ti veletek és a ti magvatokkal ti utánnatok.
+Én pedig ímé szövetséget szerzek ti veletek és a ti magvatokkal ti utánnatok.
 fa4dh6fed 9,10
 És minden élő állattal, mely veletek van: madárral, barommal, minden mezei vaddal, mely veletek van; mindattól kezdve a mi a bárkából kijött, a földnek minden vadjáig.
 fa4dh6fed 9,11
@@ -460,7 +460,7 @@ Akkor Sém és Jáfet ruhát ragadván, azt mindketten vállokra veték, és há
 fa4dh6fed 9,24
 Hogy felserkene Noé mámorából, és megtudá a mit vele az ő kisebbik fia cselekedett vala:
 fa4dh6fed 9,25
-Monda: Átkozott Kanaán! Szolgák szolgájalegyen atyjafiai közt.
+Monda: Átkozott Kanaán! Szolgák szolgája  legyen atyjafiai közt.
 fa4dh6fed 9,26
 Azután monda: Áldott az Úr, Sémnek Istene, néki légyen szolgája Kanaán!
 fa4dh6fed 9,27
@@ -472,7 +472,7 @@ fa4dh6fed 9,29
 fa4dh6fed 10,1
 Ez pedig a Noé fiainak, Sémnek, Khámnak és Jáfetnek nemzetsége; és fiaik születének az özönvíz után.
 fa4dh6fed 10,2
-Jáfetnekfiai: Gómer, Mágog, Madai, Jáván, Thubál, Mésekh és Thirász.
+Jáfetnek fiai: Gómer, Mágog, Madai, Jáván, Thubál, Mésekh és Thirász.
 fa4dh6fed 10,3
 A Gómer fiai pedig: Askhenáz, Rifáth, és Tógármah.
 fa4dh6fed 10,4
@@ -480,11 +480,11 @@ Jávánnak pedig fiai: Elisah, Thársis, Kitthim és Dodánim.
 fa4dh6fed 10,5
 Ezekből váltak ki a szigetlakó népek az ő országaikban, mindenik a maga nyelve, családja és nemzetsége szerint.
 fa4dh6fed 10,6
-Khámnak pedig fiai:Khús, Miczráim, Pút és Kanaán.
+Khámnak pedig fiai: Khús, Miczráim, Pút és Kanaán.
 fa4dh6fed 10,7
 Khúsnak pedig fiai: Széba, Hávilah, Szábthah, Rahmáh, Szabthékah. Rahmáhnak pedig fiai: Séba és Dédán.
 fa4dh6fed 10,8
-Khús nemzéNimródot is; ez kezde hatalmassá lenni a földön.
+Khús nemzé Nimródot is; ez kezde hatalmassá lenni a földön.
 fa4dh6fed 10,9
 Ez hatalmas vadász vala az Úr előtt, azért mondják: Hatalmas vadász az Úr előtt, mint Nimród.
 fa4dh6fed 10,10
@@ -512,11 +512,11 @@ Ezek a Khám fiai családjok, nyelvök, földjök s nemzetségök szerint.
 fa4dh6fed 10,21
 Sémnek is lettek gyermekei; a ki Héber minden fiainak atyja, Jáfetnek testvérbátyja vala.
 fa4dh6fed 10,22
-Sémfiai: Élám, Assur, Arpaksád, Lúd és Arám.
+Sém fiai: Élám, Assur, Arpaksád, Lúd és Arám.
 fa4dh6fed 10,23
 Arámnak fiai pedig: Úcz, Húl, Gether és Más.
 fa4dh6fed 10,24
-Arpaksádpedig nemzé Séláht, Séláh pedig Hébert.
+Arpaksád pedig nemzé Séláht, Séláh pedig Hébert.
 fa4dh6fed 10,25
 Hébernek is lett két fia: Az egyiknek neve Péleg, mivelhogy az ő idejében osztatott el a föld; testvérének pedig neve Joktán.
 fa4dh6fed 10,26
@@ -552,7 +552,7 @@ fa4dh6fed 11,8
 fa4dh6fed 11,9
 Ezért nevezék annak nevét Bábelnek; mert ott zavará össze az Úr az egész föld nyelvét, és onnan széleszté el őket az Úr az egész földnek színére.
 fa4dh6fed 11,10
-Eza Sém nemzetsége: Sém száz esztendős korában nemzé Arpaksádot, két esztendővel az özönvíz után.
+Ez a Sém nemzetsége: Sém száz esztendős korában nemzé Arpaksádot, két esztendővel az özönvíz után.
 fa4dh6fed 11,11
 És éle Sém, minekutánna nemzette Arpaksádot, ötszáz esztendeig és nemze fiakat és leányokat.
 fa4dh6fed 11,12
@@ -564,7 +564,7 @@ Séláh pedig harmincz esztendős vala, és nemzé Hébert.
 fa4dh6fed 11,15
 És éle Séláh, minekutánna nemzé Hébert, négyszáz három esztendeig, és nemze fiakat és leányokat.
 fa4dh6fed 11,16
-Héber pedig harmincznégy esztendős vala és nemzéPéleget.
+Héber pedig harmincznégy esztendős vala és nemzé Péleget.
 fa4dh6fed 11,17
 És éle Héber, minekutánna nemzé Péleget, négyszáz harmincz esztendeig, és nemze fiakat és leányokat.
 fa4dh6fed 11,18
@@ -594,15 +594,15 @@ fa4dh6fed 11,29
 fa4dh6fed 11,30
 Szárai pedig magtalan vala; nem vala néki gyermeke.
 fa4dh6fed 11,31
-És felvevé Tháré Ábrámotaz ő fiát, és Lótot, Háránnak fiát, az ő unokáját, és Szárait, az ő menyét, Ábrámnak az ő fiának feleségét, és kiindulának együtt Úr-Kaszdimból, hogy Kanaán földére menjenek. És eljutának Háránig, és ott letelepedének.
+És felvevé Tháré Ábrámot   az ő fiát, és Lótot, Háránnak fiát, az ő unokáját, és Szárait, az ő menyét, Ábrámnak az ő fiának feleségét, és kiindulának együtt Úr-Kaszdimból, hogy Kanaán földére menjenek. És eljutának Háránig, és ott letelepedének.
 fa4dh6fed 11,32
 Vala pedig Tháré kétszáz öt esztendős, és meghala Tháré Háránban.
 fa4dh6fed 12,1
-És monda az ÚrÁbrámnak: Eredj ki a te földedből, és a te rokonságod közül, és a te atyádnak házából, a földre, a melyet én mutatok néked.
+És monda az Úr  Ábrámnak: Eredj ki a te földedből, és a te rokonságod közül, és a te atyádnak házából, a földre, a melyet én mutatok néked.
 fa4dh6fed 12,2
-És nagy nemzettétészlek, és megáldalak téged, és felmagasztalom a te nevedet, és áldás leszesz.
+És nagy nemzetté tészlek, és megáldalak téged, és felmagasztalom a te nevedet, és áldás leszesz.
 fa4dh6fed 12,3
-És megáldom azokat, a kik téged áldanak, és a ki téged átkoz, megátkozom azt: és megáldatnak te benned a föld minden nemzetségei.
+És megáldom azokat, a kik téged áldanak, és a ki téged átkoz, megátkozom azt: és megáldatnak te benned a föld minden nemzetségei.    
 fa4dh6fed 12,4
 És kiméne Ábrám, a mint az Úr mondotta vala néki, és Lót is kiméne ő vele: Ábrám pedig hetvenöt esztendős vala, mikor kiméne Háránból.
 fa4dh6fed 12,5
@@ -610,7 +610,7 @@ fa4dh6fed 12,5
 fa4dh6fed 12,6
 És általméne Ábrám a földön mind Sikhem vidékéig, Móréh tölgyeséig. Akkor Kananeusok valának azon a földön.
 fa4dh6fed 12,7
-És megjelenék az Úr Ábrámnak, és monda néki: A te magodnak adom ezt a földet. Ésoltárt építe ott az Úrnak; a ki megjelent vala néki.
+És megjelenék az Úr Ábrámnak, és monda néki: A te magodnak adom ezt a földet. És Ábrám oltárt építe ott az Úrnak; a ki megjelent vala néki.
 fa4dh6fed 12,8
 Onnan azután a hegység felé méne Bétheltől keletre és felüté sátorát: Béthel vala nyugatra, Hái pedig keletre, és ott oltárt építe az Úrnak, és segítségűl hívá az Úr nevét.
 fa4dh6fed 12,9
@@ -622,7 +622,7 @@ fa4dh6fed 12,11
 fa4dh6fed 12,12
 Azért mikor meglátnak téged az égyiptomiak, majd azt mondják: felesége ez; és engem megölnek, téged pedig életben tartanak.
 fa4dh6fed 12,13
-Monddkérlek,húgom vagy; hogy jól legyen dolgommiattad, s életben maradjak te éretted.
+Mondd azért, kérlek, hogy húgom vagy; hogy jól legyen dolgom miattad, s életben maradjak te éretted.
 fa4dh6fed 12,14
 És lőn mikor Ábrám Égyiptomba érkezék, láták az égyiptomiak az asszonyt, hogy az nagyon szép.
 fa4dh6fed 12,15
@@ -644,7 +644,7 @@ fa4dh6fed 13,2
 fa4dh6fed 13,3
 És méne helyről helyre délfelől mind Béthelig, oda a hol először vala az ő sátora, Béthel és Hái között.
 fa4dh6fed 13,4
-Annak az oltárnak helyére,melyet ott elsőben készített vala: és segítségűl hívá ott Ábrám az Úrnak nevét.
+Annak az oltárnak helyére, melyet ott elsőben készített vala: és segítségűl hívá ott Ábrám az Úrnak nevét.
 fa4dh6fed 13,5
 Lótnak is pedig, a ki Ábrámmal jár vala, valának juhai, ökrei és sátorai.
 fa4dh6fed 13,6
@@ -660,15 +660,15 @@ Felemelé azért Lót az ő szemeit, és látá, hogy a Jordán egész melléke 
 fa4dh6fed 13,11
 És választá Lót magának a Jordán egész mellékét, és elköltözék Lót kelet felé: és elválának egymástól.
 fa4dh6fed 13,12
-Ábrám lakozik vala a Kanaán földén, Lót pedig lakozik vala amelléki városokban, és sátoroz vala Sodomáig.
+Ábrám lakozik vala a Kanaán földén, Lót pedig lakozik vala a Jordán- melléki városokban, és sátoroz vala Sodomáig.
 fa4dh6fed 13,13
-Sodomalakosai pedig nagyon gonoszok és bűnösök valának az Úr előtt.
+Sodoma lakosai pedig nagyon gonoszok és bűnösök valának az Úr előtt.
 fa4dh6fed 13,14
 Az Úr pedig monda Ábrámnak, minekutánna elválék tőle Lót: Emeld fel szemeidet és tekints arról a helyről, a hol vagy, északra, délre, keletre és nyugotra.
 fa4dh6fed 13,15
-Mertmind az egész földet, a melyet látsz, néked adom, és a te magodnak örökre.
+Mert    mind az egész földet, a melyet látsz, néked adom, és a te magodnak örökre.
 fa4dh6fed 13,16
-Ésolyanná tészem a te magodat, mint a földnek pora, hogyha valaki megszámlálhatja a földnek porát, a te magod is megszámlálható lesz.
+És  olyanná tészem a te magodat, mint a földnek pora, hogyha valaki megszámlálhatja a földnek porát, a te magod is megszámlálható lesz.
 fa4dh6fed 13,17
 Kelj fel, járd be ez országot hosszában és széltében: mert néked adom azt.
 fa4dh6fed 13,18
@@ -676,15 +676,15 @@ Elébb mozdítá azért sátorát Ábrám, és elméne, és lakozék Mamré töl
 fa4dh6fed 14,1
 Lőn pedig Amrafelnek, Sineár királyának és Ariókhnak, Elászár királyának, Khédorlaomernek, Élám királyának, és Thidálnak, a Góim királyának napjaiban:
 fa4dh6fed 14,2
-Hadat indítánakBera, Sodoma királya ellen, Birsa, Gomora királya ellen, Sináb, Admáh királya ellen, Seméber, Czeboim királya ellen és Bélah, azaz Czoár királya ellen.
+Hadat indítának ezek Bera, Sodoma királya ellen, Birsa, Gomora királya ellen, Sináb, Admáh királya ellen, Seméber, Czeboim királya ellen és Bélah, azaz Czoár királya ellen.
 fa4dh6fed 14,3
 Mind ezek a Sziddim völgyében egyesűlének; ez a Sóstenger.
 fa4dh6fed 14,4
 Tizenkét esztendeig szolgálták vala Khédorlaomert, és a tizenharmadik esztendőben ellene támadtak vala.
 fa4dh6fed 14,5
-A tizennegyedik esztendőben pedig eljöve Khédorlaomer, és a királyok, a kik ő vele, és megverék a Refeusokat Asztheroth Kárnajimban, és a Zuzeusokat Hámban, és azEmeusokat Sávé- Kirjáthajimban.
+A tizennegyedik esztendőben pedig eljöve Khédorlaomer, és a királyok, a kik ő vele valának , és megverék a Refeusokat Asztheroth Kárnajimban, és a Zuzeusokat Hámban, és az Emeusokat Sávé- Kirjáthajimban.
 fa4dh6fed 14,6
-És aHoreusokat az ő hegyökön, a Seiren, egész Él- Páránig, mely a puszta mellett van.
+És a Horeusokat az ő hegyökön, a Seiren, egész Él- Páránig, mely a puszta mellett van.
 fa4dh6fed 14,7
 És megtérének s menének Hén Mispátba, azaz Kádesbe, és elpusztíták az Amálekiták egész mezőségét, és az Emoreusokat is, kik laknak vala Háczaczon-Thámárban.
 fa4dh6fed 14,8
@@ -708,11 +708,11 @@ fa4dh6fed 14,16
 fa4dh6fed 14,17
 Minekutánna pedig visszatért Khédorlaomernek és a vele volt királyoknak megveréséből, kiméne ő elébe Sodomának királya a Sáve völgyébe, azaz a király völgyébe.
 fa4dh6fed 14,18
-Melkhisédekpedig Sálem királya, kenyeret és bort hoza; ő pedig a Magasságos Istennek papja vala.
+Melkhisédek pedig Sálem királya, kenyeret és bort hoza; ő pedig a Magasságos Istennek papja vala.
 fa4dh6fed 14,19
 És megáldá őt, és monda: Áldott legyen Ábrám a Magasságos Istentől, ég és föld teremtőjétől.
 fa4dh6fed 14,20
-Áldott a Magasságos Isten, a ki kezedbe adta ellenségeidet. És tizedet adanéki mindenből.
+Áldott a Magasságos Isten, a ki kezedbe adta ellenségeidet. És tizedet ada néki mindenből.
 fa4dh6fed 14,21
 És monda Sodoma királya Ábrámnak: Add nékem a népet, a jószágot pedig vedd magadnak.
 fa4dh6fed 14,22
@@ -722,7 +722,7 @@ Hogy én egy fonalszálat, vagy egy sarukötőt sem veszek el mindabból, a mi a
 fa4dh6fed 14,24
 Semmi egyebet, csupán a legények élelmét, és ama férfiak részét, kik én velem eljöttek volt: Áner, Eskhol, Mamré, ők vegyék ki az ő részöket.
 fa4dh6fed 15,1
-E dolgok után lőn az Úr beszéde Ábrámhozlátomásban, mondván: Ne félj Ábrám: én paizsod vagyok tenéked, a te jutalmad felette igen bőséges.
+E dolgok után lőn az Úr beszéde Ábrámhoz  látomásban, mondván: Ne félj Ábrám: én paizsod vagyok tenéked, a te jutalmad felette igen bőséges.
 fa4dh6fed 15,2
 És monda Ábrám: Uram Isten, mit adnál énnékem, holott én magzatok nélkűl járok, és az, a kire az én házam száll, a Damaskusbeli Eliézer?
 fa4dh6fed 15,3
@@ -730,9 +730,9 @@ fa4dh6fed 15,3
 fa4dh6fed 15,4
 És ímé szóla az Úr ő hozzá, mondván: Nem ez lesz a te örökösöd: hanem a ki a te ágyékodból származik, az lesz a te örökösöd.
 fa4dh6fed 15,5
-És kivivé őt, és monda:Tekints fel az égre, és számláld meg a csillagokat, ha azokat megszámlálhatod; - és monda nékie: Így lészen a te magod.
+És kivivé őt, és monda: Tekints fel az égre, és számláld meg a csillagokat, ha azokat megszámlálhatod; - és monda nékie: Így lészen a te magod.
 fa4dh6fed 15,6
-Éshitt az Úrnak és tulajdoníttaték az őnéki igazságul.
+És  hitt az Úrnak és tulajdoníttaték az őnéki igazságul.
 fa4dh6fed 15,7
 És monda néki: Én vagyok az Úr, ki téged kihoztalak Úr-Kaszdimból, hogy néked adjam e földet, örökségedűl.
 fa4dh6fed 15,8
@@ -740,23 +740,23 @@ fa4dh6fed 15,8
 fa4dh6fed 15,9
 És felele néki: Hozz nékem egy három esztendős üszőt, egy három esztendős kecskét, és egy három esztendős kost, egy gerliczét és egy galambfiat.
 fa4dh6fed 15,10
-Elhozá azért mind ezeket, és kétfelé hasítá azokat, és mindeniknek felea másik feleátellenébe helyezteté; de a madarakat nem hasította vala kétfelé.
+Elhozá azért mind ezeket, és kétfelé hasítá azokat, és mindeniknek fele részét a másik fele része átellenébe helyezteté; de a madarakat nem hasította vala kétfelé.
 fa4dh6fed 15,11
 És ragadozó madarak szállának e húsdarabokra, de Ábrám elűzi vala azokat.
 fa4dh6fed 15,12
 És lőn naplementekor, mély álom lepé meg Ábrámot, és ímé rémülés és nagy setétség szálla ő reá.
 fa4dh6fed 15,13
-És mondaÁbrámnak:Tudván tudjad, hogy a te magod jövevény lesz a földön, mely nem övé, és szolgálatra szorítják, és nyomorgatják őket négyszáz esztendeig.
+És monda az  Úr Ábrámnak:  Tudván tudjad, hogy a te magod jövevény lesz a földön, mely nem övé, és szolgálatra szorítják, és nyomorgatják őket négyszáz esztendeig.
 fa4dh6fed 15,14
-De azt a népet, melyet szolgálnak, szintén megítélem én, ésannakutánna kijőnek nagy gazdagsággal.
+De azt a népet, melyet szolgálnak, szintén megítélem én, és annakutánna kijőnek nagy gazdagsággal.
 fa4dh6fed 15,15
-Tepedig elmégy a te atyáidhoz békességgel, eltemettetel jó vénségben.
+Te pedig elmégy a te atyáidhoz békességgel, eltemettetel jó vénségben.
 fa4dh6fed 15,16
-Csaka negyedik nemzedék tér meg ide; mert az Emoreusok gonoszsága még nem tölt be.
+Csak a negyedik nemzedék tér meg ide; mert az Emoreusok gonoszsága még nem tölt be.
 fa4dh6fed 15,17
 És mikor a nap leméne és setétség lőn, ímé egy füstölgő kemencze, és tüzes fáklya, mely általmegyen vala a húsdarabok között.
 fa4dh6fed 15,18
-E napon kötött az Úrszövetséget Ábrámmal, mondván: A te magodnak adom ezt a földet Égyiptomnak folyóvizétől fogva, a nagy folyóig, az Eufrátes folyóvízig.
+E napon kötött az Úr   szövetséget Ábrámmal, mondván: A te magodnak adom ezt a földet Égyiptomnak folyóvizétől fogva, a nagy folyóig, az Eufrátes folyóvízig.
 fa4dh6fed 15,19
 A Keneusokat, Kenizeusokat, és a Kadmoneusokat.
 fa4dh6fed 15,20
@@ -770,7 +770,7 @@ Monda azért Szárai Ábrámnak: Ímé az Úr bezárolta az én méhemet, hogy n
 fa4dh6fed 16,3
 Vevé tehát Szárai, Ábrám felesége az Égyiptombeli Hágárt, az ő szolgálóját, tíz esztendővel azután, hogy Ábrám a Kanaán földén letelepedék, és adá azt Ábrámnak az ő férjének feleségül.
 fa4dh6fed 16,4
-És béméne Hágárhoz, és az fogada az ő méhében; ez pedig a mint látta, hogy terhes, nem vala becsülete az ő asszonyának ő előtte.
+És béméne Hágárhoz, és az fogada az ő méhében; ez pedig a mint látta, hogy terhes, nem vala becsülete az ő asszonyának ő előtte. 23.] 
 fa4dh6fed 16,5
 Monda azért Szárai Ábrámnak: Bántódásom van miattad. Én adtam öledbe szolgálómat, és mivelhogy látja, hogy teherbe esett, nincsen előtte becsületem. Tegyen ítéletet az Úr én közöttem és te közötted.
 fa4dh6fed 16,6
@@ -790,19 +790,19 @@ Az pedig vadtermészetű ember lesz: az ő keze mindenek ellen, és mindenek kez
 fa4dh6fed 16,13
 És nevezé Hágár az Úrnak nevét, a ki ő vele szólott vala: Te vagy a látomás Istene. Mert monda: Avagy nem e helyen láttam a látomás után?
 fa4dh6fed 16,14
-Annakokáért nevezé azt aforrást Lakhai Rói forrásának; ott van Kádes és Béred között.
+Annakokáért nevezé azt a forrást Lakhai Rói forrásának; ott van Kádes és Béred között.
 fa4dh6fed 16,15
-És fiat szűleHágár Ábrámnak, és nevezé Ábrám az ő fiának nevét, a kit Hágár szűl vala néki, Ismáelnek.
+És fiat szűle Hágár Ábrámnak, és nevezé Ábrám az ő fiának nevét, a kit Hágár szűl vala néki, Ismáelnek.
 fa4dh6fed 16,16
 Ábrám pedig nyolczvanhat esztendős vala, a mikor Hágár Ismáelt szűlé Ábrámnak.
 fa4dh6fed 17,1
-Mikor Ábrám kilenczvenkilencz esztendős vala, megjelenék az Úr Ábrámnak, és monda néki: Én a mindenható Isten vagyok,járj én előttem, és légy tökéletes.
+Mikor Ábrám kilenczvenkilencz esztendős vala, megjelenék az Úr Ábrámnak, és monda néki: Én a mindenható Isten vagyok, járj én előttem, és légy tökéletes.
 fa4dh6fed 17,2
-És megkötömaz én szövetségemet én közöttem és te közötted: és felette igen megsokasítlak téged.
+És megkötöm az én szövetségemet én közöttem és te közötted: és felette igen megsokasítlak téged.
 fa4dh6fed 17,3
 És arczára borúla Ábrám; az Isten pedig szóla őnéki, mondván:
 fa4dh6fed 17,4
-A mi engem illet, imhol az én szövetségem te veled, hogynépek sokaságának atyjává leszesz.
+A mi engem illet, imhol az én szövetségem te veled, hogy népek sokaságának atyjává leszesz.
 fa4dh6fed 17,5
 És ne neveztessék ezután a te neved Ábrámnak, hanem legyen a te neved Ábrahám, mert népek sokaságának atyjává teszlek téged.
 fa4dh6fed 17,6
@@ -814,15 +814,15 @@ fa4dh6fed 17,8
 fa4dh6fed 17,9
 Annakfelette monda Isten Ábrahámnak: Te pedig az én szövetségemet megőrizzed, te és a te magod te utánad az ő nemzedékei szerint.
 fa4dh6fed 17,10
-Ezaz én szövetségem, melyet meg kell tartanotok én közöttem és ti közöttetek, és a te utánnad való magod között: minden férfikörűlmetéltessék nálatok.
+Ez pedig az én szövetségem, melyet meg kell tartanotok én közöttem és ti közöttetek, és a te utánnad való magod között: minden férfi  körűlmetéltessék nálatok.
 fa4dh6fed 17,11
-És metéljétek körűl a ti férfitestetek bőrének elejét,és az lesz az én közöttem és ti közöttetek való szövetségnek jele.
+És metéljétek körűl a ti férfitestetek bőrének elejét,  és az lesz az én közöttem és ti közöttetek való szövetségnek jele.
 fa4dh6fed 17,12
-Nyolcznaposkorában körűlmetéltessék nálatok minden férfigyermek nemzedékeiteknél; akár háznál született, akár pénzen vásároltatott valamely idegentől, a ki nem a te magodból való.
+Nyolcznapos  korában körűlmetéltessék nálatok minden férfigyermek nemzedékeiteknél; akár háznál született, akár pénzen vásároltatott valamely idegentől, a ki nem a te magodból való.
 fa4dh6fed 17,13
 Körűlmetéltetvén körűlmetéltessék a házadban született és a pénzeden vett; és örökkévaló szövetségűl lesz az én szövetségem a ti testeteken.
 fa4dh6fed 17,14
-A körűlmetéletlen férfi pedig, a ki körűl nem metélteti az ő férfitestének bőrét, az ilyen lélek kivágattatik az ő népe közűl,felbontotta az én szövetségemet.
+A körűlmetéletlen férfi pedig, a ki körűl nem metélteti az ő férfitestének bőrét, az ilyen lélek kivágattatik az ő népe közűl, mert felbontotta az én szövetségemet.
 fa4dh6fed 17,15
 És monda Isten Ábrahámnak: Szárainak, a te feleségednek nevét ne nevezd Szárainak, mert Sára az ő neve.
 fa4dh6fed 17,16
@@ -832,11 +832,11 @@ Ekkor arczára borúla Ábrahám, és nevete és gondolá az ő szívében: vajj
 fa4dh6fed 17,18
 És monda Ábrahám az Istennek: Vajha Ismáel élne te előtted.
 fa4dh6fed 17,19
-Az Isten pedig monda: Kétségnélkűl a te feleségedSára szűl néked fiat, és nevezed annak nevét Izsáknak, és megerősítem az én szövetségemet ő vele örökkévaló szövetségűl az ő magvának ő utánna.
+Az Isten pedig monda: Kétségnélkűl a te feleséged Sára szűl néked fiat, és nevezed annak nevét Izsáknak, és megerősítem az én szövetségemet ő vele örökkévaló szövetségűl az ő magvának ő utánna.
 fa4dh6fed 17,20
-Ismáel felől is meghallgattalak: Ímémegáldom őt, és megszaporítom őt és megsokasítom őt felette nagyon; tizenkét fejedelmet nemz, és nagy néppé teszem őt.
+Ismáel felől is meghallgattalak: Ímé megáldom őt, és megszaporítom őt és megsokasítom őt felette nagyon; tizenkét fejedelmet nemz, és nagy néppé teszem őt.
 fa4dh6fed 17,21
-Az én szövetségemet pedig megerősítem Izsákkal,kit néked szűl Sára ez időkorban a következő esztendőben.
+Az én szövetségemet pedig megerősítem Izsákkal, kit néked szűl Sára ez időkorban a következő esztendőben.
 fa4dh6fed 17,22
 És elvégezé vele való beszédét, és felméne az Isten Ábrahámtól.
 fa4dh6fed 17,23
@@ -852,7 +852,7 @@ fa4dh6fed 17,27
 fa4dh6fed 18,1
 Megjelenék pedig ő néki az Úr a Mamré tölgyesében, és ő űl vala a sátor ajtajában, a hő napon.
 fa4dh6fed 18,2
-És felemelé az ő szemeit, és látá, hogy íméhárom férfiú áll ő előtte. És látván, eléjök siete a sátor ajtajából, és földig meghajtá magát.
+És felemelé az ő szemeit, és látá, hogy ímé három férfiú áll ő előtte. És látván, eléjök siete a sátor ajtajából, és földig meghajtá magát.
 fa4dh6fed 18,3
 És monda: Jó Uram, ha kedves vagyok te előtted, kérlek, ne kerüld el a te szolgádat.
 fa4dh6fed 18,4
@@ -868,39 +868,39 @@ fa4dh6fed 18,8
 fa4dh6fed 18,9
 És mondának néki: Hol van Sára a te feleséged? Ő pedig felele: Ímhol van a sátorban.
 fa4dh6fed 18,10
-És monda:Esztendőre ilyenkor bizonynyal megtérek hozzád és ímé akkor a te feleségednek Sárának fia lesz. Sára pedig hallgatózik vala a sátor ajtajában, mely annak háta megett vala.
+És monda:  Esztendőre ilyenkor bizonynyal megtérek hozzád és ímé akkor a te feleségednek Sárának fia lesz. Sára pedig hallgatózik vala a sátor ajtajában, mely annak háta megett vala.
 fa4dh6fed 18,11
-Ábrahámpedig és Sára élemedett korú öregek valának; megszünt vala Sáránál az asszonyi természet.
+Ábrahám  pedig és Sára élemedett korú öregek valának; megszünt vala Sáránál az asszonyi természet.
 fa4dh6fed 18,12
 Nevete azért Sára ő magában, mondván: Vénségemre lenne-é gyönyörűségem? meg az én uram is öreg!
 fa4dh6fed 18,13
 És monda az Úr Ábrahámnak: Miért nevetett Sára, ezt mondván: Vajjon csakugyan szűlhetek-é, holott én megvénhedtem?
 fa4dh6fed 18,14
-Avagy az Úrnak lehetetlen-évalami? Annak idején, esztendőre ilyenkor visszatérek hozzád, és fia lesz Sárának.
+Avagy az Úrnak lehetetlen-é valami? Annak idején, esztendőre ilyenkor visszatérek hozzád, és fia lesz Sárának.
 fa4dh6fed 18,15
-Sára pedig megtagadá, mondván: Nem nevettem én; mivelhogy fél vala. De monda azNem úgy van, mert bizony nevettél.
+Sára pedig megtagadá, mondván: Nem nevettem én; mivelhogy fél vala. De monda az Úr: Nem úgy van, mert bizony nevettél.
 fa4dh6fed 18,16
 Azután felkelvén onnan azok a férfiak, Sodoma felé tartanak vala. Ábrahám is velök méne, hogy elkisérje őket.
 fa4dh6fed 18,17
-És monda az Úr:Eltitkoljam-é én Ábrahámtól, a mit tenni akarok?
+És monda az Úr: Eltitkoljam-é én Ábrahámtól, a mit tenni akarok?
 fa4dh6fed 18,18
-Holott Ábrahám nagy és hatalmas néppé lesz; ésbenne megáldatnak a földnek minden nemzetségei.
+Holott Ábrahám nagy és hatalmas néppé lesz; és   benne megáldatnak a földnek minden nemzetségei.
 fa4dh6fed 18,19
-Mert tudom róla, hogy megparancsolja az ő fiainak és az ő házanépének ő utánna, hogy megőrizzék az Úrnak útát, igazságot és törvényt tévén, hogy beteljesítse az Úr Ábrahámon, amit szólott felőle.
+Mert tudom róla, hogy megparancsolja az ő fiainak és az ő házanépének ő utánna, hogy megőrizzék az Úrnak útát, igazságot és törvényt tévén, hogy beteljesítse az Úr Ábrahámon, a  mit szólott felőle.
 fa4dh6fed 18,20
 Monda azután az Úr: Mivelhogy Sodomának és Gomorának kiáltása megsokasodott, és mivelhogy az ő bűnök felettébb megnehezedett:
 fa4dh6fed 18,21
-Alámegyek azért és meglátom, vajjonteljességgel a hozzám felhatott kiáltás szerint cselekedtek-é vagy nem? tudni akarom.
+Alámegyek azért és meglátom, vajjon  teljességgel a hozzám felhatott kiáltás szerint cselekedtek-é vagy nem? tudni akarom.
 fa4dh6fed 18,22
-És elfordulának onnan a férfiak, és menének Sodomába: Ábrahámpedig még az Úr előtt áll vala.
+És elfordulának onnan a férfiak, és menének Sodomába: Ábrahám pedig még az Úr előtt áll vala.
 fa4dh6fed 18,23
 És hozzá járula Ábrahám és monda: Avagy elveszted-é az igazat is a gonoszszal egybe?
 fa4dh6fed 18,24
 Talán van ötven igaz abban a városban, avagy elveszted-é, és nem kedvezel-é a helynek az ötven igazért, a kik abban vannak?
 fa4dh6fed 18,25
-Távol legyen tőled, hogy ilyen dolgot cselekedjél, hogy megöld az igazat a gonoszszal, és úgy járjon az igaz mint a gonosz: Távol legyen tőled! Avagy az egész földbírája nem szolgáltatna-é igazságot?
+Távol legyen tőled, hogy ilyen dolgot cselekedjél, hogy megöld az igazat a gonoszszal, és úgy járjon az igaz mint a gonosz: Távol legyen tőled! Avagy az egész föld  bírája nem szolgáltatna-é igazságot?
 fa4dh6fed 18,26
-És monda az Úr:Ha találok Sodomában a városon belől ötven igazat, mind az egész helynek megkegyelmezek azokért.
+És monda az Úr: Ha találok Sodomában a városon belől ötven igazat, mind az egész helynek megkegyelmezek azokért.
 fa4dh6fed 18,27
 És felele Ábrahám, és monda: Immár merészkedtem szólani az én Uramnak, noha én por és hamu vagyok.
 fa4dh6fed 18,28
@@ -912,15 +912,15 @@ Mégis monda: Kérlek, ne haragudjék meg az én Uram ha szólok: Hátha talált
 fa4dh6fed 18,31
 És ő monda: Immár merészkedtem szólani az én Uramnak: Hátha találtatnak ott húszan? Felele: Nem vesztem el a húszért.
 fa4dh6fed 18,32
-És monda:Ne haragudjék kérlek az én Uram ha szólok még ez egyszer: Hátha találtatnak ott tízen? És Ő monda: Nem vesztem el a tízért.
+És monda: Ne haragudjék kérlek az én Uram ha szólok még ez egyszer: Hátha találtatnak ott tízen? És Ő monda: Nem vesztem el a tízért.
 fa4dh6fed 18,33
 És elméne az Úr, minekutánna elvégezte Ábrahámmal való beszélgetését; Ábrahám pedig megtére az ő helyére.
 fa4dh6fed 19,1
-Mikor a kétangyal estére Sodomába jutott, Lót Sodoma kapujában űl vala, és a mint meglátá őket Lót, felkele eléjök, és arczczal a földre borúla.
+Mikor a két angyal estére Sodomába jutott, Lót Sodoma kapujában űl vala, és a mint meglátá őket Lót, felkele eléjök, és arczczal a földre borúla.
 fa4dh6fed 19,2
-És monda: Ímé én Uraim kérlek, térjetek be a ti szolgátok házához, és háljatok ott,és mossátok meg lábaitokat; reggel korán felkelhettek és indulhattok útatokra. Azok pedig mondának: Nem, hanem az utczán hálunk meg.
+És monda: Ímé én Uraim kérlek, térjetek be a ti szolgátok házához, és háljatok ott,  és mossátok meg lábaitokat; reggel korán felkelhettek és indulhattok útatokra. Azok pedig mondának: Nem, hanem az utczán hálunk meg.
 fa4dh6fed 19,3
-De nagyon unszoláőket, és betérének hozzá, és bemenének az ő házába; ő pedig szerze nékik vendégséget, és pogácsát is süte, és evének.
+De nagyon unszolá őket, és betérének hozzá, és bemenének az ő házába; ő pedig szerze nékik vendégséget, és pogácsát is süte, és evének.
 fa4dh6fed 19,4
 Lefekvésök előtt a város férfiai, Sodoma férfiai körűlvevék a házat, ifja, örege, mind az egész község egytől egyig.
 fa4dh6fed 19,5
@@ -944,11 +944,11 @@ Mert mi elvesztjük e helyet, mivelhogy ezek kiáltása nagyra nőtt az Úr elő
 fa4dh6fed 19,14
 Kiméne azért Lót, és szóla az ő vőinek, kik az ő leányait elvették vala, és monda: Keljetek fel, menjetek ki e helyből, mert elveszti az Úr e várost; de az ő vőinek úgy tetszék, mintha tréfálna.
 fa4dh6fed 19,15
-És mikor a hajnal feljött, sürgetik vala az AngyalokLótot, mondván: Kelj fel, vedd a te feleségedet és jelenlevő két leányodat, hogy el ne veszsz a városnak bűne miatt.
+És mikor a hajnal feljött, sürgetik vala az Angyalok Lótot, mondván: Kelj fel, vedd a te feleségedet és jelenlevő két leányodat, hogy el ne veszsz a városnak bűne miatt.
 fa4dh6fed 19,16
 Mikor pedig késedelmeskedék, megragadák a férfiak az ő kezét és az ő feleségének kezét és két leánya kezét, az Úrnak iránta való irgalmából, és kivivék őt: és ott hagyák a városon kívül.
 fa4dh6fed 19,17
-És lőn mikor kivivék őket, monda azMentsd meg a te életedet, hátra ne tekints, és meg ne állj a környéken; a hegyre menekülj, hogy el ne veszsz.
+És lőn mikor kivivék őket, monda az egyik: Mentsd meg a te életedet, hátra ne tekints, és meg ne állj a környéken; a hegyre menekülj, hogy el ne veszsz.
 fa4dh6fed 19,18
 És monda Lót nékik: Ne oh Uram!
 fa4dh6fed 19,19
@@ -962,13 +962,13 @@ Siess, menekülj oda, mert semmit sem tehetek addig, míg oda nem érsz. Azért 
 fa4dh6fed 19,23
 A nap feljött vala a földre, mikor Lót Czóárba ére.
 fa4dh6fed 19,24
-Ésbocsáta az Úr Sodomára és Gomorára kénköves és tüzes esőt az Úrtól az égből.
+És      bocsáta az Úr Sodomára és Gomorára kénköves és tüzes esőt az Úrtól az égből.
 fa4dh6fed 19,25
 És elsűlyeszté ama városokat, és azt az egész vidéket, és a városok minden lakosait, és a föld növényeit is.
 fa4dh6fed 19,26
-Éshátra tekinte az ő felesége, és sóbálványnyá lőn.
+És hátra tekinte az ő felesége, és sóbálványnyá lőn.
 fa4dh6fed 19,27
-Ábrahám pedig reggel arra a helyre indúla,a hol az Úr színe előtt állott vala.
+Ábrahám pedig reggel arra a helyre indúla, a hol az Úr színe előtt állott vala.
 fa4dh6fed 19,28
 És tekinte Sodoma és Gomora felé, és az egész környék földje felé; és látá, és ímé felszálla a földnek füstje, mint a kemencze füstje.
 fa4dh6fed 19,29
@@ -992,9 +992,9 @@ fa4dh6fed 19,37
 fa4dh6fed 19,38
 A kisebbik is fiat szűle és nevezé annak nevét Benamminak. Ez az Ammoniták atyja mind a mai napig.
 fa4dh6fed 20,1
-És elköltözék onnanÁbrahám a déli tartományba, és letelepedék Kádes és Súr között, és tartózkodék Gérárban.
+És elköltözék onnan Ábrahám a déli tartományba, és letelepedék Kádes és Súr között, és tartózkodék Gérárban.
 fa4dh6fed 20,2
-És monda Ábrahám Sáráról az ő feleségéről: Én húgom ő.Elkülde azért Abimélek Gérárnak királya, és elviteté Sárát.
+És monda Ábrahám Sáráról az ő feleségéről: Én húgom ő. Elkülde azért Abimélek Gérárnak királya, és elviteté Sárát.
 fa4dh6fed 20,3
 De Isten Abimélekhez jöve éjjeli álomban, és monda néki: Ímé meghalsz az asszonyért, a kit elvettél, holott férjnél van.
 fa4dh6fed 20,4
@@ -1004,7 +1004,7 @@ Avagy nem ő mondotta-é nékem: én húgom ő; s ez is azt mondotta: én báty�
 fa4dh6fed 20,6
 És monda az Isten néki álomban: Én is tudom, hogy szívednek ártatlanságában mívelted ezt, azért tartóztattalak én is, hogy ne vétkezzél ellenem, azért nem engedtem, hogy illessed azt.
 fa4dh6fed 20,7
-Mostan azért add vissza az embernek az ő feleségét, mert Próféta ő:és imádkozik te éretted, és élsz; hogyha pedig vissza nem adod: tudd meg, hogy halállal halsz meg te, és minden hozzád tartozó.
+Mostan azért add vissza az embernek az ő feleségét, mert Próféta ő: és imádkozik te éretted, és élsz; hogyha pedig vissza nem adod: tudd meg, hogy halállal halsz meg te, és minden hozzád tartozó.
 fa4dh6fed 20,8
 Felkele azért Abimélek reggel, és előhívatá minden szolgáját, s fülök hallatára mindezeket elbeszélé és az emberek igen megfélemlének.
 fa4dh6fed 20,9
@@ -1012,11 +1012,11 @@ fa4dh6fed 20,9
 fa4dh6fed 20,10
 És monda Abimélek Ábrahámnak: Mit láttál, hogy ezt a dolgot cselekedted?
 fa4dh6fed 20,11
-Felele Ábrahám: Bizony azt gondoltam: nincsenistenfélelem e helyen, és megölnek engem az én feleségemért.
+Felele Ábrahám: Bizony azt gondoltam: nincsen istenfélelem e helyen, és megölnek engem az én feleségemért.
 fa4dh6fed 20,12
 De valósággal húgom is, az én atyámnak leánya ő, csakhogy nem az én anyámnak leánya; és így lőn feleségemmé.
 fa4dh6fed 20,13
-És lőn hogy a mikor kibujdostata engem az Isten az én atyámnak házából, azt mondám néki: Ilyen kegyességet cselekedjél én velem, mindenütt valahová megyünk,azt mondjad én felőlem: én bátyám ez.
+És lőn hogy a mikor kibujdostata engem az Isten az én atyámnak házából, azt mondám néki: Ilyen kegyességet cselekedjél én velem, mindenütt valahová megyünk, azt mondjad én felőlem: én bátyám ez.
 fa4dh6fed 20,14
 Akkor Abimélek vett juhokat, ökröket, szolgákat és szolgálókat, és adá Ábrahámnak, és vissza adá néki Sárát is az ő feleségét.
 fa4dh6fed 20,15
@@ -1028,15 +1028,15 @@ Könyörge azért Ábrahám az Istennek, és meggyógyítá Isten Abiméleket, �
 fa4dh6fed 20,18
 Mert az Úr erősen bezárta vala az Abimélek háza népének méhét, Sáráért az Ábrahám feleségéért.
 fa4dh6fed 21,1
-Az Úr pedig meglátogatá Sárát, a mint mondotta vala,és akképen cselekedék az Úr Sárával, a miképen szólott vala.
+Az Úr pedig meglátogatá Sárát, a mint mondotta vala, és akképen cselekedék az Úr Sárával, a miképen szólott vala.
 fa4dh6fed 21,2
-Mert fogada Sára az ő méhében, és szűle fiatÁbrahámnak az ő vénségében, abban azidőben, melyet mondott vala néki az Isten.
+Mert fogada Sára az ő méhében, és szűle fiat Ábrahámnak az ő vénségében, abban az időben, melyet mondott vala néki az Isten.
 fa4dh6fed 21,3
 És nevezé Ábrahám az ő fiának nevét, a ki néki született vala, a kit szűlt vala néki Sára, Izsáknak:
 fa4dh6fed 21,4
-És körűlmetélé Ábrahám az ő fiát Izsákot, nyolcznapos korában, a mint parancsoltavala néki az Isten.
+És körűlmetélé Ábrahám az ő fiát Izsákot, nyolcznapos korában, a mint parancsolta vala néki az Isten.
 fa4dh6fed 21,5
-Ábrahám pedig száz esztendős, mikor születék néki az ő fia Izsák.
+Ábrahám pedig száz esztendős vala , mikor születék néki az ő fia Izsák.
 fa4dh6fed 21,6
 És monda Sára: Nevetést szerzett az Isten, énnékem; a ki csak hallja, nevet rajtam.
 fa4dh6fed 21,7
@@ -1046,13 +1046,13 @@ fa4dh6fed 21,8
 fa4dh6fed 21,9
 Mikor pedig Sára nevetgélni látá az Égyiptombéli Hágárnak fiát, kit Ábrahámnak szűlt vala,
 fa4dh6fed 21,10
-Monda Ábrahámnak:Kergesd el ezt a szolgálót az ő fiával egybe, mert nem lesz örökös e szolgáló fia az én fiammal, Izsákkal.
+Monda Ábrahámnak:  Kergesd el ezt a szolgálót az ő fiával egybe, mert nem lesz örökös e szolgáló fia az én fiammal, Izsákkal.
 fa4dh6fed 21,11
 Ábrahámnak pedig igen nehéznek látszék e dolog, az ő fiáért.
 fa4dh6fed 21,12
-De monda az Isten Ábrahámnak: Ne lássék előtted nehéznek a gyermeknek és a szolgálónak dolga; valamit mond néked Sára, engedj az ő szavának,mert Izsákról neveztetik a te magod.
+De monda az Isten Ábrahámnak: Ne lássék előtted nehéznek a gyermeknek és a szolgálónak dolga; valamit mond néked Sára, engedj az ő szavának,  mert Izsákról neveztetik a te magod.
 fa4dh6fed 21,13
-Mindazáltal a szolgálóleány fiát isnéppé teszem, mivelhogy a te magod ő.
+Mindazáltal a szolgálóleány fiát is néppé teszem, mivelhogy a te magod ő.
 fa4dh6fed 21,14
 Felkele azért Ábrahám jó reggel, és vőn kenyeret és egy tömlő vizet, és adá Hágárnak, és feltevé azt és a gyermeket annak vállára s elbocsátá. Az pedig elméne, és bujdosék a Beérseba pusztájában.
 fa4dh6fed 21,15
@@ -1062,7 +1062,7 @@ fa4dh6fed 21,16
 fa4dh6fed 21,17
 Meghallá pedig Isten a gyermeknek szavát, és kiálta az Isten angyala az égből Hágárnak, és monda néki: Mi lelt téged Hágár? ne félj, mert az Isten meghallotta a gyermeknek szavát, ott a hol van.
 fa4dh6fed 21,18
-Kelj fel, vedd fel a gyermeket, és viseld gondját, mert nagynéppé teszem őt.
+Kelj fel, vedd fel a gyermeket, és viseld gondját, mert nagy  néppé teszem őt.
 fa4dh6fed 21,19
 És megnyitá Isten az ő szemeit, és láta egy vízforrást, oda méne azért, és megtölté a tömlőt vízzel, és inni ada a gyermeknek.
 fa4dh6fed 21,20
@@ -1070,13 +1070,13 @@ fa4dh6fed 21,20
 fa4dh6fed 21,21
 Lakozék pedig Párán pusztájában, és vőn néki anyja feleséget Égyiptom földéről.
 fa4dh6fed 21,22
-És lőn abban azidőben, hogy Abimélek és Pikhól annak hadvezére megszólíták Ábrahámot mondván: Az Isten van te veled mindenben, a mit cselekszel.
+És lőn abban az időben, hogy Abimélek és Pikhól annak hadvezére megszólíták Ábrahámot mondván: Az Isten van te veled mindenben, a mit cselekszel.
 fa4dh6fed 21,23
 Mostan azért esküdj meg énnékem az Istenre itt, hogy sem én ellenem, sem fiam, sem unokám ellen álnokságot nem cselekszel, hanem azzal a szeretettel, a melylyel én te irántad viseltettem, viseltetel te is én irántam és az ország iránt, a melyben jövevény voltál.
 fa4dh6fed 21,24
 És monda Ábrahám: Én megesküszöm.
 fa4dh6fed 21,25
-Megdorgálá pedig Ábrahám Abiméleket a kútért,melyet erővel elvettek vala az Abimélek szolgái.
+Megdorgálá pedig Ábrahám Abiméleket a kútért, melyet erővel elvettek vala az Abimélek szolgái.
 fa4dh6fed 21,26
 És monda Abimélek: Nem tudom kicsoda mívelte e dolgot; te sem jelentetted nekem, s én sem hallottam, hanem csak ma.
 fa4dh6fed 21,27
@@ -1086,19 +1086,19 @@ fa4dh6fed 21,28
 fa4dh6fed 21,29
 És monda Abimélek Ábrahámnak: Mire való e hét juh, melyet külön állítál?
 fa4dh6fed 21,30
-És felele: Ezt a hét juhot vedd tőlem, hogy bizonyságul legyenek nékem, hogy én ástam ezt a kútat.
+És felele Ábrahám : Ezt a hét juhot vedd tőlem, hogy bizonyságul legyenek nékem, hogy én ástam ezt a kútat.
 fa4dh6fed 21,31
-Azért nevezék azt a helyetBeérsebának, mivelhogy ott esküdtek vala meg mind a ketten.
+Azért nevezék azt a helyet Beérsebának, mivelhogy ott esküdtek vala meg mind a ketten.
 fa4dh6fed 21,32
 Megköték tehát a szövetséget Beérsebában, és felkele Abimélek és Pikhól annak hadvezére és visszatérének a Filiszteusok földére.
 fa4dh6fed 21,33
-pedig tamariskusfákat ültete Beérsebában, és segítségűl hívá ott az örökkévaló Úr Istennek nevét.
+Ábrahám pedig tamariskusfákat ültete Beérsebában, és segítségűl hívá ott az örökkévaló Úr Istennek nevét.
 fa4dh6fed 21,34
 És sok ideig tartózkodék Ábrahám a Filiszteusok földén.
 fa4dh6fed 22,1
 És lőn ezeknek utána, az Isten megkisérté Ábrahámot, és monda néki: Ábrahám! S az felele: Ímhol vagyok.
 fa4dh6fed 22,2
-És monda: Vedd a te fiadat, ama te egyetlenegyedet, a kit szeretsz, Izsákot, és menj el Mórijának földére, ésáldozd meg ott égő áldozatul a hegyek közűl egyen, a melyet mondándok néked.
+És monda: Vedd a te fiadat, ama te egyetlenegyedet, a kit szeretsz, Izsákot, és menj el Mórijának földére, és áldozd meg ott égő áldozatul a hegyek közűl egyen, a melyet mondándok néked.
 fa4dh6fed 22,3
 Felkele azért Ábrahám jó reggel, és megnyergelé az ő szamarát, és maga mellé vevé két szolgáját, és az ő fiát Izsákot, és fát hasogatott az égő áldozathoz. Akkor felkele és elindula a helyre, melyet néki az Isten mondott vala.
 fa4dh6fed 22,4
@@ -1108,11 +1108,11 @@ fa4dh6fed 22,5
 fa4dh6fed 22,6
 Vevé azért Ábrahám az égő áldozathoz való fákat, és feltevé az ő fiára Izsákra, ő maga pedig kezébe vevé a tüzet, és a kést, és mennek vala ketten együtt.
 fa4dh6fed 22,7
-És szóla Izsák Ábrahámhoz az ő atyjához, és monda: Atyám! Az pedig monda: Ímhol vagyok, fiam. És mondaÍmhol van a tűz és a fa; de hol van az égő áldozatra való bárány?
+És szóla Izsák Ábrahámhoz az ő atyjához, és monda: Atyám! Az pedig monda: Ímhol vagyok, fiam. És monda Izsák: Ímhol van a tűz és a fa; de hol van az égő áldozatra való bárány?
 fa4dh6fed 22,8
 És monda Ábrahám: Az Isten majd gondoskodik az égő áldozatra való bárányról, fiam; és mennek vala ketten együtt.
 fa4dh6fed 22,9
-Hogy pedig eljutának arra a helyre, melyet Isten néki mondott vala, megépíté ott Ábrahám az oltárt, és reá raká a fát,és megkötözé Izsákot az ő fiát, és feltevé az oltárra, a fa-rakás tetejére.
+Hogy pedig eljutának arra a helyre, melyet Isten néki mondott vala, megépíté ott Ábrahám az oltárt, és reá raká a fát, és megkötözé Izsákot az ő fiát, és feltevé az oltárra, a fa-rakás tetejére.
 fa4dh6fed 22,10
 És kinyújtá Ábrahám az ő kezét és vevé a kést, hogy levágja az ő fiát.
 fa4dh6fed 22,11
@@ -1126,11 +1126,11 @@ fa4dh6fed 22,14
 fa4dh6fed 22,15
 És kiálta az Úrnak Angyala Ábrahámnak másodszor is az égből.
 fa4dh6fed 22,16
-És monda:Én magamra esküszöm azt mondja az Úr: mivelhogy e dolgot cselekedéd, és nem kedvezél a te fiadnak, a te egyetlenegyednek:
+És monda: Én magamra esküszöm azt mondja az Úr: mivelhogy e dolgot cselekedéd, és nem kedvezél a te fiadnak, a te egyetlenegyednek:
 fa4dh6fed 22,17
-Hogy megáldván megáldalak tégedet, és bőségesen megsokasítom a te magodat mint az ég csillagait, és mint a fövényt, mely a tenger partján van, ésa te magod örökség szerint fogja bírni az ő ellenségeinek kapuját.
+Hogy megáldván megáldalak tégedet, és bőségesen megsokasítom a te magodat mint az ég csillagait, és mint a fövényt, mely a tenger partján van, és  a te magod örökség szerint fogja bírni az ő ellenségeinek kapuját.
 fa4dh6fed 22,18
-Ésmegáldatnak a te magodban a földnek minden nemzetségei, mivelhogy engedtél az én beszédemnek.
+És   megáldatnak a te magodban a földnek minden nemzetségei, mivelhogy engedtél az én beszédemnek.
 fa4dh6fed 22,19
 Megtére azért Ábrahám az ő szolgáihoz, és felkelének és együtt elmenének Beérsebába, mert lakozék Ábrahám Beérsebában.
 fa4dh6fed 22,20
@@ -1142,15 +1142,15 @@ fa4dh6fed 22,22
 fa4dh6fed 22,23
 Bethuél pedig nemzé Rebekát. Ezt a nyolczat szűlé Milkha Nákhornak az Ábrahám atyjafiának.
 fa4dh6fed 22,24
-Az ő ágyasa is, kinek neve Reuma, szűlé néki Tebáhot, Gakhámot, Thakhást és Mahákhát.
+Az ő ágyasa is, kinek neve Reuma vala , szűlé néki Tebáhot, Gakhámot, Thakhást és Mahákhát.
 fa4dh6fed 23,1
-Vala pedig Sárának élete száz huszonhét esztendő.Sára életének esztendei.
+Vala pedig Sárának élete száz huszonhét esztendő. Ezek Sára életének esztendei.
 fa4dh6fed 23,2
-És meghala Sára Kirját-Arbában azaz Hebronbana Kanaán földén, és beméne Ábrahám, hogy gyászolja Sárát és sirassa őt.
+És meghala Sára Kirját-Arbában azaz Hebronban a Kanaán földén, és beméne Ábrahám, hogy gyászolja Sárát és sirassa őt.
 fa4dh6fed 23,3
 Felkele azután Ábrahám az ő halottja elől, és szóla a Khéth fiainak, mondván:
 fa4dh6fed 23,4
-Idegen és jövevény vagyok közöttetek: Adjatoknékem temetésre való örökséget ti nálatok, hadd temessem el az én halottamat én előlem.
+Idegen és jövevény vagyok közöttetek: Adjatok nékem temetésre való örökséget ti nálatok, hadd temessem el az én halottamat én előlem.
 fa4dh6fed 23,5
 Felelének pedig a Khéth fiai Ábrahámnak, mondván őnéki:
 fa4dh6fed 23,6
@@ -1168,35 +1168,35 @@ Nem úgy uram, hallgass meg engem: azt a mezőt néked adom, s a barlangot, mely
 fa4dh6fed 23,12
 És meghajtá magát Ábrahám a földnek népe előtt.
 fa4dh6fed 23,13
-És szóla Efronhoz a föld népének hallatára, mondván: Ha mégis meghallgatnál engem! megadom a mezőnek árát, fogadd el tőlem;eltemetem ott az én halottamat.
+És szóla Efronhoz a föld népének hallatára, mondván: Ha mégis meghallgatnál engem! megadom a mezőnek árát, fogadd el tőlem; azután eltemetem ott az én halottamat.
 fa4dh6fed 23,14
 És felele Efron Ábrahámnak, mondván néki:
 fa4dh6fed 23,15
 Uram! hallgass meg engemet; négyszáz ezüst siklusos föld, micsoda az én köztem és te közötted? Csak temesd el a te halottadat.
 fa4dh6fed 23,16
-Engedeazért Ábrahám Efronnak és odamérte Ábrahám Efronnak az ezüstöt, a melyet mondott vala a Khéth fiainak hallatára; kalmároknál kelendő négyszáz ezüst siklust.
+Engede azért Ábrahám Efronnak és odamérte Ábrahám Efronnak az ezüstöt, a melyet mondott vala a Khéth fiainak hallatára; kalmároknál kelendő négyszáz ezüst siklust.
 fa4dh6fed 23,17
-Így lettEfronnak Makpelában levő mezeje, mely Mamré átellenében van, a mező a benne levő barlanggal, és minden a mezőben levő fa az egész határban köröskörűl
+Így lett Efronnak Makpelában levő mezeje, mely Mamré átellenében van, a mező a benne levő barlanggal, és minden a mezőben levő fa az egész határban köröskörűl
 fa4dh6fed 23,18
 Ábrahámnak birtoka, a Khéth fiainak, mind azoknak szeme előtt, a kik az ő városának kapuján bemennek vala.
 fa4dh6fed 23,19
-Azután eltemeté Ábrahám az ő feleségétSárát a Makpelá mezejének barlangjába Mamréval szemben. Ez Hebron a Kanaán földén.
+Azután eltemeté Ábrahám az ő feleségét Sárát a Makpelá mezejének barlangjába Mamréval szemben. Ez Hebron a Kanaán földén.
 fa4dh6fed 23,20
-Így erősítteték meg a mező és a benne lévő barlang Ábrahámnak temetésre való örökségűl aKhéth fiaitól.
+Így erősítteték meg a mező és a benne lévő barlang Ábrahámnak temetésre való örökségűl a Khéth fiaitól.
 fa4dh6fed 24,1
-Ábrahám pedig vén élemedettvala, és az Úr mindenben megáldotta vala Ábrahámot.
+Ábrahám pedig vén élemedett ember vala, és az Úr mindenben megáldotta vala Ábrahámot.
 fa4dh6fed 24,2
-Monda azért Ábrahám az ő háza öregebb szolgájának, a ki őnéki mindenében gazda vala:Tedd a kezed tomporom alá!
+Monda azért Ábrahám az ő háza öregebb szolgájának, a ki őnéki mindenében gazda vala: Tedd a kezed tomporom alá!
 fa4dh6fed 24,3
 Hogy megeskesselek téged az Úrra, a mennynek Istenére, és a földnek Istenére, hogy nem vészesz feleséget az én fiamnak a Kananeusok leányai közűl, a kik között lakom.
 fa4dh6fed 24,4
-Hanem elmégysz az én hazámba, és az én rokonságim közé ésvészesz feleséget az én fiamnak Izsáknak.
+Hanem elmégysz az én hazámba, és az én rokonságim közé és onnan vészesz feleséget az én fiamnak Izsáknak.
 fa4dh6fed 24,5
 Monda pedig őnéki a szolga: Hátha az a leányzó nem akar velem eljőni e földre, ugyan vissza vigyem-é a te fiadat arra a földre, a honnan kijöttél vala?
 fa4dh6fed 24,6
 Felele néki Ábrahám: Vigyázz, az én fiamat oda vissza ne vidd.
 fa4dh6fed 24,7
-Az Úr az égnek Istene, ki engemet kihozott az én atyámnak házából, és az én rokonságimnak földéről, a ki szólt nékem, és megesküdött nékem mondván: Ate magodnak adom ezt a földet; elbocsátja az ő Angyalát te előtted, hogy onnan végy az én fiamnak feleséget.
+Az Úr az égnek Istene, ki engemet kihozott az én atyámnak házából, és az én rokonságimnak földéről, a ki szólt nékem, és megesküdött nékem mondván: A te magodnak adom ezt a földet; elbocsátja az ő Angyalát te előtted, hogy onnan végy az én fiamnak feleséget.
 fa4dh6fed 24,8
 Hogyha pedig nem akar a leányzó teveled eljőni, ment lészesz az én esketésem alól; csakhogy az én fiamat oda vissza ne vidd.
 fa4dh6fed 24,9
@@ -1204,15 +1204,15 @@ Veté azért a szolga az ő kezét az ő urának Ábrahámnak tompora alá, és 
 fa4dh6fed 24,10
 És vőn a szolga tíz tevét az ő urának tevéi közűl, és elindula; (mert az urának minden gazdagsága az ő kezében vala). Felkele tehát és elméne Mésopotámiába, a Nákhor városába.
 fa4dh6fed 24,11
-És megpihenteté a tevéket a városon kivűl egy kútfőnél, este felé, mikor avizet meríteni járnak.
+És megpihenteté a tevéket a városon kivűl egy kútfőnél, este felé, mikor a leányok vizet meríteni járnak.
 fa4dh6fed 24,12
-És monda: Uram! én uramnak Ábrahámnak Istene, hozd elémma, és légy kegyelmes az én uram Ábrahám iránt.
+És monda: Uram! én uramnak Ábrahámnak Istene, hozd elém még ma, és légy kegyelmes az én uram Ábrahám iránt.
 fa4dh6fed 24,13
 Ímé én a víz forrása mellé állok és e város lakosainak leányai kijőnek vizet meríteni.
 fa4dh6fed 24,14
 Legyen azért, hogy a mely leánynak ezt mondom: Hajtsd meg a te vedredet, hogy igyam, és az azt mondándja: igyál, sőt a te tevéidet is megitatom: hogy azt rendelted légyen a te szolgádnak Izsáknak, és erről ismerjem meg, hogy irgalmasságot cselekedtél az én urammal.
 fa4dh6fed 24,15
-És lőn, minekelőtte elvégezte volna a beszédet,ímé jő vala Rebeka, Bethuélnek leánya, a ki Milkhának, az Ábrahám testvérének Nákhor feleségének vala fia, és pedig vedrével a vállán.
+És lőn, minekelőtte elvégezte volna a beszédet, ímé jő vala Rebeka, Bethuélnek leánya, a ki Milkhának, az Ábrahám testvérének Nákhor feleségének vala fia, és pedig vedrével a vállán.
 fa4dh6fed 24,16
 A leányzó pedig felette szép ábrázatú vala; szűz, és férfi még nem ismeré őt, és aláméne a forrásra, és megtölté vedrét, és feljöve.
 fa4dh6fed 24,17
@@ -1226,11 +1226,11 @@ fa4dh6fed 24,20
 fa4dh6fed 24,21
 Az ember pedig álmélkodva néz vala reá, és veszteg hallgat vala, tudni akarván: vajjon szerencséssé teszi-é az Úr az ő útját, vagy nem.
 fa4dh6fed 24,22
-És lőn, mikor a tevék már eleget ittak, elévőn az emberegy aranyfüggőt, a melynek súlya fél siklus, és két karpereczet, a melynek súlya tíz arany.
+És lőn, mikor a tevék már eleget ittak, elévőn az ember egy aranyfüggőt, a melynek súlya fél siklus, és két karpereczet, a melynek súlya tíz arany.
 fa4dh6fed 24,23
-És monda: Kinek a leányate? kérlek mondd meg nékem: van-é a te atyádnak házában hálásra való helyünk?
+És monda: Kinek a leánya vagy te? kérlek mondd meg nékem: van-é a te atyádnak házában hálásra való helyünk?
 fa4dh6fed 24,24
-Az pedig felele néki: Bethuél leánya vagyoka Milkha fiáé, a kit ő Nákhornak szűlt.
+Az pedig felele néki: Bethuél leánya vagyok a Milkha fiáé, a kit ő Nákhornak szűlt.
 fa4dh6fed 24,25
 Azt is mondá: Szalma is, abrak is bőven van minálunk, és hálásra való hely is van.
 fa4dh6fed 24,26
@@ -1238,7 +1238,7 @@ Meghajtá azért magát az ember, és imádá az Urat.
 fa4dh6fed 24,27
 És monda: Áldott az Úr az én uramnak Ábrahámnak Istene, ki nem vonta meg az ő irgalmasságát és hűségét az én uramtól. Az Úr vezérlett engem ez útamban az én uram atyjafiainak házához.
 fa4dh6fed 24,28
-Elfuta azonközben a leányzó, és elbeszélé az ő anyja házában, a mint ezek.
+Elfuta azonközben a leányzó, és elbeszélé az ő anyja házában, a mint ezek történtek .
 fa4dh6fed 24,29
 Vala pedig Rebekának egy bátyja, kinek neve Lábán vala. És kifutamodék Lábán ahhoz az emberhez a forráshoz.
 fa4dh6fed 24,30
@@ -1254,11 +1254,11 @@ Monda azért: Én az Ábrahám szolgája vagyok.
 fa4dh6fed 24,35
 Az Úr pedig igen megáldotta az én uramat, úgy hogy nagygyá lett: mert adott néki juhokat, barmokat, ezüstöt, aranyat, szolgákat, szolgálóleányokat, tevéket, szamarakat.
 fa4dh6fed 24,36
-És Sára az én uramnak felesége fiat szűlt az én uramnak, az ő vénségében, és annak adámindenét, a mije van.
+És Sára az én uramnak felesége fiat szűlt az én uramnak, az ő vénségében, és annak adá mindenét, a mije van.
 fa4dh6fed 24,37
 Engem pedig megesküdtetett az én uram, mondván: Ne végy feleséget az én fiamnak a Kananeusok leányai közűl, a kiknek földjén én lakom.
 fa4dh6fed 24,38
-Hanem menj el az én atyámnak házához, és az én rokonságom közé, hogyvégy feleséget az én fiamnak.
+Hanem menj el az én atyámnak házához, és az én rokonságom közé, hogy onnan végy feleséget az én fiamnak.
 fa4dh6fed 24,39
 Mikor pedig azt mondám az én uramnak: Hátha nem akarna velem az a leányzó eljőni?
 fa4dh6fed 24,40
@@ -1278,7 +1278,7 @@ fa4dh6fed 24,46
 fa4dh6fed 24,47
 És megkérdezém őt és mondék: Ki leánya vagy? ő pedig felele: Bethuélnek, a Nákhor fiának leánya vagyok, a kit Milkha szűlt vala őnéki. Ekkor a függőt orrába, és e pereczeket karjaira tevém.
 fa4dh6fed 24,48
-Meghajtván azért magamat, imádám az Urat, és áldám az Urat, az én uramnak Ábrahámnak Istenét, ki engem igaz úton vezérelt, hogy az én uram atyjafiának leányát vegyem az ő fiának
+Meghajtván azért magamat, imádám az Urat, és áldám az Urat, az én uramnak Ábrahámnak Istenét, ki engem igaz úton vezérelt, hogy az én uram atyjafiának leányát vegyem az ő fiának feleségűl. 
 fa4dh6fed 24,49
 Most azért, ha szeretettel és hűséggel akartok lenni az én uramhoz, mondjátok meg; ha pedig nem, adjátok tudtomra, hogy én vagy jobbra vagy balra forduljak.
 fa4dh6fed 24,50
@@ -1294,7 +1294,7 @@ Evének azután és ivának, ő és a férfiak, a kik ő vele valának, és ott 
 fa4dh6fed 24,55
 Monda pedig a leány bátyja és anyja: Maradjon velünk a leány még vagy tíz napig, azután menjen el.
 fa4dh6fed 24,56
-Amonda nékik: Ne késleljetek meg engem, holott az Úr szerencséssé tette az én útamat; bocsássatok el azért engem, hogy menjek az én uramhoz.
+A szolga pedig monda nékik: Ne késleljetek meg engem, holott az Úr szerencséssé tette az én útamat; bocsássatok el azért engem, hogy menjek az én uramhoz.
 fa4dh6fed 24,57
 Mondának akkor: Hívjuk elő a leányt, és kérdjük meg őt.
 fa4dh6fed 24,58
@@ -1302,11 +1302,11 @@ Szólíták azért Rebekát, és mondának néki: Akarsz-é elmenni e férfiúva
 fa4dh6fed 24,59
 Elbocsáták azért Rebekát, az ő húgokat, és az ő dajkáját, és az Ábrahám szolgáját, és az ő embereit.
 fa4dh6fed 24,60
-És megáldák Rebekát, és mondák néki: Te mi húgunk! szaporodjál ezerszer való ezerig. És bírja a te magodaz ő ellenségeinek kapuját.
+És megáldák Rebekát, és mondák néki: Te mi húgunk! szaporodjál ezerszer való ezerig. És bírja a te magod az ő ellenségeinek kapuját.
 fa4dh6fed 24,61
 És felkele Rebeka és az ő szolgálóleányai, és felűlének a tevékre, s követék azt a férfiút. Így vevé a szolga Rebekát, és elméne.
 fa4dh6fed 24,62
-Izsák pedig visszajő vala a Lakhai Rói forrástól;és lakik vala a déli tartományban.
+Izsák pedig visszajő vala a Lakhai Rói forrástól; és lakik vala a déli tartományban.
 fa4dh6fed 24,63
 És kiméne Izsák este felé elmélkedni a mezőre, és felemelé szemeit és látá, hogy ímé tevék jőnek.
 fa4dh6fed 24,64
@@ -1316,49 +1316,49 @@ fa4dh6fed 24,65
 fa4dh6fed 24,66
 Elbeszélé azután a szolga Izsáknak mindazokat a dolgokat, a melyeket cselekedett vala.
 fa4dh6fed 24,67
-Izsák pedig bevivéSárának az ő anyjának sátorába. És elvevé Rebekát és lőn néki felesége és szereté őt. S megvigasztalódék Izsák az ő anyjaután.
+Izsák pedig bevivé Rebekát Sárának az ő anyjának sátorába. És elvevé Rebekát és lőn néki felesége és szereté őt. S megvigasztalódék Izsák az ő anyja halála után.
 fa4dh6fed 25,1
 Ábrahám pedig ismét vőn magának feleséget, kinek neve Ketúráh vala.
 fa4dh6fed 25,2
-És azszűlé néki Zimránt, Joksánt, Médánt, Midiánt, Isbákot és Suakhot.
+És az szűlé néki Zimránt, Joksánt, Médánt, Midiánt, Isbákot és Suakhot.
 fa4dh6fed 25,3
 Joksán pedig nemzé Sébát, és Dédánt. Dédánnak pedig fiai valának: Assurim, Letúsim és Leummim.
 fa4dh6fed 25,4
 S Midiánnak fiai: Éfah, Éfer, Hánok, Abida és Eldaah: Mind ezek Ketúráhnak fiai.
 fa4dh6fed 25,5
-Valamije pedig Ábrahámnak vala, mindaztIzsáknak adta vala.
+Valamije pedig Ábrahámnak vala, mindazt Izsáknak adta vala.
 fa4dh6fed 25,6
 Az ágyasok fiainak pedig, a kik Ábraháméi valának, ada Ábrahám ajándékokat, és elküldé azokat az ő fia mellől, Izsák mellől még éltében napkelet felé, napkeleti tartományba.
 fa4dh6fed 25,7
 S ezek Ábrahám élete esztendeinek napjai, melyeket élt: száz hetvenöt esztendő.
 fa4dh6fed 25,8
-És kimúlék és meghala Ábrahám, jó vénségben, öregen és betelve az, és takaríttaték az őnépéhez.
+És kimúlék és meghala Ábrahám, jó vénségben, öregen és betelve az élettel , és takaríttaték az ő népéhez.
 fa4dh6fed 25,9
 És eltemeték őt Izsák és Ismáel az ő fiai a Makpelá barlangjában, Efronnak, a Khitteus Czohár fiának mezejében, mely Mamré átellenében van.
 fa4dh6fed 25,10
 Abban a mezőben, melyet Ábrahám a Khéth fiaitól vett vala: ott temettetett el Ábrahám és az ő felesége Sára.
 fa4dh6fed 25,11
-Lőn pedig Ábrahám halála után, megáldá Isten az ő fiát Izsákot; Izsák pedig lakozék a Lakhai Róiforrásánál.
+Lőn pedig Ábrahám halála után, megáldá Isten az ő fiát Izsákot; Izsák pedig lakozék a Lakhai Rói forrásánál.
 fa4dh6fed 25,12
 Ezek pedig Ábrahám fiának Ismáelnek nemzetségei, a kit az Égyiptombeli Hágár a Sára szolgálója szűlt vala Ábrahámnak.
 fa4dh6fed 25,13
-Ezek az Ismáel fiainak nevei, nevök s nemzetségök szerint:Ismáelnek elsőszülötte Nebájót, azután Kédar, Adbeél és Mibszám.
+Ezek az Ismáel fiainak nevei, nevök s nemzetségök szerint: Ismáelnek elsőszülötte Nebájót, azután Kédar, Adbeél és Mibszám.
 fa4dh6fed 25,14
 És Misma, Dúmah és Massza.
 fa4dh6fed 25,15
 Hadar, Théma, Jetúr, Náfis és Kedmah.
 fa4dh6fed 25,16
-Ezek az Ismáel fiai, és ezek azoknak nevei udvaraikban, falvaikban; tizenkétfejedelem az ő nemzetségök szerint.
+Ezek az Ismáel fiai, és ezek azoknak nevei udvaraikban, falvaikban; tizenkét fejedelem az ő nemzetségök szerint.
 fa4dh6fed 25,17
 Ezek pedig az Ismáel életének esztendei: száz harminczkét esztendő. És kimúlék és meghala, és takaríttaték az ő népéhez.
 fa4dh6fed 25,18
-Lakoztak pedig Havilától fogva Súrig, a mely Égyiptom átellenében van, a merre Assiriába mennek. Minden atyjafiávalszemben esett az ő.
+Lakoztak pedig Havilától fogva Súrig, a mely Égyiptom átellenében van, a merre Assiriába mennek. Minden atyjafiával szemben esett az ő lakása .
 fa4dh6fed 25,19
 Ezek pedig Izsáknak az Ábrahám fiának nemzetségei: Ábrahám nemzé Izsákot.
 fa4dh6fed 25,20
 Izsák pedig negyven esztendős vala, a mikor feleségűl vette Rebekát a Siriából való Bethuélnek leányát, Mésopotámiából, a Siriából való Lábánnak húgát.
 fa4dh6fed 25,21
-És könyörge Izsák az Úrnak az ő feleségéért, mivelhogy magtalan vala, és az Úr meghallgatá őt: és teherbe esékRebeka, az ő felesége.
+És könyörge Izsák az Úrnak az ő feleségéért, mivelhogy magtalan vala, és az Úr meghallgatá őt: és teherbe esék Rebeka, az ő felesége.
 fa4dh6fed 25,22
 Tusakodnak vala pedig a fiak az ő méhében. Akkor monda: Ha így van, miért vagyok én így? Elméne azért, hogy megkérdezze az Urat.
 fa4dh6fed 25,23
@@ -1368,7 +1368,7 @@ fa4dh6fed 25,24
 fa4dh6fed 25,25
 És kijöve az első; vereses vala, mindenestől szőrös, mint egy lazsnak; azért nevezék nevét Ézsaúnak.
 fa4dh6fed 25,26
-Azután kijöve az ő atyjafia, kezével Ézsaúsarkába fogódzva; azért nevezék nevét Jákóbnak. Izsák pedig hatvan esztendős vala, a mikor ezek születének.
+Azután kijöve az ő atyjafia, kezével Ézsaú sarkába fogódzva; azért nevezék nevét Jákóbnak. Izsák pedig hatvan esztendős vala, a mikor ezek születének.
 fa4dh6fed 25,27
 És felnevekedének a gyermekek, és Ézsaú vadászathoz értő mezei ember vala; Jákób pedig szelíd ember, sátorban lakozó.
 fa4dh6fed 25,28
@@ -1380,35 +1380,35 @@ Monda Ézsaú Jákóbnak: Engedd, hogy ehessem a veres ételből, mert fáradt v
 fa4dh6fed 25,31
 Jákób pedig monda: Add el hát nékem azonnal a te elsőszülöttségedet.
 fa4dh6fed 25,32
-És monda Ézsaú;Ímé én halni járok, mire való hát nékem az én elsőszülöttségem?
+És monda Ézsaú; Ímé én halni járok, mire való hát nékem az én elsőszülöttségem?
 fa4dh6fed 25,33
-És monda Jákób: Esküdjél meg hát nékem azonnal, és megesküvék nékiés eladá az ő elsőszülöttségét Jákóbnak.
+És monda Jákób: Esküdjél meg hát nékem azonnal, és megesküvék néki és eladá az ő elsőszülöttségét Jákóbnak.
 fa4dh6fed 25,34
 S akkor Jákób ada Ézsaúnak kenyeret, és főtt lencsét, és evék és ivék, és felkele és elméne. Így veté meg Ézsaú az elsőszülöttséget.
 fa4dh6fed 26,1
-Lőn pedig éhség az országban, amaz első éhség után,mely Ábrahám idejében vala. Elméne azért Izsák Abimélekhez a Filiszteusok királyához Gérárba.
+Lőn pedig éhség az országban, amaz első éhség után, mely Ábrahám idejében vala. Elméne azért Izsák Abimélekhez a Filiszteusok királyához Gérárba.
 fa4dh6fed 26,2
 Mert megjelent vala néki az Úr és ezt mondotta vala: Ne menj alá Égyiptomba! lakjál azon a földön, melyet mondándok tenéked.
 fa4dh6fed 26,3
 Tartózkodjál ezen a földön, és én veled leszek és megáldalak téged; mert tenéked és a te magodnak adom mind ezeket a földeket, hogy megerősítsem az esküvést, melylyel megesküdtem Ábrahámnak a te atyádnak.
 fa4dh6fed 26,4
-És megsokasítom a te magodat mint az ég csillagait, és a te magodnak adom mind ezeket a földeket: ésmegáldatnak a te magodban a földnek minden nemzetségei;
+És megsokasítom a te magodat mint az ég csillagait, és a te magodnak adom mind ezeket a földeket: és megáldatnak a te magodban a földnek minden nemzetségei;
 fa4dh6fed 26,5
 Mivelhogy hallgata Ábrahám az én szavamra: és megtartotta a megtartandókat, parancsolataimat, rendeléseimet és törvényeimet.
 fa4dh6fed 26,6
 Lakozék azért Izsák Gérárban.
 fa4dh6fed 26,7
-És mikor annak a helynek lakosai az ő felesége felől kérdezősködének, azt mondja vala: én húgom ő. Mert fél vala azt mondani: én feleségem;nehogy megöljenek engem e helynek lakosai Rebekáért, mivelhogy szép ábrázatú ő.
+És mikor annak a helynek lakosai az ő felesége felől kérdezősködének, azt mondja vala: én húgom ő. Mert fél vala azt mondani: én feleségem; gondolván: nehogy megöljenek engem e helynek lakosai Rebekáért, mivelhogy szép ábrázatú ő.
 fa4dh6fed 26,8
 És lőn idő multával, hogy Abimélek a Filiszteusok királya kitekintvén az ablakon, látá Izsákot enyelegni Rebekával az ő feleségével.
 fa4dh6fed 26,9
-Kiálta azért Abimélek Izsáknak, és monda: Ímé bizony feleséged ő; hogyan mondhattadhúgom ő!? És monda neki Izsák: Mert azt gondolám, netalán még meg kell halnom miatta.
+Kiálta azért Abimélek Izsáknak, és monda: Ímé bizony feleséged ő; hogyan mondhattad tehát: húgom ő!? És monda neki Izsák: Mert azt gondolám, netalán még meg kell halnom miatta.
 fa4dh6fed 26,10
 És monda Abimélek: Miért mívelted ezt mi velünk? Kevésbe múlt, hogy feleségeddel nem hált valaki a nép közűl, és bűnt hoztál volna mi reánk.
 fa4dh6fed 26,11
 Parancsola azért Abimélek mind az egész népnek, ezt mondván: A ki ezt az embert vagy ennek feleségét illeténdi, bizonynyal meg kell halnia.
 fa4dh6fed 26,12
-És vete Izsák azon a földön, és lett néki abban az esztendőbenszáz annyia, mert megáldá őt az Úr.
+És vete Izsák azon a földön, és lett néki abban az esztendőben száz annyia, mert megáldá őt az Úr.
 fa4dh6fed 26,13
 És gyarapodék az a férfiú, és elébb-elébb megy vala a gyarapodásban, mígnem igen nagygyá lőn.
 fa4dh6fed 26,14
@@ -1444,7 +1444,7 @@ fa4dh6fed 26,28
 fa4dh6fed 26,29
 Hogy minket gonoszszal nem illetsz, valamint mi sem bántottunk téged, és a mint csak jót cselekedtünk veled, és békességgel bocsátottunk el magunktól. Te már az Úr áldott embere vagy.
 fa4dh6fed 26,30
-Akkorvendégséget szerze nékik és evének és ivának.
+Akkor vendégséget szerze nékik és evének és ivának.
 fa4dh6fed 26,31
 Reggel pedig felkelvén, egymásnak megesküvének, és elbocsátá őket Izsák, és elmenének ő tőle békességgel.
 fa4dh6fed 26,32
@@ -1454,7 +1454,7 @@ S elnevezé azt Sibáhnak: Azokáért annak a városnak neve Beérseba mind e ma
 fa4dh6fed 26,34
 És mikor Ézsaú negyven esztendős vala, feleségűl vevé Jehudithot, a Khitteus Beéri leányát, és Boszmátot a Khitteus Elon leányát.
 fa4dh6fed 26,35
-És őkvalának Izsáknak és Rebekának lelke keserűsége.
+És ők valának Izsáknak és Rebekának lelke keserűsége.
 fa4dh6fed 27,1
 És lőn, a mikor megvénhedett vala Izsák, és szemei annyira meghomályosodtak vala, hogy nem látott, szólítá a nagyobbik fiát Ézsaút, és monda néki: Fiam; és ez monda néki: Imhol vagyok.
 fa4dh6fed 27,2
@@ -1492,7 +1492,7 @@ fa4dh6fed 27,17
 fa4dh6fed 27,18
 És beméne az ő atyjához és monda: Atyám! és az monda: Ímhol vagyok. Ki vagy te fiam?
 fa4dh6fed 27,19
-Monda Jákób az ő atyjának: ÉnÉzsaú a te elsőszülötted, aképen cselekedtem a mint parancsolád, kelj fel, kérlek, űlj le és egyél vadászatomból, hogy megáldjon engem a te lelked.
+Monda Jákób az ő atyjának: Én vagyok Ézsaú a te elsőszülötted, aképen cselekedtem a mint parancsolád, kelj fel, kérlek, űlj le és egyél vadászatomból, hogy megáldjon engem a te lelked.
 fa4dh6fed 27,20
 És monda Izsák az ő fiának: Hogy van az, hogy ily hamar találtál, fiam? És felele: Mert az Úr, a te Istened hozta előmbe.
 fa4dh6fed 27,21
@@ -1510,9 +1510,9 @@ Akkor monda néki Izsák az ő atyja: Jer közelebb fiam, és csókolj meg engem
 fa4dh6fed 27,27
 Oda méne azért, és megcsókolá őt: s megérezvén ruháinak szagát, megáldá őt, és monda: Lám az én fiamnak illatja olyan, mint a mezőnek illatja, a melyet megáldott az Úr.
 fa4dh6fed 27,28
-Adjonaz Isten tenéked az ég harmatából, és a föld kövérségéből, és gabonának és bornak bőségét.
+Adjon az Isten tenéked az ég harmatából, és a föld kövérségéből, és gabonának és bornak bőségét.
 fa4dh6fed 27,29
-Népek szolgáljanak néked és nemzetségek hajoljanak meg előtted; légy úr a te atyádfiain, és hajoljanak meg előtted a te anyádnak fiai.Átkozott, a ki téged átkoz, és a ki téged áld, legyen áldott.
+Népek szolgáljanak néked és nemzetségek hajoljanak meg előtted; légy úr a te atyádfiain, és hajoljanak meg előtted a te anyádnak fiai. Átkozott, a ki téged átkoz, és a ki téged áld, legyen áldott.
 fa4dh6fed 27,30
 És lőn a mint elvégezé Izsák Jákóbnak megáldását; és épen csakhogy kiment vala Jákób az ő atyjának Izsáknak színe elől; az ő bátyja Ézsaú is megjöve vadászásából.
 fa4dh6fed 27,31
@@ -1526,17 +1526,17 @@ A mint hallotta vala Ézsaú az ő atyjának beszédét, nagy és igen keserves 
 fa4dh6fed 27,35
 Ez pedig monda: A te öcséd jöve el álnoksággal, és ő vevé el a te áldásodat.
 fa4dh6fed 27,36
-Az pedig monda: Nem méltán hívják-é őt Jákóbnak? mert immár két ízben csalt meg engemet; elvevé elsőszülöttségemet, most pedig áldásomatvevé el. És monda: Nem tartottál-é nékem is valami áldást?
+Az pedig monda: Nem méltán hívják-é őt Jákóbnak? mert immár két ízben csalt meg engemet; elvevé elsőszülöttségemet, most pedig áldásomat vevé el. És monda: Nem tartottál-é nékem is valami áldást?
 fa4dh6fed 27,37
 Felele Izsák és monda Ézsaúnak: Ímé uraddá tettem őt, és minden atyjafiát szolgául adtam néki, gabonával is borral is őt láttam el; mit míveljek azért immár veled fiam?
 fa4dh6fed 27,38
-Monda Ézsaú az ő atyjának: Avagy csak az az egy áldásod van-é néked atyám?Áldj meg engem, engem is atyám; és felemelé szavát Ézsaú és sír vala.
+Monda Ézsaú az ő atyjának: Avagy csak az az egy áldásod van-é néked atyám? Áldj meg engem, engem is atyám; és felemelé szavát Ézsaú és sír vala.
 fa4dh6fed 27,39
-Felele azért Izsák az ő atyja, és monda néki: Ímékövér földön lesz lakásod, ésaz ég harmatjából onnan felűl;
+Felele azért Izsák az ő atyja, és monda néki: Ímé kövér földön lesz lakásod, és részed lesz az ég harmatjából onnan felűl;
 fa4dh6fed 27,40
 És fegyvered után élsz, és öcsédet szolgálod. De lészen, a mikor ellene támadsz, letöröd igáját nyakadról.
 fa4dh6fed 27,41
-Gyűlöli vala azért Ézsaú Jákóbot az áldásért, a melylyel megáldotta vala őt az ő atyja, és monda Ézsaú az ő szívében:Közelgetnek az én atyámért való gyásznak napjai, ésmegölöm az én öcsémet Jákóbot.
+Gyűlöli vala azért Ézsaú Jákóbot az áldásért, a melylyel megáldotta vala őt az ő atyja, és monda Ézsaú az ő szívében: Közelgetnek az én atyámért való gyásznak napjai, és akkor megölöm az én öcsémet Jákóbot.
 fa4dh6fed 27,42
 Mikor pedig hírűl vivék Rebekának, az ő nagyobbik fiának Ézsaúnak beszédit, elkülde és magához hívatá az ő kisebbik fiát Jákóbot, és monda néki: Ímé Ézsaú a te bátyád azzal fenyeget, hogy megöl téged.
 fa4dh6fed 27,43
@@ -1546,15 +1546,15 @@ fa4dh6fed 27,44
 fa4dh6fed 27,45
 Míg elfordul a te bátyád haragja te rólad, és elfelejtkezik arról a mit rajta elkövettél: akkor elküldök és haza hozatlak téged: miért fosztatnám meg mindkettőtöktől egy napon?
 fa4dh6fed 27,46
-Izsáknak pedig monda Rebeka: Eluntaméletemet a Khitteusok leányai miatt. Ha Jákób a Khitteusok leányai közűl vesz feleséget, a milyenek ezek is, ez ország leányai közűl valók; minek nékem az élet?
+Izsáknak pedig monda Rebeka: Eluntam életemet a Khitteusok leányai miatt. Ha Jákób a Khitteusok leányai közűl vesz feleséget, a milyenek ezek is, ez ország leányai közűl valók; minek nékem az élet?
 fa4dh6fed 28,1
 Előhívatá azért Izsák Jákóbot, és megáldá őt, és megparancsolá néki és mondá: Ne végy feleséget a Kananeusok leányai közűl.
 fa4dh6fed 28,2
-Kelj fel,menj el Mésopotámiába, Bethuélnek a te anyád atyjának házához, és onnan végy magadnak feleséget, Lábánnak a te anyád bátyjának leányai közűl.
+Kelj fel, menj el Mésopotámiába, Bethuélnek a te anyád atyjának házához, és onnan végy magadnak feleséget, Lábánnak a te anyád bátyjának leányai közűl.
 fa4dh6fed 28,3
 A mindenható Isten pedig áldjon meg, szaporítson és sokasítson meg téged, hogy népek sokaságává légy;
 fa4dh6fed 28,4
-Ésadja néked az Ábrahám áldását, tenéked, és a te magodnak te veled egybe; hogy örökség szerint bírjad a földet, melyen jövevény voltál, melyet az Isten adott vala Ábrahámnak.
+És adja néked az Ábrahám áldását, tenéked, és a te magodnak te veled egybe; hogy örökség szerint bírjad a földet, melyen jövevény voltál, melyet az Isten adott vala Ábrahámnak.
 fa4dh6fed 28,5
 Elbocsátá azért Izsák Jákóbot, hogy menjen Mésopotámiába Lábánhoz a Siriabeli Bethuél fiához, Rebekának, Jákób és Ézsaú anyjának bátyjához.
 fa4dh6fed 28,6
@@ -1570,19 +1570,19 @@ Jákób pedig kiindula Beérsebából, és Hárán felé tartott.
 fa4dh6fed 28,11
 És juta egy helyre, holott meghála, mivelhogy a nap lement vala: és vőn egyet annak a helynek kövei közűl, és feje alá tevé; és lefeküvék azon a helyen.
 fa4dh6fed 28,12
-És álmot láta: Ímé egy lajtorja vala a földön felállítva, melynek teteje az eget éri vala, és ímé az Istennek Angyalaifel- és alájárnak vala azon.
+És álmot láta: Ímé egy lajtorja vala a földön felállítva, melynek teteje az eget éri vala, és ímé az Istennek Angyalai fel- és alájárnak vala azon.
 fa4dh6fed 28,13
-Ésímé az Úr áll vala azon és szóla: Énaz Úr, Ábrahámnak a te atyádnak Istene, és Izsáknak Istene; ezt a földet a melyen fekszel néked adom és a te magodnak.
+És ímé az Úr áll vala azon és szóla: Én vagyok az Úr, Ábrahámnak a te atyádnak Istene, és Izsáknak Istene; ezt a földet a melyen fekszel néked adom és a te magodnak.
 fa4dh6fed 28,14
-Ésa te magod olyan lészen mint a földnek pora, és terjeszkedel nyugotra és keletre, északra és délre, és tebenned és a te magodban áldatnak meg a föld minden nemzetségei.
+És a te magod olyan lészen mint a földnek pora, és terjeszkedel nyugotra és keletre, északra és délre, és te benned és a te magodban áldatnak meg a föld minden nemzetségei.
 fa4dh6fed 28,15
-És ímé én veled, hogy megőrizzelek téged valahova menéndesz, és visszahozzalak e földre; mert el nem hagylak téged, míg be nem teljesítem a mit néked mondtam.
+És ímé én veled vagyok , hogy megőrizzelek téged valahova menéndesz, és visszahozzalak e földre; mert el nem hagylak téged, míg be nem teljesítem a mit néked mondtam.
 fa4dh6fed 28,16
 Jákób pedig fölébredvén álmából, monda: Bizonyára az Úr van e helyen, és én nem tudtam.
 fa4dh6fed 28,17
 Megrémüle annak okáért és monda: Mily rettenetes ez a hely; nem egyéb ez, hanem Istennek háza, és az égnek kapuja.
 fa4dh6fed 28,18
-És felkele Jákób reggel,és vevé azt a követ, melyet feje alá tett vala, és oszlopul állítá fel azt, ésolajat önte annak tetejére;
+És felkele Jákób reggel, és vevé azt a követ, melyet feje alá tett vala, és oszlopul állítá fel azt, és olajat önte annak tetejére;
 fa4dh6fed 28,19
 És nevezé annak a helynek nevét Béthelnek, az előtt pedig Lúz vala annak a városnak neve.
 fa4dh6fed 28,20
@@ -1604,7 +1604,7 @@ fa4dh6fed 29,5
 fa4dh6fed 29,6
 Azután monda nékik: Egészségben van-é? s azok mondának: Egészségben van, és az ő leánya Rákhel ímhol jő a juhokkal.
 fa4dh6fed 29,7
-És mondaÍmé még nagy fenn van a nap, nincs ideje hogy betereljék a marhát: itassátok meg a juhokat, és menjetek, legeltessetek.
+És monda Jákób: Ímé még nagy fenn van a nap, nincs ideje hogy betereljék a marhát: itassátok meg a juhokat, és menjetek, legeltessetek.
 fa4dh6fed 29,8
 Azok pedig felelének: Nem tehetjük míg valamennyi nyáj össze nem verődik, és el nem gördítik a követ a kút szájáról, hogy megitathassuk a juhokat.
 fa4dh6fed 29,9
@@ -1612,13 +1612,13 @@ Még beszélget vala velők, mikor megérkezék Rákhel az ő atyja juhaival, me
 fa4dh6fed 29,10
 S lőn, a mint meglátá Jákób Rákhelt, Lábánnak az ő anyja bátyjának leányát, és Lábánnak az ő anyja bátyjának juhait, odalépett Jákób és elgördíté a követ a kút szájáról, és megitatá Lábánnak az ő anyja bátyjának juhait.
 fa4dh6fed 29,11
-És megcsókolá Jákób Rákhelt, és nagy felszóvalsíra.
+És megcsókolá Jákób Rákhelt, és nagy felszóval síra.
 fa4dh6fed 29,12
 S elbeszélé Jákób Rákhelnek, hogy ő az ő atyjának rokona és hogy Rebekának fia. Ez pedig elfuta, és megmondá az ő atyjának.
 fa4dh6fed 29,13
 És lőn mikor Lábán Jákóbnak, az ő húga fiának hírét hallá, eleibe futa, megölelé és megcsókolá őt, és bevivé az ő házába, és az mindeneket elbeszéle Lábánnak.
 fa4dh6fed 29,14
-És monda néki Lábán: Bizony éncsontom és testem vagy te! És nála lakék egy hónapig,
+És monda néki Lábán: Bizony én csontom és testem vagy te! És nála lakék egy hónapig,
 fa4dh6fed 29,15
 És monda Lábán Jákóbnak: Avagy ingyen szolgálj-é engem azért, hogy atyámfia vagy? Mondd meg nékem, mi legyen a béred?
 fa4dh6fed 29,16
@@ -1626,7 +1626,7 @@ Vala pedig Lábánnak két leánya: a nagyobbiknak neve Lea, a kisebbiknek neve 
 fa4dh6fed 29,17
 Leának pedig gyenge szemei valának, de Rákhel szép termetű és szép tekintetű vala.
 fa4dh6fed 29,18
-Megszereti vala azért Jákób Rákhelt, és monda: Szolgállaktéged hét esztendeig Rákhelért, a te kisebbik leányodért.
+Megszereti vala azért Jákób Rákhelt, és monda: Szolgállak téged hét esztendeig Rákhelért, a te kisebbik leányodért.
 fa4dh6fed 29,19
 És monda Lábán: Jobb néked adnom őt, hogysem másnak adjam őt, maradj én nálam.
 fa4dh6fed 29,20
@@ -1644,7 +1644,7 @@ fa4dh6fed 29,25
 fa4dh6fed 29,26
 Lábán pedig monda: Nem szokás nálunk, hogy a kisebbiket oda adják a nagyobbik előtt.
 fa4dh6fed 29,27
-Töltsd ki ennekhetét, azután amazt is néked adjuk a szolgálatért, melylyel majd szolgálsz nálam még más hét esztendeig.
+Töltsd ki ennek hetét, azután amazt is néked adjuk a szolgálatért, melylyel majd szolgálsz nálam még más hét esztendeig.
 fa4dh6fed 29,28
 Jákób tehát aképen cselekedék, kitölté azt a hetet; ez pedig néki adá Rákhelt, az ő leányát feleségűl.
 fa4dh6fed 29,29
@@ -1660,11 +1660,11 @@ Azután ismét teherbe esék és szűle fiat, és monda: Mivelhogy meghallotta a
 fa4dh6fed 29,34
 És megint teherbe esék és szűle fiat, és monda: Most már ragaszkodni fog hozzám az én férjem, mert három fiat szűltem néki; azért nevezé nevét Lévinek.
 fa4dh6fed 29,35
-És ismét teherbe esék, és fiat szűle és mondá: Most már hálákat adok az Úrnak; azért nevezé nevétJúdának, és megszűnék a szűléstől.
+És ismét teherbe esék, és fiat szűle és mondá: Most már hálákat adok az Úrnak; azért nevezé nevét Júdának, és megszűnék a szűléstől.
 fa4dh6fed 30,1
 És látá Rákhel, hogy ő nem szűle Jákóbnak, irigykedni kezde Rákhel az ő nénjére, és monda Jákóbnak: Adj nékem gyermekeket, mert ha nem, meghalok.
 fa4dh6fed 30,2
-Felgerjede azért Jákób haragja Rákhel ellen, és monda: Avagy Istenén, ki megtagadta tőled a méhnek gyümölcsét.
+Felgerjede azért Jákób haragja Rákhel ellen, és monda: Avagy Isten vagyok-é én, ki megtagadta tőled a méhnek gyümölcsét.
 fa4dh6fed 30,3
 És monda ez: Ímhol az én szolgálóm Bilha, menj be hozzá, hogy szűljön az én térdeimen, és én is megépüljek ő általa.
 fa4dh6fed 30,4
@@ -1722,9 +1722,9 @@ Ez pedig monda: Te tudod mimódon szolgáltalak téged, és hogy mivé lett nál
 fa4dh6fed 30,30
 Mert a mi kevesed vala én előttem, sokra szaporodott, és megáldott az Úr téged az én lábam nyomán. Immár mikor tehetek valamit a magam házáért is?
 fa4dh6fed 30,31
-És mondaMit adjak néked? Felele Jákób: Ne adj nékem semmit; juhaidat ismét legeltetem és őrizem, ha nekem ezt a dolgot megteszed:
+És monda Lábán: Mit adjak néked? Felele Jákób: Ne adj nékem semmit; juhaidat ismét legeltetem és őrizem, ha nekem ezt a dolgot megteszed:
 fa4dh6fed 30,32
-Nyájaidat ma mind végig járom, minden pettyegetett és tarka bárányt kiszaggatok közűlök, és minden fekete bárányt a juhok közűl, s a tarkát és pettyegetettet a kecskék közűl, s legyenaz én bérem.
+Nyájaidat ma mind végig járom, minden pettyegetett és tarka bárányt kiszaggatok közűlök, és minden fekete bárányt a juhok közűl, s a tarkát és pettyegetettet a kecskék közűl, s legyen ez az én bérem.
 fa4dh6fed 30,33
 S a mikor majd bérem iránt eljövéndesz, mi előtted lesz, becsületességemről ez felel: a mi nem pettyegetett vagy tarka a kecskék, s nem fekete a juhok közt, az mind lopott jószág nálam.
 fa4dh6fed 30,34
@@ -1752,7 +1752,7 @@ fa4dh6fed 31,1
 fa4dh6fed 31,2
 És látá Jákób a Lábán orczáját, hogy ímé nem olyan ő hozzá mint annakelőtte.
 fa4dh6fed 31,3
-Monda pedig az Úr Jákóbnak: Térj megatyáid földére, a te rokonságod közé, és veled lészek.
+Monda pedig az Úr Jákóbnak: Térj meg atyáid földére, a te rokonságod közé, és veled lészek.
 fa4dh6fed 31,4
 Elkülde tehát Jákób, és kihívatá magához Rákhelt és Leát a mezőre az ő nyájához.
 fa4dh6fed 31,5
@@ -1760,11 +1760,11 @@ fa4dh6fed 31,5
 fa4dh6fed 31,6
 Ti pedig tudjátok, hogy teljes erőm szerint szolgáltam atyátokat.
 fa4dh6fed 31,7
-De atyátok engem megcsalt s tízszeris megváltoztatta béremet; mindazáltal az Isten nem engedte, hogy nékem kárt tehessen.
+De atyátok engem megcsalt s tízszer is megváltoztatta béremet; mindazáltal az Isten nem engedte, hogy nékem kárt tehessen.
 fa4dh6fed 31,8
 Mikor azt mondotta: A pettyegetettek legyenek a te béred, a juhok mind pettyegetetteket ellenek vala. Ha azt mondotta: A csíkos lábúak legyenek a te béred, a juhok mind csíkos lábúakat ellenek vala.
 fa4dh6fed 31,9
-Így vette elIsten atyátok jószágát és nékem adta.
+Így vette el Isten atyátok jószágát és nékem adta.
 fa4dh6fed 31,10
 Mert lőn a juhok foganásának idejekor, szemeimet felemelém, és látom vala álomban, hogy ímé a juhokat hágó kosok csíkos lábúak, pettyegetettek és tarkák.
 fa4dh6fed 31,11
@@ -1772,13 +1772,13 @@ Akkor monda nékem az Isten Angyala álomban: Jákób. És felelék: Ímhol vagy
 fa4dh6fed 31,12
 És ő monda: Emeld fel szemeidet és lásd, hogy a mely kosok a juhokat hágják, azok mind csíkos lábúak, pettyegetettek és tarkák. Mert mindazt láttam, a mit veled Lábán cselekeszik vala.
 fa4dh6fed 31,13
-Énvagyok ama Béthelnek Istene, a hol emlékoszlopot kentél fel, és a hol fogadást tettél nékem. Most kelj fel, menj ki e földről, és térj vissza szülőföldedre.
+Én vagyok ama Béthelnek Istene, a hol emlékoszlopot kentél fel, és a hol fogadást tettél nékem. Most kelj fel, menj ki e földről, és térj vissza szülőföldedre.
 fa4dh6fed 31,14
 És felele Rákhel és Lea, és mondának néki: Vajjon vagyon-é még nékünk valami részünk és örökségünk a mi atyánk házában?
 fa4dh6fed 31,15
 Avagy nem úgy tartott-é minket mint idegeneket? midőn minket eladott, és értékünket is teljesen megemésztette.
 fa4dh6fed 31,16
-Mert mind ez agazdagság, melyet Isten vett el a mi atyánktól, miénk és a mi fiainké. Most azért valamit néked az Isten mondott,cselekedjed.
+Mert mind ez a gazdagság, melyet Isten vett el a mi atyánktól, miénk és a mi fiainké. Most azért valamit néked az Isten mondott,  azt cselekedjed.
 fa4dh6fed 31,17
 Felkele tehát Jákób, és feltevé gyermekeit és feleségeit a tevékre;
 fa4dh6fed 31,18
@@ -1794,27 +1794,27 @@ fa4dh6fed 31,22
 fa4dh6fed 31,23
 Maga mellé vévén az ő rokonait, hét napi járó földig űzé őket; és eléré a Gileád hegyén.
 fa4dh6fed 31,24
-Isten pedig megjelenék a Siriabeli Lábánnak éjjel álomban, és monda néki: Vigyázz magadra, Jákóbnak sejót, se rosszat ne szólj.
+Isten pedig megjelenék a Siriabeli Lábánnak éjjel álomban, és monda néki: Vigyázz magadra, Jákóbnak se jót, se rosszat ne szólj.
 fa4dh6fed 31,25
 Mikor eléré Lábán Jákóbot, s Jákób a hegyen voná fel sátorát; Lábán is a Gileád hegyén voná fel az ő rokonaival egybe.
 fa4dh6fed 31,26
-És monda Lábán Jákóbnak: Mit cselekedtél, hogymegloptad szívemet, és leányaimat fegyverrel nyert foglyokként vitted el?
+És monda Lábán Jákóbnak: Mit cselekedtél, hogy megloptad szívemet, és leányaimat fegyverrel nyert foglyokként vitted el?
 fa4dh6fed 31,27
 Miért futottál el titkon, s loptál meg engem? miért nem jelentetted nékem, hogy elbocsátottalak volna örömmel, énekszóval, dob- és hegedűszóval?
 fa4dh6fed 31,28
 És nem engedted meg, hogy megcsókoljam fiaimat és leányaimat. Ez egyszer bolondul cselekedtél.
 fa4dh6fed 31,29
-Volna erőm hozzá, hogy rosszat tegyek veletek, de a ti atyátok Istene tegnap éjszaka megszólíta engem, ezt mondván: Vigyázzmagadra, Jákóbnak se jót, se rosszat ne szólj.
+Volna erőm hozzá, hogy rosszat tegyek veletek, de a ti atyátok Istene tegnap éjszaka megszólíta engem, ezt mondván: Vigyázz magadra, Jákóbnak se jót, se rosszat ne szólj.
 fa4dh6fed 31,30
 Hogyha pedig immár el akartál menni, mivelhogy nagy kívánsággal kívánkoztál atyád házához: miért loptad el az én isteneimet?
 fa4dh6fed 31,31
 Felelvén pedig Jákób, monda Lábánnak: Mert féltem, mert gondolom vala, hogy talán elveszed a te leányaidat én tőlem erővel.
 fa4dh6fed 31,32
-A kinél pedig megtalálod a te isteneidet, ne éljen. Atyánkfiai előtt vizsgáld meg, mid van nálam, és vidd el. Mert nem tudja vala Jákób, hogy Rákhel lopta el azokat.
+A kinél pedig megtalálod a te isteneidet, ne éljen az . Atyánkfiai előtt vizsgáld meg, mid van nálam, és vidd el. Mert nem tudja vala Jákób, hogy Rákhel lopta el azokat.
 fa4dh6fed 31,33
 Beméne tehát Lábán Jákób sátorába, és Lea sátorába, és a két szolgáló sátorába, és nem találá meg; akkor kiméne Lea sátorából, és méne a Rákhel sátorába.
 fa4dh6fed 31,34
-Rákhel pedig vette vala a házi bálványokat, és tette vala azokat egy tevének a nyergébe, és rájok űle; Lábán pedig felhányá az egész sátort, és nem találta vala meg
+Rákhel pedig vette vala a házi bálványokat, és tette vala azokat egy tevének a nyergébe, és rájok űle; Lábán pedig felhányá az egész sátort, és nem találta vala meg azokat. 
 fa4dh6fed 31,35
 Akkor monda az ő atyjának: Ne haragudjék az én uram, hogy fel nem kelhetek előtted, mert asszonyok baja van rajtam. Keresé tehát, de nem találá a házi bálványokat.
 fa4dh6fed 31,36
@@ -1822,15 +1822,15 @@ Jákób pedig haragra gerjede s feddődék Lábánnal. Megszólala Jákób és m
 fa4dh6fed 31,37
 Bezzeg minden holmimat felhánytad, mit találtál a magad házi holmija közűl valót? add elő itt az én rokonaim és a te rokonaid előtt, hogy tegyenek ítéletet kettőnk között.
 fa4dh6fed 31,38
-Immárhúsz esztendeje vagyok nálad, juhaid és kecskéid nem vetéltek el, és nyájad kosait nem ettem meg.
+Immár húsz esztendeje vagyok nálad, juhaid és kecskéid nem vetéltek el, és nyájad kosait nem ettem meg.
 fa4dh6fed 31,39
-A mit amegszaggatott, nem vittem hozzád, én fizettem meg azt; tőlem követelteda nappal lopottat, mint az éjjel lopottat is.
+A mit a vad megszaggatott, nem vittem hozzád, én fizettem meg azt; tőlem követelted a nappal lopottat, mint az éjjel lopottat is.
 fa4dh6fed 31,40
 Úgy voltam hogy nappal a hőség emésztett, éjjel pedig a hideg; és az álom távol maradt szemeimtől.
 fa4dh6fed 31,41
-Immár húsz esztendeje hogy házadnál vagyok; tizennégy esztendeig szolgáltalak két leányodért, és hat esztendeig juhaidért; te pedig béremet tízszeris megváltoztattad.
+Immár húsz esztendeje hogy házadnál vagyok; tizennégy esztendeig szolgáltalak két leányodért, és hat esztendeig juhaidért; te pedig béremet tízszer is megváltoztattad.
 fa4dh6fed 31,42
-Ha az én atyám Istene, Ábrahám Istene, és az Izsák félelme velem nem volt volna, bizony most üresen bocsátanál el engem,megtekintette Isten az én nyomorúságomat és kezeim munkáját, és megfeddetttegnap éjjel.
+Ha az én atyám Istene, Ábrahám Istene, és az Izsák félelme velem nem volt volna, bizony most üresen bocsátanál el engem, de megtekintette Isten az én nyomorúságomat és kezeim munkáját, és megfeddett téged tegnap éjjel.
 fa4dh6fed 31,43
 Felele pedig Lábán és monda Jákóbnak: A leányok én leányaim és a fiak én fiaim, és a nyáj az én nyájam, s valamit látsz mind az enyim, de mit tehetek ma ezeknek az én leányaimnak, vagy az ő magzatjaiknak, a kiket szűltek?
 fa4dh6fed 31,44
@@ -1838,7 +1838,7 @@ Most tehát jer, kössünk szövetséget, én meg te, hogy az légyen bizonyság
 fa4dh6fed 31,45
 És vőn Jákób egy követ, és felemelé azt emlékoszlopul.
 fa4dh6fed 31,46
-És mondaJákób az ő atyjafiainak: Szedjetek köveket! És gyűjtének köveket, és csinálának rakást; és evének ott a rakáson.
+És monda Jákób az ő atyjafiainak: Szedjetek köveket! És gyűjtének köveket, és csinálának rakást; és evének ott a rakáson.
 fa4dh6fed 31,47
 És nevezé azt Lábán Jegár-Sahaduthának, Jákób pedig nevezé Gálhédnek.
 fa4dh6fed 31,48
@@ -1860,7 +1860,7 @@ Reggel pedig felkele Lábán és megcsókolá fiait és leányait és megáldá 
 fa4dh6fed 32,1
 Jákób tovább méne az ő útján, és szembe jövének vele az Isten Angyalai.
 fa4dh6fed 32,2
-És monda Jákób mikor azokat látja vala: Isten tábora ez; és nevezé annak a helynek nevétMahanáimnak.
+És monda Jákób mikor azokat látja vala: Isten tábora ez; és nevezé annak a helynek nevét Mahanáimnak.
 fa4dh6fed 32,3
 Azután külde Jákób követeket maga előtt Ézsaúhoz az ő bátyjához, Széir földébe, Edóm mezőségébe,
 fa4dh6fed 32,4
@@ -1874,7 +1874,7 @@ Igen megíjede Jákób és féltében a népet, mely vele vala, a juhokat, a bar
 fa4dh6fed 32,8
 És monda: Ha eljön Ézsaú az egyik seregre, és azt levágja, a hátramaradt sereg megszabadul.
 fa4dh6fed 32,9
-És monda Jákób: Óh én atyámnak Ábrahámnak Istene, és én atyámnak Izsáknak Istene, Jehova! ki azt mondád nékem: Térj vissza hazádba,a te rokonságod közé, s jól tészek veled:
+És monda Jákób: Óh én atyámnak Ábrahámnak Istene, és én atyámnak Izsáknak Istene, Jehova! ki azt mondád nékem: Térj vissza hazádba, a te rokonságod közé, s jól tészek veled:
 fa4dh6fed 32,10
 Kisebb vagyok minden te jótéteményednél és minden te hűségednél, a melyeket a te szolgáddal cselekedtél; mert csak pálczámmal mentem vala által ezen a Jordánon, most pedig két sereggé lettem.
 fa4dh6fed 32,11
@@ -1892,11 +1892,11 @@ fa4dh6fed 32,16
 fa4dh6fed 32,17
 És parancsola az elsőnek, mondván: Ha az én bátyám Ézsaú előtalál és megkérdez téged, mondván: Ki embere vagy? Hová mégy? És kiéi ezek előtted?
 fa4dh6fed 32,18
-Akkor azt mondjad: Szolgádé Jákóbé; ajándék az, a melyet küld az én uramnak Ézsaúnak, és ímé ő maga isutánunk.
+Akkor azt mondjad: Szolgádé Jákóbé; ajándék az, a melyet küld az én uramnak Ézsaúnak, és ímé ő maga is jön utánunk.
 fa4dh6fed 32,19
 Ugyanazt parancsolá a másiknak, a harmadiknak, és mindazoknak, kik a nyájak után mennek vala, mondván: Ilyen szóval szóljatok Ézsaúnak, mikor vele találkoztok.
 fa4dh6fed 32,20
-Ezt is mondjátok: Ímé Jákób a te szolgád utánunk; mert így gondolkodik vala: Megengesztelem őt az ajándékkal, mely előttem megy, és azután leszek szembe vele, talán kedves lesz személyem előtte.
+Ezt is mondjátok: Ímé Jákób a te szolgád utánunk jő ; mert így gondolkodik vala: Megengesztelem őt az ajándékkal, mely előttem megy, és azután leszek szembe vele, talán kedves lesz személyem előtte.
 fa4dh6fed 32,21
 Előlméne tehát az ajándék; ő pedig azon éjjel a seregnél hála.
 fa4dh6fed 32,22
@@ -1904,19 +1904,19 @@ Felkele pedig ő azon éjszaka és vevé két feleségét, két szolgálóját �
 fa4dh6fed 32,23
 Vevé hát azokat és átköltözteté a vízen, azután átköltözteté mindenét valamije vala.
 fa4dh6fed 32,24
-Jákób pedig egyedűl marada és tusakodik vala ő veleegy férfiú, egész a hajnal feljöveteléig.
+Jákób pedig egyedűl marada és tusakodik vala ő vele egy férfiú, egész a hajnal feljöveteléig.
 fa4dh6fed 32,25
 Aki mikor látá, hogy nem vehet rajta erőt, megilleté csípőjének forgócsontját, és kiméne helyéből Jákób csípőjének forgócsontja a vele való tusakodás közben.
 fa4dh6fed 32,26
-És monda: Bocsáss el engem, mert feljött a hajnal. És monda: Nem bocsátlak el téged, míg meg nem áldasz engemet.
+És monda: Bocsáss el engem, mert feljött a hajnal. És monda Jákób : Nem bocsátlak el téged, míg meg nem áldasz engemet.
 fa4dh6fed 32,27
 És monda néki: Mi a te neved? És ő monda: Jákób.
 fa4dh6fed 32,28
 Amaz pedig monda: Nem Jákóbnak mondatik ezután a te neved, hanem Izráelnek; mert küzdöttél Istennel és emberekkel, és győztél.
 fa4dh6fed 32,29
-És megkérdé Jákób, és monda: Mondd meg, kérlek, a tenevedet. Az pedig monda: Ugyan miért kérded az én nevemet? És megáldá őt ott.
+És megkérdé Jákób, és monda: Mondd meg, kérlek, a te nevedet. Az pedig monda: Ugyan miért kérded az én nevemet? És megáldá őt ott.
 fa4dh6fed 32,30
-Nevezé azért Jákób annak a helynek nevét Peniélnek: mert látám az Istentszínről színre, és megszabadult az én lelkem.
+Nevezé azért Jákób annak a helynek nevét Peniélnek: mert látám az Istent színről színre, és megszabadult az én lelkem.
 fa4dh6fed 32,31
 És a nap felkél vala rajta, amint elméne Peniél mellett, ő pedig sántít vala csípőjére.
 fa4dh6fed 32,32
@@ -1928,7 +1928,7 @@ fa4dh6fed 33,2
 fa4dh6fed 33,3
 Maga pedig előttök megy vala, és hétszer hajtá meg magát a földig, a míg bátyjához juta.
 fa4dh6fed 33,4
-Ézsaú pedig eleibe futamodék és megölelé őt, nyakába borúla, s megcsókolá őt, éssírának.
+Ézsaú pedig eleibe futamodék és megölelé őt, nyakába borúla, s megcsókolá őt, és sírának.
 fa4dh6fed 33,5
 És felemelé szemeit s látá az asszonyokat és a gyermekeket, és monda: Kicsodák ezek teveled? Ő pedig monda: A gyermekek, kikkel Isten megajándékozta a te szolgádat.
 fa4dh6fed 33,6
@@ -1936,7 +1936,7 @@ fa4dh6fed 33,6
 fa4dh6fed 33,7
 Elérkezék Lea is az ő gyermekeivel, és meghajták magokat; utoljára érkezék József és Rákhel, és ők is meghajták magokat.
 fa4dh6fed 33,8
-És mondaMire való ez az egész sereg, melyet előltalálék? És felele: Hogy kedvet találjak az én uram szemei előtt.
+És monda Ézsaú: Mire való ez az egész sereg, melyet előltalálék? És felele: Hogy kedvet találjak az én uram szemei előtt.
 fa4dh6fed 33,9
 És monda Ézsaú: Van nekem elég, jó öcsém, legyen tiéd, a mi a tiéd.
 fa4dh6fed 33,10
@@ -1946,7 +1946,7 @@ Vedd el kérlek az én ajándékomat, melyet hoztam néked, mivelhogy az Isten k
 fa4dh6fed 33,12
 És monda: Induljunk, menjünk el, és én előtted megyek.
 fa4dh6fed 33,13
-Felele néki: Az én uram jól tudja, hogy e gyermekek gyengék, és hogy szoptatós juhokkal és barmokkal vagyok körűl, a melyeket ha csak egy napig zaklatnak is, a nyájak mind elhullanak.
+Felele néki Jákób : Az én uram jól tudja, hogy e gyermekek gyengék, és hogy szoptatós juhokkal és barmokkal vagyok körűl, a melyeket ha csak egy napig zaklatnak is, a nyájak mind elhullanak.
 fa4dh6fed 33,14
 Menjen el azért az én uram az ő szolgája előtt, én is elballagok lassan, a jószág lépése szerint, a mely előttem van, és a gyermekek lépése szerint, míg eljutok az én uramhoz Széirbe.
 fa4dh6fed 33,15
@@ -1956,13 +1956,13 @@ Visszatére tehát Ézsaú még az nap az ő útján Széir felé.
 fa4dh6fed 33,17
 Jákób pedig méne Szukkóthba és építe magának házat, barmainak pedig hajlékokat csinála, s azért nevezé a hely nevét Szukkóthnak.
 fa4dh6fed 33,18
-Annakutána minden bántásnélkül méne Jákób Mésopotámiából jövet Sekhem városába, mely vala a Kanaán földén, és letelepedék a város előtt.
+Annakutána minden bántás  nélkül méne Jákób Mésopotámiából jövet Sekhem városába, mely vala a Kanaán földén, és letelepedék a város előtt.
 fa4dh6fed 33,19
 És megvevé a mezőnek azt a részét, a hol sátorát felvonta vala, Khámornak a Sekhem atyjának fiaitól száz pénzen.
 fa4dh6fed 33,20
-És oltárt állíta ott, és nevezé aztIsten, Izráel Istene.
+És oltárt állíta ott, és nevezé azt ily névvel: Isten, Izráel Istene.
 fa4dh6fed 34,1
-Kiméne pedigDína, Leának leánya, kit Jákóbnak szűlt vala, hogy meglátogassa annak a földnek leányait.
+Kiméne pedig Dína, Leának leánya, kit Jákóbnak szűlt vala, hogy meglátogassa annak a földnek leányait.
 fa4dh6fed 34,2
 És meglátá őt Sekhem, a Khivveus Khámornak, az ország fejedelmének fia, és elragadá őt, és vele hála és erőszakot tesz vala rajta.
 fa4dh6fed 34,3
@@ -1974,7 +1974,7 @@ fa4dh6fed 34,5
 fa4dh6fed 34,6
 És kiméne Khámor, Sekhem atyja Jákóbhoz, hogy szóljon vele.
 fa4dh6fed 34,7
-Mikor Jákób fiai megjövének a mezőről és meghallák aelkeseredének s nagyon megharaguvának azok az emberek, azért hogy ocsmányságot cselekedett Izráelben, Jákób leányával hálván, a minek nem kellett volna történni.
+Mikor Jákób fiai megjövének a mezőről és meghallák a dolgot, elkeseredének s nagyon megharaguvának azok az emberek, azért hogy ocsmányságot cselekedett Izráelben, Jákób leányával hálván, a minek nem kellett volna történni.
 fa4dh6fed 34,8
 És szóla nékik Khámor, mondván: Az én fiam Sekhem, lelkéből szereti a ti leányotokat, kérlek, adjátok azt néki feleségűl.
 fa4dh6fed 34,9
@@ -1982,13 +1982,13 @@ fa4dh6fed 34,9
 fa4dh6fed 34,10
 És lakjatok velünk; a föld előttetek van, lakjátok, s kereskedjetek rajta és bírjátok azt.
 fa4dh6fed 34,11
-Sekhem is monda aatyjának és az ő bátyjainak: Hadd találjakkedvet előttetek, és valamit mondotok nékem, megadom.
+Sekhem is monda a Dína atyjának és az ő bátyjainak: Hadd találjak kedvet előttetek, és valamit mondotok nékem, megadom.
 fa4dh6fed 34,12
-Akármily nagy jegyadományt és ajándékotmegadom a mint mondjátok nékem,adjátok nékem a leányt feleségűl.
+Akármily nagy jegyadományt és ajándékot kivántok, megadom a mint mondjátok nékem, csak adjátok nékem a leányt feleségűl.
 fa4dh6fed 34,13
 A Jákób fiai pedig álnokul felelének Sekhemnek és Khámornak az ő atyjának, és szólának, mivelhogy megszeplősítette Dínát az ő húgokat,
 fa4dh6fed 34,14
-És mondának nékik: Nem mívelhetjük e dolgot, hogy a mi húgunkatkörűlmetélkedetlen férfiúnak adjuk; mert ez nékünk gyalázat volna.
+És mondának nékik: Nem mívelhetjük e dolgot, hogy a mi húgunkat körűlmetélkedetlen férfiúnak adjuk; mert ez nékünk gyalázat volna.
 fa4dh6fed 34,15
 Veletek csak úgy egyezünk, ha hasonlókká lesztek hozzánk, hogy minden férfiú körűlmetélkedjék ti köztetek.
 fa4dh6fed 34,16
@@ -2010,7 +2010,7 @@ Nyájaik, jószáguk, és minden barmuk nemde nem miéink lesznek-é? csak egyez
 fa4dh6fed 34,24
 És engedének Khámornak, és Sekhemnek az ő fiának mindenek, a kik az ő városa kapuján kijárnak vala, és körűlmetélkedék minden férfiú, a ki az ő városa kapuján kijár vala.
 fa4dh6fed 34,25
-És lőn harmadnapon, mikor ezek a seb fájdalmában valának, a Jákób két fia, Simeon és Lévi, Dínának bátyjai, fegyvert ragadának s bátran a városra ütének és mindenférfit megölének.
+És lőn harmadnapon, mikor ezek a seb fájdalmában valának, a Jákób két fia, Simeon és Lévi, Dínának bátyjai, fegyvert ragadának s bátran a városra ütének és minden férfit megölének.
 fa4dh6fed 34,26
 Khámort, és az ő fiát Sekhemet fegyver élére hányák, és elvivék Dínát a Sekhem házából, és kimenének.
 fa4dh6fed 34,27
@@ -2020,13 +2020,13 @@ Azok juhait, barmait, szamarait, és valami a városban, és a mezőn vala, elvi
 fa4dh6fed 34,29
 És minden gazdagságukat, minden gyermekeiket és feleségeiket fogva vivék és elrablák, és mindent a mi a házban vala.
 fa4dh6fed 34,30
-És monda JákóbSimeonnak és Lévinek: Megháborítottatok engem,utálatossá tettetek e föld lakosai előtt, a Kananeusok és Perizeusok előtt; én pedig kevesed magammal vagyok, és ha összegyűlnek ellenem, levágnak, és eltörölnek engem, mind házam népével egybe.
+És monda Jákób Simeonnak és Lévinek: Megháborítottatok engem, és utálatossá tettetek e föld lakosai előtt, a Kananeusok és Perizeusok előtt; én pedig kevesed magammal vagyok, és ha összegyűlnek ellenem, levágnak, és eltörölnek engem, mind házam népével egybe.
 fa4dh6fed 34,31
 Azok pedig mondának: Hát mint tisztátalan személylyel, úgy kellett-é bánni a mi húgunkkal?
 fa4dh6fed 35,1
-Monda pedig az Isten Jákóbnak: Kelj fel, eredj fel Béthelbe és telepedjél le ott; és csinálj ott oltárt amaz Istennek, kimegjelenék néked, mikor a te bátyád Ézsaú előttfutsz vala.
+Monda pedig az Isten Jákóbnak: Kelj fel, eredj fel Béthelbe és telepedjél le ott; és csinálj ott oltárt amaz Istennek, ki megjelenék néked, mikor a te bátyád Ézsaú előtt futsz vala.
 fa4dh6fed 35,2
-Akkor monda Jákób az ő házanépének, és mind azoknak, kik vele valának: Hányjátok elaz idegen isteneket, kik köztetek vannak, és tisztítsátok meg magatokat, és változtassátok el öltözeteiteket.
+Akkor monda Jákób az ő házanépének, és mind azoknak, kik vele valának: Hányjátok el az idegen isteneket, kik köztetek vannak, és tisztítsátok meg magatokat, és változtassátok el öltözeteiteket.
 fa4dh6fed 35,3
 És keljünk fel, és menjünk fel Béthelbe, hogy csináljak ott oltárt annak az Istennek, ki meghallgatott engem az én nyomorúságom napján, és velem volt az úton, a melyen jártam.
 fa4dh6fed 35,4
@@ -2036,39 +2036,39 @@ fa4dh6fed 35,5
 fa4dh6fed 35,6
 Eljuta azért Jákób Lúzba, mely Kanaán földén van, azaz Béthelbe, ő maga és az egész sokaság, mely ő vele vala.
 fa4dh6fed 35,7
-És építe ott oltárt, és nevezé a helyet Él-Béthelnek, mivelhogy ottjelent meg néki az Isten, mikor az ő bátyja előtt fut vala.
+És építe ott oltárt, és nevezé a helyet Él-Béthelnek, mivelhogy ott jelent meg néki az Isten, mikor az ő bátyja előtt fut vala.
 fa4dh6fed 35,8
 És meghala Débora, a Rebeka dajkája, és eltemeték Béthelen alól egy cserfa alatt, és nevezék annak nevét Allon-Bákhutnak.
 fa4dh6fed 35,9
 Az Isten pedig ismét megjelenék Jákóbnak, mikor ez jöve Mésopotámiából, és megáldá őt.
 fa4dh6fed 35,10
-És monda néki az Isten: A te neved Jákób; de ne neveztessék többé ate neved Jákóbnak, hanem Izráel légyen neved. És nevezé nevét Izráelnek.
+És monda néki az Isten: A te neved Jákób; de ne neveztessék többé a te neved Jákóbnak, hanem Izráel légyen neved. És nevezé nevét Izráelnek.
 fa4dh6fed 35,11
-És monda néki az Isten: Éna mindenható Isten, nevekedjél és sokasodjál, nép és népek sokasága légyen te tőled; és királyok származzanak a te ágyékodból.
+És monda néki az Isten: Én vagyok a mindenható Isten, nevekedjél és sokasodjál, nép és népek sokasága légyen te tőled; és királyok származzanak a te ágyékodból.
 fa4dh6fed 35,12
 És a földet, melyet adtam Ábrahámnak és Izsáknak, néked adom azt, utánad pedig a te magodnak adom a földet.
 fa4dh6fed 35,13
 És felméne ő tőle az Isten azon a helyen, a hol vele szólott vala.
 fa4dh6fed 35,14
-Jákób pedig emlékoszlopotállíta azon a helyen, a hol szólott vele, kőoszlopot; és áldozék azon italáldozattal, és önte arra olajat.
+Jákób pedig emlékoszlopot állíta azon a helyen, a hol szólott vele, kőoszlopot; és áldozék azon italáldozattal, és önte arra olajat.
 fa4dh6fed 35,15
 És nevezé Jákób a hely nevét, a hol az Isten szólott vala ő vele, Béthelnek.
 fa4dh6fed 35,16
 És elindúlának Béthelből, s mikor Efratától, hogy oda érjenek, már csak egy dűlőföldre valának, szűle Rákhel, és nehéz vala az ő szűlése.
 fa4dh6fed 35,17
-S vajudása közben monda néki a bába: Ne félj, mertmost is fiad lesz.
+S vajudása közben monda néki a bába: Ne félj, mert most is fiad lesz.
 fa4dh6fed 35,18
 És mikor lelke kiméne, mert meghala, nevezé nevét Benóninak, az atyja pedig nevezé őt Benjáminnak.
 fa4dh6fed 35,19
-És meghalaRákhel, és eltemetteték az Efratába (azaz Bethlehembe) vivő úton.
+És meghala Rákhel, és eltemetteték az Efratába (azaz Bethlehembe) vivő úton.
 fa4dh6fed 35,20
 És emlékoszlopot állíta Jákób az ő sírja fölött. Rákhel sírjának emlékoszlopa az mind e mai napig.
 fa4dh6fed 35,21
 Azután tovább költözék Izráel, és a Héder tornyán túl voná fel sátorát.
 fa4dh6fed 35,22
-Lőn pedig, mikor Izráel azon a földön lakozék, elméne Rúben,és hála Bilhával, az ő atyjának ágyasával, s meghallá Izráel. Valának pedig a Jákób fiai tizenketten.
+Lőn pedig, mikor Izráel azon a földön lakozék, elméne Rúben, és hála Bilhával, az ő atyjának ágyasával, s meghallá Izráel. Valának pedig a Jákób fiai tizenketten.
 fa4dh6fed 35,23
-Lea fiai:Jákób elsőszülötte Rúben, azután Simeon, Lévi, Júda, Izsakhár és Zebulon.
+Lea fiai:  Jákób elsőszülötte Rúben, azután Simeon, Lévi, Júda, Izsakhár és Zebulon.
 fa4dh6fed 35,24
 Rákhel fiai: József és Benjámin.
 fa4dh6fed 35,25
@@ -2080,25 +2080,25 @@ fa4dh6fed 35,27
 fa4dh6fed 35,28
 Valának pedig Izsák napjai száz nyolczvan esztendő.
 fa4dh6fed 35,29
-És kimúlékIzsák és meghala, és takaríttaték az ő eleihez vén korban, bételvén az élettel; és eltemeték őt az ő fiai, Ézsaú és Jákób.
+És kimúlék Izsák és meghala, és takaríttaték az ő eleihez vén korban, bételvén az élettel; és eltemeték őt az ő fiai, Ézsaú és Jákób.
 fa4dh6fed 36,1
-Ez Ézsaúnak (azaz Edómnak)nemzetsége.
+Ez Ézsaúnak (azaz Edómnak)  nemzetsége.
 fa4dh6fed 36,2
 Ézsaú a Kananeusok leányai közűl vette vala feleségeit: Adát, a Khitteus Élonnak leányát; és Oholibámát, Anáhnak leányát, a ki Khivveus Czibhón leánya vala.
 fa4dh6fed 36,3
 És Boszmáthot, az Ismáel leányát, Nebajóthnak húgát.
 fa4dh6fed 36,4
-Szűlépedig Adá Ézsaúnak Elifázt; és Boszmáth szűlé Rehuélt.
+Szűlé pedig Adá Ézsaúnak Elifázt; és Boszmáth szűlé Rehuélt.
 fa4dh6fed 36,5
 Oholibáma pedig szűlé Jehúst, Jahlámot és Kórét. Ezek az Ézsaú fiai, kik születtek néki Kanaán földén.
 fa4dh6fed 36,6
-És felvevé Ézsaú az ő feleségeit, az ő fiait, és az ő leányait, és minden házabeli lelket, minden juhait, barmait, és minden jószágát, melyet szerzett vala Kanaán földén, és elméneországba, az ő atyjafiának Jákóbnak színe elől.
+És felvevé Ézsaú az ő feleségeit, az ő fiait, és az ő leányait, és minden házabeli lelket, minden juhait, barmait, és minden jószágát, melyet szerzett vala Kanaán földén, és elméne más országba, az ő atyjafiának Jákóbnak színe elől.
 fa4dh6fed 36,7
 Mert az ő jószáguk több vala, semhogy együtt lakhattak volna, és tartózkodásuk földe nem bírja vala meg őket az ő nyájaik miatt.
 fa4dh6fed 36,8
-Letelepedék tehátÉzsaú a Széir hegyén. Ézsaú pedig az Edóm.
+Letelepedék tehát Ézsaú a Széir hegyén. Ézsaú pedig az Edóm.
 fa4dh6fed 36,9
-Ez Ézsaúnak az Edomitákatyjának nemzetsége a Széir hegyen.
+Ez Ézsaúnak az Edomiták atyjának nemzetsége a Széir hegyen.
 fa4dh6fed 36,10
 Ezek Ézsaú fiainak nevei: Elifáz, Adának Ézsaú feleségének fia. Rehuél, Boszmáthnak Ézsaú feleségének fia.
 fa4dh6fed 36,11
@@ -2120,7 +2120,7 @@ Ezek pedig Oholibámának, Ézsaú feleségének fiai: Jéhus fejedelem, Jahlám
 fa4dh6fed 36,19
 Ezek Ézsaú fiai, és ezek azoknak fejedelmei; ez Edóm.
 fa4dh6fed 36,20
-A Horeus Széirnekfiai, kik ama földön laknak vala ezek: Lótán, Sóbál, Czibhón, Anáh.
+A Horeus Széirnek fiai, kik ama földön laknak vala ezek: Lótán, Sóbál, Czibhón, Anáh.
 fa4dh6fed 36,21
 Disón, Eczer, Disán, Ezek a Horeusok fejedelmei, Széirnek fiai Edóm országában.
 fa4dh6fed 36,22
@@ -2142,7 +2142,7 @@ A Horeusok közűl való fejedelmek pedig ezek: Lótán fejedelem, Sóbál fejed
 fa4dh6fed 36,30
 Disón fejedelem, Eczer fejedelem, Disán fejedelem. Ezek a Horeusok közűl való fejedelmek az ő fejedelemségök szerint, Széir tartományában.
 fa4dh6fed 36,31
-Ezekpedig a királyok, kik uralkodtak Edóm földén minekelőtte Izráel fiai között király uralkodott volna.
+Ezek pedig a királyok, kik uralkodtak Edóm földén minekelőtte Izráel fiai között király uralkodott volna.
 fa4dh6fed 36,32
 Király vala Edómban Bela, Behor fia, s az ő városának neve Dinhába vala.
 fa4dh6fed 36,33
@@ -2166,21 +2166,21 @@ Oholibámá fejedelem, Éla fejedelem, Pinon fejedelem.
 fa4dh6fed 36,42
 Kenáz fejedelem, Thémán fejedelem, Mibczár fejedelem.
 fa4dh6fed 36,43
-Magdiél fejedelem, Hirám fejedelem. Ezek Edóm fejedelmei az ő lakások szerint, az ő örökségök földén. Ézsaú az Edómitákatyja.
+Magdiél fejedelem, Hirám fejedelem. Ezek Edóm fejedelmei az ő lakások szerint, az ő örökségök földén. Ézsaú az Edómiták atyja.
 fa4dh6fed 37,1
-Jákób pedig lakozékaz ő atyja bujdosásának földén, Kanaán földén.
+Jákób pedig lakozék az ő atyja bujdosásának földén, Kanaán földén.
 fa4dh6fed 37,2
 Ezek a Jákób nemzetségének dolgai: József tizenhét esztendős korában az ő bátyjaival együtt juhokat őriz vala, bojtár vala Bilhának és Zilpának az ő atyja feleségeinek fiai mellett, és József rossz híreket hord vala felőlük az ő atyjuknak.
 fa4dh6fed 37,3
 Izráel pedig minden fiánál inkább szereti vala Józsefet, mivelhogy vén korában nemzette vala őt; és czifra ruhát csináltat vala néki.
 fa4dh6fed 37,4
-Mikor pedig láták az ő bátyjai, hogy atyjuk minden testvére közt őt szereti legjobban, meggyűlölikvala, és jó szót sem bírnak vala hozzá szólani.
+Mikor pedig láták az ő bátyjai, hogy atyjuk minden testvére közt őt szereti legjobban, meggyűlölik vala, és jó szót sem bírnak vala hozzá szólani.
 fa4dh6fed 37,5
 És álmot álmodék József és elbeszélé az ő bátyjainak; és azok annál inkább gyűlölik vala őt.
 fa4dh6fed 37,6
 Mert monda nékik: Hallgassátok meg, kérlek, ezt az álmot, melyet álmodtam.
 fa4dh6fed 37,7
-Ímé kévéket kötünk vala a mezőben, és ímé az én kévém felkele és felálla; a ti kévéitek pedig körűlállanak, és az én kévém előttmeghajolnak vala.
+Ímé kévéket kötünk vala a mezőben, és ímé az én kévém felkele és felálla; a ti kévéitek pedig körűlállanak, és az én kévém előtt meghajolnak vala.
 fa4dh6fed 37,8
 És mondának néki az ő bátyjai: Avagy király akarsz-é lenni felettünk? Vagy uralkodni akarsz-é rajtunk? S annál is inkább gyűlölik vala őt álmáért és beszédéért.
 fa4dh6fed 37,9
@@ -2188,11 +2188,11 @@ Más álmot is álmodék, és elbeszélé azt az ő bátyjainak, mondván: ímé
 fa4dh6fed 37,10
 S elbeszélé atyjának és bátyjainak, és az ő atyja megdorgálá őt, mondván néki: Micsoda álom az a melyet álmodtál? Avagy elmegyünk-é, én és a te anyád és atyádfiai, hogy meghajtsuk magunkat te előtted a földig?
 fa4dh6fed 37,11
-Irígykednekvala azért reá az ő bátyjai; az ő atyja pedig elméjében tartja vala e dolgot.
+Irígykednek vala azért reá az ő bátyjai; az ő atyja pedig elméjében tartja vala e dolgot.
 fa4dh6fed 37,12
 Mikor pedig az ő bátyjai elmenének Sikhembe, hogy az ő atyjok juhait őrizzék;
 fa4dh6fed 37,13
-Monda Izráel Józsefnek: A te bátyáid avagy nem Sikhemben legeltetnek-é? Jöszte, és én hozzájok küldelek téged. Ő pedig monda: Ímhol.
+Monda Izráel Józsefnek: A te bátyáid avagy nem Sikhemben legeltetnek-é? Jöszte, és én hozzájok küldelek téged. Ő pedig monda: Ímhol vagyok .
 fa4dh6fed 37,14
 És monda néki: Menj el, nézd meg, hogy s mint vagynak a te bátyáid és a juhok, s hozz hírt nékem. Elküldé tehát őt Hebron völgyéből, és méne Sikhembe.
 fa4dh6fed 37,15
@@ -2208,7 +2208,7 @@ fa4dh6fed 37,19
 fa4dh6fed 37,20
 Most hát jertek öljük meg őt, és vessük őt valamelyik kútba; és azt mondjuk, hogy fenevad ette meg, és meglátjuk, mi lesz az ő álmaiból.
 fa4dh6fed 37,21
-Meghallá pedig Rúben és megmenté őt kezökből, és mondá:Ne üssük őt agyon.
+Meghallá pedig Rúben és megmenté őt kezökből, és mondá: Ne üssük őt agyon.
 fa4dh6fed 37,22
 És mondá nékik Rúben: Ne ontsatok vért, vessétek őt ebbe a kútba, a mely itt a pusztában van, de kezet ne vessetek reá. Azért, hogy megszabadítsa őt kezökből, hogy visszavigye atyjához.
 fa4dh6fed 37,23
@@ -2222,7 +2222,7 @@ fa4dh6fed 37,26
 fa4dh6fed 37,27
 Jertek adjuk el őt az Ismáelitáknak, és ne tegyük reá kezünket, mert atyánkfia, vérünkből való ő. És hallgatának rá az ő atyjafiai.
 fa4dh6fed 37,28
-És menének arra Midiánita kereskedő férfiak, és kivonák és felhozák Józsefet a kútból, és eladák Józsefet az Ismáelitáknak húsz ezüstpénzen:pedig elvivék Józsefet Égyiptomba.
+És menének arra Midiánita kereskedő férfiak, és kivonák és felhozák Józsefet a kútból, és eladák Józsefet az Ismáelitáknak húsz ezüstpénzen:   azok pedig elvivék Józsefet Égyiptomba.
 fa4dh6fed 37,29
 És visszatére Rúben a kúthoz, és ímé József nem vala a kútban, és megszaggatá ruháit.
 fa4dh6fed 37,30
@@ -2232,17 +2232,17 @@ Akkor vevék a József felső ruháját, és leölének egy kecskebakot, és bel
 fa4dh6fed 37,32
 És elküldék a czifra ruhát, és elvivék atyjokhoz és mondának: Ezt találtuk, ismerd meg, fiad ruhája-é vagy nem?
 fa4dh6fed 37,33
-És megismeré azt, és monda: Fiam felső ruhája ez,fenevad ette meg őt, bizony széllyelszaggatta Józsefet.
+És megismeré azt, és monda: Fiam felső ruhája ez, fenevad ette meg őt, bizony széllyelszaggatta Józsefet.
 fa4dh6fed 37,34
 És megszaggatá Jákób ruháit, és zsákba öltözék és gyászolá az ő fiát sokáig.
 fa4dh6fed 37,35
-Felkelének pedig minden ő fiai, és minden ő leányai, hogy vígasztalják őt, de nem akara vígasztalódni, hanem monda: Sírva megyekfiamhoz a sírba; és siratá őt az atyja.
+Felkelének pedig minden ő fiai, és minden ő leányai, hogy vígasztalják őt, de nem akara vígasztalódni, hanem monda: Sírva megyek fiamhoz a sírba; és siratá őt az atyja.
 fa4dh6fed 37,36
-A Midiánitákpedig eladák őt Égyiptomba Pótifárnak, a Faraó főemberének, a testőrök főhadnagyának.
+A Midiániták pedig eladák őt Égyiptomba Pótifárnak, a Faraó főemberének, a testőrök főhadnagyának.
 fa4dh6fed 38,1
 És lőn abban az időben, hogy Júda elméne az ő atyjafiaitól, és betére egy Adullámbeli férfiúhoz, kinek neve Khira vala.
 fa4dh6fed 38,2
-Ésmeglátá ott Júda egy Súah nevű Kanaánbeli férfiúnak leányát, és elvevé azt, és beméne hozzá.
+És meglátá ott Júda egy Súah nevű Kanaánbeli férfiúnak leányát, és elvevé azt, és beméne hozzá.
 fa4dh6fed 38,3
 És az fogada méhében és szűle fiat, és nevezé nevét Hérnek.
 fa4dh6fed 38,4
@@ -2252,11 +2252,11 @@ Még egyszer szűle fiat, és nevezé nevét Sélának, és mikor azt szűlé, K
 fa4dh6fed 38,6
 És vőn Júda az ő elsőszülött fiának Hérnek feleséget, ennek neve Thámár vala.
 fa4dh6fed 38,7
-DeHér, Júdának elsőszülött fia gonosz vala az Úr szemei előtt, és megölé őt az Úr.
+De Hér, Júdának elsőszülött fia gonosz vala az Úr szemei előtt, és megölé őt az Úr.
 fa4dh6fed 38,8
 És monda Júda Ónánnak: Eredj be a te bátyád feleségéhez, és vedd feleségűl mint sógor, és támaszsz magot bátyádnak.
 fa4dh6fed 38,9
-Ónán pedig tudja vala, hogy a magzat nem lesz az övé, azért valamikor az ő bátyja feleségéhez bemegy vala, földre vesztegeti vala el ahogy bátyjának magot ne támaszszon.
+Ónán pedig tudja vala, hogy a magzat nem lesz az övé, azért valamikor az ő bátyja feleségéhez bemegy vala, földre vesztegeti vala el a magot, hogy bátyjának magot ne támaszszon.
 fa4dh6fed 38,10
 És gonoszságnak tetszék az Úr szemei előtt, a mit cselekeszik vala, annakokáért megölé őt is.
 fa4dh6fed 38,11
@@ -2280,29 +2280,29 @@ Azután felkele és elméne, és leveté magáról a fátyolt; és felvevé az �
 fa4dh6fed 38,20
 És megküldé Júda a kecskefiat az ő Adullámbeli barátjától, hogy visszavegye a zálogot az asszonytól, de nem találá azt.
 fa4dh6fed 38,21
-És megkérdé a helység férfiait, mondván: Hol van az aparáznanő, a ki Enajim mellett az útfélen vala? És azok mondának: Nem volt erreparázna nő.
+És megkérdé a helység férfiait, mondván: Hol van az a felavatott parázna nő, a ki Enajim mellett az útfélen vala? És azok mondának: Nem volt erre felavatott parázna nő.
 fa4dh6fed 38,22
-Visszatére tehát Júdához, és monda: Nem találám azt meg, a helység lakosai is azt mondák: Nem volt erreparázna nő.
+Visszatére tehát Júdához, és monda: Nem találám azt meg, a helység lakosai is azt mondák: Nem volt erre felavatott parázna nő.
 fa4dh6fed 38,23
 És monda Júda: Tartsa magának, hogy csúffá ne legyünk; ímé én megküldöttem volt ezt a kecskefiat, te pedig nem találtad meg őt.
 fa4dh6fed 38,24
-És lőn mintegy három hónap múlva, jelenték Júdának, mondván: Thámár a te menyed paráználkodott, és ímé terhes is a paráznaság miatt. És monda Júda: Vigyétek ki őt, éségettessék meg.
+És lőn mintegy három hónap múlva, jelenték Júdának, mondván: Thámár a te menyed paráználkodott, és ímé terhes is a paráznaság miatt. És monda Júda: Vigyétek ki őt, és égettessék meg.
 fa4dh6fed 38,25
-Mikor pedig kivitetnék, elkülde az ő ipához, mondván: Attól a férfiútól vagyok terhes, a kiéi ezek. És mondá: Ismerd meg, kérlek, kié e gyűrű, ezsinór, és e pálcza.
+Mikor pedig kivitetnék, elkülde az ő ipához, mondván: Attól a férfiútól vagyok terhes, a kiéi ezek. És mondá: Ismerd meg, kérlek, kié e gyűrű, e zsinór, és e pálcza.
 fa4dh6fed 38,26
-És megismeré Júda és monda: Igazabb ő nálamnál, mert bizony nem adám őt az én fiamnakSélának; de nem ismeré őttöbbé.
+És megismeré Júda és monda: Igazabb ő nálamnál, mert bizony nem adám őt az én fiamnak Sélának; de nem ismeré őt Júda többé.
 fa4dh6fed 38,27
-És lőn az ő szűlésének idején, ímékettősök valának az ő méhében.
+És lőn az ő szűlésének idején, ímé kettősök valának az ő méhében.
 fa4dh6fed 38,28
 És lőn, hogy szűlése közben az egyik kinyújtá kezét, és fogá a bába és veres fonalat köte reá, mondván: Ez jött ki először.
 fa4dh6fed 38,29
-De lőn, hogy a mikor visszavoná kezét, ímé az ő testvére jöve ki. És mondá aHogy törtél te magadnakrést? Azért nevezé nevét Pérecznek.
+De lőn, hogy a mikor visszavoná kezét, ímé az ő testvére jöve ki. És mondá a bába: Hogy törtél te magadnak rést? Azért nevezé nevét Pérecznek.
 fa4dh6fed 38,30
 És utána kijöve az ő testvére kinek veres fonál vala kezén; és nevezé nevét Zerákhnak.
 fa4dh6fed 39,1
-József pedig aláviteték Égyiptomba és megvevé őtaz Ismáelitáktól, kik őt oda vitték vala, egy égyiptomi ember Pótifár, a Faraó főembere, a testőrök főhadnagya.
+József pedig aláviteték Égyiptomba és megvevé őt az Ismáelitáktól, kik őt oda vitték vala, egy égyiptomi ember Pótifár, a Faraó főembere, a testőrök főhadnagya.
 fa4dh6fed 39,2
-Ésaz Úr Józseffel vala, és szerencsés ember vala és az ő égyiptomi urának házában vala.
+És  az Úr Józseffel vala, és szerencsés ember vala és az ő égyiptomi urának házában vala.
 fa4dh6fed 39,3
 Látá pedig az ő ura, hogy az Úr van ő vele, és hogy valamit cselekszik, az Úr mindent szerencséssé tesz az ő kezében:
 fa4dh6fed 39,4
@@ -2316,15 +2316,15 @@ fa4dh6fed 39,7
 fa4dh6fed 39,8
 Ő azonban vonakodék s monda az ő ura feleségének: Ímé az én uramnak én mellettem semmi gondja nincs az ő háza dolgaira, és a mije van, mindenét az én kezemre bízá.
 fa4dh6fed 39,9
-Senki sincs nálamnál nagyobb az ő házában; és tőlem semmit sem tiltott meg, hanem csak téged, mivelhogy te felesége vagy; hogy követhetném hát el ezt a nagy gonoszságot ésvétkezném az Isten ellen?
+Senki sincs nálamnál nagyobb az ő házában; és tőlem semmit sem tiltott meg, hanem csak téged, mivelhogy te felesége vagy; hogy követhetném hát el ezt a nagy gonoszságot és hogyan vétkezném az Isten ellen?
 fa4dh6fed 39,10
 És lőn, hogy az asszony mindennap azt mondogatá Józsefnek, de ő nem hallgata reá, hogy vele háljon és vele egyesüljön.
 fa4dh6fed 39,11
 Lőn azért egy napon, hogy valami dolgát végezni a házba beméne, és a háznép közűl senki sem vala ott benn a házban,
 fa4dh6fed 39,12
-És megragadá őt ruhájánál fogva, mondván: Hálj velem. Ő pedig ott hagyá ruháját azkezében és elfuta és kiméne.
+És megragadá őt ruhájánál fogva, mondván: Hálj velem. Ő pedig ott hagyá ruháját az asszony kezében és elfuta és kiméne.
 fa4dh6fed 39,13
-És mikor látja vala az, hogy az a maga ruháját az ő kezében hagyta, és kifutott:
+És mikor látja vala az asszony , hogy az a maga ruháját az ő kezében hagyta, és kifutott:
 fa4dh6fed 39,14
 Összehívá a háznépet és szóla hozzájuk, mondván: Lássátok, héber embert hozott hozzánk, hogy megcsúfoljon bennünket. Bejött hozzám, hogy velem háljon, s én fenszóval kiálték.
 fa4dh6fed 39,15
@@ -2338,13 +2338,13 @@ fa4dh6fed 39,18
 fa4dh6fed 39,19
 És lőn, a mint hallja az ő ura az ő feleségének beszédeit, melyeket néki beszélt, mondván: Ilyesmiket tett velem a te szolgád; haragra gerjede.
 fa4dh6fed 39,20
-Vevé azért Józsefet az ő ura és veté őt atömlöczbe, melyben a király foglyai valának fogva, és ott vala a tömlöczben.
+Vevé azért Józsefet az ő ura és veté őt a tömlöczbe, melyben a király foglyai valának fogva, és ott vala a tömlöczben.
 fa4dh6fed 39,21
-De azÚr Józseffel vala, és kiterjeszté reá az ő kegyelmességét és kedvessé tevé őt a tömlöcztartó előtt.
+De az Úr Józseffel vala, és kiterjeszté reá az ő kegyelmességét és kedvessé tevé őt a tömlöcztartó előtt.
 fa4dh6fed 39,22
 És a tömlöcztartó mind azokat a foglyokat, kik a tömlöczben valának, József kezébe adá, úgyhogy a mi ott történik vala, minden ő általa történék.
 fa4dh6fed 39,23
-És semmi gondja nem vala a tömlöcztartónak azokra, a melyek keze alatt valának, mivelhogy az Úr vala, és valamit cselekeszik vala, az Úr szerencséssé teszi vala.
+És semmi gondja nem vala a tömlöcztartónak azokra, a melyek keze alatt valának, mivelhogy az Úr vala Józseffel , és valamit cselekeszik vala, az Úr szerencséssé teszi vala.
 fa4dh6fed 40,1
 És lőn ezekután, hogy az égyiptomi király pohárnoka és sütőmestere vétkezének az ő urok ellen, az égyiptomi király ellen.
 fa4dh6fed 40,2
@@ -2404,7 +2404,7 @@ fa4dh6fed 41,5
 fa4dh6fed 41,6
 És ímé azok után hét vékony s keleti széltől kiszáradt gabonafej nevekedik vala.
 fa4dh6fed 41,7
-És elnyelék a vékony gabonafejek a hét kövér és teljes gabonafejet. És felserkene a Faraó, és ímé álom
+És elnyelék a vékony gabonafejek a hét kövér és teljes gabonafejet. És felserkene a Faraó, és ímé álom vala. 
 fa4dh6fed 41,8
 Reggelre kelvén, nyugtalankodék lelkében, elkülde azért és egybehívatá Égyiptom minden jövendőmondóját, és minden bölcsét és elbeszélé nékik a Faraó az ő álmát, de senki sem vala, ki azokat megmagyarázta volna a Faraónak.
 fa4dh6fed 41,9
@@ -2412,13 +2412,13 @@ Szóla azért a főpohárnok a Faraónak, mondván: Az én bűneimről emlékeze
 fa4dh6fed 41,10
 A Faraó megharagudt vala az ő szolgáira, és fogságba vettetett vala engem a testőrök főhadnagyának házába, engem és a fősütőmestert.
 fa4dh6fed 41,11
-És álmot látánkegy éjjel, én is, az is; mindegyikünk a maga álmának értelme szerint álmoda.
+És álmot látánk egy éjjel, én is, az is; mindegyikünk a maga álmának értelme szerint álmoda.
 fa4dh6fed 41,12
-Ésvelünk ott egy héber ifjú, a testőrök főhadnagyának szolgája; elbeszéltük vala néki, és ő megfejté nékünk a mi álmainkat; mindegyikünknek az ő álma szerint fejté meg.
+És vala velünk ott egy héber ifjú, a testőrök főhadnagyának szolgája; elbeszéltük vala néki, és ő megfejté nékünk a mi álmainkat; mindegyikünknek az ő álma szerint fejté meg.
 fa4dh6fed 41,13
 És lőn, hogy a miképen megfejté nékünk, úgy lőn: engem visszahelyeze hívatalomba, amazt pedig felakasztatá.
 fa4dh6fed 41,14
-Elküldeazért a Faraó és hívatá Józsefet, és hamarsággal kihozák őt a tömlöczből, és megborotválkozék, ruhát válta és a Faraóhoz méne.
+Elkülde azért a Faraó és hívatá Józsefet, és hamarsággal kihozák őt a tömlöczből, és megborotválkozék, ruhát válta és a Faraóhoz méne.
 fa4dh6fed 41,15
 És monda a Faraó Józsefnek: Álmot láttam és nincs a ki megmagyarázza azt: Én pedig azt hallottam rólad beszélni, hogy ha meghallod az álmot, meg is magyarázod azt.
 fa4dh6fed 41,16
@@ -2446,19 +2446,19 @@ A hét szép tehén, hét esztendő, a hét szép gabonafej az is hét esztendő
 fa4dh6fed 41,27
 A hét ösztövér és rút tehén pedig, melyek amazok után jöttek ki, az is hét esztendő, és a hét vékony, keleti széltől kiszáradt gabonafej, az az éhségnek hét esztendeje.
 fa4dh6fed 41,28
-Ez az a mit mondék a Faraónak,a mit Isten cselekedni akar, megmutatta a Faraónak.
+Ez az a mit mondék a Faraónak, hogy a mit Isten cselekedni akar, megmutatta a Faraónak.
 fa4dh6fed 41,29
-Ímé hét esztendő jő,nagy bőség lesz egész Égyiptomban.
+Ímé hét esztendő jő, és nagy bőség lesz egész Égyiptomban.
 fa4dh6fed 41,30
 Azok után pedig következik az éhség hét esztendeje, s minden bőséget elfelejtenek Égyiptom földén, és megemészti az éhség a földet.
 fa4dh6fed 41,31
 És nem ismerszik meg az elébbi bőség e földön az utána következő éhség miatt, mert igen nagy lesz.
 fa4dh6fed 41,32
-Hogy pedig a Faraó álma kettős, kétszeres vala,, mert Istennél elvégezett dolog ez, és siet az Isten azt véghez vinni.
+Hogy pedig a Faraó álma kettős, kétszeres vala, onnan van , mert Istennél elvégezett dolog ez, és siet az Isten azt véghez vinni.
 fa4dh6fed 41,33
 Most azért szemeljen ki a Faraó egy értelmes és bölcs férfit, és tegye Égyiptom földén gondviselővé.
 fa4dh6fed 41,34
-CselekedjeFaraó és rendeljen tiszttartókat az országnak, és szedjen ötödöt Égyiptom földén a hét bő esztendőben.
+Cselekedje ezt a Faraó és rendeljen tiszttartókat az országnak, és szedjen ötödöt Égyiptom földén a hét bő esztendőben.
 fa4dh6fed 41,35
 És takarítsák be a következő jó esztendők minden termését, és gyűjtsenek gabonát a Faraó keze alá, élelműl a városokban, és tartsák meg,
 fa4dh6fed 41,36
@@ -2470,13 +2470,13 @@ Monda azért a Faraó az ő szolgáinak: Találhatnánk-é ehhez hasonló férfi
 fa4dh6fed 41,39
 És monda a Faraó Józsefnek: Mivelhogy Isten mind ezeket néked jelentette meg, nincs hozzád fogható értelmes és bölcs ember.
 fa4dh6fed 41,40
-Telégy az én házamon főgondviselő, és minden népem a te szavadra hallgasson, csak a királyiszék tesz engem nálad nagyobbá.
+Te  légy az én házamon főgondviselő, és minden népem a te szavadra hallgasson, csak a királyiszék tesz engem nálad nagyobbá.
 fa4dh6fed 41,41
 Monda továbbá a Faraó Józsefnek: Ímé fejedelemmé tettelek az egész Égyiptom földén.
 fa4dh6fed 41,42
 És levevé a Faraó a maga gyűrűjét kezéről, és adá azt József kezére; és felöltözteté őt drága gyolcs ruhába, és aranylánczot tőn az ő nyakába.
 fa4dh6fed 41,43
-És meghordoztatá őt az ő második szekerén, és kiáltják vala ő előtte: Térdet hajtsatok! Így tevé őtaz egész Égyiptom földén.
+És meghordoztatá őt az ő második szekerén, és kiáltják vala ő előtte: Térdet hajtsatok! Így tevé őt fejedelemmé az egész Égyiptom földén.
 fa4dh6fed 41,44
 És monda a Faraó Józsefnek: Én vagyok a Faraó; de te nálad nélkül senki se kezét, se lábát fel ne emelhesse egész Égyiptom földén.
 fa4dh6fed 41,45
@@ -2486,29 +2486,29 @@ József pedig harmincz esztendős vala, mikor a Faraó előtt, az égyiptomi kir
 fa4dh6fed 41,47
 És a föld a hét bő esztendő alatt tele marokkal ontá a termést.
 fa4dh6fed 41,48
-És összegyűjté a hét esztendőnek minden eleségét, mely vala Égyiptom földén, és a városokba takarítá az élelmet,városba a körülte levő határ élelmét takarítá be.
+És összegyűjté a hét esztendőnek minden eleségét, mely vala Égyiptom földén, és a városokba takarítá az élelmet, minden városba a körülte levő határ élelmét takarítá be.
 fa4dh6fed 41,49
-És felhalmozá József a gabonát, mint a tenger fövénye, igen sokat, annyira, hogy megszűntek azt számba venni, mivelhogy száma nem.
+És felhalmozá József a gabonát, mint a tenger fövénye, igen sokat, annyira, hogy megszűntek azt számba venni, mivelhogy száma nem vala .
 fa4dh6fed 41,50
-Józsefnek pedigszületék két fia az éhség esztendejének eljötte előtt, kiket szűle néki Aszenáth, Potiferának az On papjának leánya.
+Józsefnek pedig születék két fia az éhség esztendejének eljötte előtt, kiket szűle néki Aszenáth, Potiferának az On papjának leánya.
 fa4dh6fed 41,51
-És nevezé József az elsőszülöttnek nevét Manassénak: mert, elfelejteté én velem Isten minden én vesződségemet, és az én atyámnak egész házát.
+És nevezé József az elsőszülöttnek nevét Manassénak: mert úgymond , elfelejteté én velem Isten minden én vesződségemet, és az én atyámnak egész házát.
 fa4dh6fed 41,52
-A másodiknak nevét pedig nevezé Efraimnak: mivel,, megszaporított engem Isten az én nyomorúságomnak földén.
+A másodiknak nevét pedig nevezé Efraimnak: mivel, úgymond , megszaporított engem Isten az én nyomorúságomnak földén.
 fa4dh6fed 41,53
 Eltele tehát a bőség hét esztendeje, a mely vala Égyiptomnak földén.
 fa4dh6fed 41,54
-Éselkezdődék az éhséghét esztendeje, mint megmondotta vala József; és lőn éhség minden országban; de Égyiptom földén mindenütt vala kenyér.
+És elkezdődék az éhség hét esztendeje, mint megmondotta vala József; és lőn éhség minden országban; de Égyiptom földén mindenütt vala kenyér.
 fa4dh6fed 41,55
-megéhezék egész Égyiptom földe is, és kenyérért kiált vala a nép a Faraóhoz. - Monda pedig a Faraó mind az Égyiptombelieknek: Menjetek Józsefhez,a mit mond néktek, azt míveljétek.
+De megéhezék egész Égyiptom földe is, és kenyérért kiált vala a nép a Faraóhoz. - Monda pedig a Faraó mind az Égyiptombelieknek: Menjetek Józsefhez, és a mit mond néktek, azt míveljétek.
 fa4dh6fed 41,56
-És az éhség mind az egész földön vala. Akkor mind megnyitá József a, és árulja vala az Égyiptombelieknek; mert nagyobbodik vala az éhség Égyiptom földén.
+És az éhség mind az egész földön vala. Akkor mind megnyitá József a gabonás házakat , és árulja vala az Égyiptombelieknek; mert nagyobbodik vala az éhség Égyiptom földén.
 fa4dh6fed 41,57
 És mind az egész föld Égyiptomba megy vala Józsefhez gabonát venni; mert nagy vala az éhség az egész földön.
 fa4dh6fed 42,1
 És látá Jákób, hogy van gabona Égyiptomban és monda Jákób az ő fiainak: Mit néztek egymásra?
 fa4dh6fed 42,2
-És monda: Ímé hallomhogy Égyiptomban van gabona; menjetek le oda, és vegyetek onnan nékünk gabonát, hogy éljünk és ne haljunk meg.
+És monda: Ímé hallom hogy Égyiptomban van gabona; menjetek le oda, és vegyetek onnan nékünk gabonát, hogy éljünk és ne haljunk meg.
 fa4dh6fed 42,3
 Leméne azért Józsefnek tíz bátyja Égyiptomba gabonát venni.
 fa4dh6fed 42,4
@@ -2516,21 +2516,21 @@ De Benjámint a József öcscsét nem bocsátá el Jákób az ő bátyjaival; me
 fa4dh6fed 42,5
 Elmenének tehát Izráel fiai gabonát venni az oda menőkkel együtt, mert éhség vala Kanaán földén.
 fa4dh6fed 42,6
-József pedig az ország kormányzója vala, és ő árulja vala a gabonát a föld minden népének. Eljutának azért a József bátyjai, és arczczala földre borúlának ő előtte.
+József pedig az ország kormányzója vala, és ő árulja vala a gabonát a föld minden népének. Eljutának azért a József bátyjai, és arczczal a földre borúlának ő előtte.
 fa4dh6fed 42,7
 Amint meglátá József az ő bátyjait, megismeré őket, de idegennek mutatá magát hozzájok, és kemény beszédekkel szóla nékik, mondván: Honnan jöttetek? Azok pedig mondának: Kanaán földéről jöttünk eleséget venni.
 fa4dh6fed 42,8
 Megismeré pedig József az ő bátyjait, de azok nem ismerék meg őt.
 fa4dh6fed 42,9
-És megemlékezék József az álmokról, a melyeket azok felőlálmodott vala. És monda nékik: Kémek vagytok ti, kik azért jöttetek, hogy az ország védetlen részeit meglássátok.
+És megemlékezék József az álmokról, a melyeket azok felől álmodott vala. És monda nékik: Kémek vagytok ti, kik azért jöttetek, hogy az ország védetlen részeit meglássátok.
 fa4dh6fed 42,10
 És mondának néki: Nem uram, hanem eleséget venni jöttek a te szolgáid.
 fa4dh6fed 42,11
-Mi mindnyájan egy ember fiai vagyunk: igaz emberek vagyunk.nem voltak kémek a te szolgáid.
+Mi mindnyájan egy ember fiai vagyunk: igaz emberek vagyunk. Soha nem voltak kémek a te szolgáid.
 fa4dh6fed 42,12
 Ismét monda: Nem úgy van, hanem azért jöttetek, hogy az ország védetlen részeit meglássátok.
 fa4dh6fed 42,13
-mondának: Mi, te szolgáid, tizenketten vagyunk testvérek, egy embernek fiai, Kanaán földén; és ímé legkisebbikünk most atyánknál van, egyikünk pedig nincsen meg.
+Amazok mondának: Mi, te szolgáid, tizenketten vagyunk testvérek, egy embernek fiai, Kanaán földén; és ímé legkisebbikünk most atyánknál van, egyikünk pedig nincsen meg.
 fa4dh6fed 42,14
 József pedig monda nékik: Úgy van a mint néktek mondám: kémek vagytok.
 fa4dh6fed 42,15
@@ -2544,11 +2544,11 @@ Harmadnap pedig monda nékik József: Ezt cselekedjétek, hogy éljetek; az Iste
 fa4dh6fed 42,19
 Ha igaz emberek vagytok, maradjon fogva egyik testvéretek a ti tömlöczötökben, ti pedig menjetek el, vigyetek gabonát házaitok szükségére.
 fa4dh6fed 42,20
-Legkisebbik atyátokfiát pedig hozzátokén hozzám, akkor igazolva lesznek beszédeitek és nem haltok meg. És aképen cselekedének.
+Legkisebbik atyátokfiát pedig hozzátok én hozzám, akkor igazolva lesznek beszédeitek és nem haltok meg. És aképen cselekedének.
 fa4dh6fed 42,21
 És mondának egymásnak: Bizony vétkeztünk mi a mi atyánkfia ellen, a kinek láttuk lelki szorongását, mikor nékünk könyörög vala, de nem hallgattunk reá; azért következett reánk ez a nyomorúság.
 fa4dh6fed 42,22
-Rúben pedig felele nékik, mondván: Avagynem mondtam-é néktek, hogy ne vétkezzetek a gyermek ellen, de ti nem hallgattatok reám. És ímé vérét is keresik rajtunk!
+Rúben pedig felele nékik, mondván: Avagy nem mondtam-é néktek, hogy ne vétkezzetek a gyermek ellen, de ti nem hallgattatok reám. És ímé vérét is keresik rajtunk!
 fa4dh6fed 42,23
 És nem tudják vala ők, hogy József érti őket, mert tolmács vala közöttük.
 fa4dh6fed 42,24
@@ -2566,21 +2566,21 @@ fa4dh6fed 42,29
 fa4dh6fed 42,30
 Az a férfiú, annak a földnek ura, keményen szóla nékünk, és úgy bánt velünk, mintha az országot kémleltük volna.
 fa4dh6fed 42,31
-És mondánk néki: Igaz emberek vagyunk,nem voltunk mi kémek.
+És mondánk néki: Igaz emberek vagyunk, soha nem voltunk mi kémek.
 fa4dh6fed 42,32
-Tizenketten vagyunk atyafiak, a mi atyánknak fiai, egyikünk nincs meg, legkisebbikünk pedig most atyánkkalKanaán földén.
+Tizenketten vagyunk atyafiak, a mi atyánknak fiai, egyikünk nincs meg, legkisebbikünk pedig most atyánkkal van Kanaán földén.
 fa4dh6fed 42,33
 És monda nékünk az a férfiú, annak a földnek ura: Erről ismerem meg, hogy igaz emberek vagytok: egyik atyátokfiát hagyjátok nálam, a házaitok szükségére valót vigyétek, és menjetek el;
 fa4dh6fed 42,34
 És hozzátok hozzám a ti legkisebbik atyátokfiát, akkor megtudom, hogy nem vagytok kémek, hanem igaz emberek; akkor visszaadom néktek a ti atyátokfiát, és ebben az országban kereskedhettek.
 fa4dh6fed 42,35
-És lőn a mint zsákjaikat kiüresíték, ímé az ő csomópénze mindeniknek zsákjában vala. A mint látták az ő csomó pénzeiket ők és az ő atyjok, megfélemlének.
+És lőn a mint zsákjaikat kiüresíték, ímé az ő csomó pénze mindeniknek zsákjában vala. A mint látták az ő csomó pénzeiket ők és az ő atyjok, megfélemlének.
 fa4dh6fed 42,36
 És monda nékik az ő atyjok Jákób: Megfosztotok engem gyermekeimtől; József nincsen, Simeon sincsen. Benjámint is elviszitek? mindez engem ér!
 fa4dh6fed 42,37
 Akkor szóla Rúben az ő atyjának, mondván: az én két fiamat öld meg, ha meg nem hozom őt néked. Bízd az én kezemre őt, és én visszahozom néked.
 fa4dh6fed 42,38
-Az pedig monda: Nem megy leaz én fiam ti veletek, mert az ő bátyja megholt és ő maga maradt meg; ha veszedelem érné őt az úton, a melyen elmentek, ősz fejemet búba borítva bocsátanátok le a koporsóba.
+Az pedig monda: Nem megy le oda az én fiam ti veletek, mert az ő bátyja megholt és ő maga maradt meg; ha veszedelem érné őt az úton, a melyen elmentek, ősz fejemet búba borítva bocsátanátok le a koporsóba.
 fa4dh6fed 43,1
 Az éhség pedig elhatalmazott vala az országon.
 fa4dh6fed 43,2
@@ -2590,7 +2590,7 @@ fa4dh6fed 43,3
 fa4dh6fed 43,4
 Ha azért elbocsátod velünk a mi öcsénket, elmegyünk, és veszünk néked eleséget;
 fa4dh6fed 43,5
-Ha pedig el nem bocsátod, nem megyünk, mert az a férfiú megmondá nékünk:Színem elé ne kerűljetek, ha a ti atyátokfia veletek nem lesz.
+Ha pedig el nem bocsátod, nem megyünk, mert az a férfiú megmondá nékünk: Színem elé ne kerűljetek, ha a ti atyátokfia veletek nem lesz.
 fa4dh6fed 43,6
 És monda Izráel: Miért cselekedtetek gonoszul velem, hogy megmondtátok annak a férfiúnak, hogy még van egy öcsétek?
 fa4dh6fed 43,7
@@ -2602,7 +2602,7 @@ fa4dh6fed 43,9
 fa4dh6fed 43,10
 Bizony ha nem késlekedünk vala, ez ideig már kétszer is megjöhettünk volna.
 fa4dh6fed 43,11
-És monda nékik Izráel az ő atyjok: Ha csakugyan ígyakkor ezt cselekedjétek: Vegyetek e föld válogatott gyümölcseiből a ti edényeitekbe, és vigyetek ajándékot annak a férfiúnak; egy kevés balzsamot, egy kevés mézet, fűszerszámokat, mirhát, diót, mandulát.
+És monda nékik Izráel az ő atyjok: Ha csakugyan így kell lenni, akkor ezt cselekedjétek: Vegyetek e föld válogatott gyümölcseiből a ti edényeitekbe, és vigyetek ajándékot annak a férfiúnak; egy kevés balzsamot, egy kevés mézet, fűszerszámokat, mirhát, diót, mandulát.
 fa4dh6fed 43,12
 Pénzt pedig két annyit vigyetek magatokkal, sőt a mely pénzt meghoztatok a ti zsákjaitok szájában, azt is vigyétek vissza magatokkal, talán tévedés ez.
 fa4dh6fed 43,13
@@ -2612,7 +2612,7 @@ A mindenható Isten pedig engedje, hogy kedvet találjatok annál a férfiúnál
 fa4dh6fed 43,15
 Vevék azért a férfiak azt az ajándékot, és vevének kétannyi pénzt az ő kezökbe, és Benjámint, és felkelének és alámenének Égyiptomba, és megállának József előtt.
 fa4dh6fed 43,16
-A mint meglátá József ő velök Benjámint, monda az ő háza gondviselőjének: Vidd be azokat az embereket a házba, és ölj barmot, s készítsd el, mert velem ebédelnek ez emberekdélben.
+A mint meglátá József ő velök Benjámint, monda az ő háza gondviselőjének: Vidd be azokat az embereket a házba, és ölj barmot, s készítsd el, mert velem ebédelnek ez emberek ma délben.
 fa4dh6fed 43,17
 És az a férfiú aképen cselekedék, amint József parancsolta vala, és bevivé az a férfiú azokat az embereket a József házába.
 fa4dh6fed 43,18
@@ -2620,7 +2620,7 @@ fa4dh6fed 43,18
 fa4dh6fed 43,19
 És járulának József házának gondviselőjéhez, és szólának néki a ház ajtajában.
 fa4dh6fed 43,20
-És mondának: Kérünk uram! Ennekelőttealájöttünk vala eleséget venni.
+És mondának: Kérünk uram! Ennekelőtte alájöttünk vala eleséget venni.
 fa4dh6fed 43,21
 És lőn mikor éjjeli szállásra jutánk és kioldjuk vala a mi zsákjainkat: ímé mindenikünknek pénze az ő zsákjának szájában vala, tulajdon pénzünk teljes mértéke szerint; és visszahoztuk azt magunkkal.
 fa4dh6fed 43,22
@@ -2632,15 +2632,15 @@ Bevivé azután a férfiú azokat az embereket a József házába, és vizet hoz
 fa4dh6fed 43,25
 Ők pedig elkészíték az ajándékot mire József délben megjöve; mert megértették vala, hogy ott ebédelnek.
 fa4dh6fed 43,26
-Mikor József haza jöve, bevivék néki az ajándékot, mely kezökben vala, a házba, és leborulánakelőtte a földig.
+Mikor József haza jöve, bevivék néki az ajándékot, mely kezökben vala, a házba, és leborulának előtte a földig.
 fa4dh6fed 43,27
 És kérdezősködék egészségök felől, s monda: Egészségben van-é a ti vén atyátok, a kiről nékem szóltatok? él-é még?
 fa4dh6fed 43,28
 Azok pedig mondának: Egészségben van a te szolgád, a mi atyánk, még él. És meghajták magokat és leborulának.
 fa4dh6fed 43,29
-És felemelé szemeit és látá Benjámint az ő atyjafiát, az ő anyjának fiát, és monda: Ez-é a ti legkisebbik atyátokfia, a ki felőlnékem szóltatok vala? Ésmonda: Az Isten légyen hozzád kegyelmes, fiam!
+És felemelé szemeit és látá Benjámint az ő atyjafiát, az ő anyjának fiát, és monda: Ez-é a ti legkisebbik atyátokfia, a ki felől nékem szóltatok vala? És ismét monda: Az Isten légyen hozzád kegyelmes, fiam!
 fa4dh6fed 43,30
-Akkor elsiete onnan József, mert felgerjede szíve az ő öcscse iránt, és erőlteti vala a sírás;beméne azért szobájába, és ott síra.
+Akkor elsiete onnan József, mert felgerjede szíve az ő öcscse iránt, és erőlteti vala a sírás; beméne azért szobájába, és ott síra.
 fa4dh6fed 43,31
 Azután megmosá orczáját, és kiméne, és megtartóztatá magát, és monda: Hozzatok enni valót.
 fa4dh6fed 43,32
@@ -2650,7 +2650,7 @@ Leűlének azért ő előtte, az elsőszülött az ő elsőszülöttsége szerin
 fa4dh6fed 43,34
 Ő pedig részt juttata azoknak maga elől és a Benjámin része ötszörte nagyobb vala mindnyájok részénél. És ivának és megittasodának ő nála.
 fa4dh6fed 44,1
-Azután parancsolaaz ő háza gondviselőjének, mondván: Töltsd meg ez embereknek zsákjait eleséggel a mennyit elvihetnek; és mindeniknek pénzét tedd zsákja szájába.
+Azután parancsola József az ő háza gondviselőjének, mondván: Töltsd meg ez embereknek zsákjait eleséggel a mennyit elvihetnek; és mindeniknek pénzét tedd zsákja szájába.
 fa4dh6fed 44,2
 Az én poharamat pedig, az ezüst poharat, tedd a legkisebbik zsákjának szájába gabonájának árával együtt. És az József beszéde szerint cselekedék, a mint beszélt vala.
 fa4dh6fed 44,3
@@ -2668,7 +2668,7 @@ fa4dh6fed 44,8
 fa4dh6fed 44,9
 Akinél megtaláltatik a te szolgáid közűl, haljon meg az; sőt mi is szolgái leszünk uramnak.
 fa4dh6fed 44,10
-És monda: Mostan is legyen beszédetek szerint: a kinél megtaláltatik,légyen nékem szolgám, ti pedig mentek legyetek.
+És monda: Mostan is legyen beszédetek szerint: a kinél megtaláltatik, az légyen nékem szolgám, ti pedig mentek legyetek.
 fa4dh6fed 44,11
 És sietének és leraká kiki az ő zsákját a földre, és kioldá kiki az ő zsákját.
 fa4dh6fed 44,12
@@ -2692,27 +2692,27 @@ Akkor mi azt felelénk az én uramnak: Van egy vén atyánk, és egy kis gyermek
 fa4dh6fed 44,21
 És azt mondád a te szolgáidnak: Hozzátok én hozzám azt, hogy szemeimet reá vessem.
 fa4dh6fed 44,22
-És mondánk az én uramnak: Nem hagyhatja el az a fiú az ő atyját; mert ha elhagyja atyját, meghal.
+És mondánk az én uramnak: Nem hagyhatja el az a fiú az ő atyját; mert ha elhagyja atyját, meghal az .
 fa4dh6fed 44,23
-Ésezt mondád a te szolgáidnak: Ha a ti legkisebbik atyátokfia el nem jő veletek, színem elé se kerűljetek többé.
+És ezt mondád a te szolgáidnak: Ha a ti legkisebbik atyátokfia el nem jő veletek, színem elé se kerűljetek többé.
 fa4dh6fed 44,24
 Mikor azért felmenénk a te szolgádhoz, az én atyámhoz és tudtul adjuk vala néki az én uramnak beszédét;
 fa4dh6fed 44,25
-És monda a mi atyánk: Menjetek vissza, és vegyetek nékünkkevés eleséget.
+És monda a mi atyánk: Menjetek vissza, és vegyetek nékünk egy kevés eleséget.
 fa4dh6fed 44,26
 És mondánk: Nem mehetünk le; ha a mi legkisebbik atyánkfia velünk lesz, akkor lemegyünk; mert nem mehetünk ama férfiú színe elé, ha a mi legkisebbik atyánkfia velünk nem lesz.
 fa4dh6fed 44,27
-És monda a te szolgád, az én atyám, nékünk: Ti tudjátok hogy az én feleségem nékem csak kétszűlt.
+És monda a te szolgád, az én atyám, nékünk: Ti tudjátok hogy az én feleségem nékem csak két fiat szűlt.
 fa4dh6fed 44,28
-Az egyik kiméne tőlem, és azt mondom vala:bizonyáraszaggatta széllyel és attól fogva nem láttam őt.
+Az egyik kiméne tőlem, és azt mondom vala: bizonyára fenevad szaggatta széllyel és attól fogva nem láttam őt.
 fa4dh6fed 44,29
-Ha ezt is elviszitek szemeim elől, s veszedelem találja érni, akkor az én ősz fejemetkeserűségtől borítva bocsátjátok alá a koporsóba.
+Ha ezt is elviszitek szemeim elől, s veszedelem találja érni, akkor az én ősz fejemet keserűségtől borítva bocsátjátok alá a koporsóba.
 fa4dh6fed 44,30
 Ha tehát most visszamenéndek a te szolgádhoz, az én atyámhoz, és e fiú nem lesz velünk, mivelhogy annak lelke ennek lelkéhez van nőve,
 fa4dh6fed 44,31
 Ha meglátja, hogy nincs meg a gyermek, meghal s akkor a te szolgáid, a te szolgádnak, a mi atyánknak ősz fejét búba borítva bocsátják alá a koporsóba.
 fa4dh6fed 44,32
-Mivel a te szolgád e fiúért az ő atyjánál kezes lett, mondván:Ha vissza nem hozom őt hozzád, mind éltig bűnös legyek az én atyám előtt.
+Mivel a te szolgád e fiúért az ő atyjánál kezes lett, mondván: Ha vissza nem hozom őt hozzád, mind éltig bűnös legyek az én atyám előtt.
 fa4dh6fed 44,33
 Hadd maradjon azért e gyermek helyébe a te szolgád, az én uramnak szolgájáúl; e gyermek pedig menjen fel az ő bátyjaival.
 fa4dh6fed 44,34
@@ -2720,15 +2720,15 @@ Mert mimódon mehetnék én fel atyámhoz, ha e gyermek velem nem lenne, a nélk
 fa4dh6fed 45,1
 És nem tartóztathatá magát tovább József mindazok előtt, kik körűlötte állának és felkiálta: Vezessetek ki minden embert mellőlem. És nem marada senki nála, mikor megismerteté magát József az ő atyjafiaival.
 fa4dh6fed 45,2
-És hangos sírásra fakada, úgy hogy meghallák az Égyiptombeliek, és meghallá a Faraóháznépe is.
+És hangos sírásra fakada, úgy hogy meghallák az Égyiptombeliek, és meghallá a Faraó háznépe is.
 fa4dh6fed 45,3
 És monda József az ő atyjafiainak: Én vagyok József, él-e még az én atyám? És nem felelhetének néki az ő atyjafiai, mert megrettentek vala tőle.
 fa4dh6fed 45,4
-Monda azért József az ő atyjafiainak: Jőjjetek közelebb hozzám! És közelebb menének. Akkor monda: ÉnJózsef, a ti testvéretek, kit eladtatok vala Égyiptomba.
+Monda azért József az ő atyjafiainak: Jőjjetek közelebb hozzám! És közelebb menének. Akkor monda: Én  vagyok József, a ti testvéretek, kit eladtatok vala Égyiptomba.
 fa4dh6fed 45,5
-És most ne bánkódjatok, és ne bosszankodjatok azon, hogy engem ide eladtatok; mert a timegmaradástokért küldött el engem Isten ti előttetek.
+És most ne bánkódjatok, és ne bosszankodjatok azon, hogy engem ide eladtatok; mert a ti megmaradástokért küldött el engem Isten ti előttetek.
 fa4dh6fed 45,6
-Mert immár két esztendeje, hogy éhség van e földön, de még ötesztendő van hátra, melyben sem szántás, sem aratás nem lesz.
+Mert immár két esztendeje, hogy éhség van e földön, de még öt esztendő van hátra, melyben sem szántás, sem aratás nem lesz.
 fa4dh6fed 45,7
 Az Isten küldött el engem ti előttetek, hogy míveljem a ti megmaradásotokat e földön, és hogy megmenthesselek titeket nagy szabadítással.
 fa4dh6fed 45,8
@@ -2742,13 +2742,13 @@ fa4dh6fed 45,11
 fa4dh6fed 45,12
 És ímé a ti szemeitek látják, és az én atyámfiának Benjáminnak szemei, hogy az én szám szól hozzátok.
 fa4dh6fed 45,13
-Beszéljétek hát el atyámnak minden én dicsőségemet Égyiptomban, és mindazt, a mit láttatok. És siessetek shozzátok ide az én atyámat.
+Beszéljétek hát el atyámnak minden én dicsőségemet Égyiptomban, és mindazt, a mit láttatok. És siessetek s hozzátok ide az én atyámat.
 fa4dh6fed 45,14
 És nyakába borúla az ő öccsének Benjáminnak és síra; Benjámin is síra az ő nyakán.
 fa4dh6fed 45,15
 És megcsókolá mind az ő testvéreit és síra ő rajtok; azután beszédbe ereszkedének vele az ő testvérei.
 fa4dh6fed 45,16
-És eljutaa hír a Faraó házába is, mondván: Eljöttek a József atyjafiai; és tetszék e dolog mind a Faraónak, mind az ő szolgáinak.
+És eljuta a hír a Faraó házába is, mondván: Eljöttek a József atyjafiai; és tetszék e dolog mind a Faraónak, mind az ő szolgáinak.
 fa4dh6fed 45,17
 És monda a Faraó Józsefnek: Mondd meg a te atyádfiainak: Ezt cselekedjétek: Terheljétek meg a ti barmaitokat, és eredjetek, menjetek el Kanaán földére;
 fa4dh6fed 45,18
@@ -2782,21 +2782,21 @@ fa4dh6fed 46,3
 fa4dh6fed 46,4
 Én lemegyek veled Égyiptomba, és én bizonynyal fel is hozlak; és József fogja bé a te szemeidet.
 fa4dh6fed 46,5
-Felkerekedékazért Jákób Beérsebából, és elvivék Izráel fiai Jákóbot az ő atyjokat, és gyermekeiket és feleségeiket a szekereken, melyeket a Faraó küldött vala érette.
+Felkerekedék azért Jákób Beérsebából, és elvivék Izráel fiai Jákóbot az ő atyjokat, és gyermekeiket és feleségeiket a szekereken, melyeket a Faraó küldött vala érette.
 fa4dh6fed 46,6
-És elvivék nyájaikat és szerzeményeiket, melyeket Kanaán földén szereztek vala,és jutának Égyiptomba Jákób és minden vele levő magva.
+És elvivék nyájaikat és szerzeményeiket, melyeket Kanaán földén szereztek vala,   és jutának Égyiptomba Jákób és minden vele levő magva.
 fa4dh6fed 46,7
 Az ő fiait és fiainak fiait, az ő leányait, és fiainak leányait és minden vele levő magvát elvivé magával Égyiptomba.
 fa4dh6fed 46,8
 Ezek pedig az Izráel fiainak nevei, kik bementek Égyiptomba: Jákób és az ő fiai: Jákóbnak elsőszülötte Rúben.
 fa4dh6fed 46,9
-Rúben fiai pedig: Khánokh, Pallu, Kheczrón,Khármi.
+Rúben fiai pedig: Khánokh, Pallu, Kheczrón, Khármi.
 fa4dh6fed 46,10
-Simeonfiai pedig: Jemúel, Jámin, Ohad, Jákhin, Czóhár és Saul a kanaáni asszonynak fia.
+Simeon fiai pedig: Jemúel, Jámin, Ohad, Jákhin, Czóhár és Saul a kanaáni asszonynak fia.
 fa4dh6fed 46,11
-Lévifiai pedig: Gerson, Kehát, Mérári.
+Lévi fiai pedig: Gerson, Kehát, Mérári.
 fa4dh6fed 46,12
-Júdafiai pedig: Hér, Ónán, Séla, Perecz, Zerákh; de megholt vala Hér és Ónán a Kanaán földén.Perecznek fiai pedig: Kheczrón és Khámul.
+Júda fiai pedig: Hér, Ónán, Séla, Perecz, Zerákh; de megholt vala Hér és Ónán a Kanaán földén. Perecznek fiai pedig: Kheczrón és Khámul.
 fa4dh6fed 46,13
 Izsakhár fiai pedig: Thóla, Puvah, Jób és Simrón.
 fa4dh6fed 46,14
@@ -2806,13 +2806,13 @@ Ezek Lea fiai, a kiket szűlt vala Jákóbnak Mésopotámiában, Dínával az ő
 fa4dh6fed 46,16
 Gád fiai pedig: Czifjon, Khaggi, Súni, Eczbón, Héri, Aródi és Areéli.
 fa4dh6fed 46,17
-Áserfiai pedig: Jimnáh, Jisváh, Jisvi, Beriha és Szerakh az ő húgok; Berihának fiai pedig: Khéber és Málkhiel.
+Áser fiai pedig: Jimnáh, Jisváh, Jisvi, Beriha és Szerakh az ő húgok; Berihának fiai pedig: Khéber és Málkhiel.
 fa4dh6fed 46,18
 Ezek Zilpa fiai, kit Lábán adott vala Leának az ő leányának; és ő szűlé ezt a tizenhat lelket Jákóbnak.
 fa4dh6fed 46,19
 Rákhelnek, Jákób feleségének fiai: József és Benjámin.
 fa4dh6fed 46,20
-És születénekJózsefnek Égyiptom földén Manasse és Efráim, a kiket Asznáth, Potiferának, On papjának leánya szűlt néki.
+És születének Józsefnek Égyiptom földén Manasse és Efráim, a kiket Asznáth, Potiferának, On papjának leánya szűlt néki.
 fa4dh6fed 46,21
 Benjámin fiai pedig: Bela, Bekher, Asbél, Géra, Nahamán, Ekhi, Rós, Muppim, Khuppim és Ard.
 fa4dh6fed 46,22
@@ -2820,13 +2820,13 @@ Ezek Rákhel fiai, kik születtek Jákóbnak, mindössze tizennégy lélek.
 fa4dh6fed 46,23
 Dán fia pedig: Khusim.
 fa4dh6fed 46,24
-Nafthalifiai pedig: Jakhczeél, Gúni, Jéczer és Sillém.
+Nafthali fiai pedig: Jakhczeél, Gúni, Jéczer és Sillém.
 fa4dh6fed 46,25
-Ezek Bilha fiai,kit adott vala Lábán Rákhelnek az ő leányának; és ezeket szűlte Jákóbnak, mindössze hét lelket.
+Ezek Bilha fiai, kit adott vala Lábán Rákhelnek az ő leányának; és ezeket szűlte Jákóbnak, mindössze hét lelket.
 fa4dh6fed 46,26
 Valamennyi Jákóbbal Égyiptomba jött lélek, kik az ő ágyékából származtak, a Jákób fiainak feleségeit nem számítva, mindössze hatvanhat lélek.
 fa4dh6fed 46,27
-József fiai pedig, kik Égyiptomban születtek, két lélek. Jákób egész házanépe, mely Égyiptomba ment vala, hetvenlélek.
+József fiai pedig, kik Égyiptomban születtek, két lélek. Jákób egész házanépe, mely Égyiptomba ment vala, hetven lélek.
 fa4dh6fed 46,28
 Júdát pedig elküldé maga előtt Józsefhez, hogy útmutatója legyen Gósen felé. És eljutának Gósen földére.
 fa4dh6fed 46,29
@@ -2840,13 +2840,13 @@ Azok az emberek pedig juhpásztorok, mert baromtartó nép valának, és juhaika
 fa4dh6fed 46,33
 S ha majd a Faraó hivat titeket és azt kérdi: Mi a ti életmódotok?
 fa4dh6fed 46,34
-Azt mondjátok: Baromtartó emberek voltak a te szolgáid gyermekségünktől fogva mind ez ideig, mi is, mint a mi atyáink, hogy lakhassatok Gósen földén; mert minden juhpásztorutálatos az Égyiptombeliek előtt.
+Azt mondjátok: Baromtartó emberek voltak a te szolgáid gyermekségünktől fogva mind ez ideig, mi is, mint a mi atyáink, hogy lakhassatok Gósen földén; mert minden juhpásztor utálatos az Égyiptombeliek előtt.
 fa4dh6fed 47,1
 Elméne azért József és tudtára adá a Faraónak, és monda: Az én atyám és atyámfiai, juhaikkal, barmaikkal és mindenökkel valamijök volt, ide jöttek Kanaán földéről; és most Gósen földén vannak.
 fa4dh6fed 47,2
 És vőn ötöt az ő testvérei közűl, és állítá őket a Faraó elé.
 fa4dh6fed 47,3
-És monda a Faraó atestvéreinek: Mi a ti életmódotok? És mondának a Faraónak: Juhpásztorok ate szolgáid, mi is, mint a mi atyáink.
+És monda a Faraó a József testvéreinek: Mi a ti életmódotok? És mondának a Faraónak: Juhpásztorok a te szolgáid, mi is, mint a mi atyáink.
 fa4dh6fed 47,4
 És mondának a Faraónak: Azért jöttünk, hogy e földön tartózkodjunk, mert a te szolgáid barmainak nincs legelője, mivelhogy elhatalmazott az éhség Kanaán földén: hadd lakjanak azért most a te szolgáid Gósen földén.
 fa4dh6fed 47,5
@@ -2858,11 +2858,11 @@ Bevivé József Jákóbot is az ő atyját, és állítá őt a Faraó elé. És
 fa4dh6fed 47,8
 És monda a Faraó Jákóbnak: Hány esztendős vagy?
 fa4dh6fed 47,9
-Monda pedig Jákób a Faraónak: Az én bujdosásomesztendeinek napjai száz harmincz esztendő; kevesek és nyomorúságosak voltak az én életem esztendeinek napjai, és nem érték el az én atyáim élete esztendeinek napjait, a meddig ők bujdostak.
+Monda pedig Jákób a Faraónak: Az én bujdosásom esztendeinek napjai száz harmincz esztendő; kevesek és nyomorúságosak voltak az én életem esztendeinek napjai, és nem érték el az én atyáim élete esztendeinek napjait, a meddig ők bujdostak.
 fa4dh6fed 47,10
 És megáldá Jákób a Faraót, és kiméne a Faraó elől.
 fa4dh6fed 47,11
-Megtelepíté tehát József az ő atyját és atyjafiait, és ada nékik birtokot Égyiptom földén, annak a földnek legjobb részében aRameszesz földén; a mint megparancsolta vala a Faraó.
+Megtelepíté tehát József az ő atyját és atyjafiait, és ada nékik birtokot Égyiptom földén, annak a földnek legjobb részében a Rameszesz földén; a mint megparancsolta vala a Faraó.
 fa4dh6fed 47,12
 És ellátja vala József az ő atyját és atyjafiait, és az ő atyjának egész házanépét kenyérrel, gyermekeik számához képest.
 fa4dh6fed 47,13
@@ -2894,11 +2894,11 @@ fa4dh6fed 47,25
 fa4dh6fed 47,26
 És törvénynyé tevé azt József mind e mai napig Égyiptom földén, hogy a Faraóé az ötödrész, csak a papok földe, egyedűl az nem volt a Faraóé.
 fa4dh6fed 47,27
-Lakozék azért Izráel Égyiptom földében a Gósenföldén, és ott megöröködének, s megszaporodának és megsokasodának felette igen.
+Lakozék azért Izráel Égyiptom földében a Gósen földén, és ott megöröködének, s megszaporodának és megsokasodának felette igen.
 fa4dh6fed 47,28
 Jákób pedig tizenhét esztendeig él vala Égyiptom földén, és Jákób élete esztendeinek napjai száz negyvenhét esztendő.
 fa4dh6fed 47,29
-És elközelgetének Izráel halálának napjai, és hívatá az ő fiát Józsefet, s monda néki: Ha én te előtted kedves vagyok, kérlek tedd a kezedettomporom alá, és légy hozzám szeretettel és hűséggel: Kérlek ne temess el engem Égyiptomban.
+És elközelgetének Izráel halálának napjai, és hívatá az ő fiát Józsefet, s monda néki: Ha én te előtted kedves vagyok, kérlek tedd a kezedet tomporom alá, és légy hozzám szeretettel és hűséggel: Kérlek ne temess el engem Égyiptomban.
 fa4dh6fed 47,30
 Midőn elaluszom az én atyáimmal, vígy ki engem Égyiptomból és temess el az ő sírjokba. És monda: Én a te beszéded szerint cselekszem.
 fa4dh6fed 47,31
@@ -2908,33 +2908,33 @@ fa4dh6fed 48,1
 fa4dh6fed 48,2
 És tudtára adák Jákóbnak, mondván: Ímé a te fiad József hozzád jő; és összeszedé erejét Izráel, s felüle az ágyon.
 fa4dh6fed 48,3
-És monda Jákób Józsefnek: A mindenható Istenmegjelenék nékem Lúzban, a Kanaán földén, és megálda engem.
+És monda Jákób Józsefnek: A mindenható Isten megjelenék nékem Lúzban, a Kanaán földén, és megálda engem.
 fa4dh6fed 48,4
-És monda nékem: Ímé én megszaporítlak és megsokasítlakés népek sokaságává teszlek téged, s ezt a földet te utánnad a te magodnakadom örök birtokul.
+És monda nékem: Ímé én megszaporítlak és megsokasítlak és népek sokaságává teszlek téged, s ezt a földet te utánnad a te magodnak adom örök birtokul.
 fa4dh6fed 48,5
-Most tehát a te két fiad, akik néked Égyiptom földén annakelőtte születtek, hogy én hozzád jöttem vala Égyiptomba, az enyéim; Efraim és Manasse, akár csak Rúben és Simeon, az enyéim lesznek.
+Most tehát a te két fiad, a kik néked Égyiptom földén annakelőtte születtek, hogy én hozzád jöttem vala Égyiptomba, az enyéim; Efraim és Manasse, akár csak Rúben és Simeon, az enyéim lesznek.
 fa4dh6fed 48,6
 Ama szülötteid pedig, kiket ő utánok nemzettél, tiéid lésznek, és az ő bátyjaik nevéről neveztessenek az ő örökségökben.
 fa4dh6fed 48,7
-Mert mikorMésopotámiából jövék, meghala mellettem Rákhel Kanaán földén az úton, mikor még egy dűlőföldre valék Efratától, és eltemetém őt ott az Efratába (azaz Bethlehembe) vezető úton.
+Mert mikor Mésopotámiából jövék, meghala mellettem Rákhel Kanaán földén az úton, mikor még egy dűlőföldre valék Efratától, és eltemetém őt ott az Efratába (azaz Bethlehembe) vezető úton.
 fa4dh6fed 48,8
 És meglátá Izráel a József fiait és monda: Kicsodák ezek?
 fa4dh6fed 48,9
 József pedig monda az ő atyjának: Az én fiaim, kiket Isten itt adott nékem. És monda: Hozd ide őket hozzám, hadd áldjam meg.
 fa4dh6fed 48,10
-Mert Izráelnek szemei meghomályosodának a vénség miatt,nem láthat vala. Közel vivé tehát őket hozzá, ő pedig megcsókolgatá és megölelgeté őket.
+Mert Izráelnek szemei meghomályosodának a vénség miatt, és nem láthat vala. Közel vivé tehát őket hozzá, ő pedig megcsókolgatá és megölelgeté őket.
 fa4dh6fed 48,11
 És monda Izráel Józsefnek: Nem gondoltam, hogy orczádat megláthassam, és íme az Isten megengedte látnom magodat is.
 fa4dh6fed 48,12
-Akkor kivevé József azokat az ő atérdei közül, és leborula arczczal a földre.
+Akkor kivevé József azokat az ő a tyjának térdei közül, és leborula arczczal a földre.
 fa4dh6fed 48,13
 És fogá József mindkettejöket, Efraimot jobbkezével Izráel balkeze felől; Manassét pedig balkezével Izráelnek jobbkeze felől és közel vivé őket hozzá.
 fa4dh6fed 48,14
 Izráel pedig kinyujtá az ő jobbkezét és rátevé Efraim fejére, pedig ő a kisebbik vala, az ő balkezét pedig Manasse fejére. Tudva tevé így kezeit, mert az elsőszülött Manasse vala.
 fa4dh6fed 48,15
-Ésmegáldá Józsefet s monda: Az Isten, a kinek előtte jártak az én atyáim Ábrahám és Izsák; az Isten a ki gondomat viselte, a mióta vagyok, mind e napig:
+És megáldá Józsefet s monda: Az Isten, a kinek előtte jártak az én atyáim Ábrahám és Izsák; az Isten a ki gondomat viselte, a mióta vagyok, mind e napig:
 fa4dh6fed 48,16
-AmazAngyal, ki megszabadított engem minden gonosztól, áldja meg e gyermekeket, és viseljék az én nevemet és az én atyáimnak Ábrahámnak és Izsáknak nevét, és mint a halak szaporodjanak e földön.
+Amaz Angyal, ki megszabadított engem minden gonosztól, áldja meg e gyermekeket, és viseljék az én nevemet és az én atyáimnak Ábrahámnak és Izsáknak nevét, és mint a halak szaporodjanak e földön.
 fa4dh6fed 48,17
 Látván pedig József, hogy az ő atyja jobbkezét Efraim fejére tevé, nem tetszék néki, és megfogá atyja kezét, hogy Efraim fejéről Manasse fejére tegye át.
 fa4dh6fed 48,18
@@ -2946,31 +2946,31 @@ fa4dh6fed 48,20
 fa4dh6fed 48,21
 És mondá Izráel Józsefnek: Ímé én meghalok, de az Isten veletek lesz és vissza visz titeket a ti atyáitok földére.
 fa4dh6fed 48,22
-Én pedig adok néked egy osztályrészt a te atyádfiainak részefelett, melyet az Emoreustól vettem fegyveremmel és kézívemmel.
+Én pedig adok néked egy osztályrészt a te atyádfiainak része felett, melyet az Emoreustól vettem fegyveremmel és kézívemmel.
 fa4dh6fed 49,1
 És szólítá Jákób az ő fiait, és monda: Gyűljetek egybe, hadd jelentsem meg néktek, a mi rátok következik a messze jövőben.
 fa4dh6fed 49,2
 Gyűljetek össze s hallgassatok Jákóbnak fiai! hallgassatok Izráelre, a ti atyátokra.
 fa4dh6fed 49,3
-Rúben, teelsőszülöttem, erőm, tehetségem zsengéje, első a méltóságban, első a hatalomban.
+Rúben, te elsőszülöttem, erőm, tehetségem zsengéje, első a méltóságban, első a hatalomban.
 fa4dh6fed 49,4
-Állhatatlan, mint a víz, nem leszesz első, mivelatyád ágyába léptél fel: akkor megfertőztetted! Nyoszolyámba lépett ő.
+Állhatatlan, mint a víz, nem leszesz első, mivel atyád ágyába léptél fel: akkor megfertőztetted! Nyoszolyámba lépett ő.
 fa4dh6fed 49,5
-Simeon és Lévi atyafiak, erőszak eszközei aző fegyverök.
+Simeon és Lévi atyafiak, erőszak eszközei az ő fegyverök.
 fa4dh6fed 49,6
 Tanácsukban ne légyen részes lelkem, gyűlésükkel ne egyesűljön dicsőségem, mert haragjokban férfit öltek, s kedvök telve inát szegték az ökörnek.
 fa4dh6fed 49,7
-Átkozott haragjok, mert erőszakos, és dühök, mivel kegyetlen; eloszlatom őket Jákóbban, éselszélesztem Izráelben.
+Átkozott haragjok, mert erőszakos, és dühök, mivel kegyetlen; eloszlatom őket Jákóbban, és elszélesztem Izráelben.
 fa4dh6fed 49,8
-Júda! téged magasztalnakatyádfiai, kezed ellenségeidnek nyakán lesz s meghajolnak előtted atyáidnak fiai.
+Júda! téged magasztalnak atyádfiai, kezed ellenségeidnek nyakán lesz s meghajolnak előtted atyáidnak fiai.
 fa4dh6fed 49,9
-Oroszlánkölyök Júda; zsákmányt ejtvén, felmentél, fiam! Lehevert, lenyúgodott, mint a hím oroszlán, és mint nőstény oroszlán;ki veri őt fel?
+Oroszlánkölyök Júda; zsákmányt ejtvén, felmentél, fiam! Lehevert, lenyúgodott, mint a hím oroszlán, és mint nőstény oroszlán;  ki veri őt fel?
 fa4dh6fed 49,10
-Nem múlik el Júdától a fejedelmi bot, sem a vezéri pálcza térdei közűl; míg eljő Siló,és a népek néki engednek.
+Nem múlik el Júdától a fejedelmi bot, sem a vezéri pálcza térdei közűl; míg eljő Siló, és a népek néki engednek.
 fa4dh6fed 49,11
 Szőlőtőhöz köti szamarát, és nemes venyigéhez szamara vemhét, ruháját borban mossa, felöltőjét a szőlő vérében.
 fa4dh6fed 49,12
-Bortólveresek szemei, tejtől fehérek fogai.
+Bortól veresek szemei, tejtől fehérek fogai.
 fa4dh6fed 49,13
 Zebulon a tenger partjáig lakozik, azaz a hajók kikötőjéig s határának széle Czídonig ér.
 fa4dh6fed 49,14
@@ -2992,9 +2992,9 @@ Nafthali, gyorslábú szarvas, az ő beszéde kedves.
 fa4dh6fed 49,22
 Termékeny fa József, termő ág a forrás mellett, ágazata meghaladja a kőfalat.
 fa4dh6fed 49,23
-Keserítik, lövöldözikés üldözik a nyilazók:
+Keserítik, lövöldözik és üldözik a nyilazók:
 fa4dh6fed 49,24
-De mereven marad kézíve, feszülten keze karjai, Jákób Hatalmasának kezétől,onnan, Izráel pásztorától, kősziklájától.
+De mereven marad kézíve, feszülten keze karjai, Jákób Hatalmasának kezétől, onnan, Izráel pásztorától, kősziklájától.
 fa4dh6fed 49,25
 Atyád Istenétől, a ki segéljen; a mindenhatótól, a ki megáldjon, az ég áldásaival, onnan felülről, a mélység áldásaival, mely alant terül, az emlők és anyaméh áldásaival.
 fa4dh6fed 49,26
@@ -3006,13 +3006,13 @@ Mind ezek Izráel nemzetségei, tizenketten, és ez az a mit mondott nékik az �
 fa4dh6fed 49,29
 És parancsola nékik és monda: Én az én népemhez takaríttatom, temessetek engem az én atyáimhoz, ama barlangba, mely a Khitteus Efron mezején van.
 fa4dh6fed 49,30
-Abbaa barlangba, mely Kanaán földén Mamré átellenében Makpelahnak mezején van, melyet megvett Ábrahám a mezővel együtt a Khitteus Efrontól, temetésre való örökségül.
+Abba a barlangba, mely Kanaán földén Mamré átellenében Makpelahnak mezején van, melyet megvett Ábrahám a mezővel együtt a Khitteus Efrontól, temetésre való örökségül.
 fa4dh6fed 49,31
-Oda temették elÁbrahámot és Sárát az ő feleségét; oda temették Izsákot és Rebekát az ő feleségét; s oda temettem el Leát is.
+Oda temették el Ábrahámot és Sárát az ő feleségét; oda temették Izsákot és Rebekát az ő feleségét; s oda temettem el Leát is.
 fa4dh6fed 49,32
 Szerzemény e mező és a barlang, mely abban van, a Khéth fiaitól.
 fa4dh6fed 49,33
-És elvégezé Jákób a mit fiainak parancsolt és fölszedé lábait az ágyra, és kimúlékés az ő népéhez takaríttaték.
+És elvégezé Jákób a mit fiainak parancsolt és fölszedé lábait az ágyra, és kimúlék és az ő népéhez takaríttaték.
 fa4dh6fed 50,1
 József pedig az ő atyja orczájára borúla és siránkozék felette és csókolgatá őt.
 fa4dh6fed 50,2
@@ -3022,7 +3022,7 @@ Mikor negyven nap eltelék, mert akkorra telnek be a bebalzsamozás napjai, sira
 fa4dh6fed 50,4
 És elmúlának az ő siratásának napjai, és szóla József a Faraó házanépéhez, mondván: Ha kedves vagyok előttetek, szóljatok kérlek a Faraónak, mondván:
 fa4dh6fed 50,5
-Az én atyám engemmegesketett, mondván: Ímé én meghalok; az én síromba, melyet Kanaán földén ástam magamnak, oda temess el engem. Most hát kérlek, hadd menjek el, és temessem el az én atyámat, azután visszatérek.
+Az én atyám engem megesketett, mondván: Ímé én meghalok; az én síromba, melyet Kanaán földén ástam magamnak, oda temess el engem. Most hát kérlek, hadd menjek el, és temessem el az én atyámat, azután visszatérek.
 fa4dh6fed 50,6
 És monda a Faraó: Eredj el és temesd el a te atyádat, a mint megesketett téged.
 fa4dh6fed 50,7
@@ -3036,23 +3036,23 @@ Mikor eljutának Atád szérűjéhez, mely a Jordánon túl van, nagy és keserv
 fa4dh6fed 50,11
 És láták az ország lakosai, a Kanaán népe azt a gyászt Atád szérűjénél, és mondának: Keserves gyásza ez az Égyiptombelieknek. Azért nevezék azt a helyet Ábel Miczrajimnak, mely a Jordánon túl van.
 fa4dh6fed 50,12
-Aképen cselekedének azértaz ő fiai, a miképen megparancsolta vala nékik.
+Aképen cselekedének azért Jákóbbal az ő fiai, a miképen megparancsolta vala nékik.
 fa4dh6fed 50,13
-Elvivékugyanis őt az ő fiai Kanaán földére és eltemeték őt a Makpelah mezőnek barlangjába, melyet vett vala Ábrahám a mezővel együtt temetésre való örökségneka Khitteus Efrontól Mamrénak átellenében.
+Elvivék ugyanis őt az ő fiai Kanaán földére és eltemeték őt a Makpelah mezőnek barlangjába, melyet vett vala Ábrahám a mezővel együtt temetésre való örökségnek a Khitteus Efrontól Mamrénak átellenében.
 fa4dh6fed 50,14
 És visszatére József Égyiptomba, ő, és az ő atyjafiai, és mind azok, kik vele fölmentek vala az ő atyjának temetésére, minekutána eltemette az ő atyját.
 fa4dh6fed 50,15
-A mint láták József bátyjai, hogy az ő atyjok meghalt, ezt mondják vala: Hátha gyűlölni fog minket József, és visszaadja nékünk mindazt agonoszt, a mit rajta elkövettünk.
+A mint láták József bátyjai, hogy az ő atyjok meghalt, ezt mondják vala: Hátha gyűlölni fog minket József, és visszaadja nékünk mindazt a gonoszt, a mit rajta elkövettünk.
 fa4dh6fed 50,16
 Izenetet küldének azért Józsefhez, mondván: A te atyád megparancsolta nékünk az ő holta előtt, mondván:
 fa4dh6fed 50,17
 Így szóljatok Józsefhez: Kérünk téged, bocsásd meg a te atyádfiainak vétkét és bűnöket, mert gonoszul cselekedtek te ellened. Most azért bocsásd meg azoknak vétkét, a kik a te atyád Istenét szolgálják. József pedig sír vala, mikor ezt mondák néki.
 fa4dh6fed 50,18
-Járulának pedig ő hozzá az ő testvérei is, és leborúlának előtte és mondának: Ímé mi a te szolgáid.
+Járulának pedig ő hozzá az ő testvérei is, és leborúlának előtte és mondának: Ímé mi a te szolgáid vagyunk .
 fa4dh6fed 50,19
-József pedig monda: Ne féljetek: avagy Isten gyanántén?
+József pedig monda: Ne féljetek: avagy Isten gyanánt vagyok-é én?
 fa4dh6fed 50,20
-Ti gonoszt gondoltatok én ellenem,Isten azt jóra gondolta, hogy cselekedjék úgy a mint ma, hogy sok nép életét megtartsa.
+Ti gonoszt gondoltatok én ellenem, de Isten azt jóra gondolta fordítani , hogy cselekedjék úgy a mint ma, hogy sok nép életét megtartsa.
 fa4dh6fed 50,21
 Most annakokáért ne féljetek: Eltartalak én titeket és a ti gyermekeiteket. És megvígasztalá őket és szívökre beszéle.
 fa4dh6fed 50,22
@@ -3060,8 +3060,8 @@ József pedig Égyiptomban lakozék; mind ő, mind az ő atyjának házanépe. �
 fa4dh6fed 50,23
 És látá József Efraimtól harmad ízben való fiait. Manasse fiának Mákhirnak is születtek József térdén gyermekei.
 fa4dh6fed 50,24
-És monda József az ő testvéreinek: Én meghalok, de Isten bizonnyal meglátogattiteket és felvisz titeket e földről arra a földre, melyet esküvel ígért meg Ábrahámnak, Izsáknak és Jákóbnak.
+És monda József az ő testvéreinek: Én meghalok, de Isten bizonnyal meglátogat titeket és felvisz titeket e földről arra a földre, melyet esküvel ígért meg Ábrahámnak, Izsáknak és Jákóbnak.
 fa4dh6fed 50,25
-És megesketé József Izráel fiait, mondván: Mikor az Isten titeket bizonnyal meglátogat,vigyétek fel innen az én tetemeimet magatokkal.
+És megesketé József Izráel fiait, mondván: Mikor az Isten titeket bizonnyal meglátogat,  vigyétek fel innen az én tetemeimet magatokkal.
 fa4dh6fed 50,26
-És meghala Józsefszáz tíz esztendős korában, és bebalzsamozák, és koporsóba tevék Égyiptomban.
+És meghala József száz tíz esztendős korában, és bebalzsamozák, és koporsóba tevék Égyiptomban.  

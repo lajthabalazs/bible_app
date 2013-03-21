@@ -1,6 +1,6 @@
-BÖLCS SALAMONNAK PÉLDABESZÉDEI
+Bölcs Salamonnak Példabeszédei
 fa4dh6fed 1,1
-Salamonnak, Dávid fiának, Izráel királyánakpéldabeszédei,
+Salamonnak, Dávid fiának, Izráel királyának példabeszédei,
 fa4dh6fed 1,2
 Bölcseség és erkölcsnek tanulására, értelmes beszédek megértésére;
 fa4dh6fed 1,3
@@ -12,15 +12,15 @@ Hallja a bölcs és öregbítse az ő tanulságát, és az értelmes szerezzen �
 fa4dh6fed 1,6
 Példabeszédnek és példázatnak, bölcsek beszédeinek és találós meséinek megértésére.
 fa4dh6fed 1,7
-Az Úrnak félelmefeje a bölcseségnek; a bölcseséget és erkölcsi tanítást a bolondok megútálják.
+Az Úrnak félelme  feje a bölcseségnek; a bölcseséget és erkölcsi tanítást a bolondok megútálják.
 fa4dh6fed 1,8
-Hallgasd, fiam, a te atyádnak erkölcsi tanítását, és a te anyádnak oktatásátel ne hagyd.
+Hallgasd, fiam, a te atyádnak erkölcsi tanítását, és a te anyádnak oktatását el ne hagyd.
 fa4dh6fed 1,9
 Mert kedves ékesség lesz a te fejednek, és aranyláncz a te nyakadra.
 fa4dh6fed 1,10
-Fiam, ha a bűnösök el akarnak csábítani téged: nefogadd beszédöket.
+Fiam, ha a bűnösök el akarnak csábítani téged: ne fogadd beszédöket.
 fa4dh6fed 1,11
-Ha azt mondják: jere mi velünk, leselkedjünkvér után, rejtezzünk el az ártatlan ellen ok nélkül;
+Ha azt mondják: jere mi velünk, leselkedjünk vér után, rejtezzünk el az ártatlan ellen ok nélkül;
 fa4dh6fed 1,12
 Nyeljük el azokat, mint a sír elevenen, és egészen, mint a kik mélységbe szállottak;
 fa4dh6fed 1,13
@@ -28,17 +28,17 @@ Minden drága marhát nyerünk, megtöltjük a mi házainkat zsákmánnyal;
 fa4dh6fed 1,14
 Sorsodat vesd közénk; egy erszényünk legyen mindnyájunknak:
 fa4dh6fed 1,15
-Fiam, ne járj egy úton ezekkel, tartóztasd meg lábaidatösvényüktől;
+Fiam, ne járj egy úton ezekkel, tartóztasd meg lábaidat ösvényüktől;
 fa4dh6fed 1,16
-Mert lábaik a gonoszrafutnak, és sietnek a vérnek ontására.
+Mert lábaik a gonoszra  futnak, és sietnek a vérnek ontására.
 fa4dh6fed 1,17
 Mert hiába vetik ki a hálót minden szárnyas állat szemei előtt:
 fa4dh6fed 1,18
 Ezek mégis vérök árán is ólálkodnak, lelkök árán is leselkednek;
 fa4dh6fed 1,19
-Ilyen az útja minden kapzsi embernek: gazdájának életétveszi el.
+Ilyen az útja minden kapzsi embernek: gazdájának életét veszi el.
 fa4dh6fed 1,20
-A bölcseség künn szerül-szerte kiált; az utczákonzengedezteti az ő szavát.
+A bölcseség künn szerül-szerte kiált; az utczákon zengedezteti az ő szavát.
 fa4dh6fed 1,21
 Lármás utczafőkön kiált a kapuk bemenetelin, a városban szólja az ő beszédit.
 fa4dh6fed 1,22
@@ -46,25 +46,25 @@ Míglen szeretitek, oh ti együgyűek az együgyűséget, és gyönyörködnek a
 fa4dh6fed 1,23
 Térjetek az én dorgálásomhoz; ímé közlöm veletek az én lelkemet, tudtotokra adom az én beszédimet néktek.
 fa4dh6fed 1,24
-Mivelhogy hívtalakés vonakodtatok, kiterjesztém az én kezemet, és senki eszébe nem vette;
+Mivelhogy hívtalak  titeket, és vonakodtatok, kiterjesztém az én kezemet, és senki eszébe nem vette;
 fa4dh6fed 1,25
 És elhagytátok minden én tanácsomat, és az én feddésemmel nem gondoltatok:
 fa4dh6fed 1,26
 Én is a ti nyomorúságtokon nevetek, megcsúfollak, mikor eljő az, a mitől féltek.
 fa4dh6fed 1,27
-Mikor eljő, mint a vihar, az, a mitől féltek,és a ti nyomorúságtok, mint a forgószél elközelget: mikor eljő ti reátok a nyomorgatás és a szorongatás.
+Mikor eljő, mint a vihar, az, a mitől féltek, és a ti nyomorúságtok, mint a forgószél elközelget: mikor eljő ti reátok a nyomorgatás és a szorongatás.
 fa4dh6fed 1,28
-Akkor segítségül hívnak engem, de nemhallgatom meg: keresnek engem, de meg nem találnak.
+Akkor segítségül hívnak engem, de nem  hallgatom meg: keresnek engem, de meg nem találnak.
 fa4dh6fed 1,29
 Azért hogy gyűlölték a bölcseséget, és az Úrnak félelmét nem választották.
 fa4dh6fed 1,30
 Nem engedtek az én tanácsomnak; megvetették minden én feddésemet.
 fa4dh6fed 1,31
-Esznek azért az ő útjoknakgyümölcséből, és az ő tanácsokból megelégednek.
+Esznek azért az ő útjoknak  gyümölcséből, és az ő tanácsokból megelégednek.
 fa4dh6fed 1,32
 Mert az együgyűeknek pártossága megöli őket, és a balgatagoknak szerencséje elveszti őket.
 fa4dh6fed 1,33
-A ki pedig hallgat engem, lakozikbátorságosan, és csendes lesz a gonosznak félelmétől.
+A ki pedig hallgat engem, lakozik bátorságosan, és csendes lesz a gonosznak félelmétől.
 fa4dh6fed 2,1
 Fiam! ha beveszed az én beszédimet, és az én parancsolatimat elrejted magadnál,
 fa4dh6fed 2,2
@@ -76,9 +76,9 @@ Ha keresed azt, mint az ezüstöt, és mint a kincseket kutatod azt:
 fa4dh6fed 2,5
 Akkor megérted az Úrnak félelmét, és az Istennek ismeretére jutsz.
 fa4dh6fed 2,6
-Mert az Úr ádbölcseséget, az ő szájából tudomány és értelem
+Mert az Úr ád  bölcseséget, az ő szájából tudomány és értelem származik. 
 fa4dh6fed 2,7
-Az igazaknak valóságos jót rejteget, paizsta tökéletesen járóknak,
+Az igazaknak valóságos jót rejteget, paizst a tökéletesen járóknak,
 fa4dh6fed 2,8
 Hogy megőrizze az igazságnak útait, és kegyeseinek útját megtartja.
 fa4dh6fed 2,9
@@ -96,47 +96,47 @@ A kik örülnek gonoszt cselekedvén, vígadnak a gonosz álnokságokon.
 fa4dh6fed 2,15
 A kiknek ösvényeik görbék, és a kik az ő útaikban gonoszok.
 fa4dh6fed 2,16
-Hogy megszabadítson téged a nem hozzád tartozóasszonytól, az idegentől, a ki az ő beszédévelhizelkedik,
+Hogy megszabadítson téged a nem hozzád tartozó asszonytól, az idegentől, a ki az ő beszédével hizelkedik,
 fa4dh6fed 2,17
 A ki elhagyja az ő ifjúságának férjét, és az ő Istenének szövetségéről elfelejtkezik;
 fa4dh6fed 2,18
 Mert a halálra hanyatlik az ő háza, és az ő ösvényei az élet nélkül valókhoz.
 fa4dh6fed 2,19
-Valakik mennek ahhoz, nem térnek meg, sem meg nem nyerhetik az életnekútait.
+Valakik mennek ahhoz, nem térnek meg, sem meg nem nyerhetik az életnek útait.
 fa4dh6fed 2,20
 Hogy járj a jóknak útjokon, és az igazaknak ösvényeit kövessed.
 fa4dh6fed 2,21
-Mert az igazak lakjáka földet, és a tökéletesek maradnak meg rajta.
+Mert az igazak lakják a földet, és a tökéletesek maradnak meg rajta.
 fa4dh6fed 2,22
-A gonoszok pedig a földrőlkivágattatnak, és a hitetlenül cselekedők kiszaggattatnak abból.
+A gonoszok pedig a földről kivágattatnak, és a hitetlenül cselekedők kiszaggattatnak abból.
 fa4dh6fed 3,1
-Fiam! az én tanításomról el ne felejtkezzél, és az én parancsolatimatmegőrizze a te elméd;
+Fiam! az én tanításomról el ne felejtkezzél, és az én parancsolatimat megőrizze a te elméd;
 fa4dh6fed 3,2
-Mert napoknak hosszúvoltát, és sok esztendős életet, és békességet hoznak néked bőven.
+Mert napoknak hosszú voltát, és sok esztendős életet, és békességet hoznak néked bőven.
 fa4dh6fed 3,3
-Az irgalmasságés igazság ne hagyjanak el téged: kösd azokata te nyakadra, írd be azokat a te szívednek táblájára;
+Az irgalmasság és igazság ne hagyjanak el téged: kösd azokat a te nyakadra, írd be azokat a te szívednek táblájára;
 fa4dh6fed 3,4
 Így nyersz kedvességet és jó értelmet Istennek és embernek szemei előtt.
 fa4dh6fed 3,5
-Bizodalmad legyen az Úrbanteljes elmédből; a magad értelmére pedig ne támaszkodjál.
+Bizodalmad legyen az Úrban teljes elmédből; a magad értelmére pedig ne támaszkodjál.
 fa4dh6fed 3,6
 Minden te útaidban megismered őt; akkor ő igazgatja a te útaidat.
 fa4dh6fed 3,7
-Ne légy bölcsa te magadítélete szerint; féld az Urat, és távozzál el a gonosztól.
+Ne légy bölcs a te magad ítélete szerint; féld az Urat, és távozzál el a gonosztól.
 fa4dh6fed 3,8
-Egészség lesza te testednek, és megújulása te csontaidnak.
+Egészség lesz ez a te testednek, és megújulás a te csontaidnak.
 fa4dh6fed 3,9
-Tiszteld az Urat a te marhádból, a te egészjövedelmed zsengéjéből.
+Tiszteld az Urat a te marhádból, a te egész jövedelmed zsengéjéből.
 fa4dh6fed 3,10
-Eképen megtelneka te csűreid elégséggel, és musttal áradnak el sajtód válúi.
+Eképen megtelnek a te csűreid elégséggel, és musttal áradnak el sajtód válúi.
 fa4dh6fed 3,11
-Az Úrnak fenyítését fiam, ne útáld meg, se meg ne únd az ődorgálását.
+Az Úrnak fenyítését fiam, ne útáld meg, se meg ne únd az ő 7.] dorgálását.
 fa4dh6fed 3,12
 Mert a kit szeret az Úr, megdorgálja, és pedig mint az atya az ő fiát, a kit kedvel.
 fa4dh6fed 3,13
 Boldog ember, a ki megnyerte a bölcseséget, és az ember, a ki értelmet szerez.
 fa4dh6fed 3,14
-Mert jobb ennek megszerzése az ezüstnekmegszerzésénél, és a kiásott aranynál ennek jövedelme.
+Mert jobb ennek megszerzése az ezüstnek  megszerzésénél, és a kiásott aranynál ennek jövedelme.
 fa4dh6fed 3,15
 Drágább a fényes kárbunkulusoknál, és minden te gyönyörűségeid nem hasonlíthatók hozzá.
 fa4dh6fed 3,16
@@ -144,41 +144,41 @@ Napoknak hosszúsága van jobbjában, baljában gazdagság és tisztesség.
 fa4dh6fed 3,17
 Az ő útai gyönyörűséges útak, és minden ösvényei: békesség.
 fa4dh6fed 3,18
-Életnekfája ez azoknak, a kik megragadják, és a kikmegtartják boldogok!
+Életnek fája ez azoknak, a kik megragadják, és a kik  megtartják boldogok!
 fa4dh6fed 3,19
-Az Úr bölcseséggelfundálta a földet, erősítette az eget értelemmel.
+Az Úr bölcseséggel fundálta a földet, erősítette az eget értelemmel.
 fa4dh6fed 3,20
-Az ő tudománya által fakadtak ki a mélységbőlés a felhők csepegnek harmatot,
+Az ő tudománya által fakadtak ki a mélységből a vizek, és a felhők csepegnek harmatot,
 fa4dh6fed 3,21
-Fiam, ne távozzanak el a te szemeidtől, őrizd meg az igazés a meggondolást!
+Fiam, ne távozzanak el a te szemeidtől, őrizd meg az igaz  bölcseséget, és a meggondolást!
 fa4dh6fed 3,22
-És lesznekéleta te lelkednek, és kedvesség a te nyakadnak.
+És lesznek ezek élet a te lelkednek, és kedvesség a te nyakadnak.
 fa4dh6fed 3,23
-Akkor bátorsággal járod a te útadat, és a te lábadatmeg nem ütöd.
+Akkor bátorsággal járod a te útadat, és a te lábadat meg nem ütöd.
 fa4dh6fed 3,24
-Mikor lefekszel, nemrettegsz; hanem lefekszel és gyönyörűséges lesz a te álmod.
+Mikor lefekszel, nem rettegsz; hanem lefekszel és gyönyörűséges lesz a te álmod.
 fa4dh6fed 3,25
-Ne félj a hirtelen valófélelemtől, és a gonoszok pusztításától, ha eljő;
+Ne félj a hirtelen való félelemtől, és a gonoszok pusztításától, ha eljő;
 fa4dh6fed 3,26
 Mert az Úr lesz a te bizodalmad és megőrzi a te lábadat a fogságtól.
 fa4dh6fed 3,27
-Ne fogd meg ajótéteményt azoktól, a kiket illet, ha hatalmadban van annak megcselekedése.
+Ne fogd meg a  jótéteményt azoktól, a kiket illet, ha hatalmadban van annak megcselekedése.
 fa4dh6fed 3,28
-Ne mondd a te felebarátodnak: menj el,azután térj meg, és holnap adok; holott nálad van,
+Ne mondd a te felebarátodnak: menj el, azután térj meg, és holnap adok; holott nálad van, a mit kér. 
 fa4dh6fed 3,29
-Ne forralj a te felebarátodellen gonoszt, holott ő együtt ül bátorságosan te veled.
+Ne forralj a te felebarátod ellen gonoszt, holott ő együtt ül bátorságosan te veled.
 fa4dh6fed 3,30
-Ne háborogj egy emberrel isok nélkül, ha nem illetett gonoszszal téged.
+Ne háborogj egy emberrel is ok nélkül, ha nem illetett gonoszszal téged.
 fa4dh6fed 3,31
-Ne irígykedjélaz erőszakos emberre, és néki semmi útát ne válaszd.
+Ne irígykedjél az erőszakos emberre, és néki semmi útát ne válaszd.
 fa4dh6fed 3,32
-Mert útálja az Úr az engedetlent; és az igazakkal van az őtitka.
+Mert útálja az Úr az engedetlent; és az igazakkal van az ő titka.
 fa4dh6fed 3,33
-Az Úrnak átka van agonosznak házán; de az igazaknak lakhelyét megáldja.
+Az Úrnak átka van a [5 Móz,28,15-68.] gonosznak házán; de az igazaknak lakhelyét megáldja.
 fa4dh6fed 3,34
-Ha kik csúfolók, őmegcsúfoljaa szelídeknek pedig ád kedvességet.
+Ha kik csúfolók, ő megcsúfolja azokat; a szelídeknek pedig ád kedvességet.
 fa4dh6fed 3,35
-A bölcsektisztességet örökölnek; a bolondok pedig gyalázatot aratnak.
+A bölcsek tisztességet örökölnek; a bolondok pedig gyalázatot aratnak.
 fa4dh6fed 4,1
 Halljátok meg, fiaim, atyátok erkölcsi tanítását, és figyelmezzetek az értelemnek megtudására.
 fa4dh6fed 4,2
@@ -186,19 +186,19 @@ Mert jó tanulságot adok néktek; az én tudományomat el ne hagyjátok.
 fa4dh6fed 4,3
 Mert én atyámnak fia voltam, gyenge és egyetlenegy az én anyám előtt.
 fa4dh6fed 4,4
-Tehát tanított engem, és mondá nékem: tartsa megaz én beszédemet a te elméd, hogy megtartván az én parancsolatimat, élj;
+Tehát tanított engem, és mondá nékem: tartsa meg az én beszédemet a te elméd, hogy megtartván az én parancsolatimat, élj;
 fa4dh6fed 4,5
 Szerezz bölcseséget, szerezz eszességet; ne felejtkezzél el, se el ne hajolj az én számnak beszéditől.
 fa4dh6fed 4,6
 Ne hagyd el azt, és megtart téged; szeresd azt, és megőriz téged.
 fa4dh6fed 4,7
-A bölcseségkezdeteszerezz bölcseséget, és minden keresményedből szerezz értelmet.
+A bölcseség kezdete ez: szerezz bölcseséget, és minden keresményedből szerezz értelmet.
 fa4dh6fed 4,8
-Magasztald fel azt, és felmagasztal téged;tiszteltté tesz téged, ha hozzád öleled azt.
+Magasztald fel azt, és felmagasztal téged; tiszteltté tesz téged, ha hozzád öleled azt.
 fa4dh6fed 4,9
-Ád a te fejednek kedvességnek koszorúját; igen szépékes koronát ád néked.
+Ád a te fejednek kedvességnek koszorúját; igen szép ékes koronát ád néked.
 fa4dh6fed 4,10
-Hallgasd, fiam, és vedd be az én beszédimet;így sokasulnak meg néked a te életednek esztendei.
+Hallgasd, fiam, és vedd be az én beszédimet; így sokasulnak meg néked a te életednek esztendei.
 fa4dh6fed 4,11
 Bölcseségnek útára tanítottalak téged, vezettelek téged az igazságnak ösvényin.
 fa4dh6fed 4,12
@@ -206,39 +206,39 @@ Mikor jársz, semmi nem szorítja meg a te járásodat; és ha futsz, nem ütkö
 fa4dh6fed 4,13
 Ragaszkodjál az erkölcsi tanításhoz, ne hagyd el; őrizd meg azt, mert az a te életed.
 fa4dh6fed 4,14
-A hitetleneknek útjárane menj, se ne járj a gonoszok ösvényén.
+A hitetleneknek útjára ne menj, se ne járj a gonoszok ösvényén.
 fa4dh6fed 4,15
 Hagyd el, át ne menj rajta; térj el tőle, és menj tovább.
 fa4dh6fed 4,16
-Mert nem alhatnak azok, ha gonoszt nem cselekesznek: és kimegy szemükből az álom, haromlásra nem juttatnak.
+Mert nem alhatnak azok, ha gonoszt nem cselekesznek: és kimegy szemükből az álom, ha mást romlásra nem juttatnak.
 fa4dh6fed 4,17
-Mert az istentelenségnek étkét eszik, ésaz erőszaktételnek borát iszszák.
+Mert az istentelenségnek étkét eszik, és az erőszaktételnek borát iszszák.
 fa4dh6fed 4,18
-Az igazak ösvénye pedig olyan, mint a hajnalvilágossága, melyhalad,világosabb lesz, a teljes délig.
+Az igazak ösvénye pedig olyan, mint a hajnal  világossága, mely minél tovább halad, annál világosabb lesz, a teljes délig.
 fa4dh6fed 4,19
-Az istentelenek útja pedig olyan, mint ahomály, nem tudják miben ütköznek meg.
+Az istentelenek útja pedig olyan, mint a homály, nem tudják miben ütköznek meg.
 fa4dh6fed 4,20
 Fiam, az én szavaimra figyelmezz, az én beszédimre hajtsad füledet.
 fa4dh6fed 4,21
 Ne távozzanak el a te szemeidtől, tartsd meg ezeket a te elmédben.
 fa4dh6fed 4,22
-Mert életökezek azoknak, a kik megnyerik, és egész testöknek egészség.
+Mert életök  ezek azoknak, a kik megnyerik, és egész testöknek egészség.
 fa4dh6fed 4,23
-Minden féltett dolognál jobban őrizd meg szívedet, mert abbólindul kiélet.
+Minden féltett dolognál jobban őrizd meg szívedet, mert abból indul ki minden élet.
 fa4dh6fed 4,24
-Vesd el tőled a száj hamisságát, és az ajkakálnokságát távoztasd el magadtól.
+Vesd el tőled a száj hamisságát, és az ajkak álnokságát távoztasd el magadtól.
 fa4dh6fed 4,25
-A te szemeid előrenézzenek, és szemöldökid egyenest magad elé irányuljanak.
+A te szemeid előre nézzenek, és szemöldökid egyenest magad elé irányuljanak.
 fa4dh6fed 4,26
 Egyengesd el lábaid ösvényit, s minden te útaid állhatatosak legyenek.
 fa4dh6fed 4,27
-Ne térj jobbra,se balra, fordítsd el a te lábadat a gonosztól.
+Ne térj jobbra, se balra, fordítsd el a te lábadat a gonosztól.
 fa4dh6fed 5,1
 Fiam! az én bölcseségemre figyelmezz, az én értelmemre hajtsd a te füledet,
 fa4dh6fed 5,2
 Hogy megtartsd a meggondolást, és a tudományt a te ajakid megőrizzék.
 fa4dh6fed 5,3
-Mert színmézet csepegaz idegen asszony ajka, és símább az olajnál az ő ínye.
+Mert színmézet csepeg az idegen asszony ajka, és símább az olajnál az ő ínye.
 fa4dh6fed 5,4
 De annak vége keserű, mint az üröm, éles, mint a kétélű tőr.
 fa4dh6fed 5,5
@@ -250,11 +250,11 @@ Most azért, fiaim, hallgassatok engem, és ne távozzatok el számnak beszédit
 fa4dh6fed 5,8
 Távoztasd el attól útadat, és ne közelgess házának ajtajához,
 fa4dh6fed 5,9
-Hogy másoknak ne add a te ékességedet, és esztendeidet akegyetlennek;
+Hogy másoknak ne add a te ékességedet, és esztendeidet a kegyetlennek;
 fa4dh6fed 5,10
-Hogy ne az idegenek teljenek be a te marháiddal, és a te keresményed más házába ne
+Hogy ne az idegenek teljenek be a te marháiddal, és a te keresményed más házába ne jusson. 
 fa4dh6fed 5,11
-Hogy nyögnöd kelljened végén, a mikor megemésztetik a te húsod és a te tested,
+Hogy nyögnöd kelljen élet ed végén, a mikor megemésztetik a te húsod és a te tested,
 fa4dh6fed 5,12
 És azt kelljen mondanod: miképen gyűlöltem az erkölcsi tanítást, és a fenyítéket útálta az én elmém,
 fa4dh6fed 5,13
@@ -274,13 +274,13 @@ A szerelmes szarvas, és kedves zerge; az ő emlői elégítsenek meg téged min
 fa4dh6fed 5,20
 És miért bujdosnál, fiam, az idegen után, és ölelnéd keblét az idegennek?
 fa4dh6fed 5,21
-Mert az Úrnak szemei előtt vannak mindenkinekútai, és minden ösvényeit őrendeli.
+Mert az Úrnak szemei előtt vannak mindenkinek útai, és minden ösvényeit ő rendeli.
 fa4dh6fed 5,22
-A maga álnokságaifogják meg az istentelent, és a saját bűnének köteleivel kötöztetik meg.
+A maga álnokságai fogják meg az istentelent, és a saját bűnének köteleivel kötöztetik meg.
 fa4dh6fed 5,23
 Ő meghal fenyíték híján, és bolondságának sokasága miatt támolyog.
 fa4dh6fed 6,1
-Fiam! ha kezes lettél a te barátodért,kezedet adván, kötelezted magadat másért:
+Fiam! ha kezes lettél a te barátodért, és kezedet adván, kötelezted magadat másért:
 fa4dh6fed 6,2
 Szádnak beszédei által estél tőrbe, megfogattattál a te szádnak beszédivel.
 fa4dh6fed 6,3
@@ -288,7 +288,7 @@ Ezt míveld azért fiam, és mentsd ki magadat, mert a te felebarátodnak kezéb
 fa4dh6fed 6,4
 Még álmot se engedj szemeidnek, se szunnyadást szemöldökidnek,
 fa4dh6fed 6,5
-Szabadítsd ki magadat, mint a zerge akezéből, és mint a madár a madarásznak kezéből.
+Szabadítsd ki magadat, mint a zerge a vadász kezéből, és mint a madár a madarásznak kezéből.
 fa4dh6fed 6,6
 Eredj a hangyához, te rest, nézd meg az ő útait, és légy bölcs!
 fa4dh6fed 6,7
@@ -298,13 +298,13 @@ Nyárban szerzi meg az ő kenyerét, aratáskor gyűjti eledelét.
 fa4dh6fed 6,9
 Oh te rest, meddig fekszel? mikor kelsz fel a te álmodból?
 fa4dh6fed 6,10
-Még egy kis álom, még egy kis szunnyadás,még egy kis kéz-összefonás, hogy pihenjek;
+Még egy kis álom, még egy kis szunnyadás,  még egy kis kéz-összefonás, hogy pihenjek;
 fa4dh6fed 6,11
-Így jő el,mint az útonjáró, a te szegénységed, és a te szűkölködésed, mint a paizsos férfiú!
+Így jő el, mint az útonjáró, a te szegénységed, és a te szűkölködésed, mint a paizsos férfiú!
 fa4dh6fed 6,12
 Haszontalan ember, hamis férfiú, a ki álnok szájjal jár,
 fa4dh6fed 6,13
-A ki hunyorgatszemeivel; lábaival is szól, és ujjaival jelt ád.
+A ki hunyorgat szemeivel; lábaival is szól, és ujjaival jelt ád.
 fa4dh6fed 6,14
 Álnokság van az ő szívében, gonoszt forral minden időben, háborúságot indít.
 fa4dh6fed 6,15
@@ -318,31 +318,31 @@ Az álnok gondolatokat forraló elme, a gonoszra sietséggel futó lábak,
 fa4dh6fed 6,19
 A hazugságlehelő hamis tanú, és a ki szerez háborúságokat az atyafiak között!
 fa4dh6fed 6,20
-Őrizd meg, fiam, atyádparancsolatját, és anyád tanítását el ne hagyd.
+Őrizd meg, fiam, atyád parancsolatját, és anyád tanítását el ne hagyd.
 fa4dh6fed 6,21
-Kösd azokat szívedremindenkor, fűzd a nyakadba.
+Kösd azokat szívedre mindenkor, fűzd a nyakadba.
 fa4dh6fed 6,22
 Valahová mégysz, vezérel téged, mikor aluszol, őriz téged, mikor felserkensz, beszélget te veled.
 fa4dh6fed 6,23
-Mert szövétneka parancsolat, és a tudomány világosság, és életnek úta a tanító-feddések.
+Mert szövétnek a parancsolat, és a tudomány világosság, és életnek úta a tanító-feddések.
 fa4dh6fed 6,24
 Hogy a gonosz asszonytól téged megőrizzenek, az idegen asszony nyelvének hizelkedésétől.
 fa4dh6fed 6,25
-Ne kivánd aző szépségét szivedben, és meg ne fogjon téged szemöldökeivel;
+Ne kivánd az ő szépségét szivedben, és meg ne fogjon téged szemöldökeivel;
 fa4dh6fed 6,26
-Mert a parázna asszony miattegy darab kenyérre, ésférfi felesége drága életet vadász!
+Mert a parázna asszony miatt jut az ember egy darab kenyérre, és más férfi felesége drága életet vadász!
 fa4dh6fed 6,27
 Vehet-é valaki tüzet az ő kebelébe, hogy ruhái meg ne égnének?
 fa4dh6fed 6,28
 Vagy járhat-é valaki elevenszénen, hogy lábai meg ne égnének?
 fa4dh6fed 6,29
-Így van, valaki bemegy felebarátjának feleségéhez, nemmarad büntetlen, valaki illeti azt!
+Így van, valaki bemegy felebarátjának feleségéhez, nem marad büntetlen, valaki illeti azt!
 fa4dh6fed 6,30
 Nem útálják meg a lopót, ha lop az ő kivánságának betöltésére, mikor éhezik;
 fa4dh6fed 6,31
-És ha rajta kapatik,hétannyit kell adnia, az ő házának minden marháját érette adhatja;
+És ha rajta kapatik, hétannyit kell adnia, az ő házának minden marháját érette adhatja;
 fa4dh6fed 6,32
-A ki pedig asszonynyal paráználkodik,bolond; a ki magát el akarja veszteni, az cselekszi ezt!
+A ki pedig asszonynyal paráználkodik, bolond; a ki magát el akarja veszteni, az cselekszi ezt!
 fa4dh6fed 6,33
 Vereséget és gyalázatot nyer, és az ő gyalázatja el nem töröltetik.
 fa4dh6fed 6,34
@@ -352,25 +352,25 @@ Nem gondol semmi váltsággal, nem nyugszik meg rajta, még ha nagy sok ajándé
 fa4dh6fed 7,1
 Fiam, tartsd meg az én beszédeimet, és az én parancsolataimat rejtsd el magadnál.
 fa4dh6fed 7,2
-Az én parancsolatimat tartsd meg, ésélsz; és az én tanításomat mint a szemed fényét.
+Az én parancsolatimat tartsd meg, és  élsz; és az én tanításomat mint a szemed fényét.
 fa4dh6fed 7,3
 Kösd azokat ujjaidra, írd fel azokat szíved táblájára.
 fa4dh6fed 7,4
 Mondd ezt a bölcseségnek: Én néném vagy te; és az eszességet ismerősödnek nevezd,
 fa4dh6fed 7,5
-Hogy megőrizzen téged a nem hozzád tartozó asszonytól, és az őbeszédivel hizelkedő idegentől.
+Hogy megőrizzen téged a nem hozzád tartozó asszonytól, és az ő beszédivel hizelkedő idegentől.
 fa4dh6fed 7,6
 Mert házam ablakán, a rács mögül néztem,
 fa4dh6fed 7,7
-És láték a bolondok között, eszembe vevék a fiak között egybolond ifjat,
+És láték a bolondok között, eszembe vevék a fiak között egy bolond ifjat,
 fa4dh6fed 7,8
-A ki az utczán jár, annak szeglete mellett, a házáhozmenő úton lépeget,
+A ki az utczán jár, annak szeglete mellett, a házához menő úton lépeget,
 fa4dh6fed 7,9
 Alkonyatkor, nap estjén, és setét éjfélben.
 fa4dh6fed 7,10
 És ímé, egy asszony eleibe jő, paráznának öltözetében, álnok az ő elméjében.
 fa4dh6fed 7,11
-Melycsélcsap és vakmerő, a kinek házában nem maradhatnak meg az ő lábai.
+Mely csélcsap és vakmerő, a kinek házában nem maradhatnak meg az ő lábai.
 fa4dh6fed 7,12
 Néha az utczán, néha a tereken van, és minden szegletnél leselkedik.
 fa4dh6fed 7,13
@@ -380,7 +380,7 @@ Hálaáldozattal tartoztam, ma adtam meg fogadásimat.
 fa4dh6fed 7,15
 Azért jövék ki elődbe, szorgalmatosan keresni a te orczádat, és reád találtam!
 fa4dh6fed 7,16
-Paplanokkal megvetettem nyoszolyámat, égyiptomiszövésű szőnyegekkel.
+Paplanokkal megvetettem nyoszolyámat, égyiptomi szövésű szőnyegekkel.
 fa4dh6fed 7,17
 Beillatoztam ágyamat mirhával, áloessel és fahéjjal.
 fa4dh6fed 7,18
@@ -390,7 +390,7 @@ Mert nincs otthon a férjem, elment messze útra.
 fa4dh6fed 7,20
 Egy erszény pénzt vőn kezéhez; holdtöltére jő haza.
 fa4dh6fed 7,21
-elhiteté őt az ő mesterkedéseinek sokaságával, ajkainakhizelkedésével elragadá őt.
+És elhiteté őt az ő mesterkedéseinek sokaságával, ajkainak hizelkedésével elragadá őt.
 fa4dh6fed 7,22
 Utána megy; mint az ökör a vágóhídra, és mint a bolond, egyszer csak fenyítő békóba;
 fa4dh6fed 7,23
@@ -404,13 +404,13 @@ Mert sok sebesültet elejtett, és sokan vannak, a kik attól megölettek.
 fa4dh6fed 7,27
 Sírba vívő út az ő háza, a mely levisz a halálnak hajlékába.
 fa4dh6fed 8,1
-Avagy a bölcsességnem kiált-é, és az értelem nem bocsátja-é ki az ő szavát?
+Avagy a bölcsesség nem kiált-é, és az értelem nem bocsátja-é ki az ő szavát?
 fa4dh6fed 8,2
 A magas helyeknek tetein az úton, sok ösvény összetalálkozásánál áll meg.
 fa4dh6fed 8,3
 A kapuk mellett a városnak bemenetelin, az ajtók bemenetelinél zeng.
 fa4dh6fed 8,4
-Tinéktek kiáltok, férfiak; és az én szóm az emberek fiaihoz
+Tinéktek kiáltok, férfiak; és az én szóm az emberek fiaihoz van! 
 fa4dh6fed 8,5
 Értsétek meg ti együgyűek az eszességet, és ti balgatagok vegyétek eszetekbe az értelmet.
 fa4dh6fed 8,6
@@ -424,11 +424,11 @@ Mind egyenesek az értelmesnek, és igazak azoknak, kik megnyerték a tudományt
 fa4dh6fed 8,10
 Vegyétek az én tanításomat, és nem a pénzt; és a tudományt inkább, mint a választott aranyat.
 fa4dh6fed 8,11
-Mert jobb a bölcseséga drágagyöngyöknél; és semmi gyönyörűségek ehhez egyenlők nem lehetnek.
+Mert jobb a bölcseség  a drágagyöngyöknél; és semmi gyönyörűségek ehhez egyenlők nem lehetnek.
 fa4dh6fed 8,12
 Én bölcsesség lakozom az eszességben, és a megfontolás tudományát megnyerem.
 fa4dh6fed 8,13
-Az Úrnak félelmea gonosznak gyűlölése; a kevélységet és felfuvalkodást és a gonosz útat, és az álnok szájat gyűlölöm.
+Az Úrnak félelme a gonosznak gyűlölése; a kevélységet és felfuvalkodást és a gonosz útat, és az álnok szájat gyűlölöm.
 fa4dh6fed 8,14
 Enyém a tanács és a valóság, én vagyok az eszesség, enyém az erő.
 fa4dh6fed 8,15
@@ -436,87 +436,87 @@ fa4dh6fed 8,15
 fa4dh6fed 8,16
 Én általam viselnek a fejedelmek fejedelemséget, és a nemesek, a földnek minden birái.
 fa4dh6fed 8,17
-Én az engem szeretőket szeretem, és a kik engem szorgalmasankeresnek, megtalálnak.
+Én az engem szeretőket szeretem, és a kik engem szorgalmasan keresnek, megtalálnak.
 fa4dh6fed 8,18
-Gazdagságés tisztesség van nálam, megmaradandó jó és igazság.
+Gazdagság és tisztesség van nálam, megmaradandó jó és igazság.
 fa4dh6fed 8,19
 Jobb az én gyümölcsöm a tiszta aranynál és színaranynál, és az én hasznom a válogatott ezüstnél.
 fa4dh6fed 8,20
 Az igazságnak útán járok, és az igazság ösvényének közepén.
 fa4dh6fed 8,21
-Hogy az engem szeretőknek valami valóságost adjak örökségül,és erszényeiket megtöltsem.
+Hogy az engem szeretőknek valami valóságost adjak örökségül, és erszényeiket megtöltsem.
 fa4dh6fed 8,22
-Az Úr az ő útának kezdetéül szerzett engem; az ő munkáielőtt régen.
+Az Úr az ő útának kezdetéül szerzett engem; az ő munkái előtt régen.
 fa4dh6fed 8,23
 Örök időktől fogva felkenettem, kezdettől, a föld kezdetétől fogva.
 fa4dh6fed 8,24
-Még mikor semmi mélységek nem voltak, születtemvala; még mikor semmi források, vízzel teljesek nem voltak.
+Még mikor semmi mélységek nem voltak, születtem vala; még mikor semmi források, vízzel teljesek nem voltak.
 fa4dh6fed 8,25
 Minekelőtte a hegyek leülepedtek volna, a halmoknak előtte születtem.
 fa4dh6fed 8,26
-Mikor még nem csinálta valaa földet és a mezőket, és a világ porának kezdetét.
+Mikor még nem csinálta vala a földet és a mezőket, és a világ porának kezdetét.
 fa4dh6fed 8,27
 Mikor készíté az eget, ott valék; mikor felveté a mélységek színén a kerekséget;
 fa4dh6fed 8,28
 Mikor megerősíté a felhőket ott fenn, mikor erősekké lőnek a mélységeknek forrásai;
 fa4dh6fed 8,29
-Mikor felveté a tengernek határit, hogy a vizek át nehágják az ő parancsolatját, mikor megállapítá e földnek fundamentomait:
+Mikor felveté a tengernek határit, hogy a vizek át ne hágják az ő parancsolatját, mikor megállapítá e földnek fundamentomait:
 fa4dh6fed 8,30
-Mellette valékmint kézmíves, és gyönyörűsége valék mindennap, játszva ő előtte minden időben.
+Mellette valék mint kézmíves, és gyönyörűsége valék mindennap, játszva ő előtte minden időben.
 fa4dh6fed 8,31
-Játszva az ő földének kerekségén, és gyönyörűségemaz emberek fiaiban.
+Játszva az ő földének kerekségén, és gyönyörűségem et  lelve az emberek fiaiban.
 fa4dh6fed 8,32
-És most fiaim, hallgassatok engemet, és boldogok,a kik az én útaimat megtartják.
+És most fiaim, hallgassatok engemet, és boldogok, a kik az én útaimat megtartják.
 fa4dh6fed 8,33
 Hallgassátok a tudományt és legyetek bölcsek, és magatokat el ne vonjátok!
 fa4dh6fed 8,34
-Boldog ember, a ki hallgatengem, azén ajtóm előtt virrasztván minden nap, az én ajtóim félfáit őrizvén.
+Boldog ember, a ki hallgat engem, az én ajtóm előtt virrasztván minden nap, az én ajtóim félfáit őrizvén.
 fa4dh6fed 8,35
-Mert a ki megnyer engem, nyert életet,és szerzett az Úrtól jóakaratot.
+Mert a ki megnyer engem, nyert életet, és szerzett az Úrtól jóakaratot.
 fa4dh6fed 8,36
-De a ki vétkezik ellenem, erőszakot cselekszik az ő lelkén; minden, valaki engem gyűlöl, szeretia halált!
+De a ki vétkezik ellenem, erőszakot cselekszik az ő lelkén; minden, valaki engem gyűlöl, szereti a halált!
 fa4dh6fed 9,1
 Bölcseség megépítette az ő házát, annak hét oszlopát kivágván.
 fa4dh6fed 9,2
 Megölte vágnivalóit, kitöltötte borát, asztalát is elkészítette.
 fa4dh6fed 9,3
-Elbocsátá az ő leányit,hivogat a város magas helyeinek tetein.
+Elbocsátá az ő leányit, hivogat a város magas helyeinek tetein.
 fa4dh6fed 9,4
-Ki tudatlan? térjen ide; az értelem nélkül valónakmondja:
+Ki tudatlan? térjen ide; az értelem nélkül valónak ezt mondja:
 fa4dh6fed 9,5
 Jőjjetek, éljetek az én étkemmel, és igyatok a borból, melyet töltöttem.
 fa4dh6fed 9,6
 Hagyjátok el a bolondokat, hogy éljetek, járjatok az eszességnek útán.
 fa4dh6fed 9,7
-A ki tanítja a csúfolót,nyer magának szidalmat: és a ki feddi a latrot, szégyenére lesz.
+A ki tanítja a csúfolót,  nyer magának szidalmat: és a ki feddi a latrot, szégyenére lesz.
 fa4dh6fed 9,8
-Ne fedd meg a csúfolót, hogy ne gyűlöljön téged; fedd meg a bölcset, ésszeret téged.
+Ne fedd meg a csúfolót, hogy ne gyűlöljön téged; fedd meg a bölcset, és szeret téged.
 fa4dh6fed 9,9
 Adj a bölcsnek, és még bölcsebb lesz; tanítsd az igazat, és öregbíti a tanulságot.
 fa4dh6fed 9,10
-A bölcseségnek kezdete azÚrnak félelme; és a Szentnek ismerete az eszesség.
+A bölcseségnek kezdete az Úrnak félelme; és a Szentnek ismerete az eszesség.
 fa4dh6fed 9,11
-Mert én általam sokasulnak meg a tenapjaid, és meghosszabbítják néked életednek esztendeit.
+Mert én általam sokasulnak meg a te napjaid, és meghosszabbítják néked életednek esztendeit.
 fa4dh6fed 9,12
 Ha bölcs vagy, bölcs vagy te magadnak; ha pedig csúfoló vagy, magad vallod kárát.
 fa4dh6fed 9,13
-Balgaság asszonyfecsegő, bolond és semmit nem tud.
+Balgaság asszony fecsegő, bolond és semmit nem tud.
 fa4dh6fed 9,14
-És leült az ő házánakajtajába, székre a városnak magas helyein,
+És leült az ő házának ajtajába, székre a városnak magas helyein,
 fa4dh6fed 9,15
 Hogy hívja az útonjárókat, a kik egyenesen mennek útjokon.
 fa4dh6fed 9,16
-Ki együgyű? térjen ide, és valaki esztelen, annakmondja:
+Ki együgyű? térjen ide, és valaki esztelen, annak ezt mondja:
 fa4dh6fed 9,17
 A lopott víz édes, és a titkon való étel gyönyörűséges!
 fa4dh6fed 9,18
 És az nem tudja, hogy ott élet nélkül valók vannak; és a pokol mélyébe esnek az ő hivatalosai!
 fa4dh6fed 10,1
-Salamon bölcs mondásai.A bölcs fiúörvendezteti az ő atyját; a bolond fiú pedig szomorúsága az ő anyjának.
+Salamon bölcs mondásai. A bölcs fiú örvendezteti az ő atyját; a bolond fiú pedig szomorúsága az ő anyjának.
 fa4dh6fed 10,2
-Nem használnak a gonoszság kincsei;az igazság pedigmegszabadít a halálból.
+Nem használnak a gonoszság kincsei; az igazság pedig megszabadít a halálból.
 fa4dh6fed 10,3
-Az Úr nem hagyja éhezniaz igaznak lelkét; az istenteleneknek kivánságát pedig elveti.
+Az Úr nem hagyja éhezni az igaznak lelkét; az istenteleneknek kivánságát pedig elveti.
 fa4dh6fed 10,4
 Szegénynyé lesz, a ki cselekszik rest kézzel; a gyors munkások keze pedig meggazdagít.
 fa4dh6fed 10,5
@@ -524,7 +524,7 @@ Gyűjt nyárban az eszes fiú; álomba merül az aratás idején a megszégyení
 fa4dh6fed 10,6
 Áldások vannak az igaznak fején; az istentelenek szája pedig erőszaktételt fed be.
 fa4dh6fed 10,7
-Az igaznak emlékezeteáldott; a hamisaknak neve pedig megrothad.
+Az igaznak emlékezete áldott; a hamisaknak neve pedig megrothad.
 fa4dh6fed 10,8
 A bölcs elméjű beveszi a parancsolatokat; a bolond ajkú pedig elveszti magát.
 fa4dh6fed 10,9
@@ -532,15 +532,15 @@ A ki tökéletességben jár, bátorsággal jár; a ki pedig elferdíti az ő ú
 fa4dh6fed 10,10
 A ki szemmel hunyorgat, bántást szerez; és a bolond ajkú elesik.
 fa4dh6fed 10,11
-Életnek kútfeje az igaznakszája; az istenteleneknek szája pedig erőszaktételt fedez el.
+Életnek kútfeje az igaznak szája; az istenteleneknek szája pedig erőszaktételt fedez el.
 fa4dh6fed 10,12
-A gyűlölség szerez versengést; minden vétket pedig elfedez aszeretet.
+A gyűlölség szerez versengést; minden vétket pedig elfedez a  szeretet.
 fa4dh6fed 10,13
-Az eszesek ajkain bölcseség találtatik; avessző pedig a bolond hátának
+Az eszesek ajkain bölcseség találtatik; a vessző pedig a bolond hátának való. 
 fa4dh6fed 10,14
-A bölcsek tudományt rejtegetnek; a bolondnak szája pedigközeli romlás.
+A bölcsek tudományt rejtegetnek; a bolondnak szája pedig  közeli romlás.
 fa4dh6fed 10,15
-A gazdagnak marhája az ő megerősítettvárosa; szűkölködőknek romlása az ő szegénységök.
+A gazdagnak marhája az ő megerősített  városa; szűkölködőknek romlása az ő szegénységök.
 fa4dh6fed 10,16
 Az igaznak keresménye életre, az istentelennek jövedelme bűnre van.
 fa4dh6fed 10,17
@@ -548,215 +548,215 @@ A bölcseség megőrizőnek útja életre van; a fenyítéket elhagyó pedig té
 fa4dh6fed 10,18
 A ki elfedezi a gyűlölséget, hazug ajkú az; és a ki szól gyalázatot, bolond az.
 fa4dh6fed 10,19
-A sok beszédbenelmaradhatatlan a vétek; a ki pedig megtartóztatja ajkait, az értelmes.
+A sok beszédben elmaradhatatlan a vétek; a ki pedig megtartóztatja ajkait, az értelmes.
 fa4dh6fed 10,20
-Választott ezüst azigaznak nyelve; a gonoszok elméje kevés érő.
+Választott ezüst az igaznak nyelve; a gonoszok elméje kevés érő.
 fa4dh6fed 10,21
-Az igaznak ajkai sokakat legeltetnek; a bolondok pedig esztelenségökben halnakmeg.
+Az igaznak ajkai sokakat legeltetnek; a bolondok pedig esztelenségökben halnak meg.
 fa4dh6fed 10,22
-Az Úrnak áldása, az gazdagít meg, és azzalnem szerez bántást.
+Az Úrnak áldása, az gazdagít meg, és azzal semmi nem szerez bántást.
 fa4dh6fed 10,23
-Miképen játék a bolondnak bűnt cselekedni, azonképen az eszes férfiúnak bölcsen
+Miképen játék a bolondnak bűnt cselekedni, azonképen az eszes férfiúnak bölcsen   cselekedni. 
 fa4dh6fed 10,24
-A mitől retteg az istentelen, az esik ő rajta; a mit pedig kivánnak az igazak, meglesz.
+A mitől retteg az istentelen, az esik ő rajta; a mit pedig kivánnak az igazak, meg lesz.
 fa4dh6fed 10,25
 A mint a forgószél ráfuvall, már oda van az istentelen; az igaznak pedig örökké való fundamentoma van.
 fa4dh6fed 10,26
 Minémű az eczet a fogaknak és a füst a szemeknek, olyan a rest azoknak, a kik azt elküldötték.
 fa4dh6fed 10,27
-Az Úrnak félelmehosszabbítja meg a napokat; az istenteleneknek pedig esztendeikmegrövidülnek.
+Az Úrnak félelme hosszabbítja meg a napokat; az istenteleneknek pedig esztendeik  megrövidülnek.
 fa4dh6fed 10,28
-Az igazaknak reménysége öröm; az istenteleneknek várakozásapedig elvész.
+Az igazaknak reménysége öröm; az istenteleneknek várakozása pedig elvész.
 fa4dh6fed 10,29
 Erősség a tökéletesnek az Úrnak úta: de romlás a hamisság cselekedőinek.
 fa4dh6fed 10,30
-Az igaz soha meg nem mozdul; de az istentelenek nem lakják aföldet.
+Az igaz soha meg nem mozdul; de az istentelenek nem lakják a földet.
 fa4dh6fed 10,31
 Az igaznak szája bőségesen szól bölcsességet; a gonoszság nyelve pedig kivágatik.
 fa4dh6fed 10,32
-Az igaznak ajkai azt tudják, a mi kedves; az istenteleneknek szája pedig agonoszságot.
+Az igaznak ajkai azt tudják, a mi kedves; az istenteleneknek szája pedig a gonoszságot.
 fa4dh6fed 11,1
-Az álnokfont útálatos az Úrnál; az igaz mérték pedig kedves néki.
+Az álnok font útálatos az Úrnál; az igaz mérték pedig kedves néki.
 fa4dh6fed 11,2
-Kevélységjő: gyalázat jő; az alázatosoknál pedig bölcseség van.
+Kevélység jő: gyalázat jő; az alázatosoknál pedig bölcseség van.
 fa4dh6fed 11,3
-Az igazakat tökéletességök vezeti; dea hitetleneket gonoszságuk elpusztítja.
+Az igazakat tökéletességök vezeti; de a hitetleneket gonoszságuk elpusztítja.
 fa4dh6fed 11,4
-Nem használ a vagyon aharagnak idején; az igazság pedig kiragad a halálból.
+Nem használ a vagyon a  haragnak idején; az igazság pedig kiragad a halálból.
 fa4dh6fed 11,5
 A tökéletesnek igazsága igazgatja az ő útát; de önnön istentelenségében esik el az istentelen.
 fa4dh6fed 11,6
-Az igazaknak igazságokmegszabadítja őket; de az ő kivánságokban fogatnak mega hitetlenek.
+Az igazaknak igazságok megszabadítja őket; de az ő kivánságokban fogatnak meg a hitetlenek.
 fa4dh6fed 11,7
 Mikor meghal az istentelen ember, elvész az ő reménysége; a bűnösök várakozása is elvész.
 fa4dh6fed 11,8
-Az igaz a nyomorúságból megszabadul; az istentelen őhelyette beesik abba.
+Az igaz a nyomorúságból megszabadul; az istentelen ő helyette beesik abba.
 fa4dh6fed 11,9
 Szájával rontja meg a képmutató felebarátját; de az igazak a tudomány által megszabadulnak.
 fa4dh6fed 11,10
-Az igazak javán örül a város; és mikor elvesznek az istentelenek, örvendezésvan.
+Az igazak javán örül a város; és mikor elvesznek az istentelenek, örvendezés van.
 fa4dh6fed 11,11
 Az igazaknak áldása által emelkedik a város; az istentelenek szája által pedig megromol.
 fa4dh6fed 11,12
 Megútálja felebarátját a bolond; az eszes férfiú pedig hallgat.
 fa4dh6fed 11,13
-A rágalmazómegjelenti a titkot; de a hűséges lelkű elfedezi a dolgot.
+A rágalmazó megjelenti a titkot; de a hűséges lelkű elfedezi a dolgot.
 fa4dh6fed 11,14
-A hol nincs vezetés, elvész a nép; a megmaradás pedig a soktanácsos által van.
+A hol nincs vezetés, elvész a nép; a megmaradás pedig a sok tanácsos által van.
 fa4dh6fed 11,15
 Teljességgel megrontatik, a ki kezes lesz idegenért; a ki pedig gyűlöli a kezességet, bátorságos lesz.
 fa4dh6fed 11,16
 A kedves asszony megtartja a tiszteletet, a hatalmaskodók pedig megtartják a gazdagságot.
 fa4dh6fed 11,17
-Ő magával tesz jól a kegyes férfiú;a kegyetlen pedig öntestének okoz fájdalmat.
+Ő magával tesz jól a kegyes férfiú;  a kegyetlen pedig öntestének okoz fájdalmat.
 fa4dh6fed 11,18
-Az istentelen munkál álnok keresményt; az igazságszerzőnek pedig jutalmavalóságos.
+Az istentelen munkál álnok keresményt; az igazságszerzőnek pedig jutalma valóságos.
 fa4dh6fed 11,19
-A ki őszinte az igazságban,az életére -, a ki pedig a gonoszt követi, az vesztére.
+A ki őszinte az igazságban, az életére -, a ki pedig a gonoszt követi, az vesztére míveli azt .
 fa4dh6fed 11,20
-Útálatosok az Úrnál azálnok szívűek; kedvesek pedig ő nála, a kik az ő útjokban tökéletesek.
+Útálatosok az Úrnál az álnok szívűek; kedvesek pedig ő nála, a kik az ő útjokban tökéletesek.
 fa4dh6fed 11,21
-Kézadássalhogy nem marad büntetlen a gonosz; az igazaknak pedig magva megszabadul.
+Kézadással erősítem, hogy nem marad büntetlen a gonosz; az igazaknak pedig magva megszabadul.
 fa4dh6fed 11,22
-a disznó orrában az aranyperecz,a szép asszony, a kinek nincs okossága.
+Mint a disznó orrában az aranyperecz, olyan a szép asszony, a kinek nincs okossága.
 fa4dh6fed 11,23
-Az igazaknak kivánságacsak jó, az istentelenek várakozása pedig harag.
+Az igazaknak kivánsága csak jó, az istentelenek várakozása pedig harag.
 fa4dh6fed 11,24
-Van olyan, a ki bőven adakozik, ésannál inkább gazdagodik; és a ki megtartóztatja a járandóságot, de ugyan szűkölködik.
+Van olyan, a ki bőven adakozik, és annál inkább gazdagodik; és a ki megtartóztatja a járandóságot, de ugyan szűkölködik.
 fa4dh6fed 11,25
-A mással jóltevő embermegkövéredik; és a ki mást felüdít, maga is üdül.
+A mással jóltevő ember megkövéredik; és a ki mást felüdít, maga is üdül.
 fa4dh6fed 11,26
-A ki búzáját visszatartja,átkozza azt a nép; annakfején pedig, a ki eladja, áldás.
+A ki búzáját visszatartja, átkozza azt a nép; annak fején pedig, a ki eladja, áldás van .
 fa4dh6fed 11,27
-A ki jóra igyekezik, jóakaratot szerez: a ki pedig gonoszt keres, ő magárajő az.
+A ki jóra igyekezik, jóakaratot szerez: a ki pedig gonoszt keres, ő magára jő az.
 fa4dh6fed 11,28
-A ki bízik az őgazdagságában, elesik; de mint a fa ága, azigazak kivirágoznak.
+A ki bízik az ő  gazdagságában, elesik; de mint a fa ága, az igazak kivirágoznak.
 fa4dh6fed 11,29
 A ki megháborítja az ő házát, annak öröksége szél lesz; és a bolond szolgája a bölcs elméjűnek.
 fa4dh6fed 11,30
 Az igaznak gyümölcse életnek fája; és lelkeket nyer meg a bölcs.
 fa4dh6fed 11,31
-Ímé, az igaz e földön megnyeri jutalmát;mennyivel inkább az istentelen és a bűnös!
+Ímé, az igaz e földön megnyeri jutalmát; mennyivel inkább az istentelen és a bűnös!
 fa4dh6fed 11,32
-A kiszereti a dorgálást, szereti a tudományt; a ki pedig gyűlöli a fenyítéket, oktalan az.
+A ki  szereti a dorgálást, szereti a tudományt; a ki pedig gyűlöli a fenyítéket, oktalan az.
 fa4dh6fed 12,1
 A jó ember jóakaratot nyer az Úrtól; de a gonosz embert kárhoztatja ő.
 fa4dh6fed 12,2
-Nem erősül meg emberaz istentelenséggel; az igazaknak pedig gyökerökki nem mozdul.
+Nem erősül meg ember az istentelenséggel; az igazaknak pedig gyökerök ki nem mozdul.
 fa4dh6fed 12,3
-A derék asszonykoronája az ő férjének; de mint az ő csontjaiban való rothadás,a megszégyenítő.
+A derék asszony koronája az ő férjének; de mint az ő csontjaiban való rothadás, olyan a megszégyenítő.
 fa4dh6fed 12,4
 Az igazaknak gondolatjaik igazak; az istentelenek tanácsa csalás.
 fa4dh6fed 12,5
-Az istenteleneknek beszédei leselkedneka vér után; az igazaknak pedig szája megszabadítja azokat.
+Az istenteleneknek beszédei leselkednek a vér után; az igazaknak pedig szája megszabadítja azokat.
 fa4dh6fed 12,6
 Leomlanak az istentelenek, és oda lesznek; az igazak háza pedig megáll.
 fa4dh6fed 12,7
 Az ő értelme szerint dicsértetik a férfiú; de az elfordult elméjű útálatos lesz.
 fa4dh6fed 12,8
-Jobb, a kit kevésretartanak, és szolgája van, mint a ki magát felmagasztalja, és szűk kenyerű.
+Jobb, a kit kevésre tartanak, és szolgája van, mint a ki magát felmagasztalja, és szűk kenyerű.
 fa4dh6fed 12,9
-Az igaz az ő barmánakérzésétismeri, az istentelenek szíve pedig kegyetlen.
+Az igaz az ő barmának érzését is ismeri, az istentelenek szíve pedig kegyetlen.
 fa4dh6fed 12,10
-A ki míveli az ő földét,megelégedik eledellel; a ki pedig követ hiábavalókat, bolond az.
+A ki míveli az ő földét, megelégedik eledellel; a ki pedig követ hiábavalókat, bolond az.
 fa4dh6fed 12,11
-Kivánja az istentelen a gonoszok prédáját; de az igaznak gyökere ád
+Kivánja az istentelen a gonoszok prédáját; de az igaznak gyökere ád gyümölcsöt. 
 fa4dh6fed 12,12
-Az ajkaknak vétkében gonosz tőr van,de kimenekedik a nyomorúságból az igaz.
+Az ajkaknak vétkében gonosz tőr van, de kimenekedik a nyomorúságból az igaz.
 fa4dh6fed 12,13
-Az ő szájánakgyümölcséből elégedik meg a férfi jóval; és az ő cselekedetének fizetését veszi az ember önmagának.
+Az ő szájának  gyümölcséből elégedik meg a férfi jóval; és az ő cselekedetének fizetését veszi az ember önmagának.
 fa4dh6fed 12,14
 A bolondnak úta helyes az ő szeme előtt, de a ki tanácscsal él, bölcs az.
 fa4dh6fed 12,15
 A bolondnak haragja azon napon megismertetik; elfedezi pedig a szidalmat az eszes ember.
 fa4dh6fed 12,16
-A ki igazán szól, megjelentiaz igazságot, a hamis bizonyság pedig az álnokságot.
+A ki igazán szól, megjelenti az igazságot, a hamis bizonyság pedig az álnokságot.
 fa4dh6fed 12,17
-Van olyan, a ki beszél hasonlókat a tőrszúrásokhoz;de a bölcseknek nyelve orvosság.
+Van olyan, a ki beszél hasonlókat a tőrszúrásokhoz;  de a bölcseknek nyelve orvosság.
 fa4dh6fed 12,18
 Az igazmondó ajak megáll mind örökké; a hazugságnak pedig nyelve egy szempillantásig.
 fa4dh6fed 12,19
-Álnokság van a gonosz gondolóknakszívében; a békességnek tanácsosiban pedig vígasság.
+Álnokság van a gonosz gondolóknak szívében; a békességnek tanácsosiban pedig vígasság.
 fa4dh6fed 12,20
 Nem vettetik az igaz semmi bántásba; az istentelenek pedig teljesek nyavalyával.
 fa4dh6fed 12,21
 Útálatosok az Úrnál a csalárd beszédek; a kik pedig cselekesznek hűségesen, kedvesek ő nála.
 fa4dh6fed 12,22
-Az eszes ember elfedezi a tudományt; a bolondok elméje pedig kikiáltja abolondságot.
+Az eszes ember elfedezi a tudományt; a bolondok elméje pedig kikiáltja a bolondságot.
 fa4dh6fed 12,23
-A gyorsaknak keze uralkodik; a restpedig adófizető lesz.
+A gyorsaknak keze uralkodik; a rest pedig adófizető lesz.
 fa4dh6fed 12,24
 A férfiúnak elméjében való gyötrelem megalázza azt; a jó szó pedig megvidámítja azt.
 fa4dh6fed 12,25
 Útba igazítja az ő felebarátját az igaz; de az istentelenek útja eltévelyíti őket.
 fa4dh6fed 12,26
-Nem süti meg arest, a mit vadászásával fogott; de drága marhája az embernek serénysége.
+Nem süti meg a rest, a mit vadászásával fogott; de drága marhája az embernek serénysége.
 fa4dh6fed 12,27
 Az igazságnak útjában van élet; és az ő ösvényének úta halhatatlanság.
 fa4dh6fed 13,1
-A bölcs fiúatyja intésének; de a csúfolósemmi dorgálásnak helyt nem ád.
+A bölcs fiú enged atyja intésének; de a csúfoló semmi dorgálásnak helyt nem ád.
 fa4dh6fed 13,2
-A férfi az ő szájának gyümölcséből éljóval; a hitetlenek lelke pedig bosszúságtétellel.
+A férfi az ő szájának gyümölcséből él jóval; a hitetlenek lelke pedig bosszúságtétellel.
 fa4dh6fed 13,3
 A ki megőrzi az ő száját, megtartja önmagát; a ki felnyitja száját, romlása az annak.
 fa4dh6fed 13,4
-Kivánsággal felindul, de hiába, a restnek lelke; a gyorsaklelke pedig megkövéredik.
+Kivánsággal felindul, de hiába, a restnek lelke; a gyorsak lelke pedig megkövéredik.
 fa4dh6fed 13,5
-A hamis dolgot gyűlöli azigaz; az istentelen pedig gyűlölségessé tesz és megszégyenít.
+A hamis dolgot gyűlöli az igaz; az istentelen pedig gyűlölségessé tesz és megszégyenít.
 fa4dh6fed 13,6
-Az igazság megőrzi azt, a ki útjában tökéletes; az istentelenségpedig elveszíti a bűnöst.
+Az igazság megőrzi azt, a ki útjában tökéletes; az istentelenség pedig elveszíti a bűnöst.
 fa4dh6fed 13,7
 Van, a ki hányja gazdagságát, holott semmije sincsen; viszont tetteti magát szegénynek, holott sok marhája van.
 fa4dh6fed 13,8
 Az ember életének váltsága lehet az ő gazdagsága; a szegény pedig nem hallja a fenyegetést.
 fa4dh6fed 13,9
-Az igazakvilágossága vígassággal ég; de az istenteleneknekszövétneke kialszik.
+Az igazak világossága vígassággal ég; de az istenteleneknek szövétneke kialszik.
 fa4dh6fed 13,10
-Csak háborúság lesz a kevélységből: azoknálpedig, a kik a tanácsot beveszik, bölcseség van.
+Csak háborúság lesz a kevélységből: azoknál pedig, a kik a tanácsot beveszik, bölcseség van.
 fa4dh6fed 13,11
-A hiábavalóságból keresett marha megkisebbül;a ki pedig kezével gyűjt, megőregbíti
+A hiábavalóságból keresett marha megkisebbül; a ki pedig kezével gyűjt, megőregbíti azt. 
 fa4dh6fed 13,12
-A halogatott reménység beteggé teszi a szívet; de a megadatott kivánság életnekfája.
+A halogatott reménység beteggé teszi a szívet; de a megadatott kivánság életnek fája.
 fa4dh6fed 13,13
 Az igének megútálója megrontatik; a ki pedig féli a parancsolatot, jutalmát veszi.
 fa4dh6fed 13,14
-A bölcsnek tanításaéletnek kútfeje,a halál tőrének eltávoztatására.
+A bölcsnek tanítása életnek kútfeje, a halál tőrének eltávoztatására.
 fa4dh6fed 13,15
 Jó értelem ád kedvességet; a hitetleneknek pedig útja kemény.
 fa4dh6fed 13,16
-Minden eszes cselekszik bölcseséggel; a bolond pedig kijelenti az őbolondságát.
+Minden eszes cselekszik bölcseséggel; a bolond pedig kijelenti az ő bolondságát.
 fa4dh6fed 13,17
-Az istentelen követ bajba esik; a hívséges követ pediggyógyulás.
+Az istentelen követ bajba esik; a hívséges követ pedig gyógyulás.
 fa4dh6fed 13,18
 Szegénység és gyalázat lesz azon, a ki a fenyítéktől magát elvonja; a ki pedig megfogadja a dorgálást, tiszteltetik.
 fa4dh6fed 13,19
-A megnyert kivánsággyönyörűséges a léleknek, és útálatosság a bolondoknak eltávozniok a gonosztól.
+A megnyert kivánság gyönyörűséges a léleknek, és útálatosság a bolondoknak eltávozniok a gonosztól.
 fa4dh6fed 13,20
 A ki jár a bölcsekkel, bölcs lesz; a ki pedig magát társul adja a bolondokhoz, megromol.
 fa4dh6fed 13,21
-A bűnösöket követi a gonosz; az igazaknak pedig jóval fizet
+A bűnösöket követi a gonosz; az igazaknak pedig jóval fizet Isten. 
 fa4dh6fed 13,22
-A jó örökséget hágy unokáinak; a bűnösnek marhái pedig eltétetnek az igazszámára.
+A jó örökséget hágy unokáinak; a bűnösnek marhái pedig eltétetnek az igaz számára.
 fa4dh6fed 13,23
-Bő étele lesz a szegényeknek az új törésen;de van olyan, a ki igazságtalansága által vész el.
+Bő étele lesz a szegényeknek az új törésen; de van olyan, a ki igazságtalansága által vész el.
 fa4dh6fed 13,24
-A ki megtartóztatja az ő vesszejét, gyűlöli az ő fiát; a ki pedig szereti azt, megkeresi őtfenyítékkel.
+A ki megtartóztatja az ő vesszejét, gyűlöli az ő fiát; a ki pedig szereti azt, megkeresi őt fenyítékkel.
 fa4dh6fed 13,25
-Az igaz eszik az ő kivánságának megelégedéséig; azistentelenek hasa pedig szűkölködik.
+Az igaz eszik az ő kivánságának megelégedéséig; az istentelenek hasa pedig szűkölködik.
 fa4dh6fed 14,1
-A bölcs asszonyépíti a maga házát; a bolond pedig önkezével rontja el azt.
+A bölcs asszony építi a maga házát; a bolond pedig önkezével rontja el azt.
 fa4dh6fed 14,2
-A ki igazán jár, féli azUrat; a ki pedig elfordult az ő útaiban, megútálja őt.
+A ki igazán jár, féli az Urat; a ki pedig elfordult az ő útaiban, megútálja őt.
 fa4dh6fed 14,3
 A bolondnak szájában van kevélységnek pálczája; a bölcseknek pedig beszéde megtartja őket.
 fa4dh6fed 14,4
 Mikor nincsenek ökrök: tiszta a jászol; a gabonának bősége pedig az ökörnek erejétől van.
 fa4dh6fed 14,5
-A hűséges tanúnem hazud; a hamis tanú pedig hazugságot bocsát szájából.
+A hűséges tanú  nem hazud; a hamis tanú pedig hazugságot bocsát szájából.
 fa4dh6fed 14,6
 A csúfoló keresi a bölcseséget, és nincs; a tudomány pedig az eszesnek könnyű.
 fa4dh6fed 14,7
-Menj el a bolond férfiúelől; és nem ismerted meg a tudománynak beszédét.
+Menj el a bolond férfiú elől; és nem ismerted meg a tudománynak beszédét.
 fa4dh6fed 14,8
 Az eszesnek bölcsesége az ő útának megértése; a bolondoknak pedig bolondsága csalás.
 fa4dh6fed 14,9
@@ -766,37 +766,37 @@ A szív tudja az ő lelke keserűségét; és az ő örömében az idegen nem r�
 fa4dh6fed 14,11
 Az istenteleneknek háza elvész; de az igazaknak sátora megvirágzik.
 fa4dh6fed 14,12
-Van olyan út,helyesnek látszikaz ember előtt, és vége a halálra menő út.
+Van olyan út, mely helyesnek látszik az ember előtt, és vége a halálra menő út.
 fa4dh6fed 14,13
-Nevetés közben is fáj a szív; és végre az örömfordul szomorúságra.
+Nevetés közben is fáj a szív; és végre az öröm fordul szomorúságra.
 fa4dh6fed 14,14
-Az ő útaibólelégszik meg az elfordult elméjű; önmagából pedig a jó férfiú.
+Az ő útaiból elégszik meg az elfordult elméjű; önmagából pedig a jó férfiú.
 fa4dh6fed 14,15
 Az együgyű hisz minden dolognak; az eszes pedig a maga járására vigyáz.
 fa4dh6fed 14,16
-A bölcs félvén,eltávozik a gonosztól; a bolond pedig dühöngő és elbizakodott.
+A bölcs félvén, eltávozik a gonosztól; a bolond pedig dühöngő és elbizakodott.
 fa4dh6fed 14,17
 A hirtelen haragú bolondságot cselekszik, és a cselszövő férfi gyűlölséges lesz.
 fa4dh6fed 14,18
-Bírják az esztelenek a bolondságot örökség szerint; az eszesek pedig fonják atudománynak koszorúját.
+Bírják az esztelenek a bolondságot örökség szerint; az eszesek pedig fonják a tudománynak koszorúját.
 fa4dh6fed 14,19
-Meghajtják magokat a gonoszok a jókelőtt, és a hamisak az igaznak kapujánál.
+Meghajtják magokat a gonoszok a jók  előtt, és a hamisak az igaznak kapujánál.
 fa4dh6fed 14,20
-Még az ő felebarátjánál is útálatos aszegény; a gazdagnak pedig sok a barátja.
+Még az ő felebarátjánál is útálatos a szegény; a gazdagnak pedig sok a barátja.
 fa4dh6fed 14,21
-A ki megútálja az ő felebarátját, vétkezik; a ki pedig a szegényekkel kegyelmességetcselekszik,boldog az!
+A ki megútálja az ő felebarátját, vétkezik; a ki pedig a szegényekkel kegyelmességet cselekszik, boldog az!
 fa4dh6fed 14,22
-Nemde tévelyegnek, a kik gonoszt szereznek? kegyelmesség pedig és igazság a jószerzőknek.
+Nemde tévelyegnek, a kik gonoszt szereznek? kegyelmesség pedig és igazság a jó szerzőknek.
 fa4dh6fed 14,23
 Minden munkából nyereség lesz; de az ajkaknak beszédéből csak szűkölködés.
 fa4dh6fed 14,24
-A bölcseknek ékességök az ő gazdagságuk; a tudatlanok bolondságabolondság.
+A bölcseknek ékességök az ő gazdagságuk; a tudatlanok bolondsága pedig csak bolondság.
 fa4dh6fed 14,25
 Lelkeket szabadít meg az igaz bizonyság; hazugságokat szól pedig az álnok.
 fa4dh6fed 14,26
-Az Úrnak félelmében erős a bizodalom, és az ő fiainak leszmenedéke.
+Az Úrnak félelmében erős a bizodalom, és az ő fiainak lesz menedéke.
 fa4dh6fed 14,27
-Az Úrnak félelme az életnek kútfeje,a halál tőrének eltávoztatására.
+Az Úrnak félelme az életnek kútfeje, a halál tőrének eltávoztatására.
 fa4dh6fed 14,28
 A nép sokasága a király dicsősége; a nép elfogyása pedig az uralkodó romlása.
 fa4dh6fed 14,29
@@ -804,157 +804,157 @@ A haragra késedelmes bővelkedik értelemmel; a ki pedig elméjében hirtelenke
 fa4dh6fed 14,30
 A szelíd szív a testnek élete; az irígység pedig a csontoknak rothadása.
 fa4dh6fed 14,31
-A ki elnyomja a szegényt,gyalázattal illeti annak teremtőjét; az pedig tiszteli,a ki könyörül a szűkölködőn.
+A ki elnyomja a szegényt, gyalázattal illeti annak teremtőjét; az pedig tiszteli,  a ki könyörül a szűkölködőn.
 fa4dh6fed 14,32
-Az ő nyavalyájába ejti magát az istentelen; az igaznak pedig halála idején isreménysége van.
+Az ő nyavalyájába ejti magát az istentelen; az igaznak pedig halála idején is reménysége van.
 fa4dh6fed 14,33
-Az eszesnek elméjében nyugszik a bölcseség; a mi pedig a tudatlanokbanmagátmegismerheti.
+Az eszesnek elméjében nyugszik a bölcseség; a mi pedig a tudatlanokban van, magát hamar  megismerheti.
 fa4dh6fed 14,34
 Az igazság felmagasztalja a nemzetet; a bűn pedig gyalázatára van a népeknek.
 fa4dh6fed 14,35
 A királynak jóakaratja van az eszes szolgához; haragja pedig a megszégyenítőhöz.
 fa4dh6fed 15,1
-Az engedelmes felelet elfordítja a harag felgerjedését; a megbántó beszéd pedigtámaszt haragot.
+Az engedelmes felelet elfordítja a harag felgerjedését; a megbántó beszéd pedig támaszt haragot.
 fa4dh6fed 15,2
-A bölcsek nyelve beszél jó tudományt: a tudatlanoknak szájánpedig bolondság buzog ki.
+A bölcsek nyelve beszél jó tudományt: a tudatlanoknak száján pedig bolondság buzog ki.
 fa4dh6fed 15,3
-Minden helyekenaz Úrnak szemei,nézvén a jókat és gonoszokat.
+Minden helyeken vannak az Úrnak szemei,  nézvén a jókat és gonoszokat.
 fa4dh6fed 15,4
-A nyelv szelídségeéletnek fája; az abban való hamisság pedig a léleknek gyötrelme.
+A nyelv szelídsége életnek fája; az abban való hamisság pedig a léleknek gyötrelme.
 fa4dh6fed 15,5
-A bolondmegútálja az ő atyjának tanítását; a ki pedig megbecsüli a dorgálást, igen eszes.
+A bolond megútálja az ő atyjának tanítását; a ki pedig megbecsüli a dorgálást, igen eszes.
 fa4dh6fed 15,6
-Az igaznak házában nagy kincs van; az istentelennek jövedelmében pedigháborúság.
+Az igaznak házában nagy kincs van; az istentelennek jövedelmében pedig háborúság.
 fa4dh6fed 15,7
-A bölcseknek ajkaik hintegetnek tudományt; a bolondoknakpedig elméje nem helyes.
+A bölcseknek ajkaik hintegetnek tudományt; a bolondoknak pedig elméje nem helyes.
 fa4dh6fed 15,8
-Az istentelenek áldozatjagyűlölséges az Úrnak; az igazak könyörgése pedig kedves néki.
+Az istentelenek áldozatja  gyűlölséges az Úrnak; az igazak könyörgése pedig kedves néki.
 fa4dh6fed 15,9
 Utálat az Úrnál az istentelennek úta; azt pedig, a ki követi az igazságot, szereti.
 fa4dh6fed 15,10
-Gonosz dorgálásarra, a ki útját elhagyja; a ki gyűlöli afenyítéket, meghal.
+Gonosz dorgálás jő arra, a ki útját elhagyja; a ki gyűlöli a fenyítéket, meghal.
 fa4dh6fed 15,11
-A sírés a pokol az Úr előtt vannak; mennyivel inkább azemberek szíve.
+A sír és a pokol az Úr előtt vannak; mennyivel inkább az emberek szíve.
 fa4dh6fed 15,12
-Nem szereti a csúfoló a feddést,a bölcsekhez nem megy.
+Nem szereti a csúfoló a feddést, és a bölcsekhez nem megy.
 fa4dh6fed 15,13
-A vidám elme megvidámítjaaz orczát; de a szívnek bánatja miatt a lélek megszomorodik.
+A vidám elme megvidámítja az orczát; de a szívnek bánatja miatt a lélek megszomorodik.
 fa4dh6fed 15,14
 Az eszesnek elméje keresi a tudományt; a tudatlanok szája pedig legel bolondságot.
 fa4dh6fed 15,15
-Minden napjai a szegénynek nyomorúságosak; a vidám elméjűnek pedig szüntelen lakodalma
+Minden napjai a szegénynek nyomorúságosak; a vidám elméjűnek pedig szüntelen lakodalma van. 
 fa4dh6fed 15,16
-Jobb a kevés az Úrnakfélelmével, mint a temérdek kincs, a hol háborúság van.
+Jobb a kevés az Úrnak félelmével, mint a temérdek kincs, a hol háborúság van.
 fa4dh6fed 15,17
-Jobb a paréjnakétele, a hol szeretet van, mint a hízlalt ökör, a hol van gyűlölség.
+Jobb a paréjnak étele, a hol szeretet van, mint a hízlalt ökör, a hol van gyűlölség.
 fa4dh6fed 15,18
-A haragos férfiúszerez háborúságot; a hosszútűrő pedig lecsendesíti a háborgást.
+A haragos férfiú szerez háborúságot; a hosszútűrő pedig lecsendesíti a háborgást.
 fa4dh6fed 15,19
 A restnek útja olyan, mint a tövises sövény; az igazaknak pedig útja megegyengetett.
 fa4dh6fed 15,20
-A bölcs fiú örvendeztetiaz atyját; a bolond ember pedig megútálja azanyját.
+A bölcs fiú örvendezteti az atyját; a bolond ember pedig megútálja az anyját.
 fa4dh6fed 15,21
 A bolondság öröme az esztelennek; de az értelmes férfiú igazán jár.
 fa4dh6fed 15,22
-Hiábavalók lesznek a gondolatok, mikor nincstanács; de a tanácsosok sokaságában előmennek.
+Hiábavalók lesznek a gondolatok, mikor nincs tanács; de a tanácsosok sokaságában előmennek.
 fa4dh6fed 15,23
-Öröme van az embernek szája feleletében; és az idejébenbeszéd, oh mely igen jó!
+Öröme van az embernek szája feleletében; és az idejében mondott beszéd, oh mely igen jó!
 fa4dh6fed 15,24
 Az életnek úta felfelé van az értelmes ember számára, hogy eltávozzék a pokoltól, mely aláfelé van.
 fa4dh6fed 15,25
-A kevélyeknek házátkiszakgatja az Úr; megerősíti pedig az özvegynek határát.
+A kevélyeknek házát kiszakgatja az Úr; megerősíti pedig az özvegynek határát.
 fa4dh6fed 15,26
-Útálatosak az Úrnak a gonosz gondolatok;de kedvesek a tiszta beszédek.
+Útálatosak az Úrnak a gonosz gondolatok; de kedvesek a tiszta beszédek.
 fa4dh6fed 15,27
-Megháborítja az ő házát, aki követi a telhetetlenséget; a ki pedig gyűlöli az ajándékokat, él az.
+Megháborítja az ő házát, a [Zsolt.15,5.] ki követi a telhetetlenséget; a ki pedig gyűlöli az ajándékokat, él az.
 fa4dh6fed 15,28
 Az igaznak elméje meggondolja, mit szóljon; az istenteleneknek pedig szája ontja a gonoszt.
 fa4dh6fed 15,29
-Messzeaz Úr az istentelenektől; az igazaknak pedigkönyörgését meghallgatja.
+Messze van az Úr az istentelenektől; az igazaknak pedig könyörgését meghallgatja.
 fa4dh6fed 15,30
-A szemek világamegvidámítja a szívet; a jó hír megerősíti a csontokat.
+A szemek világa megvidámítja a szívet; a jó hír megerősíti a csontokat.
 fa4dh6fed 15,31
 A mely fül hallgatja az életnek dorgálását, a bölcsek között lakik.
 fa4dh6fed 15,32
 A ki elvonja magát az erkölcsi tanítástól, megútálja az ő lelkét; a ki pedig hallgatja a feddést, értelmet szerez.
 fa4dh6fed 15,33
-Az Úrnak félelmea bölcseségnek tudománya, és a tisztességnek előtte jár azalázatosság.
+Az Úrnak félelme a bölcseségnek tudománya, és a tisztességnek előtte jár az alázatosság.
 fa4dh6fed 16,1
-Az embernél vannak az elme gondolatjai; de az Úrtól vana nyelv felelete.
+Az embernél vannak az elme gondolatjai; de az Úrtól van  a nyelv felelete.
 fa4dh6fed 16,2
-Minden útai tiszták az embernek a maga szemei előtt; de a ki a lelkeket vizsgálja,az Úr az!
+Minden útai tiszták az embernek a maga szemei előtt; de a ki a lelkeket vizsgálja, az Úr az!
 fa4dh6fed 16,3
-Bízzad az Úrra a te dolgaidat; és a te gondolatidvéghez mennek.
+Bízzad az Úrra a te dolgaidat; és a te gondolatid  véghez mennek.
 fa4dh6fed 16,4
-Mindent teremtett az Úr az ő maga czéljára; az istentelent is a büntetésneknapjára.
+Mindent teremtett az Úr az ő maga czéljára; az istentelent is a büntetésnek  napjára.
 fa4dh6fed 16,5
-Útálatos az Úrnak minden, a ki elméjébenfelfuvalkodott, kezemet adom rá, hogy nem marad büntetetlen.
+Útálatos az Úrnak minden, a ki elméjében felfuvalkodott, kezemet adom rá, hogy nem marad büntetetlen.
 fa4dh6fed 16,6
-Könyörületességgelés igazsággal töröltetik el a bűn; és az Úrnak félelme által távozhatunk el a gonosztól.
+Könyörületességgel és igazsággal töröltetik el a bűn; és az Úrnak félelme által távozhatunk el a gonosztól.
 fa4dh6fed 16,7
 Mikor jóakarattal van az Úr valakinek útaihoz, még annak ellenségeit is jóakaróivá teszi.
 fa4dh6fed 16,8
-Jobb a kevés igazsággal,mint a gazdag jövedelem hamissággal.
+Jobb a kevés igazsággal,  mint a gazdag jövedelem hamissággal.
 fa4dh6fed 16,9
-Az embernek elméje gondolja meg az ő útát; de az Úr igazgatjaannak járását.
+Az embernek elméje gondolja meg az ő útát; de az Úr igazgatja  annak járását.
 fa4dh6fed 16,10
-Jósige van a király ajkain; az ítéletben ne szóljonhamisságot az ő szája.
+Jósige van a király ajkain; az ítéletben ne szóljon  hamisságot az ő szája.
 fa4dh6fed 16,11
-Az Úré az igaz mérték és mérőserpenyő, az ő műve mindenmérőkő.
+Az Úré az igaz mérték és mérőserpenyő, az ő műve minden mérőkő.
 fa4dh6fed 16,12
 Útálatos legyen a királyoknál istentelenséget cselekedni; mert igazsággal erősíttetik meg a királyiszék.
 fa4dh6fed 16,13
-Kedvesek a királyoknak az igaz beszédek;és azigazmondót szereti
+Kedvesek a királyoknak az igaz beszédek; és az igazmondót szereti a király. 
 fa4dh6fed 16,14
-A királynak felgerjedt haragjaa halál követe; de a bölcs férfiú leszállítja azt.
+A királynak felgerjedt haragja olyan, mint a halál követe; de a bölcs férfiú leszállítja azt.
 fa4dh6fed 16,15
-A királynak vidámorczájában élet van; jóakaratja olyan, mint a tavaszi eső fellege.
+A királynak vidám orczájában élet van; jóakaratja olyan, mint a tavaszi eső fellege.
 fa4dh6fed 16,16
-Szerzeni bölcseséget, oh menynyivel jobb azaranynál; és szerzeni eszességet, kivánatosb az ezüstnél!
+Szerzeni bölcseséget, oh menynyivel jobb az  aranynál; és szerzeni eszességet, kivánatosb az ezüstnél!
 fa4dh6fed 16,17
 Az igazak országútja eltávozás a gonosztól; megtartja magát az, a ki megőrzi az ő útát.
 fa4dh6fed 16,18
-A megromlás előtt kevélység, és az eset előtt felfuvalkodottság.
+A megromlás előtt kevélység jár , és az eset előtt felfuvalkodottság.
 fa4dh6fed 16,19
-Jobb alázatos lélekkellenni a szelídekkel, mint zsákmányon osztozni a kevélyekkel.
+Jobb alázatos lélekkel lenni a szelídekkel, mint zsákmányon osztozni a kevélyekkel.
 fa4dh6fed 16,20
-A ki figyelmez az igére, jót nyer; és a ki bízik azÚrban, oh mely boldog az!
+A ki figyelmez az igére, jót nyer; és a ki bízik az Úrban, oh mely boldog az!
 fa4dh6fed 16,21
 A ki elméjében bölcs, hívatik értelmesnek; a beszédnek pedig édessége neveli a tudományt.
 fa4dh6fed 16,22
-Életnek kútfejeaz értelem, a ki bírja azt; de a bolondok fenyítéke bolondságuk.
+Életnek kútfeje az értelem annak , a ki bírja azt; de a bolondok fenyítéke bolondságuk.
 fa4dh6fed 16,23
 A bölcsnek elméje értelmesen igazgatja az ő száját, és az ő ajkain öregbíti a tudományt.
 fa4dh6fed 16,24
 Lépesméz a gyönyörűséges beszédek; édesek a léleknek, és meggyógyítói a tetemeknek.
 fa4dh6fed 16,25
-Vanoly út, mely igaz az ember szeme előtt, de vége a halálnak úta.
+Van oly út, mely igaz az ember szeme előtt, de vége a halálnak úta.
 fa4dh6fed 16,26
 A munkálkodó lelke magának munkálkodik; mert az ő szája kényszeríti őt.
 fa4dh6fed 16,27
-A haszontalan ember gonoszt ás ki, és az ő ajkain mintegyégő tűz van;
+A haszontalan ember gonoszt ás ki, és az ő ajkain mintegy  égő tűz van;
 fa4dh6fed 16,28
 A gonosz ember versengést szerez, és a susárló elválasztja a jó barátokat.
 fa4dh6fed 16,29
 Az erőszakos ember elhiteti az ő felebarátját, és nem jó úton viszi őt.
 fa4dh6fed 16,30
-A ki behúnyja szemeit,, hogy álnokságot gondoljon; a ki összeszorítja ajkait,véghez vitte a gonoszságot.
+A ki behúnyja szemeit, azért teszi , hogy álnokságot gondoljon; a ki összeszorítja ajkait, már véghez vitte a gonoszságot.
 fa4dh6fed 16,31
 Igen szép ékes korona a vénség, az igazságnak útában találtatik.
 fa4dh6fed 16,32
-Jobb a hosszútűrőaz erősnél; és a ki uralkodik a maga indulatján, annál, a ki várost vesz meg.
+Jobb a hosszútűrő az erősnél; és a ki uralkodik a maga indulatján, annál, a ki várost vesz meg.
 fa4dh6fed 16,33
-Azkebelében vetnek sorsot; de az Úrtól van annak minden ítélete.
+Az ember kebelében vetnek sorsot; de az Úrtól van annak minden ítélete.
 fa4dh6fed 17,1
-Jobb a szárazfalat, melylyel van csendesség; mint a levágott barmokkal teljes ház, melyben háborúság van.
+Jobb a száraz falat, melylyel van csendesség; mint a levágott barmokkal teljes ház, melyben háborúság van.
 fa4dh6fed 17,2
 Az értelmes szolga uralkodik a gyalázatos fiún, és az atyafiak között az örökségnek részét veszi.
 fa4dh6fed 17,3
-Az olvasztótégely az ezüst számára van, és a kemencze az aranyéra; a szívekvizsgálója pedig az Úr.
+Az olvasztótégely az ezüst számára van, és a kemencze az aranyéra; a szívek vizsgálója pedig az Úr.
 fa4dh6fed 17,4
 A gonosztevő hallgat az álnok beszédekre, a csalárd hallgat a gonosz nyelvre.
 fa4dh6fed 17,5
-A ki megcsúfolja a szegényt,gyalázattal illeti annak Teremtőjét; a ki gyönyörködiknyomorúságában, büntetlennem lészen!
+A ki megcsúfolja a szegényt, gyalázattal illeti annak Teremtőjét; a ki gyönyörködik másnak nyomorúságában, büntetlen nem lészen!
 fa4dh6fed 17,6
 A véneknek ékessége az unokák, és a fiaknak ékessége az atyák.
 fa4dh6fed 17,7
@@ -962,23 +962,23 @@ Nem illik a bolondnak az ékes beszéd; még kevésbbé a tisztességesnek a haz
 fa4dh6fed 17,8
 Drága kő az ajándék elfogadójának szemei előtt; mindenütt, a hova csak fordul, okosan cselekszik.
 fa4dh6fed 17,9
-Elfedezi avétket, a ki keresi a szeretetet; a ki pedig ismétlen előhoz egy dolgot, elszakasztja egymástól a barátságosokat is.
+Elfedezi a vétket, a ki keresi a szeretetet; a ki pedig ismétlen előhoz egy dolgot, elszakasztja egymástól a barátságosokat is.
 fa4dh6fed 17,10
-Foganatosb a dorgálásaz eszesnél, mint ha megvernéd a bolondot százszor is.
+Foganatosb a dorgálás az eszesnél, mint ha megvernéd a bolondot százszor is.
 fa4dh6fed 17,11
 Csak ellenkezést keres a gonosz, végre kegyetlen követ bocsáttatik ellene.
 fa4dh6fed 17,12
 Találjon valakire a fiától megfosztott medve, csak ne a bolond az ő bolondságában.
 fa4dh6fed 17,13
-A ki fizet gonoszta jóért, nem távozik el a gonosz annak házától.
+A ki fizet gonoszt a jóért, nem távozik el a gonosz annak házától.
 fa4dh6fed 17,14
-a ki árvizet szabadít el,a háborúság kezdete; azért minekelőtte kihatna, hagyd ela versengést.
+Mint a ki árvizet szabadít el, olyan a háborúság kezdete; azért minekelőtte kihatna, hagyd el a versengést.
 fa4dh6fed 17,15
-A ki igaznak mondjaa bűnöst, és kárhoztatja az igazat, útálatos az Úrnak egyaránt mind a kettő.
+A ki igaznak mondja  a bűnöst, és kárhoztatja az igazat, útálatos az Úrnak egyaránt mind a kettő.
 fa4dh6fed 17,16
 Miért van a vétel ára a bolondnak kezében a bölcseség megszerzésére, holott nincsen néki elméje?
 fa4dh6fed 17,17
-Minden időben szeret, a kibarát, és testvérül születika nyomorúság idejére.
+Minden időben szeret, a ki  igaz barát, és testvérül születik a nyomorúság idejére.
 fa4dh6fed 17,18
 Értelmetlen ember az, a ki kezét adja, fogadván kezességet barátja előtt.
 fa4dh6fed 17,19
@@ -986,21 +986,21 @@ Szereti a gonoszt, a ki szereti a háborúságot; a ki magasbítja kapuját, rom
 fa4dh6fed 17,20
 Az elfordult szívű ember nem nyerhet jót, és a ki az ő nyelvével gonosz, esik nyomorúságba.
 fa4dh6fed 17,21
-A ki szül bolondot,ő magánakbánatra; és nem örvendez a bolondnak atyja.
+A ki szül bolondot, szüli ő magának bánatra; és nem örvendez a bolondnak atyja.
 fa4dh6fed 17,22
-A vidám elmejó orvosságul szolgál; a szomorú lélek pedig megszáraztja a csontokat.
+A vidám elme jó orvosságul szolgál; a szomorú lélek pedig megszáraztja a csontokat.
 fa4dh6fed 17,23
-A kebelbőlajándékot az istentelen elveszi, a törvényútának elfordítására.
+A kebelből kivett ajándékot az istentelen elveszi, a törvény  útának elfordítására.
 fa4dh6fed 17,24
-Az eszesnek orczájából kitetszik a bölcseség; a bolondnak pedig szemeia földnek végéig.
+Az eszesnek orczájából kitetszik a bölcseség; a bolondnak pedig szemei országolnak a földnek végéig.
 fa4dh6fed 17,25
-Búsulása az ő atyjának a bolond fiú,és az ő szülőjének keserűsége.
+Búsulása az ő atyjának a bolond fiú,  és az ő szülőjének keserűsége.
 fa4dh6fed 17,26
 Még megbirságolni is az igazat nem jó, a tisztességest megverni igazságáért.
 fa4dh6fed 17,27
-A ki megtartóztatjabeszédét, az tudós ember, és a ki higgadt lelkű, az értelmes férfiú.
+A ki megtartóztatja beszédét, az tudós ember, és a ki higgadt lelkű, az értelmes férfiú.
 fa4dh6fed 17,28
-Még a bolond is, amikor hallgat, bölcsnekítéltetik; mikor ajkait bezárja, eszesnek.
+Még a bolond is, amikor hallgat, bölcsnek ítéltetik; mikor ajkait bezárja, eszesnek.
 fa4dh6fed 18,1
 A maga kivánsága után megy az agyas ember, minden igaz bölcseség ellen dühösködik.
 fa4dh6fed 18,2
@@ -1008,23 +1008,23 @@ Nem gyönyörködik a bolond az értelemben, hanem abban, hogy az ő elméje nyi
 fa4dh6fed 18,3
 Mikor eljő az istentelen, eljő a megútálás; és a szidalommal a gyalázat.
 fa4dh6fed 18,4
-Mély víz az emberszájának beszéde, buzogó patak a bölcseségnek kútfeje.
+Mély víz az ember szájának beszéde, buzogó patak a bölcseségnek kútfeje.
 fa4dh6fed 18,5
-A gonosz személyének kedvezni nem jó, elfordítani azigazat az ítéletben.
+A gonosz személyének kedvezni nem jó, elfordítani az igazat az ítéletben.
 fa4dh6fed 18,6
 A bolondnak beszédei szereznek versengést, és az ő szája ütésekért kiált.
 fa4dh6fed 18,7
-A bolondnak szája az őromlása, és az ő beszédei az ő életének tőre.
+A bolondnak szája az ő romlása, és az ő beszédei az ő életének tőre.
 fa4dh6fed 18,8
 A susárlónak beszédei hizelkedők; és azok a szív belsejét áthatják.
 fa4dh6fed 18,9
 A ki lágyan viseli magát az ő dolgában, testvére annak, a ki tönkre tesz.
 fa4dh6fed 18,10
-Erős torony az Úrnak neve,ahhoz folyamodik az igaz, és bátorságos lészen.
+Erős torony az Úrnak neve, ahhoz folyamodik az igaz, és bátorságos lészen.
 fa4dh6fed 18,11
-A gazdagnak vagyona az őerős városa, és mint a magas kőfal, az ő gondolatja szerint.
+A gazdagnak vagyona az ő erős városa, és mint a magas kőfal, az ő gondolatja szerint.
 fa4dh6fed 18,12
-A megromlás előttfelfuvalkodik az ember elméje; a tisztesség előtt pedigalázatosság van.
+A megromlás előtt felfuvalkodik az ember elméje; a tisztesség előtt pedig alázatosság van.
 fa4dh6fed 18,13
 A ki felel valamit, míg meg nem hallja, ez bolondság és gyalázatos rá nézve.
 fa4dh6fed 18,14
@@ -1038,157 +1038,157 @@ Igaza van annak, a ki első a perben; mígnem eljő az ő peresfele, és megvizs
 fa4dh6fed 18,18
 A versengéseket megszünteti a sorsvetés, és az erőseket elválasztja.
 fa4dh6fed 18,19
-A felingerelt atyafiúaz erős városnál, ésversengések olyanok, mint a vár zárja.
+A felingerelt atyafiú erősb az erős városnál, és az ilyen versengések olyanok, mint a vár zárja.
 fa4dh6fed 18,20
-A férfi szájának hasznával elégedik meg az őbelseje; az ő beszédének jövedelmével lakik jól.
+A férfi szájának hasznával elégedik meg az ő  belseje; az ő beszédének jövedelmével lakik jól.
 fa4dh6fed 18,21
-Mind a halál, mind az élet a nyelv hatalmában, és akiki szeret azzal élni,eszi annak gyümölcsét.
+Mind a halál, mind az élet a nyelv hatalmában   van , és a miképen kiki szeret azzal élni, úgy eszi annak gyümölcsét.
 fa4dh6fed 18,22
-Megnyerte a jót, a ki talált feleséget, és vett jóakaratot azÚrtól!
+Megnyerte a jót, a ki talált feleséget, és vett jóakaratot az Úrtól!
 fa4dh6fed 18,23
 Alázatos kérést szól a szegény; a gazdag pedig keményen felel.
 fa4dh6fed 18,24
-Az ember, a kinekbarátja van, széttöretik; de van barát, a ki ragaszkodóbba testvérnél.
+Az ember, a kinek sok barátja van, széttöretik; de van barát, a ki ragaszkodóbb a testvérnél.
 fa4dh6fed 19,1
-Jobb a tökéletesen járószegény a gonosz nyelvűnél, a ki bolond.
+Jobb a tökéletesen járó szegény a gonosz nyelvűnél, a ki bolond.
 fa4dh6fed 19,2
-A lélek sem jó tudomány nélkül; és a kia lábával siet, hibázik.
+A lélek sem jó tudomány nélkül; és a ki csak a lábával siet, hibázik.
 fa4dh6fed 19,3
-Az embernek bolondsága fordítja elaz ő útát, és az Úr ellen haragszik az ő szíve.
+Az embernek bolondsága fordítja el az ő útát, és az Úr ellen haragszik az ő szíve.
 fa4dh6fed 19,4
-A gazdagság szaporítja a sokbarátot; a szegénytől pedig az ő barátja elválik.
+A gazdagság szaporítja a sok barátot; a szegénytől pedig az ő barátja elválik.
 fa4dh6fed 19,5
-A hamis tanúbüntetetlen nem marad, és a hazugságoknak szólója meg nem szabadul.
+A hamis tanú büntetetlen nem marad, és a hazugságoknak szólója meg nem szabadul.
 fa4dh6fed 19,6
 Sokan hizelegnek a nemeslelkű embernek, és minden barát az adakozóé.
 fa4dh6fed 19,7
-A szegényt minden atyjafiagyűlöli, még barátai is eltávolodnak tőle; unszolja szavakkal, de ők eltünnek.
+A szegényt minden atyjafia gyűlöli, még barátai is eltávolodnak tőle; unszolja szavakkal, de ők eltünnek.
 fa4dh6fed 19,8
 A ki értelmet szerez, szereti az életét, a ki megőrzi az értelmességet, jót nyer.
 fa4dh6fed 19,9
-A hamis bizonyságnem marad büntetlen, és a ki hazugságokat beszél, elvész.
+A hamis bizonyság nem marad büntetlen, és a ki hazugságokat beszél, elvész.
 fa4dh6fed 19,10
-Nem illik a bolondhoz a gyönyörködés; sokkal inkább nema szolgának uralkodnia fejedelmeken.
+Nem illik a bolondhoz a gyönyörködés; sokkal inkább nem illik a szolgának uralkodni a fejedelmeken.
 fa4dh6fed 19,11
-Az embernek értelme hosszútűrővé teszi őt; és ékességére van néki elhallgatnia vétket.
+Az embernek értelme hosszútűrővé teszi őt; és ékességére van néki elhallgatni a vétket.
 fa4dh6fed 19,12
-Mint az ifjú oroszlánnak ordítása, olyan a királynakharagja; mint a harmat pedig a füvön, az őjóakaratja.
+Mint az ifjú oroszlánnak ordítása, olyan a királynak haragja; mint a harmat pedig a füvön, az ő jóakaratja.
 fa4dh6fed 19,13
-Romlása az ő atyjának a bolond fiú,és mint a szüntelen csepegés, az asszonynak zsémbelődése.
+Romlása az ő atyjának a bolond fiú,  és mint a szüntelen csepegés, az asszonynak zsémbelődése.
 fa4dh6fed 19,14
-A ház és marha atyától való örökség; az Úrtólvan pedig az értelmes feleség.
+A ház és marha atyától való örökség; az Úrtól van pedig az értelmes feleség.
 fa4dh6fed 19,15
-A restség álombamerít, és a lomha lélekmegéhezik.
+A restség álomba merít, és a lomha lélek megéhezik.
 fa4dh6fed 19,16
-A ki megtartja a parancsolatot, megtartjaő magát; a ki nem vigyáz útaira, meghal.
+A ki megtartja a parancsolatot, megtartja  ő magát; a ki nem vigyáz útaira, meghal.
 fa4dh6fed 19,17
-Kölcsön ád az Úrnak, a ki kegyelmes aszegényhez; és az ő jótéteményét megfizeti néki.
+Kölcsön ád az Úrnak, a ki kegyelmes a szegényhez; és az ő jótéteményét megfizeti néki.
 fa4dh6fed 19,18
-Fenyítsd mega te fiadat, mert még van reményde annyira, hogy őt megöld, ne vigyen haragod.
+Fenyítsd meg a te fiadat, mert még van remény felőle; de annyira, hogy őt megöld, ne vigyen haragod.
 fa4dh6fed 19,19
-A nagy haragúbüntetést szenvedjen, mert ha menteni akarod, még növeled
+A nagy haragú ember büntetést szenvedjen, mert ha menteni akarod, még növeled haragját. 
 fa4dh6fed 19,20
-Engedj atanácsnak, és vedd be az erkölcsi oktatást; hogy bölcs légy végre.
+Engedj a tanácsnak, és vedd be az erkölcsi oktatást; hogy bölcs légy végre.
 fa4dh6fed 19,21
-Sok gondolat van az ember elméjében; de csak az Úrnaktanácsa áll meg.
+Sok gondolat van az ember elméjében; de csak az Úrnak  tanácsa áll meg.
 fa4dh6fed 19,22
-A mit leginkább kell embernek kivánni, az irgalmasságaz, és jobb a szegény a hazug férfiúnál.
+A mit leginkább kell embernek kivánni, az irgalmasság az, és jobb a szegény a hazug férfiúnál.
 fa4dh6fed 19,23
-Az Úrnak félelme életre visz; ésmegelégedvetölti az éjet, gonoszszal nem illettetik.
+Az Úrnak félelme életre visz; és az ilyen megelégedve tölti az éjet, gonoszszal nem illettetik.
 fa4dh6fed 19,24
-Bemártja a rest az őkezét a tálba, de már a szájához nem viszi vissza.
+Bemártja a rest az ő  kezét a tálba, de már a szájához nem viszi vissza.
 fa4dh6fed 19,25
-Ha a csúfolót megvered,az együgyű lesz okosabb; és ha megdorgálod az eszest, megérti a tudományt.
+Ha a csúfolót megvered, az együgyű lesz okosabb; és ha megdorgálod az eszest, megérti a tudományt.
 fa4dh6fed 19,26
-A ki atyjával erőszakoskodik, anyját elűzi: gyalázatos ésmegszégyenítő fiú az.
+A ki atyjával erőszakoskodik, anyját elűzi: gyalázatos és  megszégyenítő fiú az.
 fa4dh6fed 19,27
-Szünjél meg, fiam, hallgatni az olyan tanítást,, hogy a bölcseségnek igéjétől eltévedj.
+Szünjél meg, fiam, hallgatni az olyan tanítást, mely téged arra visz , hogy a bölcseségnek igéjétől eltévedj.
 fa4dh6fed 19,28
 A semmirevaló bizonyság csúfolja a törvényt; az istentelenek szája elnyeli a gonoszságot.
 fa4dh6fed 19,29
 A csúfolóknak készíttettek a büntetések, és az ütések a bolondok hátának.
 fa4dh6fed 20,1
-A bor csúfoló, a részegítő ital háborgó, és valakiabba beletéved, nem bölcs!
+A bor csúfoló, a részegítő ital háborgó, és valaki abba beletéved, nem bölcs!
 fa4dh6fed 20,2
-Mint a fiatal oroszlán ordítása, olyan a királynakrettentése; a ki azt haragra ingerli, vétkezik a maga élete ellen.
+Mint a fiatal oroszlán ordítása, olyan a királynak rettentése; a ki azt haragra ingerli, vétkezik a maga élete ellen.
 fa4dh6fed 20,3
-Tisztesség az embernek elmaradni a versengéstől;valaki pedig bolond, patvarkodik.
+Tisztesség az embernek elmaradni a versengéstől;  valaki pedig bolond, patvarkodik.
 fa4dh6fed 20,4
 A hideg miatt nem szánt a rest; aratni akar majd, de nincs mit.
 fa4dh6fed 20,5
-Mély víz a férfiúnakelméjében a tanács; mindazáltal a bölcs ember kimeríti azt.
+Mély víz a férfiúnak elméjében a tanács; mindazáltal a bölcs ember kimeríti azt.
 fa4dh6fed 20,6
-A legtöbb ember talál valakit, a ki jó hozzá; dehű embert, azt ki találhat?
+A legtöbb ember talál valakit, a ki jó hozzá; de hű embert, azt ki találhat?
 fa4dh6fed 20,7
-A ki az ő tökéletességében jár, igaz ember; boldogokaz ő fiai ő utána!
+A ki az ő tökéletességében jár, igaz ember; boldogok az ő fiai ő utána!
 fa4dh6fed 20,8
-A király, ha az ő ítélőszékiben ül, tekintetével minden gonoszteltávoztat.
+A király, ha az ő ítélőszékiben ül, tekintetével minden gonoszt eltávoztat.
 fa4dh6fed 20,9
-Ki mondhatná azt: megtisztítottam szívemet,tiszta vagyok az én bűnömtől?
+Ki mondhatná azt: megtisztítottam szívemet, tiszta vagyok az én bűnömtől?
 fa4dh6fed 20,10
-A kétfélefont és a kétféle mérték, útálatos az Úrnál egyaránt mind a kettő.
+A kétféle font és a kétféle mérték, útálatos az Úrnál egyaránt mind a kettő.
 fa4dh6fed 20,11
-Az ő cselekedetibőlismerteti meg magát még a gyermek is, ha tiszta-é, és ha igaz-é az ő cselekedete.
+Az ő cselekedetiből ismerteti meg magát még a gyermek is, ha tiszta-é, és ha igaz-é az ő cselekedete.
 fa4dh6fed 20,12
-A hallófület és a látó szemet, az Úr teremtette egyaránt mindkettőt.
+A halló fület és a látó szemet, az Úr teremtette egyaránt mindkettőt.
 fa4dh6fed 20,13
-Ne szeresd az álmot, hogy nelégy szegény; nyisd fel a te szemeidet,megelégszel kenyérrel.
+Ne szeresd az álmot, hogy ne légy szegény; nyisd fel a te szemeidet, és megelégszel kenyérrel.
 fa4dh6fed 20,14
 Hitvány, hitvány, azt mondja a vevő; de mikor elmegy, akkor dicsekedik.
 fa4dh6fed 20,15
 Van arany és drágagyöngyök sokasága; de drága szer a tudománynyal teljes ajak.
 fa4dh6fed 20,16
-Vedd el ruháját, mertkezes lett másért, és az idegenért vedd el zálogát.
+Vedd el ruháját, mert kezes lett másért, és az idegenért vedd el zálogát.
 fa4dh6fed 20,17
-Gyönyörűséges az embernek az álnokságnak kenyere; deannakutána betelik az ő szája kavicsokkal.
+Gyönyörűséges az embernek az álnokságnak kenyere; de  annakutána betelik az ő szája kavicsokkal.
 fa4dh6fed 20,18
-A gondolatok tanácskozássalerősek; és bölcs vezetéssel folytasshadakozást.
+A gondolatok tanácskozással erősek; és bölcs vezetéssel folytass hadakozást.
 fa4dh6fed 20,19
-Megjelenti a titkot, aki rágalmazó; tehát a ki fecsegő szájú, azzal ne barátkozzál.
+Megjelenti a titkot, a ki rágalmazó; tehát a ki fecsegő szájú, azzal ne barátkozzál.
 fa4dh6fed 20,20
-A ki az ő atyját vagyanyját megátkozza, annak kialszik szövétneke a legnagyobb setétségben.
+A ki az ő atyját vagy anyját megátkozza, annak kialszik szövétneke a legnagyobb setétségben.
 fa4dh6fed 20,21
-A mely örökséget először siettetnek,annak vége meg nem áldatik.
+A mely örökséget először siettetnek, annak vége meg nem áldatik.
 fa4dh6fed 20,22
-Ne mondd: bosszút állokrajta! Várjad az Urat, és megszabadít téged!
+Ne mondd: bosszút állok  rajta! Várjad az Urat, és megszabadít téged!
 fa4dh6fed 20,23
-Útálatos az Úrnál a kétféle súly; ésa hamis fontok nem jó dolgok.
+Útálatos az Úrnál a kétféle súly; és a hamis fontok nem jó dolgok.
 fa4dh6fed 20,24
-Az Úrtól vannak a férfilépései; az ember pedig mit ért az ő útában?
+Az Úrtól vannak a férfi  lépései; az ember pedig mit ért az ő útában?
 fa4dh6fed 20,25
-Tőr az embernek meggondolatlanul mondani: szent,és a fogadástétel után megfontolni.
+Tőr az embernek meggondolatlanul mondani: szent, és a fogadástétel után megfontolni.
 fa4dh6fed 20,26
-Szétszórja a gonoszokat abölcs király, és fordít reájok kereket.
+Szétszórja a gonoszokat a  bölcs király, és fordít reájok kereket.
 fa4dh6fed 20,27
-Az Úrtól való szövétnek az embernek lelke, a ki megvizsgálja aszívnek minden rejtekét.
+Az Úrtól való szövétnek az embernek lelke, a ki megvizsgálja a  szívnek minden rejtekét.
 fa4dh6fed 20,28
-A kegyelmesség és azigazság megőrzik a királyt, megerősíti irgalmasság által az ő székét.
+A kegyelmesség és az igazság megőrzik a királyt, megerősíti irgalmasság által az ő székét.
 fa4dh6fed 20,29
-Az ifjaknak ékessége az ő erejök; és a véneknek dísze azősz haj.
+Az ifjaknak ékessége az ő erejök; és a véneknek dísze az ősz haj.
 fa4dh6fed 20,30
-A kékeka sebek távoztatják el a gonoszt, és a belső részekigható csapások.
+A kékek  és a sebek távoztatják el a gonoszt, és a belső részekig ható csapások.
 fa4dh6fed 21,1
 Mint a vizeknek folyásai, olyan a királynak szíve az Úrnak kezében, valahová akarja, oda hajtja azt!
 fa4dh6fed 21,2
-Az embernek minden útaigaz a maga szemei előtt; de a szívek vizsgálója az Úr.
+Az embernek minden úta igaz a maga szemei előtt; de a szívek vizsgálója az Úr.
 fa4dh6fed 21,3
-Az igazságnak és igaz ítéletnek gyakorlását inkábbszereti az Úr az áldozatnál.
+Az igazságnak és igaz ítéletnek gyakorlását inkább  szereti az Úr az áldozatnál.
 fa4dh6fed 21,4
 A szemnek fenhéjázása és az elmének kevélysége: az istentelenek szántása, bűn.
 fa4dh6fed 21,5
-A szorgalmatosnak igyekezete csak gyarapodásravalaki pedig hirtelenkedik, csak szükségre
+A szorgalmatosnak igyekezete csak gyarapodásra  van; valaki pedig hirtelenkedik, csak szükségre jut. 
 fa4dh6fed 21,6
-A hamisságnaknyelvével gyűjtött kincs elveszett hiábavalósága azoknak, a kik a halált keresik.
+A hamisságnak nyelvével gyűjtött kincs elveszett hiábavalósága azoknak, a kik a halált keresik.
 fa4dh6fed 21,7
-Az istentelenekpusztítása magával ragadja őket; mert nem akartak igazságot cselekedni.
+Az istentelenek  pusztítása magával ragadja őket; mert nem akartak igazságot cselekedni.
 fa4dh6fed 21,8
 Tekervényes a bűnös embernek úta; a tisztának cselekedete pedig igaz.
 fa4dh6fed 21,9
-Jobb a tetőormán lakni, mint háborgó asszonynyal, és közös házban.
+Jobb a tető ormán lakni, mint háborgó asszonynyal, és közös házban.
 fa4dh6fed 21,10
-Az istentelennek lelke kiván gonoszt;az ő szeme előtt nem talál könyörületre az ő felebarátja.
+Az istentelennek lelke kiván gonoszt; és az ő szeme előtt nem talál könyörületre az ő felebarátja.
 fa4dh6fed 21,11
-Mikor a csúfolót büntetik,az együgyű lesz bölcs; mikor pedig a bölcset oktatják, ő veszi eszébe a tudományt.
+Mikor a csúfolót büntetik, az együgyű lesz bölcs; mikor pedig a bölcset oktatják, ő veszi eszébe a tudományt.
 fa4dh6fed 21,12
 Nézi az igaz az istentelennek házát, hogy milyen veszedelembe jutottak az istentelenek.
 fa4dh6fed 21,13
@@ -1196,71 +1196,71 @@ A ki bedugja fülét a szegény kiáltására; ő is kiált, de meg nem hallgatt
 fa4dh6fed 21,14
 A titkon adott ajándék elfordítja a haragot; és a kebelben való ajándék a kemény búsulást.
 fa4dh6fed 21,15
-Vígasság az igaznak igazat cselekedni;de ijedelem a hamisság cselekedőinek.
+Vígasság az igaznak igazat cselekedni; de ijedelem a hamisság cselekedőinek.
 fa4dh6fed 21,16
 Az ember, a ki eltévelyedik az értelemnek útáról, az élet nélkül valók gyülekezetiben nyugszik.
 fa4dh6fed 21,17
-Szűkölködő ember, a ki szereti az örömet; a ki szereti a bort és az olajat, nem lesz gazdag!
+Szűkölködő ember lesz , a ki szereti az örömet; a ki szereti a bort és az olajat, nem lesz gazdag!
 fa4dh6fed 21,18
-Az igazért váltságdíjaz istentelen, és az igazak helyett a hitetlen
+Az igazért váltságdíj az istentelen, és az igazak helyett a hitetlen büntettetik meg. 
 fa4dh6fed 21,19
-Jobb lakozni a pusztánakföldén, mint a feddődő és haragos asszonynyal.
+Jobb lakozni a pusztának földén, mint a feddődő és haragos asszonynyal.
 fa4dh6fed 21,20
 Kivánatos kincs és kenet van a bölcsnek házában; a bolond ember pedig eltékozolja azt.
 fa4dh6fed 21,21
-A ki követi az igazságot ésaz irgalmasságot, nyer életet, igazságot és tisztességet.
+A ki követi az igazságot és az irgalmasságot, nyer életet, igazságot és tisztességet.
 fa4dh6fed 21,22
-A hősök városába felmegya bölcs, és lerontja az ő bizodalmoknak erejét.
+A hősök városába felmegy a bölcs, és lerontja az ő bizodalmoknak erejét.
 fa4dh6fed 21,23
-A ki megőrzi száját és nyelvét, megtartjaéletét a nyomorúságtól.
+A ki megőrzi száját és nyelvét, megtartja életét a nyomorúságtól.
 fa4dh6fed 21,24
 A kevély dölyfösnek csúfoló a neve, a ki haragjában kevélységet cselekszik.
 fa4dh6fed 21,25
-A restnek kivánsága megemészti őt; mert az ő kezei nemakarnak dolgozni.
+A restnek kivánsága megemészti őt; mert az ő kezei nem akarnak dolgozni.
 fa4dh6fed 21,26
-Egész nap kivánságtól gyötretik; az igaz pedig ád,és nem tartóztatja meg
+Egész nap kivánságtól gyötretik; az igaz pedig ád, és nem tartóztatja meg adományát. 
 fa4dh6fed 21,27
-Az istentelenek áldozatjaútálatos; kivált mikor gonosz tettért viszi.
+Az istentelenek áldozatja útálatos; kivált mikor gonosz tettért viszi.
 fa4dh6fed 21,28
-A hazug bizonyságelvész; a ki pedigfigyelmez, örökké szól.
+A hazug bizonyság elvész; a ki pedig jól figyelmez, örökké szól.
 fa4dh6fed 21,29
 Megkeményíti az istentelen ember az ő orczáját; az igaz pedig jól rendeli az ő útát.
 fa4dh6fed 21,30
-Nincs bölcseség, és nincs értelem, és nincs tanácsaz Úr ellen.
+Nincs bölcseség, és nincs értelem, és nincs tanács az Úr ellen.
 fa4dh6fed 21,31
-Készen áll a ló az ütközetnek napjára; de az Úréa megtartás!
+Készen áll a ló az ütközetnek napjára; de az Úré a megtartás!
 fa4dh6fed 22,1
-Kivánatosb a jó hírnévnagy gazdagságnál; ezüstnél és aranynál a kedvesség jobb.
+Kivánatosb a jó hírnév nagy gazdagságnál; ezüstnél és aranynál a kedvesség jobb.
 fa4dh6fed 22,2
-A gazdagés szegény összetalálkoznak, mindkettőt pedig az Úr szerzi.
+A gazdag és szegény összetalálkoznak, mindkettőt pedig az Úr szerzi.
 fa4dh6fed 22,3
-Az eszes meglátja abajt és elrejti magát; a bolondok pedig neki mennek és kárát vallják.
+Az eszes meglátja a bajt és elrejti magát; a bolondok pedig neki mennek és kárát vallják.
 fa4dh6fed 22,4
-Az alázatosságnak bére az Úr félelme, gazdagság és tisztességés élet.
+Az alázatosságnak bére az Úr félelme, gazdagság és tisztesség és élet.
 fa4dh6fed 22,5
-Tövisektőrök vannak a gonosznak útában; a ki megőrzi a maga lelkét, távol jár azoktól.
+Tövisek és tőrök vannak a gonosznak útában; a ki megőrzi a maga lelkét, távol jár azoktól.
 fa4dh6fed 22,6
-Tanítsd agyermeket az ő útjának módja szerint; még mikor megvénhedik is, el nem távozik attól.
+Tanítsd a gyermeket az ő útjának módja szerint; még mikor megvénhedik is, el nem távozik attól.
 fa4dh6fed 22,7
 A gazdag a szegényeken uralkodik, és szolgája a kölcsönvevő a kölcsönadónak.
 fa4dh6fed 22,8
-A kivet álnokságot, arat nyomorúságot; és az ő haragjának vesszeje megtöretik.
+A ki vet álnokságot, arat nyomorúságot; és az ő haragjának vesszeje megtöretik.
 fa4dh6fed 22,9
-Az irgalmasszemű ember megáldatik, mert adott az ő kenyeréből a szegénynek.
+Az irgalmas  szemű ember megáldatik, mert adott az ő kenyeréből a szegénynek.
 fa4dh6fed 22,10
 Űzd el a csúfolót, és elmegy a háborgás is, és megszünik a patvarkodás és a szidalmazás.
 fa4dh6fed 22,11
-A ki szereti a szívnektisztaságát, beszéde kedvesség: annak barátja a király.
+A ki szereti a szívnek tisztaságát, beszéde kedvesség: annak barátja a király.
 fa4dh6fed 22,12
 Az Úrnak szemei megőrzik a tudományt; a hitetlennek beszédét pedig felforgatja.
 fa4dh6fed 22,13
-A restazt mondja: oroszlán van ottkin, az utczák közepén megölettetném.
+A rest azt mondja: oroszlán van ottkin, az utczák közepén megölettetném.
 fa4dh6fed 22,14
-Mély verem az idegen asszonyoknakszája; a kire haragszik az Úr, oda esik.
+Mély verem az idegen asszonyoknak  szája; a kire haragszik az Úr, oda esik.
 fa4dh6fed 22,15
-A gyermek elméjéhez köttetett a bolondság;a fenyítésvesszeje messze elűzi ő tőle azt.
+A gyermek elméjéhez köttetett a bolondság; de a fenyítés vesszeje messze elűzi ő tőle azt.
 fa4dh6fed 22,16
-A ki elnyomja aszegényt, hogy szaporítsa az ő; a ki ád a gazdagnak: végre szűkölködésre
+A ki elnyomja a szegényt, hogy szaporítsa az ő marháját ; a ki ád a gazdagnak: végre szűkölködésre jut. 
 fa4dh6fed 22,17
 Hajtsd füledet, és hallgasd a bölcseknek beszédeit; és a te elmédet figyelmeztesd az én tudományomra.
 fa4dh6fed 22,18
@@ -1272,21 +1272,21 @@ Nem írtam-é néked drága szép tanulságokat, tanácsokban és tudományban?
 fa4dh6fed 22,21
 Hogy tudtodra adjam néked az igazság beszédinek bizonyos voltát: hogy igaz beszédet vígy válaszul elküldőidnek.
 fa4dh6fed 22,22
-Ne rabold ki aszegényt, mert szegény ő; és meg ne rontsd a nyomorultat a kapuban;
+Ne rabold ki a  szegényt, mert szegény ő; és meg ne rontsd a nyomorultat a kapuban;
 fa4dh6fed 22,23
-Mert az Úrforgatja azoknak ügyét, és az ő kirablóik életét elragadja.
+Mert az Úr  forgatja azoknak ügyét, és az ő kirablóik életét elragadja.
 fa4dh6fed 22,24
 Ne tarts barátságot a haragossal, és a dühösködővel ne menj;
 fa4dh6fed 22,25
 Hogy el ne tanuld az ő útait, és tőrt ne keress tennen magadnak.
 fa4dh6fed 22,26
-Ne légy azok közt, a kikkézbe csapnak, a kik adósságért kezeskednek.
+Ne légy azok közt, a kik kézbe csapnak, a kik adósságért kezeskednek.
 fa4dh6fed 22,27
-Ha nincs néked miből megadnod; miért vegye el ate ágyadat te alólad?
+Ha nincs néked miből megadnod; miért vegye el a te ágyadat te alólad?
 fa4dh6fed 22,28
-Ne bontsd ela régihatárt, melyet csináltak a te eleid.
+Ne bontsd el a régi határt, melyet csináltak a te eleid.
 fa4dh6fed 22,29
-Láttál-é az ő dolgában szorgalmatos embert?A királyok előtt álland, nem marad meg az alsó rendűek között.
+Láttál-é az ő dolgában szorgalmatos embert? A királyok előtt álland, nem marad meg az alsó rendűek között.
 fa4dh6fed 23,1
 Mikor leülsz enni az uralkodóval, szorgalmasan reá vigyázz, ki van előtted.
 fa4dh6fed 23,2
@@ -1294,53 +1294,53 @@ fa4dh6fed 23,2
 fa4dh6fed 23,3
 Ne kivánd az ő csemegéit; mert ezek hazug étkek.
 fa4dh6fed 23,4
-Ne fáraszd magadat ebben,hogy meggazdagulj;eszességedtől szünjél meg.
+Ne fáraszd magadat ebben, hogy meggazdagulj; ez ilyen testi eszességedtől szünjél meg.
 fa4dh6fed 23,5
 Avagy a te szemeidet veted-é arra? holott az semmi, mert olyan szárnyakat szerez magának nagy hamar, mint a saskeselyű, és az ég felé elrepül!
 fa4dh6fed 23,6
 Ne egyél az irígy szeműnek étkéből, és ne kivánd az ő csemegéit;
 fa4dh6fed 23,7
-Mert mint a ki számítgatjamagában, olyan ő: egyél és igyál, azt mondja te néked; de azért nem jó akarattal van tehozzád.
+Mert mint a ki számítgatja a falatot magában, olyan ő: egyél és igyál, azt mondja te néked; de azért nem jó akarattal van tehozzád.
 fa4dh6fed 23,8
 A te falatodat, a melyet megettél, kihányod; és a te ékes beszédidet csak hiába vesztegeted.
 fa4dh6fed 23,9
-A bolondnak hallására ne szólj; mert megútáljaa te beszédidnek bölcseségét.
+A bolondnak hallására ne szólj; mert megútálja  a te beszédidnek bölcseségét.
 fa4dh6fed 23,10
-Ne mozdítsd mega régihatárt, és az árváknak mezeibe ne kapj;
+Ne mozdítsd meg a régi határt, és az árváknak mezeibe ne kapj;
 fa4dh6fed 23,11
-Mert az ő megváltójuk erős, az forgatja az őügyöket ellened!
+Mert az ő megváltójuk erős, az forgatja az ő ügyöket ellened!
 fa4dh6fed 23,12
 Add a te elmédet az erkölcsi tanításra, és a te füleidet a bölcs beszédekre.
 fa4dh6fed 23,13
-Ne vond el a gyermektől a fenyítéket; ha megvered őtvesszővel, meg nem hal.
+Ne vond el a gyermektől a fenyítéket; ha megvered őt vesszővel, meg nem hal.
 fa4dh6fed 23,14
 Te vesszővel vered meg őt: és az ő lelkét a pokolból ragadod ki.
 fa4dh6fed 23,15
-Szerelmes fiam, ha bölcs lesz a te elméd, örvendez alelkem nékem is.
+Szerelmes fiam, ha bölcs lesz a te elméd, örvendez a  lelkem nékem is.
 fa4dh6fed 23,16
 És vígadoznak az én veséim, a te ajkaidnak igazmondásán.
 fa4dh6fed 23,17
-Ne irígykedjék a te szíveda bűnösökre; hanem az Úr félelmébenegész napon;
+Ne irígykedjék a te szíved a bűnösökre; hanem az Úr félelmében légy egész napon;
 fa4dh6fed 23,18
-Mertbizonyos vége van; a te várakozásod meg nem csalatkozik.
+Mert ennek  bizonyos vége van; a te várakozásod meg nem csalatkozik.
 fa4dh6fed 23,19
-Hallgasste, fiam,hogy légy bölcs, és jártasd ez úton szívedet.
+Hallgass te, fiam, engem, hogy légy bölcs, és jártasd ez úton szívedet.
 fa4dh6fed 23,20
-Ne légy azok közül való, a kik borraldőzsölnek; azok közül, a kik hússal dobzódnak.
+Ne légy azok közül való, a kik borral  dőzsölnek; azok közül, a kik hússal dobzódnak.
 fa4dh6fed 23,21
 Mert a részeges és dobzódó szegény lesz, és rongyokba öltöztet az aluvás.
 fa4dh6fed 23,22
-Hallgasd ate atyádat, a ki nemzett téged; és meg ne útáld a te anyádat, mikor megvénhedik.
+Hallgasd a  te atyádat, a ki nemzett téged; és meg ne útáld a te anyádat, mikor megvénhedik.
 fa4dh6fed 23,23
-Szerezzigazságot, és el ne adj; bölcseséget és erkölcsöt és eszességet.
+Szerezz igazságot, és el ne adj; bölcseséget és erkölcsöt és eszességet.
 fa4dh6fed 23,24
-Igen örül az igaznakatyja, és a bölcsnek szülője annak vígadoz.
+Igen örül az igaznak atyja, és a bölcsnek szülője annak vígadoz.
 fa4dh6fed 23,25
 Vígadjon a te atyád és a te anyád, és örvendezzen a te szülőd.
 fa4dh6fed 23,26
 Adjad, fiam, a te szívedet nékem, és a te szemeid az én útaimat megőrizzék.
 fa4dh6fed 23,27
-Mert mélyverem a tisztátalan asszony, és szoros kút az idegen asszony.
+Mert mély verem a tisztátalan asszony, és szoros kút az idegen asszony.
 fa4dh6fed 23,28
 És az, mint a tolvaj leselkedik, és az emberek közt a hitetleneket szaporítja.
 fa4dh6fed 23,29
@@ -1352,15 +1352,15 @@ Ne nézd a bort, mily veres színt játszik, mint mutatja a pohárban az ő csil
 fa4dh6fed 23,32
 Végre, mint a kígyó, megmar, és mint a mérges kígyó, megcsíp.
 fa4dh6fed 23,33
-A te szemeid nézik az idegen asszonyt, és a te elméd gondolgonoszságot.
+A te szemeid nézik az idegen asszonyt, és a te elméd gondol  gonoszságot.
 fa4dh6fed 23,34
 És olyan leszel, mint a ki fekszik a tenger közepiben, és a ki fekszik az árbóczfának tetején.
 fa4dh6fed 23,35
 Ütöttek engem, nékem nem fájt; vertek, nem éreztem! Mikor ébredek fel? Akkor folytatom, ismét megkeresem azt.
 fa4dh6fed 24,1
-Ne irígykedjél a gonosztevőkre, se ne kivánjazokkal lenni.
+Ne irígykedjél a gonosztevőkre, se ne kivánj azokkal lenni.
 fa4dh6fed 24,2
-Mert pusztítást gondol az ő szívök, és bajt szólnak az őajkaik.
+Mert pusztítást gondol az ő szívök, és bajt szólnak az ő ajkaik.
 fa4dh6fed 24,3
 Bölcseség által építtetik a ház, és értelemmel erősíttetik meg.
 fa4dh6fed 24,4
@@ -1368,9 +1368,9 @@ fa4dh6fed 24,4
 fa4dh6fed 24,5
 A bölcs férfiú erős, és a tudós ember nagy erejű.
 fa4dh6fed 24,6
-Mert az eszes tanácsokkalviselhetsz hadat hasznodra; és a megmaradás a tanácsosok sokasága által van.
+Mert az eszes tanácsokkal viselhetsz hadat hasznodra; és a megmaradás a tanácsosok sokasága által van.
 fa4dh6fed 24,7
-Magas a bolondnak abölcseség; a kapuban nem nyitja meg az ő száját.
+Magas a bolondnak a bölcseség; a kapuban nem nyitja meg az ő száját.
 fa4dh6fed 24,8
 A ki azon gondolkodik, hogy gonoszt cselekedjék, azt cselszövőnek hívják.
 fa4dh6fed 24,9
@@ -1378,115 +1378,115 @@ A balgatag dolognak gondolása bűn; és a rágalmazó az ember előtt útálato
 fa4dh6fed 24,10
 Ha lágyan viselted magadat a nyomorúságnak idején: szűk a te erőd.
 fa4dh6fed 24,11
-Szabadítsd meg azokat, a kik a halálra vitetnek,és a kik a megöletésre tántorognak, tartóztasd meg!
+Szabadítsd meg azokat, a kik a halálra vitetnek,  és a kik a megöletésre tántorognak, tartóztasd meg!
 fa4dh6fed 24,12
-Ha azt mondanád: ímé, nem tudtuk ezt; nemde, a ki vizsgálja az elméket, ő érti, és a ki őrzi a te lelkedet, ő tudja? és kinek-kinek aző cselekedetei szerint fizet.
+Ha azt mondanád: ímé, nem tudtuk ezt; nemde, a ki vizsgálja az elméket, ő érti, és a ki őrzi a te lelkedet, ő tudja? és kinek-kinek az  ő cselekedetei szerint fizet.
 fa4dh6fed 24,13
 Egyél, fiam, mézet, mert jó; és a színméz édes a te ínyednek.
 fa4dh6fed 24,14
-Ilyennekismerd a bölcseséget a te lelkedre nézve: ha azt megtalálod, akkor lesz jó véged, és a te reménységed el nem vész!
+Ilyennek ismerd a bölcseséget a te lelkedre nézve: ha azt megtalálod, akkor lesz jó véged, és a te reménységed el nem vész!
 fa4dh6fed 24,15
 Ne leselkedjél, oh te istentelen, az igaznak háza ellen, ne pusztítsd el az ő ágyasházát!
 fa4dh6fed 24,16
-Mert ha hétszer elesik is az igaz, ugyan felkélazért; az istentelenek pedignyavalyával is elvesznek.
+Mert ha hétszer elesik is az igaz, ugyan felkél  azért; az istentelenek pedig csak egy nyavalyával is elvesznek.
 fa4dh6fed 24,17
-Mikor elesik a te ellenséged: ne örülj;és mikor megütközik: ne vígadjon a te szíved,
+Mikor elesik a te ellenséged: ne örülj;  és mikor megütközik: ne vígadjon a te szíved,
 fa4dh6fed 24,18
-Hogy az Úr meg ne lássa és gonosz ne legyen szemeiben, és el ne fordítsa arról az ő haragját
+Hogy az Úr meg ne lássa és gonosz ne legyen szemeiben, és el ne fordítsa arról az ő haragját te reád. 
 fa4dh6fed 24,19
-Ne gerjedj haragraa gonosztevők ellen, ne irígykedjél az istentelenekre;
+Ne gerjedj haragra a gonosztevők ellen, ne irígykedjél az istentelenekre;
 fa4dh6fed 24,20
-Mert a gonosznak nem leszvége, az istentelenek szövétnekekialszik.
+Mert a gonosznak nem lesz jó vége, az istentelenek szövétneke  kialszik.
 fa4dh6fed 24,21
-Féld az Urat, fiam, és akirályt; a pártütők közé ne elegyedjél.
+Féld az Urat, fiam, és a  királyt; a pártütők közé ne elegyedjél.
 fa4dh6fed 24,22
 Mert hirtelenséggel feltámad az ő nyomorúságok, és e két rendbeliek büntetését ki tudja?
 fa4dh6fed 24,23
-Ezek is a bölcsekSzemélyt válogatniaz ítéletbennem jó.
+Ezek is a bölcsek szavai. Személyt válogatni az ítéletben nem jó.
 fa4dh6fed 24,24
-A ki azt mondja az istentelennek: igazvagy, ezt megátkozzák a népek, megútálják a nemzetek.
+A ki azt mondja az istentelennek: igaz vagy, ezt megátkozzák a népek, megútálják a nemzetek.
 fa4dh6fed 24,25
-A kik pedig megfeddikazoknak gyönyörűségökre lesz, és jó áldás száll reájok!
+A kik pedig megfeddik a bűnöst, azoknak gyönyörűségökre lesz, és jó áldás száll reájok!
 fa4dh6fed 24,26
 Ajkakat csókolgat az, a ki igaz beszédeket felel.
 fa4dh6fed 24,27
-Szerezd el kivül a te dolgodat, és készíts elő a te meződben; annakutána építsda házadat.
+Szerezd el kivül a te dolgodat, és készíts elő a te meződben; annakutána építsd a házadat.
 fa4dh6fed 24,28
-Ne légy bizonyság ok nélkül a te felebarátod ellen; avagy ámítanál-éa te ajkaiddal?
+Ne légy bizonyság ok nélkül a te felebarátod ellen; avagy ámítanál-é valakit a te ajkaiddal?
 fa4dh6fed 24,29
-Ne mondd ezt: a miképen cselekedett én velem, úgy cselekszem ő vele; megfizetekaz embernek az ő cselekedete szerint.
+Ne mondd ezt: a miképen cselekedett én velem, úgy cselekszem ő vele; megfizetek az embernek az ő cselekedete szerint.
 fa4dh6fed 24,30
 A rest embernek mezejénél elmenék, és az esztelennek szőleje mellett.
 fa4dh6fed 24,31
 És ímé, mindenütt felverte a tövis, és színét elfedte a gyom; és kőgyepüje elromlott vala.
 fa4dh6fed 24,32
-Melyet én látván gondolkodám, és nézvén,a tanulságot vevém abból:
+Melyet én látván gondolkodám, és nézvén, ezt a tanulságot vevém abból:
 fa4dh6fed 24,33
-Egy kisálom, egy kis szunynyadás, egy kis kézösszetevés az alvásra,
+Egy kis álom, egy kis szunynyadás, egy kis kézösszetevés az alvásra,
 fa4dh6fed 24,34
-És így jő el, mint az útonjáró, ate szegénységed, és a te szükséged, mint a paizsos férfiú.
+És így jő el, mint az útonjáró, a te szegénységed, és a te szükséged, mint a paizsos férfiú.
 fa4dh6fed 25,1
 Még ezek is Salamon példabeszédei, melyeket összeszedegettek Ezékiásnak, a Júda királyának emberei.
 fa4dh6fed 25,2
-Az Istennek tisztességére van a dolgoteltitkolni; a királyoknak pedig tisztességére van a dolgot kikutatni.
+Az Istennek tisztességére van a dolgot  eltitkolni; a királyoknak pedig tisztességére van a dolgot kikutatni.
 fa4dh6fed 25,3
 Az ég magasságra, a föld mélységre, és a királyoknak szíve kikutathatatlan.
 fa4dh6fed 25,4
 Távolítsd el az ezüstből a salakot, és abból edény lesz az ötvösnek:
 fa4dh6fed 25,5
-Távolítsd ela bűnöst a király elől, és megerősíttetik igazsággal az ő széke.
+Távolítsd el a bűnöst a király elől, és megerősíttetik igazsággal az ő széke.
 fa4dh6fed 25,6
 Ne dicsekedjél a király előtt, és a nagyok helyére ne állj;
 fa4dh6fed 25,7
-Mert jobb, hamondjáknéked: jer ide fel; hogynem mint levettetned néked a tisztességes előtt, a kit láttak a te szemeid.
+Mert jobb, ha azt mondják néked: jer ide fel; hogynem mint levettetned néked a tisztességes előtt, a kit láttak a te szemeid.
 fa4dh6fed 25,8
-Ne indulj fel a versengésre hirtelen, hogynemit cselekedjél az után, mikor gyalázattal illet téged a te felebarátod.
+Ne indulj fel a versengésre hirtelen, hogy azt ne kelljen kérdened, mit cselekedjél az után, mikor gyalázattal illet téged a te felebarátod.
 fa4dh6fed 25,9
 A te ügyedet végezd el felebarátoddal; de másnak titkát meg ne jelentsd;
 fa4dh6fed 25,10
 Hogy ne gyalázzon téged, a ki hallja; és a te gyalázatod el ne távozzék.
 fa4dh6fed 25,11
-arany alma ezüst tányéron:a helyén mondott ige!
+Mint az arany alma ezüst tányéron: olyan a helyén mondott ige!
 fa4dh6fed 25,12
-arany függő és színarany ékesség:abölcs intő a szófogadó fülnél.
+Mint az arany függő és színarany ékesség: olyan a bölcs intő a szófogadó fülnél.
 fa4dh6fed 25,13
-Mint a havas hideg az aratásnak idején: olyan a hívkövet azoknak, a kik őt elbocsátják; mert az ő urainak lelkét megvidámítja.
+Mint a havas hideg az aratásnak idején: olyan a hív követ azoknak, a kik őt elbocsátják; mert az ő urainak lelkét megvidámítja.
 fa4dh6fed 25,14
-felhő és szél, melyekben nincs eső:a férfiú, a ki kérkedik hamis ajándékkal.
+Mint a felhő és szél, melyekben nincs eső: olyan a férfiú, a ki kérkedik hamis ajándékkal.
 fa4dh6fed 25,15
-Tűrés által engeszteltetik meg a fejedelem, és a szelíd beszédmegtöri a csontot.
+Tűrés által engeszteltetik meg a fejedelem, és a szelíd beszéd megtöri a csontot.
 fa4dh6fed 25,16
-Ha mézet találsz, egyél a mennyi elég néked; de sokat ne egyél,hogy ki ne hányd azt.
+Ha mézet találsz, egyél a mennyi elég néked; de sokat ne egyél, hogy ki ne hányd azt.
 fa4dh6fed 25,17
 Ritkán tedd lábadat a te felebarátodnak házába; hogy be ne teljesedjék te veled, és meg ne gyűlöljön téged.
 fa4dh6fed 25,18
-Pőrölyés kard és éles nyíl az olyan ember, a ki hamis bizonyságot szól felebarátja ellen.
+Pőröly  és kard és éles nyíl az olyan ember, a ki hamis bizonyságot szól felebarátja ellen.
 fa4dh6fed 25,19
-romlott fog és kimarjult láb:hitetlennek bizodalma a nyomorúság idején.
+Mint a romlott fog és kimarjult láb: olyan a hitetlennek bizodalma a nyomorúság idején.
 fa4dh6fed 25,20
-ki leveti ruháját a hidegnek idején,az eczet a sziksón: olyan, a ki éneket mond abánatos szívű ember előtt.
+Mint a ki leveti ruháját a hidegnek idején, mint az eczet a sziksón: olyan, a ki éneket mond a bánatos szívű ember előtt.
 fa4dh6fed 25,21
-Ha éhezik, a ki tégedgyűlöl: adj enni néki kenyeret; és ha szomjúhozik: adj néki inni vizet;
+Ha éhezik, a ki téged gyűlöl: adj enni néki kenyeret; és ha szomjúhozik: adj néki inni vizet;
 fa4dh6fed 25,22
 Mert elevenszenet gyűjtesz az ő fejére, és az Úr megfizeti néked.
 fa4dh6fed 25,23
 Az északi szél esőt szül; és haragos ábrázatot a suttogó nyelv.
 fa4dh6fed 25,24
-Jobb lakni a tetőnek ormán, mint aháborgó asszonynyal, és közös házban.
+Jobb lakni a tetőnek ormán, mint a háborgó asszonynyal, és közös házban.
 fa4dh6fed 25,25
-hideg víz a megfáradt embernek,a messzeföldről való jó hírhallás.
+Mint  a hideg víz a megfáradt embernek, olyan a messze földről való jó hírhallás.
 fa4dh6fed 25,26
-megháborított forrás és megromlott kútfő,az igaz, a ki a gonosz előtt ingadozik.
+Mint a megháborított forrás és megromlott kútfő, olyan az igaz, a ki a gonosz előtt ingadozik.
 fa4dh6fed 25,27
-Igen sok mézet enni nemjó; hát a magunk dicsőségét keresni dicsőség?
+Igen sok mézet enni nem jó; hát a magunk dicsőségét keresni dicsőség?
 fa4dh6fed 25,28
-a megromlott és kerítés nélkül való város,a férfi, a kinek nincsen birodalma az őlelkén!
+Mint a megromlott és kerítés nélkül való város, olyan a férfi, a kinek nincsen birodalma az ő lelkén!
 fa4dh6fed 26,1
 Mint a hó a nyárhoz és az eső az aratáshoz, úgy nem illik a bolondhoz a tisztesség.
 fa4dh6fed 26,2
 Miképen a madár elmegy és a fecske elrepül, azonképen az ok nélkül való átok nem száll az emberre.
 fa4dh6fed 26,3
-Ostora lónak, fék a szamárnak; és vesszőa bolondok hátának.
+Ostor a lónak, fék a szamárnak; és vessző a bolondok hátának.
 fa4dh6fed 26,4
 Ne felelj meg a bolondnak az ő bolondsága szerint, hogy ne légy te is ő hozzá hasonlatos;
 fa4dh6fed 26,5
@@ -1494,39 +1494,39 @@ Felelj meg a bolondnak az ő bolondsága szerint, hogy ne legyen bölcs a maga s
 fa4dh6fed 26,6
 A ki bolond által izen valamit, lábait vagdalja el magának, és bosszúságot szenved.
 fa4dh6fed 26,7
-a sántának lábai lógnak, úgy a bölcsmondás a bolondoknak szájában.
+Mint a sántának lábai lógnak, úgy a bölcsmondás a bolondoknak szájában.
 fa4dh6fed 26,8
-Mint a ki követ köt a parittyába, úgya ki a bolondnak tisztességet tesz.
+Mint a ki követ köt a parittyába, úgy cselekszik, a ki a bolondnak tisztességet tesz.
 fa4dh6fed 26,9
-a részeg ember kezébe akad a tövis,az eszes mondás a bolondoknak szájába.
+Mint a részeg ember kezébe akad a tövis, úgy akad az eszes mondás a bolondoknak szájába.
 fa4dh6fed 26,10
 Mint a lövöldöző, a ki mindent megsebez, olyan az, a ki bolondot fogad fel, és a ki csavargókat fogad fel.
 fa4dh6fed 26,11
-Mint az ebmegtér a maga okádására, úgy a bolond megkettőzteti az ő bolondságát.
+Mint az eb megtér a maga okádására, úgy a bolond megkettőzteti az ő bolondságát.
 fa4dh6fed 26,12
-Láttál-é oly embert, a ki a maga szemei előtt bölcs? A bolond felőlreménységedlegyen, hogynem mint a felől!
+Láttál-é oly embert, a ki a maga szemei előtt bölcs? A bolond felől jobb reménységed legyen, hogynem mint a felől!
 fa4dh6fed 26,13
-Azt mondja a rest: ordítóvanaz úton! oroszlán van az utczákon!
+Azt mondja a rest: ordító oroszlán van az úton! oroszlán van az utczákon!
 fa4dh6fed 26,14
-az ajtó forog az ő sarkán, úgy a restaz ő ágyában.
+Mint az ajtó forog az ő sarkán, úgy a rest  az ő ágyában.
 fa4dh6fed 26,15
-Ha a restaz ő kezét a tálba nyujtotta, resteli azt csak szájához is vinni.
+Ha a rest  az ő kezét a tálba nyujtotta, resteli azt csak szájához is vinni.
 fa4dh6fed 26,16
-Bölcsebb a rest a magaszemei előtt, mint hét olyan, a ki okos feleletet ád.
+Bölcsebb a rest a maga szemei előtt, mint hét olyan, a ki okos feleletet ád.
 fa4dh6fed 26,17
 Kóbor ebet ragad fülön, a ki felháborodik a perpatvaron, a mely őt nem illeti.
 fa4dh6fed 26,18
 Mint a balga, a ki tüzet, nyilakat és halálos szerszámokat lövöldöz,
 fa4dh6fed 26,19
-Olyan, a ki megcsalja az ő felebarátját, és azt mondja: csak tréfáltam!
+Olyan az , a ki megcsalja az ő felebarátját, és azt mondja: csak tréfáltam!
 fa4dh6fed 26,20
-Ha a fa elfogy, kialuszik a tűz; ha nincs súsárló,megszűnik a háborgás.
+Ha a fa elfogy, kialuszik a tűz; ha nincs súsárló, megszűnik a háborgás.
 fa4dh6fed 26,21
-Mint az elevenszénre a holtszén, és a fa a tűzre,a háborúságszerző embera patvarkodásnak felgyujtására.
+Mint az elevenszénre a holtszén, és a fa a tűzre, olyan a háborúságszerző ember a patvarkodásnak felgyujtására.
 fa4dh6fed 26,22
-A fondorlónak beszédei hízelkedők, és azok áthatják a szívbelsejét.
+A fondorlónak beszédei hízelkedők, és azok áthatják a szív belsejét.
 fa4dh6fed 26,23
-a meg nem tisztított ezüst, melylyel valami agyagedényt beborítottak,a gyulasztó ajkak a gonosz szív mellett.
+Mint a meg nem tisztított ezüst, melylyel valami agyagedényt beborítottak, olyanok a gyulasztó ajkak a gonosz szív mellett.
 fa4dh6fed 26,24
 Az ő beszédeivel másnak tetteti magát a gyűlölő, holott az ő szívében gondol álnokságot.
 fa4dh6fed 26,25
@@ -1534,109 +1534,109 @@ Mikor kedvesen szól, ne bízzál ő hozzá; mert hét iszonyatosság van szív�
 fa4dh6fed 26,26
 Elfedeztethetik a gyűlölség csalással; de nyilvánvalóvá lesz az ő gonoszsága a gyülekezetben.
 fa4dh6fed 26,27
-A ki vermet ás,abba belé esik; és a ki felhengeríti a követ, arra gurul vissza.
+A ki vermet ás másnak ,  abba belé esik; és a ki felhengeríti a követ, arra gurul vissza.
 fa4dh6fed 26,28
-A hazug nyelv gyűlöli az általa megrontott, és a hízelkedő száj romlást szerez.
+A hazug nyelv gyűlöli az általa megrontott embert , és a hízelkedő száj romlást szerez.
 fa4dh6fed 27,1
-Ne dicsekedjél a holnapinappal; mert nem tudod, mit hoz a nap
+Ne dicsekedjél a holnapi nappal; mert nem tudod, mit hoz a nap tereád. 
 fa4dh6fed 27,2
 Dicsérjen meg téged más, és ne a te szájad; az idegen, és ne a te ajkaid.
 fa4dh6fed 27,3
 Nehézség van a kőben, és teher a fövényben; de a bolondnak haragja nehezebb mind a kettőnél.
 fa4dh6fed 27,4
-A búsulásban kegyetlenségés a haragban áradás; de ki állhatna meg az irígység előtt?
+A búsulásban kegyetlenség van, és a haragban áradás; de ki állhatna meg az irígység előtt?
 fa4dh6fed 27,5
 Jobb a nyilvánvaló dorgálás a titkos szeretetnél.
 fa4dh6fed 27,6
-Jószándékból valók a barátságos embertől vett sebek;és temérdek a gyűlölőnek csókja.
+Jószándékból valók a barátságos embertől vett sebek; és temérdek a gyűlölőnek csókja.
 fa4dh6fed 27,7
 A jóllakott ember még a lépesmézet is megtapodja; de az éhes embernek minden keserű édes.
 fa4dh6fed 27,8
 Mint a madárka, ki elbujdosott fészkétől, olyan az ember, a ki elbujdosott az ő lakóhelyétől.
 fa4dh6fed 27,9
-a kenet és jó illat megvídámítja a szívet: úgy az ő barátjának édeslelke tanácsából
+Mint a kenet és jó illat megvídámítja a szívet: úgy az ő barátjának édes szavai is, melyek lelke tanácsából valók. 
 fa4dh6fed 27,10
-A te barátodat,és a te atyádnak barátját el ne hagyd, és a te atyádfiának házába be ne menj nyomorúságodnak idején. Jobb a közel való szomszéd a messze való atyafinál.
+A te barátodat, és a te atyádnak barátját el ne hagyd, és a te atyádfiának házába be ne menj nyomorúságodnak idején. Jobb a közel való szomszéd a messze való atyafinál.
 fa4dh6fed 27,11
-Légy bölcs fiam,és vídámítsd meg az én szívemet; hogy megfelelhessek annak, a ki engem ócsárol.
+Légy bölcs fiam, és vídámítsd meg az én szívemet; hogy megfelelhessek annak, a ki engem ócsárol.
 fa4dh6fed 27,12
-Az eszes meglátja a bajt, elrejti magát; azesztelenek neki mennek, kárát vallják.
+Az eszes meglátja a bajt, elrejti magát; az esztelenek neki mennek, kárát vallják.
 fa4dh6fed 27,13
-Vedd el a ruháját, mertkezes lett másért, és az idegenért zálogold meg.
+Vedd el a ruháját, mert kezes lett másért, és az idegenért zálogold meg.
 fa4dh6fed 27,14
 A ki nagy hangon áldja az ő barátját, reggel jó idején felkelvén; átokul tulajdoníttatik néki.
 fa4dh6fed 27,15
-A sebes záporeső idején való szüntelencsepegés, és a morgó asszonyember hasonlók.
+A sebes záporeső idején való szüntelen csepegés, és a morgó asszonyember hasonlók.
 fa4dh6fed 27,16
 Valaki el akarja azt rejteni, szelet rejt el, és az ő jobbja olajjal találkozik.
 fa4dh6fed 27,17
-egyik vassal a másikat élesítik,az ember élesíti az ő barátjának orczáját.
+Miképen egyik vassal a másikat élesítik, a képen az ember élesíti az ő barátjának orczáját.
 fa4dh6fed 27,18
-a ki őrzi a fügét, eszik annak gyümölcséből, úgy a ki az ő urára vigyáz, tiszteltetik.
+Mint a ki őrzi a fügét, eszik annak gyümölcséből, úgy a ki az ő urára vigyáz, tiszteltetik.
 fa4dh6fed 27,19
-Mint a vízben egyik orcza a másikatúgy egyik embernek szíve a másikat.
+Mint a vízben egyik orcza a másikat megmutatja, úgy egyik embernek szíve a másikat.
 fa4dh6fed 27,20
-a sír és a pokol meg nem elégednek,az embernekszemei meg nem elégednek.
+Mint a sír és a pokol meg nem elégednek, úgy az embernek szemei meg nem elégednek.
 fa4dh6fed 27,21
-az ezüsta tégelyben, és az arany a kemenczébenaz ember az ő híre-neve szerint.
+Mint az ezüst a tégelyben, és az arany a kemenczében próbáltatik meg, úgy az ember az ő híre-neve szerint.
 fa4dh6fed 27,22
-Ha megtörnéd is a bolondot mozsárban mozsártörővel a megtört gabona között, nem távoznék el ő tőle az őbolondsága.
+Ha megtörnéd is a bolondot mozsárban mozsártörővel a megtört gabona között, nem távoznék el ő tőle az ő bolondsága.
 fa4dh6fed 27,23
 Szorgalmasan megismerd a te juhaid külsejét, gondolj a nyájakra.
 fa4dh6fed 27,24
 Mert nem örökkévaló a gazdagság, és vajjon a korona nemzetségről nemzetségre lesz-é?
 fa4dh6fed 27,25
-levágatott a szénafű, és megtetszett a sarjú, és begyűjtettek a hegyekről a fűvek:
+Mikor levágatott a szénafű, és megtetszett a sarjú, és begyűjtettek a hegyekről a fűvek:
 fa4dh6fed 27,26
 Vannak juhaid a te ruházatodra, és kecskebakok mezőnek árául,
 fa4dh6fed 27,27
 És elég kecsketej a te ételedre, a te házadnépének ételére, és szolgálóleányaidnak ételül.
 fa4dh6fed 28,1
-Minden istentelenfut, ha senki nem üldözi is; az igazak pedig, mint az ifjú oroszlán, bátrak.
+Minden istentelen  fut, ha senki nem üldözi is; az igazak pedig, mint az ifjú oroszlán, bátrak.
 fa4dh6fed 28,2
 Az ország bűne miatt sok annak a fejedelme; az eszes és tudós ember által pedig hosszabbodik fennállása.
 fa4dh6fed 28,3
-A szegény emberelnyomója a szegényeknek hasonló a pusztító esőhöz, mely nem hágy kenyeret.
+A szegény ember ből támadott elnyomója a szegényeknek hasonló a pusztító esőhöz, mely nem hágy kenyeret.
 fa4dh6fed 28,4
 A kik elhagyják a törvényt, dicsérik a latrokat; de a kik megtartják a törvényt, harczolnak azokkal.
 fa4dh6fed 28,5
 A gonoszságban élő emberek nem értik meg az igazságot; a kik pedig keresik az Urat, mindent megértenek.
 fa4dh6fed 28,6
-Jobb a szegény, a ki jártökéletesen, mint a kétfelé sántáló istentelen, a ki gazdag.
+Jobb a szegény, a ki jár tökéletesen, mint a kétfelé sántáló istentelen, a ki gazdag.
 fa4dh6fed 28,7
-A ki megőrzi a törvényt, eszes fiú az; a ki pedig társalkodik adobzódókkal, gyalázattal illeti atyját.
+A ki megőrzi a törvényt, eszes fiú az; a ki pedig társalkodik a dobzódókkal, gyalázattal illeti atyját.
 fa4dh6fed 28,8
-A ki öregbíti az ő marháját kamattal és uzsorával, annak gyűjt,a ki könyörül a szegényeken.
+A ki öregbíti az ő marháját kamattal és uzsorával, annak gyűjt, a ki könyörül a szegényeken.
 fa4dh6fed 28,9
-Valaki elfordítja az ő füléta törvénynek hallásától, annak könyörgése is útálatos.
+Valaki elfordítja az ő fülét a törvénynek hallásától, annak könyörgése is útálatos.
 fa4dh6fed 28,10
-A ki elcsábítja az igazakat gonosz útra, vermébemaga esik bele; a tökéletesek pedig örökség szerint bírják a jót.
+A ki elcsábítja az igazakat gonosz útra, vermébe  maga esik bele; a tökéletesek pedig örökség szerint bírják a jót.
 fa4dh6fed 28,11
 Bölcs az ő maga szemei előtt a gazdag ember; de az eszes szegény megvizsgálja őt.
 fa4dh6fed 28,12
-Mikor örvendeznek azigazak, nagy ékesség az; mikor pedig az istentelenek feltámadnak, keresni kell az embert.
+Mikor örvendeznek az igazak, nagy ékesség az; mikor pedig az istentelenek feltámadnak, keresni kell az embert.
 fa4dh6fed 28,13
-A ki elfedezi az ő vétkeit, nem lesz jó dolga; a ki pedig megvalljaés elhagyja, irgalmasságot nyer.
+A ki elfedezi az ő vétkeit, nem lesz jó dolga; a ki pedig megvallja  és elhagyja, irgalmasságot nyer.
 fa4dh6fed 28,14
 Boldog ember, a ki szüntelen retteg; a ki pedig megkeményíti az ő szívét, bajba esik.
 fa4dh6fed 28,15
 Mint az ordító oroszlán és éhező medve, olyan a szegény népen uralkodó istentelen.
 fa4dh6fed 28,16
-Az értelemben szűkölködő fejedelem nagy elnyomó is;a ki gyűlöli a hamis nyereséget, meghosszabbítja napjait.
+Az értelemben szűkölködő fejedelem nagy elnyomó is; de a ki gyűlöli a hamis nyereséget, meghosszabbítja napjait.
 fa4dh6fed 28,17
 Az ember, a kit ember-vér terhel, a sírig fut; senki ne támogassa őt.
 fa4dh6fed 28,18
 A ki jár tökéletesen, megtartatik; a ki pedig álnokul két úton jár, egyszerre elesik.
 fa4dh6fed 28,19
-A ki munkálja az ő földét,megelégedik étellel; a ki pedig hiábavalóságok után futkos, megelégedik szegénységgel.
+A ki munkálja az ő földét, megelégedik étellel; a ki pedig hiábavalóságok után futkos, megelégedik szegénységgel.
 fa4dh6fed 28,20
-A hivő ember bővelkedik áldásokkal; de a ki hirtelenakar gazdagulni, büntetlen nem marad.
+A hivő ember bővelkedik áldásokkal; de a ki hirtelen akar gazdagulni, büntetlen nem marad.
 fa4dh6fed 28,21
-Személytválogatni nem jó; mertegy falat kenyérértvétkezhetik az ember.
+Személyt válogatni nem jó; mert még egy falat kenyérért is vétkezhetik az ember.
 fa4dh6fed 28,22
 Siet a marhakeresésre a gonosz szemű ember; és nem veszi észre, hogy szükség jő reá.
 fa4dh6fed 28,23
-A ki megfeddi az embert, végreinkább kedvességet talál, mint a sima nyelvű.
+A ki megfeddi az embert, végre is inkább kedvességet talál, mint a sima nyelvű.
 fa4dh6fed 28,24
 A ki megrabolja az atyját, és anyját és azt mondja: nem vétek! társa a romboló embernek.
 fa4dh6fed 28,25
@@ -1644,15 +1644,15 @@ A telhetetlen lélek háborúságot szerez; a ki pedig bízik az Úrban, megerő
 fa4dh6fed 28,26
 A ki bízik magában, bolond az; a ki pedig jár bölcsen, megszabadul.
 fa4dh6fed 28,27
-A ki ád a szegénynek,nem lesz néki szüksége; a ki pedig elrejti a szemét, megsokasulnak rajta az átkok.
+A ki ád a szegénynek,  nem lesz néki szüksége; a ki pedig elrejti a szemét, megsokasulnak rajta az átkok.
 fa4dh6fed 28,28
-Mikor felemeltetnek az istentelenek,elrejti magát az ember; de mikor azok elvesznek,öregbülnek az igazak.
+Mikor felemeltetnek az istentelenek, elrejti magát az ember; de mikor azok elvesznek, öregbülnek az igazak.
 fa4dh6fed 29,1
 A ki a feddésekre is nyakas marad, egyszer csak összetörik, gyógyíthatatlanul.
 fa4dh6fed 29,2
-Mikor öregbülnek az igazak,örül a nép; mikor pedig uralkodik az istentelen, sóhajt a nép.
+Mikor öregbülnek az igazak, örül a nép; mikor pedig uralkodik az istentelen, sóhajt a nép.
 fa4dh6fed 29,3
-A bölcseség-szerető ember megvidámítja az őatyját; a ki pedig a paráznákhoz adja magát, elvesztia vagyont.
+A bölcseség-szerető ember megvidámítja az ő atyját; a ki pedig a paráznákhoz adja magát, elveszti a vagyont.
 fa4dh6fed 29,4
 A király igazsággal erősíti meg az országot; a ki pedig ajándékot vesz, elrontja azt.
 fa4dh6fed 29,5
@@ -1660,7 +1660,7 @@ A férfiú, a ki hizelkedik barátjának, hálót vet annak lábai elé.
 fa4dh6fed 29,6
 A gonosz ember vétkében tőr van; az igaz pedig énekel és vígad.
 fa4dh6fed 29,7
-Megérti az igaza szegényeknek ügyét; az istentelenpedig nem tudja megérteni.
+Megérti az igaz a szegényeknek ügyét; az istentelen pedig nem tudja megérteni.
 fa4dh6fed 29,8
 A csúfoló férfiak fellobbantják a várost; de a bölcsek elfordítják a haragot.
 fa4dh6fed 29,9
@@ -1668,37 +1668,37 @@ Az eszes ember, ha vetekedik a bolonddal, akár felháborodik, akár nevet, ninc
 fa4dh6fed 29,10
 A vérszomjasak gyűlölik a tökéletes embert; az igazak pedig oltalmazzák annak életét.
 fa4dh6fed 29,11
-Az ő egész indulatjátelőmutatja a bolond; de a bölcs végre megcsendesíti azt.
+Az ő egész indulatját előmutatja a bolond; de a bölcs végre megcsendesíti azt.
 fa4dh6fed 29,12
 A mely uralkodó a hamisságnak beszédire hallgat, annak minden szolgái latrok.
 fa4dh6fed 29,13
-A szegény és azuzsorás ember összetalálkoznak; mind a kettőnek pedig szemeit az Úr világosítja meg.
+A szegény és az uzsorás ember összetalálkoznak; mind a kettőnek pedig szemeit az Úr világosítja meg.
 fa4dh6fed 29,14
-A mely király hűségesen ítéli a szegényeket, annak székemindörökké megáll.
+A mely király hűségesen ítéli a szegényeket, annak széke mindörökké megáll.
 fa4dh6fed 29,15
-A vessző és dorgálásbölcseséget ád; de a szabadjára hagyott gyermek megszégyeníti az ő anyját.
+A vessző és dorgálás bölcseséget ád; de a szabadjára hagyott gyermek megszégyeníti az ő anyját.
 fa4dh6fed 29,16
-Mikor nevekednek az istentelenek, nevekedik a vétek; az igazak pedig azoknak esetétmegérik.
+Mikor nevekednek az istentelenek, nevekedik a vétek; az igazak pedig azoknak esetét megérik.
 fa4dh6fed 29,17
-Fenyítsd meg a tefiadat, és nyugodalmat hoz néked, és szerez gyönyörűséget a te lelkednek.
+Fenyítsd meg a te  fiadat, és nyugodalmat hoz néked, és szerez gyönyörűséget a te lelkednek.
 fa4dh6fed 29,18
-Mikor nincslátás, a nép elvadul; ha pedig megtartja a törvényt, ohmely igen boldog!
+Mikor nincs mennyei látás, a nép elvadul; ha pedig megtartja a törvényt, oh mely igen boldog!
 fa4dh6fed 29,19
-beszéddel nem tanul meg a szolga, mert tudna, de még sem felel meg.
+Csak beszéddel nem tanul meg a szolga, mert tudna, de még sem felel meg.
 fa4dh6fed 29,20
-Láttál-é beszédeiben hirtelenkedő embert? a bolond felől többreménység van, hogynem a felől!
+Láttál-é beszédeiben hirtelenkedő embert? a bolond felől több reménység van, hogynem a felől!
 fa4dh6fed 29,21
 A ki lágyan neveli gyermekségétől fogva az ő szolgáját, végre az lesz a fiú.
 fa4dh6fed 29,22
-A haragosháborgást szerez; és a dühösködőnek sok a vétke.
+A haragos háborgást szerez; és a dühösködőnek sok a vétke.
 fa4dh6fed 29,23
-Az embernek kevélységemegalázza őt; az alázatos pedigtisztességet nyer.
+Az embernek kevélysége  megalázza őt; az alázatos pedig tisztességet nyer.
 fa4dh6fed 29,24
-A ki osztozik a lopóval,gyűlöli az magát; hallja az esküt, de nem vall.
+A ki osztozik a lopóval, gyűlöli az magát; hallja az esküt, de nem vall.
 fa4dh6fed 29,25
 Az emberektől való félelem tőrt vet; de a ki bízik az Úrban, kiemeltetik.
 fa4dh6fed 29,26
-Sokankeresik a fejedelemnek orczáját; de az Úrtólkinek-kinek ítélete.
+Sokan keresik a fejedelemnek orczáját; de az Úrtól van kinek-kinek ítélete.
 fa4dh6fed 29,27
 Iszonyat az igazaknak a hamis ember; és iszonyat az istentelennek az igaz úton járó.
 fa4dh6fed 30,1
@@ -1708,29 +1708,29 @@ Minden embernél tudatlanabb vagyok én, és nincs emberi értelem én bennem.
 fa4dh6fed 30,3
 És nem tanultam a bölcseséget, hogy a Szentnek ismeretét tudnám.
 fa4dh6fed 30,4
-Kicsoda ment fel az égbe,hogy onnan leszállott volna? Kicsoda fogta össze a szelet az ő markába? Kicsoda kötötte a vizet az ő köntösébe? Ki állapította meg a földnek minden határit? Kicsoda ennek neve? Avagy kicsoda ennek fiának neve, ha tudod?
+Kicsoda ment fel az égbe, hogy onnan leszállott volna? Kicsoda fogta össze a szelet az ő markába? Kicsoda kötötte a vizet az ő köntösébe? Ki állapította meg a földnek minden határit? Kicsoda ennek neve? Avagy kicsoda ennek fiának neve, ha tudod?
 fa4dh6fed 30,5
-Az Istennek teljes beszédeigen tiszta, és paizs az ahhoz folyamodóknak.
+Az Istennek teljes beszéde igen tiszta, és paizs az ahhoz folyamodóknak.
 fa4dh6fed 30,6
-Ne tégyaz ő beszédéhez; hogy meg ne feddjen téged, és hazug ne légy.
+Ne tégy az ő beszédéhez; hogy meg ne feddjen téged, és hazug ne légy.
 fa4dh6fed 30,7
 Kettőt kérek tőled; ne tartsd meg én tőlem, mielőtt meghalnék.
 fa4dh6fed 30,8
-A hiábavalóságot és a hazugságot messze távoztasd tőlem; szegénységet vagy gazdagságot ne adj nékem; táplálj engem hozzám illendőeledellel.
+A hiábavalóságot és a hazugságot messze távoztasd tőlem; szegénységet vagy gazdagságot ne adj nékem; táplálj engem hozzám illendő eledellel.
 fa4dh6fed 30,9
-Hogy megelégedvén, meg netagadjalak, és azt ne mondjam: kicsoda az Úr? Se pedig megszegényedvén, ne lopjak, és gonoszul ne éljek az én Istenem nevével!
+Hogy megelégedvén, meg ne tagadjalak, és azt ne mondjam: kicsoda az Úr? Se pedig megszegényedvén, ne lopjak, és gonoszul ne éljek az én Istenem nevével!
 fa4dh6fed 30,10
 Ne rágalmazd a szolgát az ő uránál, hogy meg ne átkozzon téged, és bűnhődnöd ne kelljen.
 fa4dh6fed 30,11
-nemzetség, a ki az ő atyjátátkozza, és az ő anyját nem áldja.
+Van oly nemzetség, a ki az ő atyját átkozza, és az ő anyját nem áldja.
 fa4dh6fed 30,12
-nemzetség, a ki a maga szemei előtttiszta, pedig az ő rútságából ki nem tisztíttatott.
+Van nemzetség, a ki a maga szemei előtt tiszta, pedig az ő rútságából ki nem tisztíttatott.
 fa4dh6fed 30,13
-kevély szemű nemzetség, és a kinek szemöldökei igen fellátnak!
+Van kevély szemű nemzetség, és a kinek szemöldökei igen fellátnak!
 fa4dh6fed 30,14
-olyan nemzetség, a kinek fogai fegyverek,és a kinek zápfogai kések; hogy a szegényeket kiemészszék e földről, és az emberek közül a szűkölködőket.
+Van olyan nemzetség, a kinek fogai fegyverek, és a kinek zápfogai kések; hogy a szegényeket kiemészszék e földről, és az emberek közül a szűkölködőket.
 fa4dh6fed 30,15
-A nadálynak két leánya van: addsza, addsza! E három nem elégszik meg; négyennem mondják: elég;
+A nadálynak két leánya van: addsza, addsza! E három nem elégszik meg; négyen nem mondják: elég;
 fa4dh6fed 30,16
 A sír és a meddő asszony, a föld meg nem elégszik a vízzel, és a tűz nem mondja: elég!
 fa4dh6fed 30,17
@@ -1742,17 +1742,17 @@ A keselyűnek útát az égben, a kígyónak útát a kősziklán, a hajónak ny
 fa4dh6fed 30,20
 Ilyen a paráználkodó asszonynak úta; eszik, azután megtörli száját és azt mondja: nem cselekedtem semmi gonoszt.
 fa4dh6fed 30,21
-Háromalatt indul meg a föld, és négyet nem szenvedhet el.
+Három dolog alatt indul meg a föld, és négyet nem szenvedhet el.
 fa4dh6fed 30,22
 A szolga alatt, mikor uralkodik, és a bolond alatt, mikor elég kenyere van,
 fa4dh6fed 30,23
-A gyűlölt asszony alatt,haférjhez megy; és a szolgáló alatt, ha örököse lesz az ő asszonyának.
+A gyűlölt asszony alatt, ha mégis férjhez megy; és a szolgáló alatt, ha örököse lesz az ő asszonyának.
 fa4dh6fed 30,24
-E négy apró állataa földnek, a melyek bölcsek, elmések:
+E négy apró állata van a földnek, a melyek bölcsek, elmések:
 fa4dh6fed 30,25
-A hangyák erőtlen nép, mégis megkeresiknyárban a magok eledelét;
+A hangyák erőtlen nép, mégis megkeresik nyárban a magok eledelét;
 fa4dh6fed 30,26
-A marmoták nem hatalmas nép, mégis kőszikláncsinálják az ő házokat;
+A marmoták nem hatalmas nép, mégis kősziklán csinálják az ő házokat;
 fa4dh6fed 30,27
 Királyuk nincs a sáskáknak, mindazáltal mindnyájan szép renddel mennek ki;
 fa4dh6fed 30,28
@@ -1762,31 +1762,31 @@ Három állat van, a mely szépen jár, sőt négy, a mely jól jár.
 fa4dh6fed 30,30
 Az oroszlán, a hős a vadak között, mely el nem fut senki elől;
 fa4dh6fed 30,31
-A harczra felékesítettló, vagy a kecskebak, és a király, a kinek senki nem mer ellene állani.
+A harczra felékesített ló, vagy a kecskebak, és a király, a kinek senki nem mer ellene állani.
 fa4dh6fed 30,32
-Ha bolond voltál felfuvalkodásodban, vagy ha meggondoltad:kezedet szájadra vessed.
+Ha bolond voltál felfuvalkodásodban, vagy ha meggondoltad: kezedet szájadra vessed.
 fa4dh6fed 30,33
-Merta ki tejet köpül, vajat csinál; és a ki keményen fújja ki az ő orrát, vért hoz ki:a ki a haragot ingerli, háborúságot szerez.
+Mert miképen a ki tejet köpül, vajat csinál; és a ki keményen fújja ki az ő orrát, vért hoz ki: úgy a ki a haragot ingerli, háborúságot szerez.
 fa4dh6fed 31,1
 Lemuel király beszédei, próféczia, melylyel tanította vala őt az anyja.
 fa4dh6fed 31,2
-Mitfiam? mit, én méhem gyermeke? mit, én fogadásimnak gyermeke?
+Mit szóljak, fiam? mit, én méhem gyermeke? mit, én fogadásimnak gyermeke?
 fa4dh6fed 31,3
-Ne add asszonyoknak a te erődet, és a te útaidat akirályok eltörlőinek.
+Ne add asszonyoknak a te erődet, és a te útaidat a királyok eltörlőinek.
 fa4dh6fed 31,4
-Távol legyen a királyoktól, oh Lemuel, távol legyen a királyoktól abornak itala; és az uralkodóktól a részegítő ital keresése.
+Távol legyen a királyoktól, oh Lemuel, távol legyen a királyoktól a bornak itala; és az uralkodóktól a részegítő ital keresése.
 fa4dh6fed 31,5
 Hogy mikor iszik, el ne felejtkezzék a törvényről, és el ne fordítsa valamely nyomorultnak igazságát.
 fa4dh6fed 31,6
-Adjátok a részegítő italt az elveszendőnek, és a borta keseredett szívűeknek.
+Adjátok a részegítő italt az elveszendőnek, és a bort a keseredett szívűeknek.
 fa4dh6fed 31,7
 Igyék, hogy felejtkezzék az ő szegénységéről, és az ő nyavalyájáról ne emlékezzék meg többé.
 fa4dh6fed 31,8
-Nyisd meg a te szádat a mellett, a ki néma, és azoknak dolgában, a kik adattakveszedelemre.
+Nyisd meg a te szádat a mellett, a ki néma, és azoknak dolgában, a kik adattak veszedelemre.
 fa4dh6fed 31,9
-Nyisd meg a te szádat, ítéljigazságot; forgasd ügyét a szegénynek és a szűkölködőnek!
+Nyisd meg a te szádat, ítélj igazságot; forgasd ügyét a szegénynek és a szűkölködőnek!
 fa4dh6fed 31,10
-Derék asszonyt kicsoda találhat? Mert ennek ára sokkalfelülhaladja az igazgyöngyöket.
+Derék asszonyt kicsoda találhat? Mert ennek ára sokkal felülhaladja az igazgyöngyöket.
 fa4dh6fed 31,11
 Bízik ahhoz az ő férjének lelke, és annak marhája el nem fogy.
 fa4dh6fed 31,12
@@ -1816,11 +1816,11 @@ Ismerik az ő férjét a kapukban, mikor ül a tartománynak véneivel.
 fa4dh6fed 31,24
 Gyolcsot sző, és eladja; és övet, melyet ád a kereskedőnek.
 fa4dh6fed 31,25
-Erő és ékesség az ő ruhája; és nevet a következőnapnak.
+Erő és ékesség az ő ruhája; és nevet a következő napnak.
 fa4dh6fed 31,26
 Az ő száját bölcsen nyitja meg, és kedves tanítás van nyelvén.
 fa4dh6fed 31,27
-Vigyáz a házanépe dolgára, és restségnekétkét nem eszi.
+Vigyáz a házanépe dolgára, és restségnek étkét nem eszi.
 fa4dh6fed 31,28
 Felkelnek az ő fiai, és boldognak mondják őt; az ő férje, és dicséri őt:
 fa4dh6fed 31,29
@@ -1828,4 +1828,4 @@ Sok leány munkálkodott serénységgel; de te meghaladod mindazokat!
 fa4dh6fed 31,30
 Csalárd a kedvesség, és hiábavaló a szépség; a mely asszony féli az Urat, az szerez dicséretet magának!
 fa4dh6fed 31,31
-Adjatok ennek az ő keze munkájának gyümölcséből, és dicsérjék őt a kapukban az őcselekedetei!
+Adjatok ennek az ő keze munkájának gyümölcséből, és dicsérjék őt a kapukban az ő cselekedetei!  

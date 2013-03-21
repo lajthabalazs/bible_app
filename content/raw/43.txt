@@ -1,6 +1,6 @@
-SOFÓNIÁS PRÓFÉTA KÖNYVE
+Sofóniás Próféta Könyve
 fa4dh6fed 1,1
-Az Úr igéje, a melyet szólt Sofóniásnak, a Kusi fiának, a ki Gedáliás fia, a ki Amariás fia, a ki Ezékiás fia, Jósiásnakaz Amon fiának idejében.
+Az Úr igéje, a melyet szólt Sofóniásnak, a Kusi fiának, a ki Gedáliás fia, a ki Amariás fia, a ki Ezékiás fia, Jósiásnak az Amon fiának idejében.
 fa4dh6fed 1,2
 Elvesztek, mindent elvesztek e föld színéről, azt mondja az Úr.
 fa4dh6fed 1,3
@@ -8,11 +8,11 @@ Elvesztek embert és barmot; elvesztem az ég madarait, és a tenger halait és 
 fa4dh6fed 1,4
 És kinyújtom kezemet Júda ellen és Jeruzsálem minden lakója ellen, és kiirtom e helyről a Baál maradékát, a bálványpapok nevét a papokkal együtt;
 fa4dh6fed 1,5
-Azokat is, a kik a háztetőkön az ég seregénekhajlonganak; és azokat, a kik hajlonganak, esküdvén az Úrra, de esküsznek az ő Molokjokra is;
+Azokat is, a kik a háztetőkön az ég seregének  hajlonganak; és azokat, a kik hajlonganak, esküdvén az Úrra, de esküsznek az ő Molokjokra is;
 fa4dh6fed 1,6
-Azokat is, a kik elfordultak az Úr követésétől,és a kik nem keresik az Urat és nem tudakoznak felőle.
+Azokat is, a kik elfordultak az Úr követésétől, és a kik nem keresik az Urat és nem tudakoznak felőle.
 fa4dh6fed 1,7
-Hallgass az Úr Isten orczája előtt, mert közel van az Úrnak napja, mert áldozatot készíttetett az Úr,megszentelte az ő hivatalosait.
+Hallgass az Úr Isten orczája előtt, mert közel van az Úrnak napja, mert áldozatot készíttetett az Úr, megszentelte az ő hivatalosait.
 fa4dh6fed 1,8
 És lészen az Úr áldozatának napján: megfenyítem majd a fejedelmeket és a királyok fiait és mindazokat, a kik idegen öltözetbe öltöztek.
 fa4dh6fed 1,9
@@ -20,21 +20,21 @@ fa4dh6fed 1,9
 fa4dh6fed 1,10
 És lészen azon a napon, azt mondja az Úr, kiáltó szózat a hal-kaputól fogva, és jajgatás az alsó városból, és nagy recsegés a halmok felől.
 fa4dh6fed 1,11
-Jajgassatok, ti, a kik a völgyben laktok, mert elpusztul az egész kalmár nép,kivágattatik minden, a ki ezüstöt mér.
+Jajgassatok, ti, a kik a völgyben laktok, mert elpusztul az egész kalmár nép, kivágattatik minden, a ki ezüstöt mér.
 fa4dh6fed 1,12
-És lészen az időben, megmotozom majd Jeruzsálemet szövétnekkel, és megfenyítem azokat, a kik saját seprejökönhevernek, a kik ezt mondják szívökben: sem jót, sem rosszat nem cselekszik az Úr.
+És lészen az időben, megmotozom majd Jeruzsálemet szövétnekkel, és megfenyítem azokat, a kik saját seprejökön hevernek, a kik ezt mondják szívökben: sem jót, sem rosszat nem cselekszik az Úr.
 fa4dh6fed 1,13
-És gazdagságuk prédává lesz, házaik pedig pusztává. Építnek házakat, de nem lakják, ésplántálnak szőlőket, de nem iszszák azoknak borát.
+És gazdagságuk prédává lesz, házaik pedig pusztává. Építnek házakat, de nem lakják, és plántálnak szőlőket, de nem iszszák azoknak borát.
 fa4dh6fed 1,14
-Közel van az Úrnak nagynapja, közel van és igen siet; az Úr napjának szava keserves, kiáltoz azon a hős
+Közel van az Úrnak nagy napja, közel van és igen siet; az Úr napjának szava keserves, kiáltoz azon a hős is. 
 fa4dh6fed 1,15
-Haragnak napja az a nap, szorongatásnak és nyomorúságnak napja; pusztításnak és pusztulásnak napja; sötétségnek és homálynak napja; felhőnekés borúnak napja.
+Haragnak napja az a nap, szorongatásnak és nyomorúságnak napja; pusztításnak és pusztulásnak napja; sötétségnek és homálynak napja; felhőnek és borúnak napja.
 fa4dh6fed 1,16
 Kürtnek és tárogatónak napja a megerősített városok ellen és a büszke tornyok ellen!
 fa4dh6fed 1,17
 És megszorongatom az embereket és járnak, mint a vakok, mert vétkeztek az Úr ellen, és kiontatik vérök, mint a por, és testök, mint szemét.
 fa4dh6fed 1,18
-Sem ezüstjök, sem aranyuk nem szabadíthatja meg őket az Úr haragjának napján, és az ő féltő szeretetének tüze megemészti az egész földet; mert véget vet,bizony hirtelen vet véget e föld minden lakosának.
+Sem ezüstjök, sem aranyuk nem szabadíthatja meg őket az Úr haragjának napján, és az ő féltő szeretetének tüze megemészti az egész földet; mert véget vet, bizony hirtelen vet véget e föld minden lakosának.
 fa4dh6fed 2,1
 Térjetek eszetekre, s eszméljetek fel, ti, arczátlan nemzet,
 fa4dh6fed 2,2
@@ -44,25 +44,25 @@ Keressétek az Urat mindnyájan e föld alázatosai, a kik az ő ítélete szeri
 fa4dh6fed 2,4
 Mert elhagyottá lesz Gáza, Askelon pedig pusztasággá; Asdódot délben űzik el, és Ekron kiirtatik.
 fa4dh6fed 2,5
-Jaj a tenger vidékén lakóknak, a Kereteusok nemzetségének! Az Úr igéje ellened van, te Kanaán, Filiszteusok földje;elpusztítalak téged, lakatlanná leszel.
+Jaj a tenger vidékén lakóknak, a Kereteusok nemzetségének! Az Úr igéje ellened van, te Kanaán, Filiszteusok földje; elpusztítalak téged, lakatlanná leszel.
 fa4dh6fed 2,6
 És a tenger vidéke legelőkké, pásztorok tanyáivá és juhoknak aklaivá lészen.
 fa4dh6fed 2,7
-Ésvidék a Júda házának maradékáé lesz, ők legeltetnek azon; estére Askelon házaiban heverésznek, mert meglátogatja őket az Úr, az ő Istenök, és visszahozza az ő foglyaikat.
+És az a vidék a Júda házának maradékáé lesz, ők legeltetnek azon; estére Askelon házaiban heverésznek, mert meglátogatja őket az Úr, az ő Istenök, és visszahozza az ő foglyaikat.
 fa4dh6fed 2,8
 Hallottam Moáb gyalázkodását és Ammon fiainak szidalmait, a melyekkel gyalázták népemet, és felfuvalkodtak az ő határok ellen.
 fa4dh6fed 2,9
-Azért élek én, mond a Seregeknek Ura, Izráelnek Istene, hogyMoáb olyanná lészen, mint Sodoma, Ammon fiai pedig, mint Gomora: tövistermő föld, só-telep és pusztaság örökre; népem maradéka prédálja fel őket, és nemzetségem ivadékai bírják majd őket.
+Azért élek én, mond a Seregeknek Ura, Izráelnek Istene, hogy 12.] Moáb olyanná lészen, mint Sodoma, Ammon fiai pedig, mint Gomora: tövistermő föld, só-telep és pusztaság örökre; népem maradéka prédálja fel őket, és nemzetségem ivadékai bírják majd őket.
 fa4dh6fed 2,10
-Ezrajtok az ő kevélységökért, a miért gyalázkodtak és felfuvalkodtak a Seregek Urának népe ellen.
+Ez esik meg rajtok az ő kevélységökért, a miért gyalázkodtak és felfuvalkodtak a Seregek Urának népe ellen.
 fa4dh6fed 2,11
 Rettenetes lesz az Úr ellenök, mert elfogyatja a földnek minden istenét, és néki hódol majd kiki a maga lakhelyén, a pogányoknak is minden szigete.
 fa4dh6fed 2,12
-Ti is, kúsiak!Fegyverem öli meg őket.
+Ti is, kúsiak! Fegyverem öli meg őket.
 fa4dh6fed 2,13
 És kinyújtja kezét észak felé, és elveszti Assiriát, Ninivét pusztasággá teszi, kietlenné, mint egy sivatag.
 fa4dh6fed 2,14
-És nyájak heverésznek bensejében, mindenféle állatok serege: pelikán és sündisznó hálnak párkányain, az ablakbanszava hangzik, a küszöbön omladék lészen, mert lefosztatott a czédrus!
+És nyájak heverésznek bensejében, mindenféle állatok serege: pelikán és sündisznó hálnak párkányain, az ablakban azoknak szava hangzik, a küszöbön omladék lészen, mert lefosztatott a czédrus!
 fa4dh6fed 2,15
 Ímé, a víg város, a bátorságban lakozó, a mely ezt mondja vala szívében: Én vagyok és nincs kívülem más! milyen pusztasággá lőn, vadak tanyájává, a ki átmegy rajta, mind süvöltöz és csapkodja kezét.
 fa4dh6fed 3,1
@@ -70,9 +70,9 @@ Jaj az ellenszegülőnek és undoknak, az erőszakos városnak!
 fa4dh6fed 3,2
 Nem hallgatott a szóra, nem fogadta a fenyítéket, nem bízott az Úrban, Istenéhez nem közelített!
 fa4dh6fed 3,3
-Fejedelmeibenne,az ordító oroszlánok, birái,az estvefarkasok, nem hagynak reggelre a csonton.
+Fejedelmei olyanok benne, mint az ordító oroszlánok, birái, mint az estve járó farkasok, nem hagynak reggelre a csonton.
 fa4dh6fed 3,4
-Prófétái hivalkodók, hitetőférfiak; papjai megfertéztetik a szent helyet, erőszakot tesznek a törvényen.
+Prófétái hivalkodók, hitető  férfiak; papjai megfertéztetik a szent helyet, erőszakot tesznek a törvényen.
 fa4dh6fed 3,5
 Az Úr igaz ő benne, nem cselekszik hamisságot; reggelről reggelre napfényre hozza ítéletét; nem mulasztja el: de nem ismeri a szégyent a gonosz!
 fa4dh6fed 3,6
@@ -84,24 +84,24 @@ Azért várjatok rám, azt mondja az Úr, míg prédára kelek; mert elvégeztem
 fa4dh6fed 3,9
 Akkor változtatom majd a népek ajkát tisztává, hogy mind segítségül hívják az Úr nevét, hogy egy akarattal szolgálják őt.
 fa4dh6fed 3,10
-Kús folyóvizein túlról hozzák imádóim,szétszórt népemnek leányai ételáldozatomat nékem.
+Kús folyóvizein túlról hozzák imádóim, szétszórt népemnek leányai ételáldozatomat nékem.
 fa4dh6fed 3,11
 Azon a napon nem szégyenülsz meg egyetlen cselekedetért sem, a melyekkel vétkeztél ellenem; mert akkor eltávolítom körödből azokat, a kik kérkedve örvendeznek benned, és nem kevélykedel többé az én szent hegyemen.
 fa4dh6fed 3,12
 És marasztok közötted nyomorult és szegény népet, a kik bíznak az Úr nevében.
 fa4dh6fed 3,13
-Izráel maradéka nem cselekszik hamisságot, nem szól hazugságot, és nem találtatik szájában álnokságnak nyelve, hanem legelésznek és lenyugosznak és nem lesz a ki felrettentse
+Izráel maradéka nem cselekszik hamisságot, nem szól hazugságot, és nem találtatik szájában álnokságnak nyelve, hanem legelésznek és lenyugosznak és nem lesz a ki felrettentse őket. 
 fa4dh6fed 3,14
 Énekelj Sionnak leánya, harsogj Izráel, örvendj és teljes szívvel vígadj Jeruzsálem leánya!
 fa4dh6fed 3,15
 Megváltoztatta az Úr a te ítéletedet, elfordította ellenségedet; Izráel királya, az Úr, közötted van, nem látsz többé gonoszt!
 fa4dh6fed 3,16
-Azon a napon ezt mondják Jeruzsálemnek: Ne félj!Ne lankadjanak kezeid Sion!
+Azon a napon ezt mondják Jeruzsálemnek: Ne félj! Ne lankadjanak kezeid Sion!
 fa4dh6fed 3,17
 Az Úr, a te Istened közötted van; erős ő, megtart; örül te rajtad örömmel, hallgat az ő szerelmében, énekléssel örvendez néked.
 fa4dh6fed 3,18
 Az ünnep miatt bánkódókat egybegyűjtöm, a kik közüled valók; gyalázat terhe van rajtok.
 fa4dh6fed 3,19
-Ímé, én elbánok minden te nyomorgatóddal abban az időben, és megtartom a sántát,és összeszedem a szétszórtakat, és híresekké és nevesekké teszem őket az ő gyalázatjoknak egész földén.
+Ímé, én elbánok minden te nyomorgatóddal abban az időben, és megtartom a sántát, és összeszedem a szétszórtakat, és híresekké és nevesekké teszem őket az ő gyalázatjoknak egész földén.
 fa4dh6fed 3,20
-Abban az időben elhozlak titeket, és akkor összeszedlek titeket, mert nevesekké és híresekké teszlek titeket a földnek minden népe között, mikor megfordítom a ti fogságotokata ti szemetek előtt, azt mondja az Úr.
+Abban az időben elhozlak titeket, és akkor összeszedlek titeket, mert nevesekké és híresekké teszlek titeket a földnek minden népe között, mikor megfordítom a ti fogságotokat a ti szemetek előtt, azt mondja az Úr.  
