@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="bible_app/bibliapp/gen"/>
+	<classpathentry kind="src" path="bible_app/bibliapp/src"/>
+	<classpathentry kind="lib" path="bible_app/bibliapp/bin/dexedLibs/android-support-v4-954beaf2ffda235296109966d4ac2870.jar"/>
+	<classpathentry kind="lib" path="bible_app/bibliapp/libs/android-support-v4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bible_app/bibliapp/bin/classes"/>
+</classpath>
