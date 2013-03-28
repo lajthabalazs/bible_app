@@ -28,7 +28,7 @@ fa4dh6fed 1,13
 fa4dh6fed 1,14
 Szenteljetek bőjtöt, hirdessetek gyűlést; gyűjtsétek egybe a véneket, a földnek minden lakosát az Úrnak, a ti Isteneteknek házába, és kiáltsatok az Úrhoz.
 fa4dh6fed 1,15
-Jaj ez a nap!  Bizony közel van az Úrnak napja, és mint a pusztítás, úgy jön el a Mindenhatótól.
+Jaj ez a nap! Bizony közel van az Úrnak napja, és mint a pusztítás, úgy jön el a Mindenhatótól.
 fa4dh6fed 1,16
 Hát nem szemünk láttára irtatott-é ki az élelem, az öröm és vígasság Istenünk házából?!
 fa4dh6fed 1,17
@@ -40,7 +40,7 @@ Hozzád kiáltok Uram, mert tűz emésztette meg a puszta virányait, és láng 
 fa4dh6fed 1,20
 A mező vadai is hozzád esengenek, mert kiszáradtak a vizeknek ágyai, és tűz emésztette meg a puszta virányait.
 fa4dh6fed 2,1
-Fújjátok a kürtöt a Sionon, és rivalgjatok az én szent hegyemen! Rémüljenek meg e föld minden lakói; mert eljő az Úrnak napja; mert közel van az. 
+Fújjátok a kürtöt a Sionon, és rivalgjatok az én szent hegyemen! Rémüljenek meg e föld minden lakói; mert eljő az Úrnak napja; mert közel van az.
 fa4dh6fed 2,2
 Sötétségnek és homálynak napja; felhőnek és borulatnak napja; mint a hegyekre ráterülő alkonyat! Nagy és hatalmas nép, a milyen nem volt öröktől fogva és nem is lesz utána többé, nemzetségről nemzetségre.
 fa4dh6fed 2,3
@@ -66,7 +66,7 @@ De még most is így szól az Úr: Térjetek meg hozzám teljes szívetek szerin
 fa4dh6fed 2,13
 És szíveteket szaggassátok meg, ne ruháitokat, úgy térjetek meg az Úrhoz, a ti Istenetekhez; mert könyörülő és irgalmas ő; késedelmes a haragra és nagy kegyelmű, és bánkódik a gonosz miatt.
 fa4dh6fed 2,14
-Ki tudja, hátha visszatér és megbánja,  és áldást hagy maga után; étel- és italáldozatot az Úrnak, a ti Isteneteknek?!
+Ki tudja, hátha visszatér és megbánja, és áldást hagy maga után; étel- és italáldozatot az Úrnak, a ti Isteneteknek?!
 fa4dh6fed 2,15
 Fújjatok kürtöt a Sionon; szenteljetek bőjtöt, hirdessetek gyűlést!
 fa4dh6fed 2,16
@@ -84,7 +84,7 @@ Ne félj, te föld! Örülj és vígadozz, mert nagy dolgokat cselekeszik az Úr
 fa4dh6fed 2,22
 Ne féljetek, ti mezei vadak! mert zöldülnek a pusztának virányai; mert a fa megtermi gyümölcsét; a füge és szőlő is kitárják gazdagságukat.
 fa4dh6fed 2,23
-Ti is, Sionnak fiai! örvendezzetek és vígadjatok az Úrban, a ti Istenetekben; mert megadja néktek az esőt igazság szerint, és korai és kései esőt hullat néktek az első hónapban. 
+Ti is, Sionnak fiai! örvendezzetek és vígadjatok az Úrban, a ti Istenetekben; mert megadja néktek az esőt igazság szerint, és korai és kései esőt hullat néktek az első hónapban.
 fa4dh6fed 2,24
 És megtelnek a csűrök gabonával, és bőven öntik a sajtók a mustot és az olajat.
 fa4dh6fed 2,25
@@ -94,15 +94,15 @@ fa4dh6fed 2,26
 fa4dh6fed 2,27
 És megtudjátok, hogy az Izráel között vagyok én, és hogy én vagyok az Úr, a ti Istenetek és nincs más! És soha többé nem pironkodik az én népem.
 fa4dh6fed 2,28
-És lészen azután, hogy kiöntöm lelkemet  minden testre, és prófétálnak a ti fiaitok és leányaitok; véneitek álmokat álmodnak; ifjaitok pedig látomásokat látnak.
+És lészen azután, hogy kiöntöm lelkemet minden testre, és prófétálnak a ti fiaitok és leányaitok; véneitek álmokat álmodnak; ifjaitok pedig látomásokat látnak.
 fa4dh6fed 2,29
 Sőt még a szolgákra és szolgálóleányokra is kiöntöm azokban a napokban az én lelkemet.
 fa4dh6fed 2,30
 És csodajeleket mutatok az égen és a földön; vért, tüzet és füstoszlopokat.
 fa4dh6fed 2,31
-A nap  sötétséggé válik, a hold pedig vérré, minekelőtte eljő az Úrnak nagy és rettenetes napja.
+A nap sötétséggé válik, a hold pedig vérré, minekelőtte eljő az Úrnak nagy és rettenetes napja.
 fa4dh6fed 2,32
-De mindaz, a ki az Úrnak nevét hívja segítségül, megmenekül; mert a Sion hegyén és Jeruzsálemben lészen a szabadulás, a mint megigérte az Úr, és a megszabadultak  közt lesznek azok, a kiket elhí az Úr!
+De mindaz, a ki az Úrnak nevét hívja segítségül, megmenekül; mert a Sion hegyén és Jeruzsálemben lészen a szabadulás, a mint megigérte az Úr, és a megszabadultak közt lesznek azok, a kiket elhí az Úr!
 fa4dh6fed 3,1
 Mert ímé, azokon a napokon és abban az időben, a mikor meghozom Júda és Jeruzsálem fogságát:
 fa4dh6fed 3,2
@@ -110,13 +110,13 @@ Egybegyűjtöm akkor mind a pogányokat, és levezetem őket a Josafát völgyé
 fa4dh6fed 3,3
 Népemre pedig sorsot vetettek; a fiút szajháért adták oda, a leányt pedig borért cserélték el, hogy ihassanak.
 fa4dh6fed 3,4
-Sőt néktek is mi közötök velem, Tírus, Sidon és Filiszteának egész környéke?! Vajjon bosszút állani jöttök- é reám? Ha bosszút akarnátok rajtam  állani, nagy hirtelen fejetekre fordítom vissza bosszútokat!
+Sőt néktek is mi közötök velem, Tírus, Sidon és Filiszteának egész környéke?! Vajjon bosszút állani jöttök- é reám? Ha bosszút akarnátok rajtam állani, nagy hirtelen fejetekre fordítom vissza bosszútokat!
 fa4dh6fed 3,5
 Mivelhogy elraboltátok ezüstömet és aranyomat, és legszebb kincsemet templomaitokba vittétek;
 fa4dh6fed 3,6
 És a Júda fiait és Jeruzsálem fiait eladtátok a Jávánok fiainak, hogy messze vessétek őket határaiktól:
 fa4dh6fed 3,7
-Ímé, kiindítom  őket a helyből, a hova eladtátok őket, és fejetekre fordítom vissza bosszútokat.
+Ímé, kiindítom őket a helyből, a hova eladtátok őket, és fejetekre fordítom vissza bosszútokat.
 fa4dh6fed 3,8
 És adom a ti fiaitokat és leányaitokat a Júda fiainak kezébe; azok pedig eladják őket a Sabeusoknak, a messze lakó népnek; mert ezt végezte az Úr.
 fa4dh6fed 3,9
@@ -128,20 +128,20 @@ Siessetek és jőjjetek el ti népek mindenfelől, és seregeljetek egybe! Ide v
 fa4dh6fed 3,12
 Serkenjenek fel és jőjjenek fel a népek a Josafát völgyébe; mert ott ülök törvényt, hogy megítéljek minden népeket.
 fa4dh6fed 3,13
-Ereszszétek néki a sarlót,  mert megérett az aratni való! Jertek el, tapossatok, mert tetézve a kád, ömlenek a sajtók! Mert megsokasult az ő gonoszságuk!
+Ereszszétek néki a sarlót, mert megérett az aratni való! Jertek el, tapossatok, mert tetézve a kád, ömlenek a sajtók! Mert megsokasult az ő gonoszságuk!
 fa4dh6fed 3,14
 Tömegek, tömegek! az ítélet völgyében! Mert közel van az Úrnak napja az ítélet völgyében!
 fa4dh6fed 3,15
-A nap és hold  elsötétednek; a csillagok bevonják fényöket;
+A nap és hold elsötétednek; a csillagok bevonják fényöket;
 fa4dh6fed 3,16
-Az Úr pedig megharsan a Sionról  és megzendül Jeruzsálemből, és megrendülnek az egek és a föld; de az Úr az ő népének oltalma és az Izráel fiainak erőssége!
+Az Úr pedig megharsan a Sionról és megzendül Jeruzsálemből, és megrendülnek az egek és a föld; de az Úr az ő népének oltalma és az Izráel fiainak erőssége!
 fa4dh6fed 3,17
 És megtudjátok, hogy én vagyok az Úr, a ti Istenetek, a ki a Sionon lakozom, az én szent hegyemen. És szentté lészen Jeruzsálem, és idegenek nem vonulnak át többé rajta.
 fa4dh6fed 3,18
-És majd azon a napon  a hegyek musttal csepegnek és a halmok tejjel folynak, és a Júda minden medre bő vízzel ömledez, és forrás fakad az Úrnak házából, és megöntözi a Sittimnek völgyét.
+És majd azon a napon a hegyek musttal csepegnek és a halmok tejjel folynak, és a Júda minden medre bő vízzel ömledez, és forrás fakad az Úrnak házából, és megöntözi a Sittimnek völgyét.
 fa4dh6fed 3,19
 Égyiptom pusztasággá lészen, Edom pedig kietlen sivataggá; a Júda fiain való erőszakosságért, mert ártatlan vért ontottak azoknak földén.
 fa4dh6fed 3,20
 De a Júda örökké megmarad; Jeruzsálem is nemzetségről nemzetségre.
 fa4dh6fed 3,21
-És kitisztítom vérökből, a melyből még ki nem tisztítottam, és a Sion lesz az Úr lakóhelye!  
+És kitisztítom vérökből, a melyből még ki nem tisztítottam, és a Sion lesz az Úr lakóhelye!

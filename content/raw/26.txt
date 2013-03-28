@@ -58,7 +58,7 @@ Mert ímé a tél elmult, az eső elmult, elment.
 fa4dh6fed 2,12
 Virágok láttatnak a földön, az éneklésnek ideje eljött, és a gerliczének szava hallatik a mi földünkön.
 fa4dh6fed 2,13
-A fügefa érleli első gyümölcsét, és a szőlők virágzásban vannak, jóillatot adnak; kelj fel én mátkám, én szépem, és jőjj hozzám! 
+A fügefa érleli első gyümölcsét, és a szőlők virágzásban vannak, jóillatot adnak; kelj fel én mátkám, én szépem, és jőjj hozzám!
 fa4dh6fed 2,14
 Én galambom, a kősziklának hasadékiban, a magas kőszálnak rejtekében, mutasd meg nékem a te orczádat, hadd halljam a te szódat; mert a te szód gyönyörűséges, és a te tekinteted ékes!
 fa4dh6fed 2,15
@@ -72,7 +72,7 @@ Az én ágyasházamban éjjeleken keresém azt, a kit szeret az én lelkem, kere
 fa4dh6fed 3,2
 Immár felkelek és eljárom a várost, a tereket és az utczákat, keresem azt, a kit szeret az én lelkem; keresém őt, és nem találám.
 fa4dh6fed 3,3
-Megtalálának engem az őrizők, a kik a várost kerülik. Mondék nékik:  Láttátok-é azt, a kit az én lelkem szeret?
+Megtalálának engem az őrizők, a kik a várost kerülik. Mondék nékik: Láttátok-é azt, a kit az én lelkem szeret?
 fa4dh6fed 3,4
 Alig mentem vala el azoktól, mikor megtaláltam azt, a kit az én lelkem szeret. Megragadám őt, el sem bocsátám, mígnem bevivém őt anyám házába, és az én szülőmnek ágyasházába.
 fa4dh6fed 3,5
@@ -108,7 +108,7 @@ fa4dh6fed 4,8
 fa4dh6fed 4,9
 Megsebesítetted az én szívemet, én húgom, jegyesem, megsebesítetted az én szívemet a te szemeidnek egy tekintésével, a te nyakadon való egy aranylánczczal!
 fa4dh6fed 4,10
-Mely igen szépek a te szerelmeid, én húgom, jegyesem! mely igen jók a te szerelmeid! jobbak  a bornál, és a te keneteidnek illatja minden fűszerszámnál!
+Mely igen szépek a te szerelmeid, én húgom, jegyesem! mely igen jók a te szerelmeid! jobbak a bornál, és a te keneteidnek illatja minden fűszerszámnál!
 fa4dh6fed 4,11
 Színmézet csepegnek a te ajkaid, én jegyesem, méz és tej van a te nyelved alatt, és a te ruháidnak illatja, mint a Libánusnak illatja.
 fa4dh6fed 4,12
@@ -124,9 +124,9 @@ Serkenj fel északi szél, és jőjj el déli szél, fújj az én kertemre, foly
 fa4dh6fed 5,1
 Bementem az én kertembe, én húgom, jegyesem, szedem az én mirhámat, az én balzsamommal, eszem az én lépesmézemet az én mézemmel, iszom az én boromat az én tejemmel. Egyetek barátim, igyatok, és részegedjetek meg, szerelmesim!
 fa4dh6fed 5,2
-Én elaludtam, de lelkemben vigyázok vala, és ímé az én szerelmesemnek szava, a ki zörget, mondván:  Nyisd meg nékem, én húgom, én mátkám, én galambom, én tökéletesem; mert az én fejem megrakodott harmattal, az én hajam az éjszakának harmatjával!
+Én elaludtam, de lelkemben vigyázok vala, és ímé az én szerelmesemnek szava, a ki zörget, mondván: Nyisd meg nékem, én húgom, én mátkám, én galambom, én tökéletesem; mert az én fejem megrakodott harmattal, az én hajam az éjszakának harmatjával!
 fa4dh6fed 5,3
-Felelék én: Levetettem ruhámat, hogy-hogy öltözhetném fel? Megmostam lábaimat, mimódon keverném azokat a porba? 
+Felelék én: Levetettem ruhámat, hogy-hogy öltözhetném fel? Megmostam lábaimat, mimódon keverném azokat a porba?
 fa4dh6fed 5,4
 Az én szerelmesem kezét benyujtá az ajtónak hasadékán, és az én belső részeim megindulának ő rajta.
 fa4dh6fed 5,5
@@ -160,7 +160,7 @@ Az én szerelmesem, elment az ő kertébe, a drága füveknek táblái közé, h
 fa4dh6fed 5,19
 Én az én szerelmesemé vagyok , és az én szerelmesem enyim, a ki a liliomok közt legeltet.
 fa4dh6fed 6,1
-Szép vagy én mátkám, mint Tirsa városa,  kedves, mint Jeruzsálem, rettenetes, mint a zászlós tábor.
+Szép vagy én mátkám, mint Tirsa városa, kedves, mint Jeruzsálem, rettenetes, mint a zászlós tábor.
 fa4dh6fed 6,2
 Fordítsd el a te szemeidet én tőlem, mert azok megzavarnak engem. A te hajad olyan, mint a kecskéknek nyája, melyek a Gileádról szállanak alá.
 fa4dh6fed 6,3
@@ -186,7 +186,7 @@ A te köldököd, mint a kerekded csésze, nem szűkölködik nedvesség nélkü
 fa4dh6fed 7,3
 A te két emlőd, mint két őzike, a vadkecskének kettős fiai.
 fa4dh6fed 7,4
-A te nyakad, mint az elefánttetemből csinált torony; a te szemeid, mint  a Hesbonbeli halastók, a sok népű kapunál; a te orrod hasonló a Libánus tornyához, mely néz Damaskus felé.
+A te nyakad, mint az elefánttetemből csinált torony; a te szemeid, mint a Hesbonbeli halastók, a sok népű kapunál; a te orrod hasonló a Libánus tornyához, mely néz Damaskus felé.
 fa4dh6fed 7,5
 A te fejed hasonló rajtad a Kármelhez, és a te fejeden hajadnak fonatékja a biborhoz, a király is megköttetnék fürteid által!
 fa4dh6fed 7,6
@@ -226,10 +226,10 @@ Ha ő kőfal, építünk azon ezüstből palotát; ha pedig ajtó ő, elrekesztj
 fa4dh6fed 8,10
 Mikor én olyan leszek, mint a kőfal, és az én emlőim, mint a tornyok; akkor olyan leszek ő előtte, mint a ki békességet nyer.
 fa4dh6fed 8,11
-Szőlője volt Salamonnak Baálhamonban, adta az ő szőlejét a pásztoroknak, kiki annak gyümölcséért hoz ezer-ezer ezüst siklust. 
+Szőlője volt Salamonnak Baálhamonban, adta az ő szőlejét a pásztoroknak, kiki annak gyümölcséért hoz ezer-ezer ezüst siklust.
 fa4dh6fed 8,12
 Az én szőlőmre, mely én reám néz, nékem gondom lesz: az ezer siklus, Salamon, tiéd legyen, a kétszáz annak gyümölcsének őrizőié.
 fa4dh6fed 8,13
-Oh te, a ki lakol a kertekben! A te társaid a te szódra figyelmeznek; hadd halljam én is. 
+Oh te, a ki lakol a kertekben! A te társaid a te szódra figyelmeznek; hadd halljam én is.
 fa4dh6fed 8,14
-Fuss én szerelmesem, és légy hasonló a vadkecskéhez, vagy a szarvasnak fiához, a drága füveknek hegyein!  
+Fuss én szerelmesem, és légy hasonló a vadkecskéhez, vagy a szarvasnak fiához, a drága füveknek hegyein!

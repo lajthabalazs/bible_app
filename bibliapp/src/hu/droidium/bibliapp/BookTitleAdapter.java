@@ -15,7 +15,7 @@ public class BookTitleAdapter implements ListAdapter {
 	
 	private Vector<String[]> books;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
-	private Context context;  
+	private Context context;
 	private LayoutInflater inflater;
 	
 	public BookTitleAdapter(Vector<String[]> books, LayoutInflater inflater, Context context) {

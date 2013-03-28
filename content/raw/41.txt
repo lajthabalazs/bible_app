@@ -2,7 +2,7 @@ Náhum Próféta Könyve
 fa4dh6fed 1,1
 Ninive terhe; az elkosi Náhum látásának könyve.
 fa4dh6fed 1,2
-Buzgón szerető és bosszúálló Isten az Úr, bosszúálló az Úr, és telve haraggal; bosszút áll az Úr az ő ellenségein, és haragot  tartó az ő gyűlölői ellen.
+Buzgón szerető és bosszúálló Isten az Úr, bosszúálló az Úr, és telve haraggal; bosszút áll az Úr az ő ellenségein, és haragot tartó az ő gyűlölői ellen.
 fa4dh6fed 1,3
 Hosszútűrő az Úr és nagyhatalmú, és nem hagy büntetlenül. Szélvészben és viharban van az Úrnak útja, és lábainak pora a felhő.
 fa4dh6fed 1,4
@@ -56,7 +56,7 @@ Az oroszlán torkig valót ragadozott kölykeinek, és fojtogatott nőstényeine
 fa4dh6fed 2,13
 Ímé rád török, azt mondja a Seregek Ura, és füstté égetem szekereit. Oroszlán-kölykeidet kard emészti meg, és kiirtom e földről zsákmányodat, és nem hallatszik többé követeidnek szava.
 fa4dh6fed 3,1
-Jaj a vérszopó városnak!  Mindenestől hazug és erőszakkal telve, és nem szűnik rabolni.
+Jaj a vérszopó városnak! Mindenestől hazug és erőszakkal telve, és nem szűnik rabolni.
 fa4dh6fed 3,2
 Ostor-csattogás, kerék-zörgés zaja; dobogó ló, robogó szekér;
 fa4dh6fed 3,3
@@ -90,6 +90,6 @@ Többen voltak kalmáraid, mint az égnek csillagai: a szöcske csapong és elre
 fa4dh6fed 3,17
 Fejedelmeid mint a sáska, vezéreid mint a tücsök-raj; hideg időkben gyepűkben tanyáz, napkeletkor pedig elrepül, és helye sem tudható meg, hol volt.
 fa4dh6fed 3,18
-Szunnyadoznak pásztoraid, Assiria királya, feküsznek  vitézlő hőseid; néped a hegyeken széledez, és nincsen, a ki összegyűjtse.
+Szunnyadoznak pásztoraid, Assiria királya, feküsznek vitézlő hőseid; néped a hegyeken széledez, és nincsen, a ki összegyűjtse.
 fa4dh6fed 3,19
-Nincs enyhítés a te sebedre, gyógyíthatatlan a te nyavalyád. A kik híredet hallják, mind tapsolnak feletted, mert kire nem hatott volna ki a te gonoszságod soha?  
+Nincs enyhítés a te sebedre, gyógyíthatatlan a te nyavalyád. A kik híredet hallják, mind tapsolnak feletted, mert kire nem hatott volna ki a te gonoszságod soha?

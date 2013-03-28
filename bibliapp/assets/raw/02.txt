@@ -46,7 +46,7 @@ Parancsola azért a Faraó minden ő népének, mondván: Minden fiút, a ki sz�
 fa4dh6fed 2,1
 És elméne egy Lévi nemzetségéből való férfiú és Lévi-leányt vőn feleségűl.
 fa4dh6fed 2,2
-És fogada   méhében az asszony és fiat szűle; és látá, hogy szép az és rejtegeté három hónapig.
+És fogada méhében az asszony és fiat szűle; és látá, hogy szép az és rejtegeté három hónapig.
 fa4dh6fed 2,3
 De mikor tovább nem rejtegetheté, szerze annak egy gyékény-ládácskát, és bekené azt gyantával és szurokkal s belétevé a gyermeket és letevé a folyóvíz szélén a sás közé.
 fa4dh6fed 2,4
@@ -160,7 +160,7 @@ fa4dh6fed 4,10
 fa4dh6fed 4,11
 Az Úr pedig monda néki: Ki adott szájat az embernek? Avagy ki tesz némává vagy siketté, vagy látóvá vagy vakká? Nemde én, az Úr?
 fa4dh6fed 4,12
-Most hát eredj és én lészek a te száddal,  és megtanítlak téged arra, a mit beszélned kell.
+Most hát eredj és én lészek a te száddal, és megtanítlak téged arra, a mit beszélned kell.
 fa4dh6fed 4,13
 Ő pedig monda: Kérlek, Uram, csak küldd, a kit küldeni akarsz.
 fa4dh6fed 4,14
@@ -250,7 +250,7 @@ Az Úr pedig monda Mózesnek: Majd meglátod mit cselekszem a Faraóval; mert ha
 fa4dh6fed 6,2
 Az Isten pedig szóla Mózeshez és monda néki: Én vagyok az Úr.
 fa4dh6fed 6,3
-Ábrahámnak, Izsáknak és Jákóbnak úgy jelentem meg mint   mindenható Isten, de az én Jehova  nevemen nem voltam előttük ismeretes.
+Ábrahámnak, Izsáknak és Jákóbnak úgy jelentem meg mint mindenható Isten, de az én Jehova nevemen nem voltam előttük ismeretes.
 fa4dh6fed 6,4
 Szövetséget is kötöttem velek, hogy nékik adom a Kanaán földét, az ő tartózkodásuk földét, a melyen tartózkodjanak.
 fa4dh6fed 6,5
@@ -276,7 +276,7 @@ Ezek atyáik házanépének fejei: Rúbennek, Izráel elsőszülöttének fiai: 
 fa4dh6fed 6,15
 Simeon fiai pedig: Jemúél, Jámin, Óhad, Jákin, Czohar és Saul, a kanaánbeli asszony fiai. Ezek a Simeon nemzetségei.
 fa4dh6fed 6,16
-Ezek pedig a Lévi fiainak  nevei az ő születésök szerint: Gersón, Kehát és Merári. Lévi életének esztendei pedig: száz harminczhét esztendő.
+Ezek pedig a Lévi fiainak nevei az ő születésök szerint: Gersón, Kehát és Merári. Lévi életének esztendei pedig: száz harminczhét esztendő.
 fa4dh6fed 6,17
 Gersón fiai: Libni, Simhi, az ő nemzetségeik szerint.
 fa4dh6fed 6,18
@@ -442,7 +442,7 @@ Vevének azért kemenczehamut és a Faraó elé állának, és Mózes az ég fel
 fa4dh6fed 9,11
 És az írástudók nem állhatnak vala Mózes előtt a fekély miatt; mert fekély vala az írástudókon s mind az Égyiptombelieken.
 fa4dh6fed 9,12
-De az Úr  megkeményíté a Faraó szívét, és nem hallgata reájok, a mint megmondotta vala az Úr Mózesnek.
+De az Úr megkeményíté a Faraó szívét, és nem hallgata reájok, a mint megmondotta vala az Úr Mózesnek.
 fa4dh6fed 9,13
 És monda az Úr Mózesnek: Kelj fel reggel és állj a Faraó eleibe és mondd néki: Ezt mondja az Úr, a héberek Istene: Bocsásd el az én népemet, hogy szolgáljanak nékem.
 fa4dh6fed 9,14
@@ -450,7 +450,7 @@ Mert ezúttal minden csapásomat reá bocsátom a te szívedre, a te szolgáidra
 fa4dh6fed 9,15
 Mert ha most kinyujtanám kezemet és megvernélek téged és a te népedet döghalállal, akkor kivágattatnál a földről.
 fa4dh6fed 9,16
-Ámde azért tartottalak fenn tégedet, hogy megmutassam néked az én  hatalmamat, és hogy hirdessék az én nevemet az egész földön.
+Ámde azért tartottalak fenn tégedet, hogy megmutassam néked az én hatalmamat, és hogy hirdessék az én nevemet az egész földön.
 fa4dh6fed 9,17
 Ha tovább is feltartóztatod az én népemet és nem bocsátod el őket:
 fa4dh6fed 9,18
@@ -658,7 +658,7 @@ Akárkinek is pénzen vett szolgája akkor egyék abból, ha körűlmetélted.
 fa4dh6fed 12,45
 A zsellér és a béres ne egyék abból.
 fa4dh6fed 12,46
-Egy házban egyék meg; a házból ki ne vígy a húsból, és  csontot se törjetek össze abban.
+Egy házban egyék meg; a házból ki ne vígy a húsból, és csontot se törjetek össze abban.
 fa4dh6fed 12,47
 Izráel egész gyülekezete készítse azt.
 fa4dh6fed 12,48
@@ -672,7 +672,7 @@ Ugyanazon napon hozá ki az Úr az Izráel fiait Égyiptomnak földéről, az ő
 fa4dh6fed 13,1
 És szóla az Úr Mózesnek, mondván:
 fa4dh6fed 13,2
-Nékem szentelj minden  elsőszülöttet, valami megnyitja az ő anyjának méhét az Izráel fiai között, akár ember, akár barom, enyim legyen az.
+Nékem szentelj minden elsőszülöttet, valami megnyitja az ő anyjának méhét az Izráel fiai között, akár ember, akár barom, enyim legyen az.
 fa4dh6fed 13,3
 És monda Mózes a népnek: Megemlékezzél e napról, melyen kijöttetek Égyiptomból, a szolgálatnak házából; mert hatalmas kézzel hozott ki onnan titeket az Úr; azért ne egyetek kovászost.
 fa4dh6fed 13,4
@@ -692,7 +692,7 @@ Tartsd meg azért ezt a rendelést annak idejében esztendőről esztendőre.
 fa4dh6fed 13,11
 Ha pedig beviénd téged az Úr a Kananeusok földére, a miképen megesküdött néked és a te atyáidnak, és azt néked adándja:
 fa4dh6fed 13,12
-Az Úrnak ajánld fel akkor mindazt,  a mi az ő anyjának méhét megnyitja, a baromnak is, a mi néked lesz, minden méhnyitó fajzását; a hímek az Úré.
+Az Úrnak ajánld fel akkor mindazt, a mi az ő anyjának méhét megnyitja, a baromnak is, a mi néked lesz, minden méhnyitó fajzását; a hímek az Úré.
 fa4dh6fed 13,13
 De a szamárnak minden első fajzását báránynyal váltsd meg; ha pedig meg nem váltod, szegd meg a nyakát. Az embernek is minden elsőszülöttét megváltsd a te fiaid közül.
 fa4dh6fed 13,14
@@ -706,11 +706,11 @@ fa4dh6fed 13,17
 fa4dh6fed 13,18
 Kerülő úton vezeté azért Isten a népet, a veres tenger pusztájának útján; és fölfegyverkezve jövének ki Izráel fiai Égyiptom földéről.
 fa4dh6fed 13,19
-És Mózes elvivé magával a József tetemeit is, mert megesketvén megeskette vala Izráel fiait, mondván: Meglátogatván  meglátogat titeket az Isten, akkor az én tetemeimet felvigyétek innen magatokkal.
+És Mózes elvivé magával a József tetemeit is, mert megesketvén megeskette vala Izráel fiait, mondván: Meglátogatván meglátogat titeket az Isten, akkor az én tetemeimet felvigyétek innen magatokkal.
 fa4dh6fed 13,20
 És elindulának Szukhótból és táborba szállának Ethámban, a puszta szélén.
 fa4dh6fed 13,21
-Az Úr pedig megy vala előttök nappal      felhőoszlopban, hogy vezérelje őket az úton, éjjel pedig tűzoszlopban, hogy világítson nékik, hogy éjjel és nappal mehessenek.
+Az Úr pedig megy vala előttök nappal felhőoszlopban, hogy vezérelje őket az úton, éjjel pedig tűzoszlopban, hogy világítson nékik, hogy éjjel és nappal mehessenek.
 fa4dh6fed 13,22
 Nem távozott el a felhőoszlop nappal, sem a tűzoszlop éjjel a nép elől.
 fa4dh6fed 14,1
@@ -754,9 +754,9 @@ Elindula azért az Istennek Angyala, a ki jár vala az Izráel tábora előtt, �
 fa4dh6fed 14,20
 És oda méne az Égyiptombeliek tábora és az Izráel tábora közé; így lőn a felhő és a setétség: az éjszakát pedig megvilágosítja vala. És egész éjszaka nem közelítettek egymáshoz.
 fa4dh6fed 14,21
-És kinyújtá Mózes az ő kezét a tengerre, az Úr pedig egész éjjel erős keleti széllel hajtá a tengert és szárazzá tevé a tengert, és kétfelé  válának a vizek.
+És kinyújtá Mózes az ő kezét a tengerre, az Úr pedig egész éjjel erős keleti széllel hajtá a tengert és szárazzá tevé a tengert, és kétfelé válának a vizek.
 fa4dh6fed 14,22
-És szárazon menének  az Izráel fiai a tenger közepébe, a vizek pedig kőfal gyanánt valának nékik jobbkezök és balkezök felől.
+És szárazon menének az Izráel fiai a tenger közepébe, a vizek pedig kőfal gyanánt valának nékik jobbkezök és balkezök felől.
 fa4dh6fed 14,23
 Az Égyiptombeliek pedig utánok nyomulának és bemenének a Faraó minden lovai, szekerei és lovasai a tenger közepébe.
 fa4dh6fed 14,24
@@ -778,7 +778,7 @@ fa4dh6fed 14,31
 fa4dh6fed 15,1
 Akkor éneklé Mózes és az Izráel fiai ezt az éneket az Úrnak, és szólának mondván: Éneklek az Úrnak, mert fenséges ő, lovat lovasával tengerbe vetett.
 fa4dh6fed 15,2
-Erősségem  az Úr és énekem, szabadítómmá lőn nekem; ez az én Istenem, őt dicsérem, atyámnak Istene, őt magasztalom.
+Erősségem az Úr és énekem, szabadítómmá lőn nekem; ez az én Istenem, őt dicsérem, atyámnak Istene, őt magasztalom.
 fa4dh6fed 15,3
 Vitéz harczos az Úr; az ő neve Jehova.
 fa4dh6fed 15,4
@@ -912,7 +912,7 @@ Mózes pedig az Úrhoz kiálta mondván: Mit cselekedjem ezzel a néppel? Kevés
 fa4dh6fed 17,5
 És az Úr monda Mózesnek: Eredj el a nép előtt és végy magad mellé Izráel vénei közűl; pálczádat is, melylyel a folyót megsujtottad, vedd kezedbe és indulj el.
 fa4dh6fed 17,6
-Ímé én oda állok te elődbe a sziklára a Hóreben, és te sujts a   sziklára, és víz jő ki abból, hogy igyék a nép. És úgy cselekedék Mózes Izráel vénei szeme láttára.
+Ímé én oda állok te elődbe a sziklára a Hóreben, és te sujts a sziklára, és víz jő ki abból, hogy igyék a nép. És úgy cselekedék Mózes Izráel vénei szeme láttára.
 fa4dh6fed 17,7
 És nevezé annak a helynek nevét Masszának és Méribának, Izráel fiainak versengéséért, és mert kísértették az Urat, mondván: Vajjon köztünk van- é az Úr vagy nincsen?
 fa4dh6fed 17,8
@@ -928,7 +928,7 @@ Mikor azért Mózes kezei elnehezedének, követ hozának és alája tevék, hog
 fa4dh6fed 17,13
 Józsué pedig leveré Amáleket és az ő népét fegyver élivel.
 fa4dh6fed 17,14
-És monda az Úr Mózesnek: Írd meg ezt  emlékezetül könyvbe és add tudtára Józsuénak, hogy mindenestől eltörlöm Amálek emlékezetét az ég alól.
+És monda az Úr Mózesnek: Írd meg ezt emlékezetül könyvbe és add tudtára Józsuénak, hogy mindenestől eltörlöm Amálek emlékezetét az ég alól.
 fa4dh6fed 17,15
 És építe Mózes oltárt és nevezé nevét Jehova-Niszszi-nek.
 fa4dh6fed 17,16
@@ -970,7 +970,7 @@ Mózes ipa pedig monda néki: Nem jó az, a mit te cselekszel.
 fa4dh6fed 18,18
 Felettébb kifáradsz te is, ez a nép is, a mely veled van; mert erőd felett való dolog ez, nem végezheted azt egymagad.
 fa4dh6fed 18,19
-Most azért  hallgass az én szavamra, tanácsot adok néked és az Isten veled lesz. Te légy a népnek szószólója az Isten előtt, és te vidd az ügyeket Isten eleibe.
+Most azért hallgass az én szavamra, tanácsot adok néked és az Isten veled lesz. Te légy a népnek szószólója az Isten előtt, és te vidd az ügyeket Isten eleibe.
 fa4dh6fed 18,20
 És tanítsd őket a rendeletekre és törvényekre és add tudtokra az útat, a melyen járniok kell és a tenni valót, a melyet tenniök kell.
 fa4dh6fed 18,21
@@ -996,7 +996,7 @@ Mózes pedig felméne az Istenhez, és szóla hozzá az Úr a hegyről, mondván
 fa4dh6fed 19,4
 Ti láttátok, a mit Égyiptommal cselekedtem, hogy hordoztalak titeket sas szárnyakon és magamhoz bocsátottalak titeket.
 fa4dh6fed 19,5
-Mostan azért ha figyelmesen hallgattok szavamra és megtartjátok az én szövetségemet, úgy ti lesztek nékem valamennyi nép közt az enyéim;  mert enyim az egész föld.
+Mostan azért ha figyelmesen hallgattok szavamra és megtartjátok az én szövetségemet, úgy ti lesztek nékem valamennyi nép közt az enyéim; mert enyim az egész föld.
 fa4dh6fed 19,6
 És lesztek ti nékem papok birodalma és szent nép. Ezek azok az ígék, melyeket el kell mondanod Izráel fiainak.
 fa4dh6fed 19,7
@@ -1022,7 +1022,7 @@ fa4dh6fed 19,16
 fa4dh6fed 19,17
 És kivezeté Mózes a népet a táborból az Isten eleibe és megállának a hegy alatt.
 fa4dh6fed 19,18
-Az   egész Sinai hegy pedig füstölög vala, mivelhogy leszállott arra az Úr tűzben és felmegy vala annak füstje, mint a kemenczének füstje; és az egész hegy nagyon reng vala.
+Az egész Sinai hegy pedig füstölög vala, mivelhogy leszállott arra az Úr tűzben és felmegy vala annak füstje, mint a kemenczének füstje; és az egész hegy nagyon reng vala.
 fa4dh6fed 19,19
 És a kürt szava mindinkább erősödik vala; Mózes beszél vala és az Isten felel vala néki hangosan.
 fa4dh6fed 19,20
@@ -1038,35 +1038,35 @@ De az Úr monda néki: Eredj, menj alá, és jőjj fel te és Áron is veled; de
 fa4dh6fed 19,25
 Aláméne azért Mózes a néphez, és megmondá nékik.
 fa4dh6fed 20,1
-És szólá Isten mindezeket az  igéket, mondván:
+És szólá Isten mindezeket az igéket, mondván:
 fa4dh6fed 20,2
 Én, az Úr, vagyok a te Istened, a ki kihoztalak téged Égyiptomnak földéről, a szolgálat házából.
 fa4dh6fed 20,3
 Ne legyenek néked idegen isteneid én előttem.
 fa4dh6fed 20,4
-Ne   csinálj magadnak faragott képet, és semmi hasonlót azokhoz, a melyek fenn az égben, vagy a melyek alant a földön, vagy a melyek a vizekben a föld alatt vannak.
+Ne csinálj magadnak faragott képet, és semmi hasonlót azokhoz, a melyek fenn az égben, vagy a melyek alant a földön, vagy a melyek a vizekben a föld alatt vannak.
 fa4dh6fed 20,5
 Ne imádd és ne tiszteld azokat; mert én, az Úr a te Istened, féltőn- szerető Isten vagyok, a ki megbüntetem az atyák vétkét a fiakban, harmad és negyediziglen, a kik engem gyűlölnek.
 fa4dh6fed 20,6
 De irgalmasságot cselekszem ezeriziglen azokkal, a kik engem szeretnek, és az én parancsolatimat megtartják.
 fa4dh6fed 20,7
-Az Úrnak a te Istenednek  nevét hiába fel ne vedd; mert nem hagyja azt az Úr büntetés nélkül, a ki az ő nevét hiába felveszi.
+Az Úrnak a te Istenednek nevét hiába fel ne vedd; mert nem hagyja azt az Úr büntetés nélkül, a ki az ő nevét hiába felveszi.
 fa4dh6fed 20,8
-Megemlékezzél a  szombatnapról, hogy megszenteljed azt.
+Megemlékezzél a szombatnapról, hogy megszenteljed azt.
 fa4dh6fed 20,9
-Hat  napon át munkálkodjál, és végezd minden dolgodat;
+Hat napon át munkálkodjál, és végezd minden dolgodat;
 fa4dh6fed 20,10
 De a hetedik nap az Úrnak a te Istenednek szombatja: semmi dolgot se tégy azon se magad, se fiad, se leányod, se szolgád, se szolgálóleányod, se barmod, se jövevényed, a ki a te kapuidon belől van;
 fa4dh6fed 20,11
 Mert hat napon teremté az Úr az eget és a földet, a tengert és mindent, a mi azokban van, a hetedik napon pedig megnyugovék. Azért megáldá az Úr a szombat napját, és megszentelé azt.
 fa4dh6fed 20,12
-Tiszteld    atyádat és anyádat, hogy hosszú ideig élj azon a földön, a melyet az Úr a te Istened ád te néked.
+Tiszteld atyádat és anyádat, hogy hosszú ideig élj azon a földön, a melyet az Úr a te Istened ád te néked.
 fa4dh6fed 20,13
-Ne  ölj.
+Ne ölj.
 fa4dh6fed 20,14
-Ne  paráználkodjál.
+Ne paráználkodjál.
 fa4dh6fed 20,15
-Ne  lopj.
+Ne lopj.
 fa4dh6fed 20,16
 Ne tégy a te felebarátod ellen hamis tanúbizonyságot.
 fa4dh6fed 20,17
@@ -1086,13 +1086,13 @@ Ne csináljatok én mellém ezüst isteneket, és arany isteneket se csináljato
 fa4dh6fed 20,24
 Földből csinálj nékem oltárt, és azon áldozd a te égő- és hálaáldozatodat, juhaidat és ökreidet. Valamely helyen akarom, hogy az én nevemről megemlékezzetek, elmegyek tehozzád és megáldalak téged.
 fa4dh6fed 20,25
-Ha pedig kövekből csinálsz nékem oltárt, ne építsd azt  faragott kő ből: mert a mint faragó vasadat rávetetted, megfertőztetted azt.
+Ha pedig kövekből csinálsz nékem oltárt, ne építsd azt faragott kő ből: mert a mint faragó vasadat rávetetted, megfertőztetted azt.
 fa4dh6fed 20,26
 Lépcsőkön se menj fel az én oltáromhoz, hogy a te szemérmed fel ne fedeztessék azon.
 fa4dh6fed 21,1
 Ezek pedig azok a rendeletek, a melyeket eleikbe kell terjesztened:
 fa4dh6fed 21,2
-Ha héber szolgát vásárolsz, hat esztendeig szolgáljon, a  hetedikben pedig szabaduljon fel ingyen.
+Ha héber szolgát vásárolsz, hat esztendeig szolgáljon, a hetedikben pedig szabaduljon fel ingyen.
 fa4dh6fed 21,3
 Ha egyedűl jött, egyedűl menjen el; ha feleséges ember, menjen el vele a felesége is.
 fa4dh6fed 21,4
@@ -1114,7 +1114,7 @@ Ha ezt a hármat nem cselekszi vele: akkor menjen az el ingyen, fizetés nélkű
 fa4dh6fed 21,12
 A ki úgy megver valakit, hogy meghal, halállal lakoljon.
 fa4dh6fed 21,13
-De ha nem leselkedett, hanem Isten ejtette kezébe: úgy   helyet rendelek néked, a hova meneküljön.
+De ha nem leselkedett, hanem Isten ejtette kezébe: úgy helyet rendelek néked, a hova meneküljön.
 fa4dh6fed 21,14
 Ha pedig valaki szándékosan tör felebarátja ellen, hogy azt orvúl megölje, oltáromtól is elvidd azt a halálra.
 fa4dh6fed 21,15
@@ -1122,7 +1122,7 @@ A ki megveri az ő atyját vagy anyját, halállal lakoljon.
 fa4dh6fed 21,16
 A ki embert lop, és eladja azt, vagy kezében kapják, halállal lakoljon.
 fa4dh6fed 21,17
-A ki szidalmazza az ő atyját vagy anyját,    halállal lakoljon.
+A ki szidalmazza az ő atyját vagy anyját, halállal lakoljon.
 fa4dh6fed 21,18
 És ha férfiak összevesznek, és megüti valaki az ő felebarátját kővel vagy öklével, és nem hal meg, hanem ágyba esik:
 fa4dh6fed 21,19
@@ -1136,7 +1136,7 @@ Ha férfiak veszekednek és meglöknek valamely terhes asszonyt, úgy hogy idő 
 fa4dh6fed 21,23
 De ha veszedelem történik: akkor életért életet adj.
 fa4dh6fed 21,24
-Szemet   szemért, fogat fogért, kezet kézért, lábat lábért;
+Szemet szemért, fogat fogért, kezet kézért, lábat lábért;
 fa4dh6fed 21,25
 Égetést égetésért, sebet sebért, kéket kékért.
 fa4dh6fed 21,26
@@ -1210,7 +1210,7 @@ Ha nyomorgatod azt, és hozzám kiált, meghallgatom az ő kiáltását.
 fa4dh6fed 22,24
 És felgerjed haragom, és megöllek titeket fegyverrel, és a ti feleségeitek özvegyekké lésznek, a ti fiaitok pedig árvákká.
 fa4dh6fed 22,25
-Ha pénzt adsz   kölcsön az én népemnek, a szegénynek a ki veled van; ne légy hozzá olyan, mint a hitelező; ne vessetek reá uzsorát.
+Ha pénzt adsz kölcsön az én népemnek, a szegénynek a ki veled van; ne légy hozzá olyan, mint a hitelező; ne vessetek reá uzsorát.
 fa4dh6fed 22,26
 Ha zálogba veszed a te felebarátod felső ruháját: naplemente előtt visszaadd azt néki:
 fa4dh6fed 22,27
@@ -1256,7 +1256,7 @@ A kovásztalan kenyér innepét tartsd meg; hét nap egyél kovásztalan kenyere
 fa4dh6fed 23,16
 És az aratás innepét, munkád zsengéjét, a melyet elvetettél a mezőn; és a takarodás innepét az esztendő végén, a mikor termésedet betakarítod a mezőről.
 fa4dh6fed 23,17
-Esztendőnként  háromszor jelenjék meg minden férfiad az Úr Isten színe előtt.
+Esztendőnként háromszor jelenjék meg minden férfiad az Úr Isten színe előtt.
 fa4dh6fed 23,18
 Ne ontsd ki az én áldozatom vérét kovászos kenyér mellett, és ünnepi áldozatom kövére meg ne maradjon reggelig.
 fa4dh6fed 23,19
@@ -1324,7 +1324,7 @@ fa4dh6fed 24,16
 fa4dh6fed 24,17
 Az Úr dicsőségének jelensége pedig olyan vala az Izráel fiainak szeme előtt, mint emésztő tűz, a hegy tetején.
 fa4dh6fed 24,18
-És beméne Mózes a felhő közepébe, és felméne a hegyre, és negyven nap és negyven  éjjel vala Mózes a hegyen.
+És beméne Mózes a felhő közepébe, és felméne a hegyre, és negyven nap és negyven éjjel vala Mózes a hegyen.
 fa4dh6fed 25,1
 És szóla az Úr Mózeshez, mondván:
 fa4dh6fed 25,2
@@ -1356,7 +1356,7 @@ fa4dh6fed 25,14
 fa4dh6fed 25,15
 A rúdak álljanak a láda karikáiban; ne vegyék ki azokból.
 fa4dh6fed 25,16
-És a  bizonyságot, a melyet néked adok, tedd a ládába.
+És a bizonyságot, a melyet néked adok, tedd a ládába.
 fa4dh6fed 25,17
 Csinálj fedelet is tiszta aranyból: harmadfél sing hosszút, és másfél sing széleset.
 fa4dh6fed 25,18
@@ -1404,7 +1404,7 @@ Hamvvevői és hamutartói is tiszta aranyból legyenek.
 fa4dh6fed 25,39
 Egy tálentom tiszta aranyból csinálják azt, mindezeket az eszközöket.
 fa4dh6fed 25,40
-Vigyázz, hogy arra a formára csináld,  a mely a hegyen mutattatott néked.
+Vigyázz, hogy arra a formára csináld, a mely a hegyen mutattatott néked.
 fa4dh6fed 26,1
 A hajlékot pedig tíz kárpitból csináld: sodrott lenből, és kék, és bíborpiros, és karmazsin színűből, Kérubokkal, mestermunkával készítsd azokat.
 fa4dh6fed 26,2
@@ -1464,7 +1464,7 @@ A középső reteszrúd pedig a deszkák közepén az egyik végtől a másik v�
 fa4dh6fed 26,29
 A deszkákat pedig borítsd meg aranynyal, és karikákat is aranyból csinálj azokhoz a reteszrúdak tartói gyanánt; a reteszrúdakat is megborítsd aranynyal.
 fa4dh6fed 26,30
-A hajlékot pedig azon a módon állítsd fel,  a mint néked a hegyen mutattatott.
+A hajlékot pedig azon a módon állítsd fel, a mint néked a hegyen mutattatott.
 fa4dh6fed 26,31
 És csinálj függönyt, kék, és bíborpiros, és karmazsinszínű, és sodrott lenből; Kérubokkal, mestermunkával készítsék azt.
 fa4dh6fed 26,32
@@ -1520,7 +1520,7 @@ A hajlék minden edénye, az ahhoz való mindennemű szolgálatban, és minden s
 fa4dh6fed 27,20
 Te pedig parancsold meg az Izráel fiainak, hogy hozzanak néked tiszta faolajat, a melyet a világításhoz sajtoltak, hogy szünet nélkül égő lámpát gyujthassanak.
 fa4dh6fed 27,21
-A gyülekezet sátorában a függönyön kivül, a mely a bizonyság előtt van, készítsék el azt Áron és az ő fiai, estvétől fogva reggelig az Úr előtt. Örök rendtartás legyen  ez az ő nemzetségöknél Izráel fiai között.
+A gyülekezet sátorában a függönyön kivül, a mely a bizonyság előtt van, készítsék el azt Áron és az ő fiai, estvétől fogva reggelig az Úr előtt. Örök rendtartás legyen ez az ő nemzetségöknél Izráel fiai között.
 fa4dh6fed 28,1
 Te pedig hívasd magadhoz a te atyádfiát Áront, és az ő fiait ő vele az Izráel fiai közűl, hogy papjaim legyenek: Áron, Nádáb, Abihu, Eleázár, Ithamár, Áronnak fiai.
 fa4dh6fed 28,2
@@ -1530,7 +1530,7 @@ fa4dh6fed 28,3
 fa4dh6fed 28,4
 Ezek pedig a ruhák, a melyeket készítsenek: hósen, efód, palást, koczkás köntös, süveg és öv. És csináljanak szent ruhákat Áronnak a te atyádfiának, és az ő fiainak, hogy papjaim legyenek.
 fa4dh6fed 28,5
-Vegyék hát ők elő az aranyat, és a kék, és a bíborpiros, és a karmazsinszínű fonalat és a len fonalat. 
+Vegyék hát ők elő az aranyat, és a kék, és a bíborpiros, és a karmazsinszínű fonalat és a len fonalat.
 fa4dh6fed 28,6
 És csinálják az efódot aranyból, kék és bíborpiros, karmazsinszínű és sodrott lenből, mestermunkával.
 fa4dh6fed 28,7
@@ -1760,9 +1760,9 @@ fa4dh6fed 30,29
 fa4dh6fed 30,30
 Kend fel Áront is és az ő fiait is; így szenteld fel őket papjaimmá.
 fa4dh6fed 30,31
-Az Izráel fiainak pedig így szólj: Szent kenetnek olaja legyen ez nékem, a ti nemzetségeiteknél is. 
+Az Izráel fiainak pedig így szólj: Szent kenetnek olaja legyen ez nékem, a ti nemzetségeiteknél is.
 fa4dh6fed 30,32
-Ember testét azzal meg ne kenjék, se ahhoz hasonlót, annak mértékei szerint ne csináljatok: szent az; szent legyen előttetek is. 
+Ember testét azzal meg ne kenjék, se ahhoz hasonlót, annak mértékei szerint ne csináljatok: szent az; szent legyen előttetek is.
 fa4dh6fed 30,33
 Valaki ahhoz hasonló kenetet csinál, vagy azzal idegent ken meg, kitöröltessék az ő népe közül.
 fa4dh6fed 30,34
@@ -1808,9 +1808,9 @@ Hat napon munkálkodjanak, a hetedik nap pedig a nyugodalomnak szombatja az Úrn
 fa4dh6fed 31,16
 Megtartsák azért az Izráel fiai a szombatot, megszentelvén a szombatot nemzetségről nemzetségre, örök szövetségül.
 fa4dh6fed 31,17
-Legyen közöttem és az Izráel fiai között örök jel ez;  mert hat napon teremtette az Úr a mennyet és a földet, hetednapon pedig megszünt és megnyugodott.
+Legyen közöttem és az Izráel fiai között örök jel ez; mert hat napon teremtette az Úr a mennyet és a földet, hetednapon pedig megszünt és megnyugodott.
 fa4dh6fed 31,18
-Mikor pedig elvégezte vele való beszédét a Sinai hegyen, által adá Mózesnek  a bizonyság két tábláját, az Isten ujjával írt kőtáblákat.
+Mikor pedig elvégezte vele való beszédét a Sinai hegyen, által adá Mózesnek a bizonyság két tábláját, az Isten ujjával írt kőtáblákat.
 fa4dh6fed 32,1
 Mikor látá a nép, hogy Mózes késik a hegyről leszállani, egybegyűle a nép Áron ellen és mondá néki: Kelj fel, csinálj nékünk isteneket, kik előttünk járjanak; mert nem tudjuk mint lőn dolga ama férfiúnak Mózesnek, a ki minket Égyiptom földéből kihozott.
 fa4dh6fed 32,2
@@ -1828,7 +1828,7 @@ Szóla pedig az Úr Mózesnek: Eredj menj alá; mert megromlott a te néped, a m
 fa4dh6fed 32,8
 Hamar letértek az útról, a melyet parancsoltam nékik, borjúképet öntöttek magoknak, azt tisztelik és annak áldoznak, és azt mondják: Ezek a te isteneid Izráel, a kik téged kihoztak Égyiptom földéből.
 fa4dh6fed 32,9
-Monda ismét az Úr Mózesnek: Látom ezt a népet, bizony  keménynyakú nép.
+Monda ismét az Úr Mózesnek: Látom ezt a népet, bizony keménynyakú nép.
 fa4dh6fed 32,10
 Azért hagyj békét nékem, hadd gerjedjen fel haragom ellenök, és törűljem el őket: Téged azonban nagy néppé teszlek.
 fa4dh6fed 32,11
@@ -1836,13 +1836,13 @@ De Mózes esedezék az Úrnak, az ő Istenének színe előtt, mondván: Miért 
 fa4dh6fed 32,12
 Miért mondanák az égyiptomiak, mondván: Vesztökre vivé ki őket, hogy elveszítse a hegyek között, és eltörülje őket a föld színéről? Múljék el a te haragod tüze, és hagyd abba azt a néped ellen való veszedelmet.
 fa4dh6fed 32,13
-Emlékezzél meg Ábrahámról, Izsákról és Izráelről a te szolgáidról, kiknek  megesküdtél te magadra, mondván nékik: Megsokasítom a ti magotokat mint az égnek csillagait; és azt az egész földet, melyről szóltam, a ti magotoknak adom, és örökségül bírják azt örökké.
+Emlékezzél meg Ábrahámról, Izsákról és Izráelről a te szolgáidról, kiknek megesküdtél te magadra, mondván nékik: Megsokasítom a ti magotokat mint az égnek csillagait; és azt az egész földet, melyről szóltam, a ti magotoknak adom, és örökségül bírják azt örökké.
 fa4dh6fed 32,14
 És abba hagyá az Úr azt a veszedelmet, melyet akart vala bocsátani az ő népére.
 fa4dh6fed 32,15
 Megfordula azért és megindula Mózes a hegyről, kezében a bizonyság két táblája; mindkét oldalukon beírt táblák, mind egy felől, mind más felől beírva.
 fa4dh6fed 32,16
-A táblák pedig  Isten kezének csinálmányai valának, az írás is Isten írása vala, kimetszve a táblákra.
+A táblák pedig Isten kezének csinálmányai valának, az írás is Isten írása vala, kimetszve a táblákra.
 fa4dh6fed 32,17
 Józsué pedig hallván a nép rivalgását, monda Mózesnek: Harczkiáltás van a táborban.
 fa4dh6fed 32,18
@@ -1940,9 +1940,9 @@ Az Úr pedig leszálla felhőben, és ott álla ő vele, és nevén kiáltá az 
 fa4dh6fed 34,6
 És az Úr elvonula ő előtte és kiálta: Az Úr, az Úr, irgalmas és kegyelmes Isten, késedelmes a haragra, nagy irgalmasságú és igazságú.
 fa4dh6fed 34,7
-A ki irgalmas marad ezeríziglen; megbocsát hamisságot, vétket és bűnt: de nem hagyja a bűnöst  büntetlenül, megbünteti az atyák álnokságát a fiakban, és a fiak fiaiban harmad és negyedíziglen.
+A ki irgalmas marad ezeríziglen; megbocsát hamisságot, vétket és bűnt: de nem hagyja a bűnöst büntetlenül, megbünteti az atyák álnokságát a fiakban, és a fiak fiaiban harmad és negyedíziglen.
 fa4dh6fed 34,8
-És Mózes nagy sietséggel földre borula, és lehajtá fejét. 
+És Mózes nagy sietséggel földre borula, és lehajtá fejét.
 fa4dh6fed 34,9
 És monda: Uram, ha előtted kedvet találtam, kérlek járjon az Úr velünk; mert keménynyakú nép ez! Kegyelmezz a mi vétkeinknek és gonoszságunknak, és fogadj minket örökségeddé.
 fa4dh6fed 34,10
@@ -1950,7 +1950,7 @@ fa4dh6fed 34,10
 fa4dh6fed 34,11
 Jegyezd meg magadnak a mit ma parancsolok néked. Ímé kiűzöm előled az Emoreust, Kananeust, Khittheust, Perizeust, Khivveust, Jebuzeust.
 fa4dh6fed 34,12
-Vigyázz magadra, nehogy  szövetséget köss annak a földnek lakosaival, a melybe bemégy, hogy botránkozásra ne legyen közötted.
+Vigyázz magadra, nehogy szövetséget köss annak a földnek lakosaival, a melybe bemégy, hogy botránkozásra ne legyen közötted.
 fa4dh6fed 34,13
 Hanem oltáraikat rontsátok el, törjétek össze bálványaikat, és vágjátok ki berkeiket.
 fa4dh6fed 34,14
@@ -1978,11 +1978,11 @@ Mert kiűzöm a népeket előled, és kiszélesítem határodat, és senki nem k
 fa4dh6fed 34,25
 Áldozatom vérét ne ontsd ki kovász mellett, és a husvét innepének áldozatja ne maradjon meg reggelig.
 fa4dh6fed 34,26
-Földed  zsengéiből az elsőt vidd fel az Úrnak a te Istenednek házába. Ne főzz gödölyét az anyja tejében.
+Földed zsengéiből az elsőt vidd fel az Úrnak a te Istenednek házába. Ne főzz gödölyét az anyja tejében.
 fa4dh6fed 34,27
 És monda az Úr Mózesnek: Írd fel ezeket a szavakat; mert ezeknek a szavaknak értelme szerint kötöttem szövetséget veled és Izráellel.
 fa4dh6fed 34,28
-És ott vala az Úrral negyven  nap és negyven éjjel: kenyeret nem evett, vizet sem ivott. És felírá a táblákra a szövetség szavait, a tíz parancsolatot.
+És ott vala az Úrral negyven nap és negyven éjjel: kenyeret nem evett, vizet sem ivott. És felírá a táblákra a szövetség szavait, a tíz parancsolatot.
 fa4dh6fed 34,29
 És lőn, a mikor Mózes a Sinai hegyről leszálla, (a Mózes kezében vala a bizonyság két táblája, mikor a hegyről leszálla) Mózes nem tudta, hogy az ő orczájának bőre sugárzik, mivelhogy Ővele szólott.
 fa4dh6fed 34,30
@@ -2418,10 +2418,10 @@ Azután felállítá a pitvart a hajlék és az oltár körül, és a pitvar kap
 fa4dh6fed 40,34
 És a felhő befedezé a gyülekezet sátorát, és az Úrnak dicsősége betölté a hajlékot.
 fa4dh6fed 40,35
-És Mózes nem mehete be a gyülekezet sátorába, mert a  felhő rajta nyugovék, és az Úrnak dicsősége tölté be a hajlékot.
+És Mózes nem mehete be a gyülekezet sátorába, mert a felhő rajta nyugovék, és az Úrnak dicsősége tölté be a hajlékot.
 fa4dh6fed 40,36
 És mikor a felhő felszáll vala a hajlékról, az Izráel fiai elindulának; így lőn egész utazásuk alatt.
 fa4dh6fed 40,37
 Ha pedig a felhő nem szálla fel, ők sem indulának el, míg csak fel nem szálla.
 fa4dh6fed 40,38
-Mert az Úrnak    felhője vala a hajlékon nappal, éjjel pedig tűz vala azon, az Izráel egész háznépének láttára, egész utazásuk alatt.  
+Mert az Úrnak felhője vala a hajlékon nappal, éjjel pedig tűz vala azon, az Izráel egész háznépének láttára, egész utazásuk alatt.

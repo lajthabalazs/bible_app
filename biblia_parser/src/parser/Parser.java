@@ -29,7 +29,10 @@ public class Parser {
 		for (int i = 1; i <= 73; i++){
 			String filePrefix = (i < 10?"0":"") + i;
 			try {
-				write(sourceFolder, outputFolder, xmlFolder, filePrefix);
+				if (write(sourceFolder, outputFolder, xmlFolder, filePrefix)==null) {
+					System.out.println("Broken");
+					break;
+				}
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -37,7 +40,7 @@ public class Parser {
 		System.out.println("Parsing finished");		
 	}
 	
-	public static void write(File sourceFolder, File outputFolder,  File xmlFolder, String filePrefix){
+	public static String write(File sourceFolder, File outputFolder,  File xmlFolder, String filePrefix){
 		System.out.println("Parsing file " + filePrefix);
 		CleanerProperties props = new CleanerProperties();
 		props.setTranslateSpecialEntities(true);
@@ -53,14 +56,14 @@ public class Parser {
 			System.out.println("Root found " + tagNode);
 		} catch (IOException e) {
 			e.printStackTrace();
-			return;
+			return e.getMessage();
 		}
 		BufferedWriter writer;
 		try {
 			writer = new BufferedWriter(new FileWriter(new File(outputFolder, filePrefix + ".txt")));
 		} catch (IOException e) {
 			e.printStackTrace();
-			return;
+			return e.getMessage();
 		}
 		try {
 			@SuppressWarnings("unchecked")
@@ -74,7 +77,6 @@ public class Parser {
 									try {
 										writer.write(capitalizeString(content.toString().trim()));
 										writer.flush();
-										break;
 									} catch (IOException e) {
 										e.printStackTrace();
 									}
@@ -89,7 +91,7 @@ public class Parser {
 							if (pChild instanceof TagNode && ((TagNode)pChild).getName().equals("b")) {
 								for (Object bChild : ((TagNode)pChild).getAllChildren()) {
 									if (bChild instanceof TagNode) {
-										System.out.println(((TagNode)bChild).getAttributeByName("name"));
+										//System.out.println(((TagNode)bChild).getAttributeByName("name"));
 										writer.write("\nfa4dh6fed ");
 										writer.write(((TagNode)bChild).getAttributeByName("name"));
 										writer.write("\n");
@@ -100,27 +102,48 @@ public class Parser {
 							if (pChild instanceof TagNode && ((TagNode)pChild).getName().equals("em")) {
 								for (Object emChild : ((TagNode)pChild).getAllChildren()) {
 									if (emChild instanceof ContentNode) {
-										if (((ContentNode)emChild).getContent().trim().equals("[")) {
+										String text = ((ContentNode)emChild).getContent().trim();
+										if (text.contains("[")) {
 											continue;
 										}
-										if (((ContentNode)emChild).getContent().trim().equals("]")) {
+										if (text.contains("]")) {
+											continue;
+										}
+										if (text.equals("")) {
 											continue;
 										}
 										if (contentBuilder.length() > 0) {
 											contentBuilder.append(" ");
 										}
-										contentBuilder.append(((ContentNode)emChild).getContent().trim());
+										if (((ContentNode)emChild).getContent().trim().indexOf("]") >=0) {
+											System.out.println("Append content >" + ((ContentNode)emChild).getContent().trim() + "<");
+										}
+										else if (((ContentNode)emChild).getContent().trim().indexOf("[") >=0) {
+											System.out.println("Append content >" + ((ContentNode)emChild).getContent().trim() + "<");
+										}
+										contentBuilder.append(text);
 									}									
 								}
 							}
 							if (pChild instanceof ContentNode) {
-								if (contentBuilder.length() > 0) {
-									contentBuilder.append(" ");
+								String text = ((ContentNode)pChild).getContent().trim();
+								if (text.length() > 0) {
+									if (contentBuilder.length() > 0) {
+										contentBuilder.append(" ");
+									}
+									contentBuilder.append(text);
 								}
-								contentBuilder.append(((ContentNode)pChild).getContent().trim());
 							}
 						}
-						System.out.println(contentBuilder.toString());
+						if (contentBuilder.toString().indexOf("]") >=0) {
+							System.out.println(contentBuilder.toString());
+						}
+						else if (contentBuilder.toString().indexOf("[") >=0) {
+							System.out.println(contentBuilder.toString());
+						}
+						if (contentBuilder.toString().indexOf("  ") >= 0) {
+							System.out.println("Double space " + contentBuilder.toString());
+						}
 						writer.write(contentBuilder.toString());
 						writer.flush();
 					}
@@ -135,6 +158,7 @@ public class Parser {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		return " ";
 	}
 	
 	public static String capitalizeString(String string) {

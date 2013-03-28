@@ -20,11 +20,11 @@ Akkor monda nékem: Kérlek állj mellém és ölj meg engem, mert dermedtség f
 fa4dh6fed 1,10
 Annakokáért én mellé állván, megölém őtet, mert tudtam, hogy meg nem él, miután elesett, és elhozám a koronát, mely az ő fején vala, és az aranypereczet, mely az ő karján volt, és azokat ímé ide hoztam az én uramnak.
 fa4dh6fed 1,11
-Akkor megragadá Dávid a maga ruháit és  megszaggatá, úgyszintén a többi emberek is, a kik ő vele valának. 
+Akkor megragadá Dávid a maga ruháit és megszaggatá, úgyszintén a többi emberek is, a kik ő vele valának.
 fa4dh6fed 1,12
 És nagy zokogással sírának, és bőjtölének mind estvéig, Saulon és Jonathánon, az ő fián, és az Úrnak népén és Izráelnek házán, mivelhogy fegyver által hullottak el.
 fa4dh6fed 1,13
-És monda Dávid az ifjúnak, a ki ezt elbeszélé néki: Honnét való  vagy te? Felele: Egy jövevény Amálekita férfi fia vagyok.
+És monda Dávid az ifjúnak, a ki ezt elbeszélé néki: Honnét való vagy te? Felele: Egy jövevény Amálekita férfi fia vagyok.
 fa4dh6fed 1,14
 Ismét monda néki Dávid: Hogy nem féltél felemelni kezedet az Úr felkentjének elvesztésére?
 fa4dh6fed 1,15
@@ -38,7 +38,7 @@ fa4dh6fed 1,18
 fa4dh6fed 1,19
 Izráel! a te ékességed elesett halmaidon: miként hullottak el a hősök!
 fa4dh6fed 1,20
-Meg ne mondjátok  Gáthban, ne hirdessétek Askelon utczáin, hogy ne örvendjenek a Filiszteusok leányai, és ne ujjongjanak a körülmetéletlenek leányai.
+Meg ne mondjátok Gáthban, ne hirdessétek Askelon utczáin, hogy ne örvendjenek a Filiszteusok leányai, és ne ujjongjanak a körülmetéletlenek leányai.
 fa4dh6fed 1,21
 Gilboa hegyei, se harmat, se eső ti reátok ne szálljon, és mezőtök ne teremjen semmi áldozatra valót; mert ott hányatott el az erős vitézek paizsa, Saulnak paizsa, mintha meg nem kenettetett volna olajjal.
 fa4dh6fed 1,22
@@ -68,7 +68,7 @@ Annakokáért most az Úr cselekedjék veletek irgalmasságot és igazságot; s�
 fa4dh6fed 2,7
 Most azért a ti kezeitek erősödjenek meg, és legyetek erős férfiak, mert megholt a ti uratok Saul, és immár engem felkent királynak Júda háza önmagán.
 fa4dh6fed 2,8
-Abner pedig, a Nér fia, a ki Saulnak fővezére  vala , felvevé Isbósetet, a Saul fiát, és elvivé Mahanáimba.
+Abner pedig, a Nér fia, a ki Saulnak fővezére vala , felvevé Isbósetet, a Saul fiát, és elvivé Mahanáimba.
 fa4dh6fed 2,9
 És királylyá tette őt Gileádon, Asuron és Jezréel város án, és az Efraim és Benjámin nemzetség ein, és az egész Izráelen.
 fa4dh6fed 2,10
@@ -88,11 +88,11 @@ fa4dh6fed 2,16
 fa4dh6fed 2,17
 És felette erős harcz lőn azon a napon, és megvereték Abner és az Izráel népe a Dávid szolgái által.
 fa4dh6fed 2,18
-Három fia vala pedig ott Sérujának: Joáb, Abisai és Asáel; Asáel pedig könnyű lábú vala, mint egy vadkecske, mely a mezőn lakik. 
+Három fia vala pedig ott Sérujának: Joáb, Abisai és Asáel; Asáel pedig könnyű lábú vala, mint egy vadkecske, mely a mezőn lakik.
 fa4dh6fed 2,19
 És Asáel üldözé Abnert; és se jobbfelé, se balfelé nem tére ki Abner után való futásában.
 fa4dh6fed 2,20
-Hátratekintvén pedig Abner, monda: Te vagy-é Asáel? Felele: Én vagyok. 
+Hátratekintvén pedig Abner, monda: Te vagy-é Asáel? Felele: Én vagyok.
 fa4dh6fed 2,21
 És monda néki Abner: Térj másfelé, vagy jobbkézre vagy balkézre, és fogj meg egyet az ifjak közül, és foszd ki őt mindenéből; de Asáel nem akarta őt elhagyni.
 fa4dh6fed 2,22
@@ -192,7 +192,7 @@ Mely dolgot mikor az egész község megértett, igen tetszék nékik; valamint 
 fa4dh6fed 3,37
 És megértette azon a napon az egész nép és az egész Izráel, hogy nem a királytól volt, hogy Abnert, a Nér fiát megölték.
 fa4dh6fed 3,38
-Monda pedig a király az ő szolgáinak: Nem tudjátok-é, hogy  nagy fejedelem esett ma el az Izráelben?
+Monda pedig a király az ő szolgáinak: Nem tudjátok-é, hogy nagy fejedelem esett ma el az Izráelben?
 fa4dh6fed 3,39
 Én pedig ma erőtelen, noha felkent király vagyok; ezek pedig a Sérujának fiai hatalmasabbak nálamnál. De fizessen meg az Úr annak, a ki gonoszt cselekeszik, az ő gonoszsága szerint.
 fa4dh6fed 4,1
@@ -218,9 +218,9 @@ Hogy én azt, a ki nékem hírt hozott vala, ezt mondván: Ímé meghalt Saul (�
 fa4dh6fed 4,11
 Mennyivel inkább az istentelen embereket, kik ágyában, a maga házában ölték meg az igaz embert? Azért most vajjon ne kivánjam-é meg az ő vérét kezeitekből, hogy titeket eltöröljelek a földről?
 fa4dh6fed 4,12
-Parancsola azért Dávid az ő szolgáinak, hogy megöljék  őket; és elvagdalák kezeiket és lábaikat; és felakaszták őket Hebronban, a halastó mellett. Isbósetnek pedig fejét felvevén, eltemeték az Abner sírboltjába, Hebronban.
+Parancsola azért Dávid az ő szolgáinak, hogy megöljék őket; és elvagdalák kezeiket és lábaikat; és felakaszták őket Hebronban, a halastó mellett. Isbósetnek pedig fejét felvevén, eltemeték az Abner sírboltjába, Hebronban.
 fa4dh6fed 5,1
-Eljövének pedig  Dávidhoz Hebronba Izráelnek minden nemzetségei, és szólának ilyenképen: Ímé mi a te csontodból és testedből valók vagyunk,
+Eljövének pedig Dávidhoz Hebronba Izráelnek minden nemzetségei, és szólának ilyenképen: Ímé mi a te csontodból és testedből valók vagyunk,
 fa4dh6fed 5,2
 Mert ennekelőtte is, mikor Saul uralkodott felettünk, te vezérelted ki s be Izráelt, és az Úr azt mondotta néked: Te legelteted az én népemet, az Izráelt, és te fejedelem leszel Izráel felett.
 fa4dh6fed 5,3
@@ -228,15 +228,15 @@ Eljövének azért Izráelnek minden vénei a királyhoz Hebronba, és frigyet t
 fa4dh6fed 5,4
 Harmincz esztendős vala Dávid, mikor uralkodni kezde, és negyven esztendeig uralkodék.
 fa4dh6fed 5,5
-Hebronban uralkodék a  Júda nemzetség én hét esztendeig és hat hónapig; és Jeruzsálemben uralkodék harminczhárom esztendeig az egész Izráel és Júda nemzetség ein.
+Hebronban uralkodék a Júda nemzetség én hét esztendeig és hat hónapig; és Jeruzsálemben uralkodék harminczhárom esztendeig az egész Izráel és Júda nemzetség ein.
 fa4dh6fed 5,6
 Felméne pedig a király és az ő népe Jeruzsálembe a Jebuzeusok ellen, kik azt a földet lakják vala, ők azonban azt mondák Dávidnak: Nem jössz ide be, hanem a sánták és vakok elűznek téged! melylyel azt jelenték: Nem jő ide be Dávid.
 fa4dh6fed 5,7
-Bevevé mindazáltal Dávid a Sion várát, és az immár a Dávid  városa.
+Bevevé mindazáltal Dávid a Sion várát, és az immár a Dávid városa.
 fa4dh6fed 5,8
 Mert azt mondá Dávid ama napon: Mindenki, a ki vágja a Jebuzeusokat, menjen fel a csatornához és vágja ott a sántákat és a vakokat, a kiket gyűlöl a Dávid lelke. Ezért mondják: Vak és sánta ne menjen be a házba!
 fa4dh6fed 5,9
-És lakozék Dávid abban a  várban, és nevezé azt Dávid városának; és megépíté Dávid köröskörül, Millótól fogva befelé.
+És lakozék Dávid abban a várban, és nevezé azt Dávid városának; és megépíté Dávid köröskörül, Millótól fogva befelé.
 fa4dh6fed 5,10
 Dávid pedig folytonosan emelkedék és növekedék, mert az Úr, a Seregeknek Istene vala ő vele.
 fa4dh6fed 5,11
@@ -260,7 +260,7 @@ Megkérdé azért Dávid az Urat ilyen szóval: Elmenjek-é a Filiszteusok ellen
 fa4dh6fed 5,20
 Elérkezék azért Dávid Baál Perázimba, és megveré ott őket Dávid, és monda: Szétszórta az Úr ellenségimet előttem, mint a víz szokott eloszlani; azért nevezé azt a helyet Baál Perázimnak.
 fa4dh6fed 5,21
-És ott hagyák az ő bálványaikat, melyeket felszedének    Dávid és az ő szolgái.
+És ott hagyák az ő bálványaikat, melyeket felszedének Dávid és az ő szolgái.
 fa4dh6fed 5,22
 Azután ismét feljövének a Filiszteusok, és elszéledének a Réfaim völgyében.
 fa4dh6fed 5,23
@@ -268,11 +268,11 @@ Megkérdé azért Dávid az Urat, ki ezt felelé: Ne menj most reájok; hanem ke
 fa4dh6fed 5,24
 És mikor a szederfák tetején indulásnak zaját fogod hallani, akkor indulj meg, mert akkor kimegy te előtted az Úr, hogy megverje a Filiszteusok táborát.
 fa4dh6fed 5,25
-És úgy cselekedék Dávid, a mint megparancsolta vala néki az Úr: és vágta  a Filiszteusokat Gibeától fogva, mind addig, míg Gézerbe mennél.
+És úgy cselekedék Dávid, a mint megparancsolta vala néki az Úr: és vágta a Filiszteusokat Gibeától fogva, mind addig, míg Gézerbe mennél.
 fa4dh6fed 6,1
-Összegyűjté ezek után Dávid az egész Izráelnek színét, harmincezer embert. 
+Összegyűjté ezek után Dávid az egész Izráelnek színét, harmincezer embert.
 fa4dh6fed 6,2
-És felkelvén, elméne Dávid az egész néppel együtt, mely vele vala, Júdának városába ,  Bahalába, hogy elhozza onnét az Isten ládáját, mely Névről, a Seregek Urának nevéről neveztetik, ki ül a Kérubok között.
+És felkelvén, elméne Dávid az egész néppel együtt, mely vele vala, Júdának városába , Bahalába, hogy elhozza onnét az Isten ládáját, mely Névről, a Seregek Urának nevéről neveztetik, ki ül a Kérubok között.
 fa4dh6fed 6,3
 És tevék az Isten ládáját új szekérre, és elhozák azt Abinádábnak házától, mely vala a dombon, és Uzza és Ahió, Abinádáb fiai vezetik az új szekeret.
 fa4dh6fed 6,4
@@ -318,35 +318,35 @@ Ennekokáért Mikálnak, Saul leányának nem lőn soha gyermeke az ő halálán
 fa4dh6fed 7,1
 Lőn pedig, hogy mikor a király az ő palotájában üle, és az Úr mindenfelől békességet adott néki minden ellenségeitől,
 fa4dh6fed 7,2
-Monda a király Nátán prófétának: Ímé lássad, én czédrus fából  csinált palotában lakom, az Istennek ládája pedig a kárpitok között van.
+Monda a király Nátán prófétának: Ímé lássad, én czédrus fából csinált palotában lakom, az Istennek ládája pedig a kárpitok között van.
 fa4dh6fed 7,3
 És monda Nátán a királynak: Eredj, s valami a te szívedben van, vidd véghez, mert az Úr veled van.
 fa4dh6fed 7,4
 Azonban lőn az Úr szava Nátánhoz azon éjjel, mondván:
 fa4dh6fed 7,5
-Menj el, és mondd meg az én szolgámnak, Dávidnak: Ezt mondja az Úr: Házat akarsz-é nékem építeni, hogy abban  lakjam?
+Menj el, és mondd meg az én szolgámnak, Dávidnak: Ezt mondja az Úr: Házat akarsz-é nékem építeni, hogy abban lakjam?
 fa4dh6fed 7,6
 Mert én nem laktam házban attól a naptól fogva, hogy kihoztam Izráel fiait Égyiptomból, mind e mai napig, hanem szüntelen sátorban és hajlékban jártam.
 fa4dh6fed 7,7
 Valahol csak jártam Izráel fiai között, avagy szólottam-é csak egy szót is Izráel valamelyik nemzetségének, a kinek parancsoltam, hogy legeltesse az én népemet Izráelt, mondván: Miért nem építettetek nékem czédrusfából való házat?
 fa4dh6fed 7,8
-Most azért ezt mondd meg az én szolgámnak, Dávidnak: Ezt mondja a Seregeknek Ura: Én hoztalak ki téged a kunyhóból,  a juhok mögül, hogy légy fejedelem az én népem felett, az Izráel felett;
+Most azért ezt mondd meg az én szolgámnak, Dávidnak: Ezt mondja a Seregeknek Ura: Én hoztalak ki téged a kunyhóból, a juhok mögül, hogy légy fejedelem az én népem felett, az Izráel felett;
 fa4dh6fed 7,9
-És veled voltam mindenütt, valahová mentél, és kiirtottam minden ellenségeidet  előtted; és nagy hírnevet szerzettem néked, mint a nagyoknak hírneve, a kik e földön vannak.
+És veled voltam mindenütt, valahová mentél, és kiirtottam minden ellenségeidet előtted; és nagy hírnevet szerzettem néked, mint a nagyoknak hírneve, a kik e földön vannak.
 fa4dh6fed 7,10
-Helyet is szerzék az én népemnek Izráelnek, és ott elplántálám őt, és lakozék az ő helyében, és többé helyéből ki nem  mozdíttatik, és nem fogják többé az álnokságnak fiai nyomorgatni őt, mint annakelőtte,
+Helyet is szerzék az én népemnek Izráelnek, és ott elplántálám őt, és lakozék az ő helyében, és többé helyéből ki nem mozdíttatik, és nem fogják többé az álnokságnak fiai nyomorgatni őt, mint annakelőtte,
 fa4dh6fed 7,11
 Attól a naptól fogva, hogy bírákat rendeltem az én népem az Izráel felett. Békességet szereztem tehát néked minden ellenségeidtől. És megmondotta néked az Úr, hogy házat csinál néked az Úr.
 fa4dh6fed 7,12
-Mikor pedig a te napjaid betelnek, és elaluszol a te atyáiddal, feltámasztom utánad a  te magodat, mely ágyékodból származik, és megerősítem az ő királyságát:
+Mikor pedig a te napjaid betelnek, és elaluszol a te atyáiddal, feltámasztom utánad a te magodat, mely ágyékodból származik, és megerősítem az ő királyságát:
 fa4dh6fed 7,13
-Az fog házat  építeni az én nevemnek, és megerősítem az ő királyságának trónját mindörökké.
+Az fog házat építeni az én nevemnek, és megerősítem az ő királyságának trónját mindörökké.
 fa4dh6fed 7,14
-Én leszek néki  atyja, és ő lészen nékem fiam, a ki mikor gonoszul cselekszik, megfenyítem őt emberi veszszővel és emberek fiainak büntetésével;
+Én leszek néki atyja, és ő lészen nékem fiam, a ki mikor gonoszul cselekszik, megfenyítem őt emberi veszszővel és emberek fiainak büntetésével;
 fa4dh6fed 7,15
 Mindazáltal irgalmasságomat nem vonom meg tőle, miképen megvonám Saultól, a kit kivágék előtted.
 fa4dh6fed 7,16
-És állandó lészen a te házad, és a te országod 20.] mindörökké tiéd lészen, és a te trónod erős lészen mindörökké.
+És állandó lészen a te házad, és a te országod mindörökké tiéd lészen, és a te trónod erős lészen mindörökké.
 fa4dh6fed 7,17
 Mind e beszéd szerint, és mind e látás szerint szóla Nátán Dávidnak.
 fa4dh6fed 7,18
@@ -356,11 +356,11 @@ fa4dh6fed 7,19
 fa4dh6fed 7,20
 De mi szükség Dávidnak többet szólani néked, holott te jól ismered, Uram Isten, a te szolgádat?
 fa4dh6fed 7,21
-A te igéretedért, és a te jóakaratod szerint cselekedted mindezeket a nagy dolgokat, hogy   megjelentsd a te szolgádnak.
+A te igéretedért, és a te jóakaratod szerint cselekedted mindezeket a nagy dolgokat, hogy megjelentsd a te szolgádnak.
 fa4dh6fed 7,22
-Ennekokáért felmagasztaltattál, Uram Isten: mert senki sincs  olyan, mint te, és rajtad kivül nincsen Isten, mind a szerint, a mint hallottuk a mi füleinkkel.
+Ennekokáért felmagasztaltattál, Uram Isten: mert senki sincs olyan, mint te, és rajtad kivül nincsen Isten, mind a szerint, a mint hallottuk a mi füleinkkel.
 fa4dh6fed 7,23
-Mert melyik nép olyan, mint a te néped,  az Izráel, melyért elment volna az Isten, hogy megváltsa magának való népül, és magának nevet szerezzen, és érettetek oly nagyokat cselekedjék és országodért oly csudálatos dolgokat néped előtt, melyet megszabadítottál Égyiptomból, a pogányoktól és isteneiktől.
+Mert melyik nép olyan, mint a te néped, az Izráel, melyért elment volna az Isten, hogy megváltsa magának való népül, és magának nevet szerezzen, és érettetek oly nagyokat cselekedjék és országodért oly csudálatos dolgokat néped előtt, melyet megszabadítottál Égyiptomból, a pogányoktól és isteneiktől.
 fa4dh6fed 7,24
 Mert megerősítetted magadnak a te népedet, az Izráelt, népedül mindörökké; és te voltál, Uram, nékik Istenök.
 fa4dh6fed 7,25
@@ -376,7 +376,7 @@ Legyen a te jóakaratodnak áldása a te szolgádnak házán, hogy legyen előtt
 fa4dh6fed 8,1
 Ezek után megveré Dávid a Filiszteusokat, és megalázá őket: és elfoglalá Dávid a Filiszteusok kezéből Méteg Ammát.
 fa4dh6fed 8,2
-És megveré a  Moábitákat is, és kötéllel méré meg őket, lefektetvén őket a földre; két kötéllel méré azokat, a kik megölendők, és egy teljes kötéllel azokat, a kik életben hagyandók valának; és a Moábiták Dávidnak adófizető szolgái lőnek.
+És megveré a Moábitákat is, és kötéllel méré meg őket, lefektetvén őket a földre; két kötéllel méré azokat, a kik megölendők, és egy teljes kötéllel azokat, a kik életben hagyandók valának; és a Moábiták Dávidnak adófizető szolgái lőnek.
 fa4dh6fed 8,3
 Megveré Dávid Hadadézert is, Réhóbnak fiát, Czóbának királyát, mikor elméne, hogy hatalmát kiterjessze az Eufrátes folyó vizéig.
 fa4dh6fed 8,4
@@ -400,17 +400,17 @@ A Siriabeliektől, Moábitáktól, az Ammon fiaitól, a Filiszteusoktól, az Am�
 fa4dh6fed 8,13
 És hírnevet szerze Dávid, a mikor visszatért, miután a Siriabelieket leverte a sós völgyben, tizennyolczezeret.
 fa4dh6fed 8,14
-Az Idumeusok   közé is állandó sereget rendele, egész Idumeába állandó sereget rendele, és az Idumeusok mind Dávid szolgái lettek. És megoltalmazá az Úr Dávidot, valahová megyen vala.
+Az Idumeusok közé is állandó sereget rendele, egész Idumeába állandó sereget rendele, és az Idumeusok mind Dávid szolgái lettek. És megoltalmazá az Úr Dávidot, valahová megyen vala.
 fa4dh6fed 8,15
 Uralkodék azért Dávid az egész Izráelen, és szolgáltat vala Dávid az egész nép között ítéletet és igazságot.
 fa4dh6fed 8,16
-Fővezére volt  Joáb, Sérujának fia, Jósafát pedig, Ahiludnak fia, emlékíró vala.
+Fővezére volt Joáb, Sérujának fia, Jósafát pedig, Ahiludnak fia, emlékíró vala.
 fa4dh6fed 8,17
-Sádók pedig, Akhitóbnak fia, és Akhimélek, Abjátárnak   fia papok valának, és Sérája íródeák.
+Sádók pedig, Akhitóbnak fia, és Akhimélek, Abjátárnak fia papok valának, és Sérája íródeák.
 fa4dh6fed 8,18
 Benája Jéhójadának fia, a Kereteusok és Peleteusok előljárója, a Dávid fiai pedig fők valának.
 fa4dh6fed 9,1
-Monda pedig Dávid: Maradt-é még valaki a  Saul házanépe közül, hogy irgalmasságot cselekedjem ő vele Jonathánért?
+Monda pedig Dávid: Maradt-é még valaki a Saul házanépe közül, hogy irgalmasságot cselekedjem ő vele Jonathánért?
 fa4dh6fed 9,2
 Vala pedig Saul házából egy szolga, kinek neve vala Siba, kit Dávidhoz szólítának, és monda a király néki: Te vagy-é Siba? Felele: Én vagyok a te szolgád.
 fa4dh6fed 9,3
@@ -424,19 +424,19 @@ fa4dh6fed 9,6
 fa4dh6fed 9,7
 Monda néki Dávid: Ne félj; mert kétség nélkül irgalmasságot cselekeszem veled Jonathánért, a te atyádért; és visszaadom néked Saulnak, a te nagy atyádnak minden majorságát, és néked mindenkor asztalomnál lesz ételed.
 fa4dh6fed 9,8
-Akkor fejet hajta Méfibóset, és monda: Micsoda a te szolgád, hogy a holt ebre  reá tekintettél, minemű én vagyok?
+Akkor fejet hajta Méfibóset, és monda: Micsoda a te szolgád, hogy a holt ebre reá tekintettél, minemű én vagyok?
 fa4dh6fed 9,9
-Szólítá azután a király Sibát, Saulnak szolgáját, és monda néki: Valamije volt Saulnak és egész  háznépének, mindazokat a te urad fiának adtam.
+Szólítá azután a király Sibát, Saulnak szolgáját, és monda néki: Valamije volt Saulnak és egész háznépének, mindazokat a te urad fiának adtam.
 fa4dh6fed 9,10
 A majorságnak azért te viseljed gondját, és a te fiaid és szolgáid, és beszolgáltassad, hogy legyen a te urad fiának kenyere, melylyel éljen. Méfibóset pedig, a te uradnak fia, az én asztalomnál eszik mindenkor. Vala pedig Sibának tizenöt fia és húsz szolgája.
 fa4dh6fed 9,11
 Felele Siba a királynak: Valamit az én uram, a király parancsol nékem , szolgájának, a képen cselekeszik a te szolgád. És Méfibóset az én asztalomnál eszik, mint a király fiainak egyike.
 fa4dh6fed 9,12
-Vala pedig Méfibósetnek egy fiacskája, kinek neve Mika vala; a Siba házában lakozók pedig mindnyájan Méfibóset szolgái valának. 
+Vala pedig Méfibósetnek egy fiacskája, kinek neve Mika vala; a Siba házában lakozók pedig mindnyájan Méfibóset szolgái valának.
 fa4dh6fed 9,13
 Méfibóset tehát Jeruzsálemben lakozék, mert mindenkor a király asztalánál eszik vala; és ő mind a két lábára sánta vala.
 fa4dh6fed 10,1
-Lőn pedig azután, meghala az Ammon fiainak  királya, és uralkodék helyette Hánon, az ő fia.
+Lőn pedig azután, meghala az Ammon fiainak királya, és uralkodék helyette Hánon, az ő fia.
 fa4dh6fed 10,2
 És monda Dávid: Irgalmasságot teszek Hánonnal, Náhás fiával, miképen az ő atyja is velem irgalmasságot tett; és hozzá külde Dávid, hogy vigasztalja őt szolgái által atyja halála felől. Mikor Dávid szolgái Ammon fiainak földére érkezének:
 fa4dh6fed 10,3
@@ -470,11 +470,11 @@ fa4dh6fed 10,16
 fa4dh6fed 10,17
 Megizenék pedig Dávidnak, a ki egybegyűjté egész Izráelt, és általméne a Jordánon, és juta Hélámhoz: és sereget rendelének a Siriabeliek Dávid ellen, és megütközének vele.
 fa4dh6fed 10,18
-De a Siriabeliek megfutamodtak Izráel előtt, és levága 25.] Dávid a Siriabeliek közül hétszáz szekerest és negyvenezer lovagot, Sobákot is, a seregnek fővezérét megölé; és ugyanott meghala.
+De a Siriabeliek megfutamodtak Izráel előtt, és levága Dávid a Siriabeliek közül hétszáz szekerest és negyvenezer lovagot, Sobákot is, a seregnek fővezérét megölé; és ugyanott meghala.
 fa4dh6fed 10,19
 Mikor pedig látták mindazok a királyok, a kik Hadadézernek szolgái valának, hogy az Izráel által megverettek, békét kötöttek Izráellel és nékik szolgálának; és nem merének többé a Siriabeliek kijőni az Ammon fiainak segítségére.
 fa4dh6fed 11,1
-Lőn pedig az esztendő fordulásakor, mikor a királyok hadba szoktak menni, elküldé Dávid Joábot és az ő szolgáit ő vele, és mind az egész Izráelt, hogy  elveszessék az Ammon fiait, és megszállják Rabba városát; Dávid pedig Jeruzsálemben maradt.
+Lőn pedig az esztendő fordulásakor, mikor a királyok hadba szoktak menni, elküldé Dávid Joábot és az ő szolgáit ő vele, és mind az egész Izráelt, hogy elveszessék az Ammon fiait, és megszállják Rabba városát; Dávid pedig Jeruzsálemben maradt.
 fa4dh6fed 11,2
 És lőn estefelé, mikor felkelt Dávid az ő ágyából, és a királyi palota tetején sétála: láta a tetőről egy asszonyt fürdeni, ki igen szép termetű vala.
 fa4dh6fed 11,3
@@ -528,11 +528,11 @@ Meghallá pedig Uriásnak felesége, hogy meghalt Uriás, az ő férje, és sira
 fa4dh6fed 11,27
 És mikor a gyászolás nak ideje eltelt, érette külde Dávid és házába viteté őt és lőn néki felesége, és szüle néki egy fiat. De ez a dolog, a melyet Dávid cselekedett, nem tetszék az Úrnak.
 fa4dh6fed 12,1
-Elküldé azért az Úr Dávidhoz Nátán prófétát,  ki bemenvén hozzá, monda néki: Két ember vala egy városban, egyik gazdag, a másik szegény.
+Elküldé azért az Úr Dávidhoz Nátán prófétát, ki bemenvén hozzá, monda néki: Két ember vala egy városban, egyik gazdag, a másik szegény.
 fa4dh6fed 12,2
-A gazdagnak   felette sok juhai és ökrei valának;
+A gazdagnak felette sok juhai és ökrei valának;
 fa4dh6fed 12,3
-A szegénynek  pedig semmije nem vala egyéb egy kis nőstény báránykájánál, a melyet vett és táplált vala, s felnevelkedett nála gyermekeivel együtt; saját falatjából evett és poharából ivott és keblén aludt, és néki olyan vala, mintegy leánya.
+A szegénynek pedig semmije nem vala egyéb egy kis nőstény báránykájánál, a melyet vett és táplált vala, s felnevelkedett nála gyermekeivel együtt; saját falatjából evett és poharából ivott és keblén aludt, és néki olyan vala, mintegy leánya.
 fa4dh6fed 12,4
 Mikor pedig utazó vendége érkezett a gazdagnak: sajnált az ő ökrei és juhai közül hozatni, hogy a vendégnek ételt készítsen belőle, a ki hozzá ment vala; hanem elvevé a szegénytől az ő bárányát, és azt főzeté meg a vendégnek, a ki hozzá ment.
 fa4dh6fed 12,5
@@ -570,17 +570,17 @@ Felkelvén azért Dávid a földről, megmosdék és megkené magát és más ru
 fa4dh6fed 12,21
 Akkor mondának az ő szolgái néki: Mi dolog ez, a mit míveltél? Míg a gyermek élt, bőjtöltél és sírtál; most pedig, hogy meghalt a gyermek, felkelél és kenyeret ettél.
 fa4dh6fed 12,22
-Monda ő: Míg a gyermek élt, addig bőjtöltem és sírtam; mert ezt mondottam: Ki tudja,  talán az Úr könyörül rajtam, és megél a gyermek.
+Monda ő: Míg a gyermek élt, addig bőjtöltem és sírtam; mert ezt mondottam: Ki tudja, talán az Úr könyörül rajtam, és megél a gyermek.
 fa4dh6fed 12,23
 De most, hogy meghalt, vajjon miért bőjtölnék? Vajjon visszahozhatom-é azzal? Én megyek ő hozzá, de ő nem jő ide vissza én hozzám.
 fa4dh6fed 12,24
-És megvigasztalá Dávid az ő feleségét, Bethsabét, és beméne hozzá, és vele hála. És ő szült fiat,  és nevezé annak nevét Salamonnak, és az Úr szereté azt,
+És megvigasztalá Dávid az ő feleségét, Bethsabét, és beméne hozzá, és vele hála. És ő szült fiat, és nevezé annak nevét Salamonnak, és az Úr szereté azt,
 fa4dh6fed 12,25
 A mint megizente vala Nátán próféta által, ki nevezé az ő nevét Jedidjának, az Úrért.
 fa4dh6fed 12,26
-Joáb pedig  hadakozék az Ammon fiainak városa, Rabba ellen, és megvevé a királyi várost.
+Joáb pedig hadakozék az Ammon fiainak városa, Rabba ellen, és megvevé a királyi várost.
 fa4dh6fed 12,27
-És követeket külde Dávidhoz Joáb ilyen követséggel: Hadakoztam Rabba ellen, és meg is vettem a város nak egyik részét, a hol a víz van. 
+És követeket külde Dávidhoz Joáb ilyen követséggel: Hadakoztam Rabba ellen, és meg is vettem a város nak egyik részét, a hol a víz van.
 fa4dh6fed 12,28
 Most azért gyűjtsd egybe a népnek maradékát, és szállj táborba a város ellen, foglald el azt, nehogy valamiképen, ha én foglalnám el, róla neveztessék az én nevem.
 fa4dh6fed 12,29
@@ -588,7 +588,7 @@ Egybegyűjté azért Dávid mind az egész népet, és aláméne Rabba ellen, é
 fa4dh6fed 12,30
 És elvevé az ő királyuknak koronáját annak fejéről, melynek súlya egy tálentum arany volt, és drága kövekkel vala rakva, és lőn a Dávid fején, és a városból felette sok zsákmányt hozott el.
 fa4dh6fed 12,31
-A népet pedig, mely benne vala, kihozatá; és némelyét  fűrész, némelyét vasborona alá, némelyét fejsze alá vetteté; némelyeket mészkemenczén vitt által, és így cselekedék az Ammon fiainak minden városával. Haza méne azután Dávid és az egész nép Jeruzsálembe.
+A népet pedig, mely benne vala, kihozatá; és némelyét fűrész, némelyét vasborona alá, némelyét fejsze alá vetteté; némelyeket mészkemenczén vitt által, és így cselekedék az Ammon fiainak minden városával. Haza méne azután Dávid és az egész nép Jeruzsálembe.
 fa4dh6fed 13,1
 Lőn ennekutána, hogy Absolonnak, Dávid fiának igen szép huga vala, kinek neve Támár vala; és Amnon, a Dávid fia megszereté őt.
 fa4dh6fed 13,2
@@ -708,7 +708,7 @@ fa4dh6fed 14,19
 fa4dh6fed 14,20
 Hogy a dolognak más fordulatot adjon, azért tette ezt Joáb, a te szolgád. De az én uram bölcs, az Isten angyalának bölcsesége szerint, hogy mindent észrevegyen, a mi a földön van.
 fa4dh6fed 14,21
-Akkor monda a király Joábnak: Ímé megteszem ezt a dolgot. Eredj el, és hozd haza az  én fiamat, Absolont.
+Akkor monda a király Joábnak: Ímé megteszem ezt a dolgot. Eredj el, és hozd haza az én fiamat, Absolont.
 fa4dh6fed 14,22
 És a földre arczczal leborula Joáb, és térdet-fejet hajtván, megköszöné a királynak, és monda Joáb: Ma ismerte meg, uram király, a te szolgád, hogy van valami becsületem előtted; mert az ő szolgájának beszédét megcselekedte a király.
 fa4dh6fed 14,23
@@ -794,7 +794,7 @@ Visszavivék azért Sádók és Abjátár Jeruzsálembe az Isten ládáját, és
 fa4dh6fed 15,30
 Dávid pedig felméne az olajfáknak hegyén, mentében sírva, fejét beborítva, saru nélkül ment, és az egész nép, mely vele volt, kiki beborította fejét, és mentökben sírának.
 fa4dh6fed 15,31
-Megizenék azonközben Dávidnak, hogy Akhitófel is a pártosok között van Absolonnal, és monda Dávid: Kérlek, óh Uram, hiúsítsd meg  az Akhitófel tanácsát.
+Megizenék azonközben Dávidnak, hogy Akhitófel is a pártosok között van Absolonnal, és monda Dávid: Kérlek, óh Uram, hiúsítsd meg az Akhitófel tanácsát.
 fa4dh6fed 15,32
 És a mint feljuta Dávid a hegy tetejére, hogy ott imádkozzék az Istennek, ímé eleibe jöve az Árkeából való Khúsai, ki ruháját megszaggatá és földet hinte fejére.
 fa4dh6fed 15,33
@@ -802,11 +802,11 @@ fa4dh6fed 15,33
 fa4dh6fed 15,34
 De ha a városba visszatérsz, és ezt mondod Absolonnak: Te szolgád vagyok, óh király; ennekelőtte a te atyád szolgája voltam, most immár a te szolgád leszek, megronthatod Akhitófelnek ellenem való tanácsát.
 fa4dh6fed 15,35
-És ímé veled lesznek ott  Sádók és Abjátár papok; azért minden dolgot, a mit hallándasz a király házából, mondj meg a papoknak, Sádóknak és Abjátárnak.
+És ímé veled lesznek ott Sádók és Abjátár papok; azért minden dolgot, a mit hallándasz a király házából, mondj meg a papoknak, Sádóknak és Abjátárnak.
 fa4dh6fed 15,36
 Ímé ott van velök az ő két fiok is, Akhimás, a Sádók fia , és Jonathán, az Abjátár fia , kik által nékem mindjárt megizenhetitek, valamit hallotok.
 fa4dh6fed 15,37
-Elméne azért Khúsai, a Dávid barátja  a városba, Absolon pedig bevonula Jeruzsálembe.
+Elméne azért Khúsai, a Dávid barátja a városba, Absolon pedig bevonula Jeruzsálembe.
 fa4dh6fed 16,1
 Mikor pedig Dávid egy kevéssé alább ment a hegy tetejéről, eleibe jöve Siba, a Mefibóset szolgája, két megnyergelt szamárral, melyeken kétszáz kenyér és száz kötés aszúszőlő és száz csomó füge és egy tömlő bor vala.
 fa4dh6fed 16,2
@@ -816,15 +816,15 @@ fa4dh6fed 16,3
 fa4dh6fed 16,4
 És monda a király Sibának: Ímé minden tied legyen, valamije volt Mefibósetnek. Monda akkor Siba: Meghajtom magamat; vajha kegyelmet találnék előtted, óh uram király!
 fa4dh6fed 16,5
-Elméne azután Dávid király Bahurimig, és ímé onnan egy férfi jöve ki a Saul nemzetségéből való, kinek neve Sémei  46.] vala, Gérának fia, és kijövén szidalmazza vala őket. 
+Elméne azután Dávid király Bahurimig, és ímé onnan egy férfi jöve ki a Saul nemzetségéből való, kinek neve Sémei vala, Gérának fia, és kijövén szidalmazza vala őket.
 fa4dh6fed 16,6
 És kővel hajigálá Dávidot és Dávid királynak minden szolgáit, jóllehet az egész nép és az erős férfiak mindnyájan az ő jobb és balkeze felől valának.
 fa4dh6fed 16,7
 És így szóla Sémei szitkozódása közben: Eredj, eredj te vér szopó és istentelen ember!
 fa4dh6fed 16,8
-Megfizet most az Úr néked Saul egész házanépének  véréért, a ki helyett te uralkodol; és adta az Úr az országot a te fiadnak, Absolonnak: és ímé te nyomorúságban vagy, mert vérszopó ember vagy!
+Megfizet most az Úr néked Saul egész házanépének véréért, a ki helyett te uralkodol; és adta az Úr az országot a te fiadnak, Absolonnak: és ímé te nyomorúságban vagy, mert vérszopó ember vagy!
 fa4dh6fed 16,9
-Monda pedig Abisai, Sérujának fia, a  királynak: Hogyan szidalmazhatja ez a holt eb az én uramat, a királyt? Majd én elmegyek és fejét veszem.
+Monda pedig Abisai, Sérujának fia, a királynak: Hogyan szidalmazhatja ez a holt eb az én uramat, a királyt? Majd én elmegyek és fejét veszem.
 fa4dh6fed 16,10
 Monda pedig a király: Mi közöm van veletek, Sérujának fiai? Hadd szidalmazzon, mert az Úr mondotta néki: Szidalmazzad Dávidot; és ki mondhatja néki: Miért míveled ezt?
 fa4dh6fed 16,11
@@ -836,7 +836,7 @@ fa4dh6fed 16,13
 fa4dh6fed 16,14
 Eljuta annakutána a király és az egész nép, mely vele vala, Ajefimbe, és ott megnyugovék.
 fa4dh6fed 16,15
-Absolon pedig és az egész nép, Izráelnek férfiai, bemenének 12.] Jeruzsálembe, és Akhitófel is ő vele.
+Absolon pedig és az egész nép, Izráelnek férfiai, bemenének Jeruzsálembe, és Akhitófel is ő vele.
 fa4dh6fed 16,16
 Mikor pedig az Arkeából való Khúsai, a Dávid barátja bement Absolonhoz, monda Khúsai Absolonnak: Éljen a király, éljen a király!
 fa4dh6fed 16,17
@@ -848,7 +848,7 @@ Azután ugyan kinek szolgálnék örömestebb, mint az én barátom fiának? A m
 fa4dh6fed 16,20
 Monda pedig Absolon Akhitófelnek: Adjatok tanácsot, mit cselekedjünk?
 fa4dh6fed 16,21
-Felele Akhitófel Absolonnak: Menj be a te atyádnak  ágyasaihoz, a kiket itthon hagyott, hogy őriznék a házat: és megérti az egész Izráel, hogy te atyád előtt gyűlöltté tetted magadat, és annál inkább megerősödnek mindazoknak kezeik, a kik melletted vannak.
+Felele Akhitófel Absolonnak: Menj be a te atyádnak ágyasaihoz, a kiket itthon hagyott, hogy őriznék a házat: és megérti az egész Izráel, hogy te atyád előtt gyűlöltté tetted magadat, és annál inkább megerősödnek mindazoknak kezeik, a kik melletted vannak.
 fa4dh6fed 16,22
 Sátort vonának azért Absolonnak a tetőn, és beméne Absolon az ő atyjának ágyasaihoz, az egész Izráelnek szeme láttára.
 fa4dh6fed 16,23
@@ -894,11 +894,11 @@ Az asszony pedig egy terítőt vőn és beteríté a kút száját, arra pedig d
 fa4dh6fed 17,20
 Menének pedig az Absolon szolgái az asszonyhoz a házba, és mondának: Hol van Akhimás és Jonathán? Felele nékik az asszony: Általgázolának a patakon. És keresék őket , de mivel nem találták, visszatérének Jeruzsálembe.
 fa4dh6fed 17,21
-Mikor pedig elmentek, kijövének a kútból, és elmenvén, megmondák ezeket  Dávid királynak, és mondának Dávidnak: Keljetek fel és menjetek által gyorsan a vizen; mert ilyen tanácsot adott ti ellenetek Akhitófel.
+Mikor pedig elmentek, kijövének a kútból, és elmenvén, megmondák ezeket Dávid királynak, és mondának Dávidnak: Keljetek fel és menjetek által gyorsan a vizen; mert ilyen tanácsot adott ti ellenetek Akhitófel.
 fa4dh6fed 17,22
 Felkele azért Dávid és mind a vele való nép, és általkelének a Jordánon, míg megvirrada; egy sem hiányzék, a ki által nem ment volna a Jordánon.
 fa4dh6fed 17,23
-Látván pedig Akhitófel, hogy az ő tanácsát nem hajtották végre: megnyergelé szamarát, és felkelvén elméne házához, az ő városába; és elrendezvén háznépé nek dolgát , megfojtá   magát, és meghala; és eltemetteték az ő atyjának sírjába.
+Látván pedig Akhitófel, hogy az ő tanácsát nem hajtották végre: megnyergelé szamarát, és felkelvén elméne házához, az ő városába; és elrendezvén háznépé nek dolgát , megfojtá magát, és meghala; és eltemetteték az ő atyjának sírjába.
 fa4dh6fed 17,24
 És midőn Dávid Mahanáimba érkezett, átkele Absolon a Jordánon, ő és Izráelnek férfiai mindnyájan ő vele.
 fa4dh6fed 17,25
@@ -906,9 +906,9 @@ fa4dh6fed 17,25
 fa4dh6fed 17,26
 És tábort jára Izráel és Absolon a Gileád földén.
 fa4dh6fed 17,27
-Lőn pedig, hogy mikor Dávid Mahanáimba jutott, ímé Sóbi, az Ammoniták városából , Rabbából való Náhásnak fia, és a Ló- Debár városból való Ammielnek fia, Mákir, és a Gileád tartományában, Rógelimban lakozó  Barzillai.
+Lőn pedig, hogy mikor Dávid Mahanáimba jutott, ímé Sóbi, az Ammoniták városából , Rabbából való Náhásnak fia, és a Ló- Debár városból való Ammielnek fia, Mákir, és a Gileád tartományában, Rógelimban lakozó Barzillai.
 fa4dh6fed 17,28
-Ágyneműt, medenczéket és cserépedényeket, búzát, árpát, lisztet, pergelt búzát, babot, lencsét, pergelt árpát, 
+Ágyneműt, medenczéket és cserépedényeket, búzát, árpát, lisztet, pergelt búzát, babot, lencsét, pergelt árpát,
 fa4dh6fed 17,29
 Mézet, vajat, juhot, ünősajtokat hozának Dávidnak és az ő vele való népnek eleségül. Mert azt gondolják vala magokban: A nép éhes, fáradt és eltikkadt a pusztában.
 fa4dh6fed 18,1
@@ -916,11 +916,11 @@ Megszámlálá pedig Dávid a népet, a mely vele vala, s ezredeseket és száza
 fa4dh6fed 18,2
 És hagyá Dávid a népnek harmadrészét Joáb keze alatt, és harmadrészét Séruja fiának, Abisainak, Joáb atyjafiának keze alatt, harmadrészét pedig bízá a Gitteus Ittai kezére. És monda a népnek a király: Bizony én magam is elmegyek veletek.
 fa4dh6fed 18,3
-De a nép monda: Ne jőjj; mert ha netalán mi megfutamodunk is, velünk nem gondolnak, és ha felerészben meghalunk is, velünk semmit sem gondolnak; de te teszesz  anynyit , mint mi tízezeren: jobb azért, hogy te a városból légy nékünk segítségül.
+De a nép monda: Ne jőjj; mert ha netalán mi megfutamodunk is, velünk nem gondolnak, és ha felerészben meghalunk is, velünk semmit sem gondolnak; de te teszesz anynyit , mint mi tízezeren: jobb azért, hogy te a városból légy nékünk segítségül.
 fa4dh6fed 18,4
 Monda azért nékik a király: A mi néktek jónak tetszik, én azt mívelem. Megálla azért a király a kapuban, és az egész sereg megy vala ki százanként és ezerenként.
 fa4dh6fed 18,5
-Parancsola pedig a király Joábnak, Abisainak és Ittainak, mondván: Az én fiammal, Absolonnal  én érettem kiméletesen bánjatok; hallá pedig ezt mind az egész had, mikor a király mindenik vezérnek parancsola Absolon felől.
+Parancsola pedig a király Joábnak, Abisainak és Ittainak, mondván: Az én fiammal, Absolonnal én érettem kiméletesen bánjatok; hallá pedig ezt mind az egész had, mikor a király mindenik vezérnek parancsola Absolon felől.
 fa4dh6fed 18,6
 Kiméne azért a nép a mezőre, az Izráel ellenébe, és megütközének az Efraim erdejénél.
 fa4dh6fed 18,7
@@ -934,13 +934,13 @@ Kit mikor egy ember meglátott, hírül adá Joábnak, és monda: Ímé, láttam
 fa4dh6fed 18,11
 Monda pedig Joáb az embernek, a ki megmondotta vala néki: Ímé láttad, és miért nem ütötted le ott őt a földre? Az én dolgom lett volna azután, hogy megajándékozzalak tíz ezüst siklus sal és egy övvel.
 fa4dh6fed 18,12
-Monda az ember Joábnak: Ha mindjárt ezer ezüstpénzt adnál is kezembe, nem ölném meg a király fiát; mert a mi fülünk hallására parancsolá a király néked, Abisainak és Ittainak, ezt mondván: Kiméljétek, bárki  legyen, az ifjút, Absolont.
+Monda az ember Joábnak: Ha mindjárt ezer ezüstpénzt adnál is kezembe, nem ölném meg a király fiát; mert a mi fülünk hallására parancsolá a király néked, Abisainak és Ittainak, ezt mondván: Kiméljétek, bárki legyen, az ifjút, Absolont.
 fa4dh6fed 18,13
 Vagy ha orozva törtem volna életére - mivel a király előtt semmi sem marad titokban - magad is ellenem támadtál volna.
 fa4dh6fed 18,14
 Monda azért Joáb: Nem akarok előtted késedelmezni; és vőn három nyilat kezébe és Absolonnak szívébe lövé, minthogy még élt a cserfán.
 fa4dh6fed 18,15
-Körülfogák akkor a Joáb fegyverhordozó szolgái tízen, és általverék Absolont, és megölék  őt.
+Körülfogák akkor a Joáb fegyverhordozó szolgái tízen, és általverék Absolont, és megölék őt.
 fa4dh6fed 18,16
 Megfúvatá azután a trombitát Joáb, és megtére a nép Izráelnek űzéséből, mert kimélni akará Joáb a népet.
 fa4dh6fed 18,17
@@ -976,7 +976,7 @@ E közben Kúsi is megérkezett, és monda Kúsi: Ezt izenik a királynak, az é
 fa4dh6fed 18,32
 Monda a király Kúsinak: Hogy van Absolon fiam? Felele Kúsi: Úgy legyenek az én uramnak, a királynak minden ellenségei, és valakik te ellened gonoszul feltámadnak, mint a te fiad.
 fa4dh6fed 18,33
-És megháborodék a király, és felméne a kapu felett való házba, és síra, és ezt mondja vala mentében: Szerelmes fiam,  Absolon! édes fiam, édes fiam, Absolon! bár én haltam volna meg te helyetted, Absolon, édes fiam, szerelmes fiam!
+És megháborodék a király, és felméne a kapu felett való házba, és síra, és ezt mondja vala mentében: Szerelmes fiam, Absolon! édes fiam, édes fiam, Absolon! bár én haltam volna meg te helyetted, Absolon, édes fiam, szerelmes fiam!
 fa4dh6fed 19,1
 És megjelenték Joábnak, hogy a király siratja és gyászolja Absolont.
 fa4dh6fed 19,2
@@ -1022,7 +1022,7 @@ fa4dh6fed 19,21
 fa4dh6fed 19,22
 Monda pedig Dávid: Mi közöm van veletek, Sérujának fiai, hogy ellenkezni akartok velem ma? Ma kellene-é embert ölni Izráelben? Mintha nem tudnám, hogy ma lettem újonnan Izráel királya.
 fa4dh6fed 19,23
-És monda a király Sémeinek: Nem halsz meg;  46.] és megesküvék néki a király.
+És monda a király Sémeinek: Nem halsz meg; és megesküvék néki a király.
 fa4dh6fed 19,24
 Méfibóset is, Saulnak fia eleibe jöve a királynak, és sem lábait, sem szakálát meg nem tisztította, sem ruháját meg nem mosatta attól a naptól fogva, hogy a király elment vala, mindama napig, a melyen békességgel haza jöve.
 fa4dh6fed 19,25
@@ -1030,7 +1030,7 @@ fa4dh6fed 19,25
 fa4dh6fed 19,26
 És ő felele: Uram király, az én szolgám csalt meg engem; mert azt mondotta a te szolgád: Megnyergeltetem a szamarat, és felülök rá, és elmegyek a királylyal; mert sánta a te szolgád.
 fa4dh6fed 19,27
-És rágalmazott  engem , a te szolgádat az én uram, a király előtt; de az én uram, a király olyan,  mint az Istennek angyala: azért cselekedjél úgy, a mint néked tetszik!
+És rágalmazott engem , a te szolgádat az én uram, a király előtt; de az én uram, a király olyan, mint az Istennek angyala: azért cselekedjél úgy, a mint néked tetszik!
 fa4dh6fed 19,28
 Mert jóllehet az én atyámnak egész háznépe csak halált érdemlett volna az én uramtól, a királytól, mégis a te szolgádat azok közé helyezéd, a kik asztalodnál esznek. Azért micsoda követelésem és micsoda kérésem volna még a király előtt?
 fa4dh6fed 19,29
@@ -1050,7 +1050,7 @@ Nyolczvan esztendős vagyok ma, avagy képes vagyok-é még különbséget tenni
 fa4dh6fed 19,36
 Egy kevés ideig óhajtana a Jordánon átmenni a királylyal a te szolgád; miért adna azért a király nékem ily nagy jutalmat?
 fa4dh6fed 19,37
-Hadd menjen vissza, kérlek, a te szolgád, és hadd 32.50,25.] haljak meg az én városomban, az én atyámnak és anyámnak temetőhelyében. Hanem inkább ímhol a te szolgád, Kimhám, menjen el ő a királylyal, az én urammal, és cselekedjél úgy vele, a mint néked jónak tetszik.
+Hadd menjen vissza, kérlek, a te szolgád, és hadd haljak meg az én városomban, az én atyámnak és anyámnak temetőhelyében. Hanem inkább ímhol a te szolgád, Kimhám, menjen el ő a királylyal, az én urammal, és cselekedjél úgy vele, a mint néked jónak tetszik.
 fa4dh6fed 19,38
 És monda a király: Jőjjön el velem Kimhám és azt cselekszem vele, a mi néked tetszik; és valamit tőlem kivánsz, megcselekeszem veled.
 fa4dh6fed 19,39
@@ -1076,15 +1076,15 @@ Elméne azért Amasa, hogy összegyűjtse Júdát, de több ideig késék, mint 
 fa4dh6fed 20,6
 Monda akkor Dávid Abisainak: Ímé majd gonoszabbul cselekeszik velünk Séba, Bikrinek fia, Absolonnál: Vedd magad mellé a te uradnak szolgáit, és kergesd meg őt, nehogy erős városokat szerezzen magának, és elmeneküljön előlünk.
 fa4dh6fed 20,7
-Kimenének azért ő utána a Joáb emberei, és a Kereteusok  és Peleteusok és az erősek mindnyájan, és kimenének Jeruzsálemből, hogy üldözzék Sébát, Bikrinek fiát.
+Kimenének azért ő utána a Joáb emberei, és a Kereteusok és Peleteusok és az erősek mindnyájan, és kimenének Jeruzsálemből, hogy üldözzék Sébát, Bikrinek fiát.
 fa4dh6fed 20,8
 Mikor pedig ama nagy kősziklánál voltak, mely Gibeonnál van, Amasa jöve eleikbe; Joáb pedig ruhájába öltözvén, az ő ruháján felül derekához övedzett fegyvere a hüvelyében vala, mely mikor Joáb ment, leesék.
 fa4dh6fed 20,9
 És monda Joáb Amasának: Egészségben vagy-é atyámfia? És Joáb megfogá jobbkezével az Amasa szakálát, mintha meg akarná csókolni.
 fa4dh6fed 20,10
-Amasa azonban nem őrizkedék a fegyvertől, mely Joáb kezében vala, és általüté  őt az ötödik oldalborda alatt, és kiontá a bélit a földre, és noha többször nem üté által, mindazáltal meghala; Joáb pedig és Abisai, az ő atyjafia, üldözék azután Sébát, a Bikri fiát.
+Amasa azonban nem őrizkedék a fegyvertől, mely Joáb kezében vala, és általüté őt az ötödik oldalborda alatt, és kiontá a bélit a földre, és noha többször nem üté által, mindazáltal meghala; Joáb pedig és Abisai, az ő atyjafia, üldözék azután Sébát, a Bikri fiát.
 fa4dh6fed 20,11
-Megálla pedig az Amasa  teste felett Joábnak egy szolgája, és monda: Valaki Joábbal tart és Dávidnak javát kívánja, Joáb után siessen. 
+Megálla pedig az Amasa teste felett Joábnak egy szolgája, és monda: Valaki Joábbal tart és Dávidnak javát kívánja, Joáb után siessen.
 fa4dh6fed 20,12
 Amasa pedig fetreng vala a vérben az útnak közepén; látván pedig egy ember, hogy ott mindenki megálla, kivoná Amasát az útról a mezőre, és ruhát vete ő reá; mivel látta, hogy valaki csak arra ment, mind megállott.
 fa4dh6fed 20,13
@@ -1116,7 +1116,7 @@ Séja íródeák, Sádók pedig és Abjátár papok valának.
 fa4dh6fed 20,26
 A Jairból való Ira is Dávidnak fő embere vala.
 fa4dh6fed 21,1
-Lőn pedig nagy éhség Dávidnak idejében három egész esztendeig egymás után, és megkeresé  e miatt Dávid az Urat, és monda az Úr: Saulért és az ő vérszopó háznépéért van ez: mivelhogy megölte a Gibeonitákat.
+Lőn pedig nagy éhség Dávidnak idejében három egész esztendeig egymás után, és megkeresé e miatt Dávid az Urat, és monda az Úr: Saulért és az ő vérszopó háznépéért van ez: mivelhogy megölte a Gibeonitákat.
 fa4dh6fed 21,2
 Hivatá azért a király a Gibeonitákat és szóla nékik: (A Gibeoniták pedig nem az Izráel fiai közül valók valának, hanem az Emoreusok maradékából, a kiknek az Izráel fiai megesküdtek vala; Saul mindazáltal alkalmat keresett vala, hogy azokat levágassa az Izráel és Júda nemzetsége iránti buzgalmából).
 fa4dh6fed 21,3
@@ -1128,7 +1128,7 @@ Akkor mondának a királynak: Annak az embernek a házából, a ki megemésztett
 fa4dh6fed 21,6
 Adj nékünk hét embert az ő maradékai közül, a kiket felakaszszunk az Úr előtt, Saulnak, az Úr választottjának Gibeájában. És monda a király: Én átadom.
 fa4dh6fed 21,7
-És kedveze a király Méfibósetnek, Jonathán fiának, ki Saul fia vala, az Úr nevére tett  esküvésért, mely közöttök tétetett, Dávid és Jonathán között, a Saul fia között.
+És kedveze a király Méfibósetnek, Jonathán fiának, ki Saul fia vala, az Úr nevére tett esküvésért, mely közöttök tétetett, Dávid és Jonathán között, a Saul fia között.
 fa4dh6fed 21,8
 De elvevé a király Aja leányának, Rispának két fiát, kiket Saulnak szült vala, Armónit és Méfibósetet, és a Saul leányának, Mikálnak öt fiát, kiket szült Barzillai fiának, Adrielnek, a Méholátból valónak.
 fa4dh6fed 21,9
@@ -1152,7 +1152,7 @@ De Abisai, Sérujának fia segített néki és általüté a Filiszteust és meg
 fa4dh6fed 21,18
 Lőn azután is harczuk a Filiszteusokkal Gób városánál, és Sibbékai, Husát város ból való, akkor megölé Sáfot, ki az óriások maradékai közül való vala.
 fa4dh6fed 21,19
-Azután újra lőn háború a Filiszteusokkal Góbnál, hol Elkhanán, a Bethlehemből való Jaharé Oregimnek fia megölé a Gitteus 7.49.] Góliátot, kinek kopjanyele olyan vala, mint a szövőknek zugolyfája.
+Azután újra lőn háború a Filiszteusokkal Góbnál, hol Elkhanán, a Bethlehemből való Jaharé Oregimnek fia megölé a Gitteus Góliátot, kinek kopjanyele olyan vala, mint a szövőknek zugolyfája.
 fa4dh6fed 21,20
 Gáthban is volt háború, hol egy óriás férfi vala, kinek kezein és lábain hat-hat ujjai valának, azaz mindenestől huszonnégy, és ez is óriástól származott vala.
 fa4dh6fed 21,21
@@ -1262,7 +1262,7 @@ Dícsérlek azért téged, Uram, a pogányok között, S nevednek dícséretet �
 fa4dh6fed 22,51
 Nagy segítséget ad az ő királyának, Irgalmasságot cselekszik felkentjével, Dáviddal és az ő magvával mindörökké!
 fa4dh6fed 23,1
-Ezek Dávidnak utolsó beszédei. Dávidnak, Isai  fiának szózata, annak a férfiúnak szózata, a ki igen felmagasztaltaték, Jákób Istenének felkentje és Izráel dalainak kedvencze.
+Ezek Dávidnak utolsó beszédei. Dávidnak, Isai fiának szózata, annak a férfiúnak szózata, a ki igen felmagasztaltaték, Jákób Istenének felkentje és Izráel dalainak kedvencze.
 fa4dh6fed 23,2
 Az Úrnak lelke szólott én bennem, és az ő beszéde az én nyelvem által.
 fa4dh6fed 23,3
@@ -1270,7 +1270,7 @@ Izráelnek Istene szólott, Izráelnek kősziklája mondá nékem: A ki igazság
 fa4dh6fed 23,4
 Olyan az, mint a reggeli világosság, mikor a nap feljő, mint a felhőtlen reggel; napsugártól, esőtől sarjadzik a fű a földből.
 fa4dh6fed 23,5
-Avagy nem ilyen-é az én házam Isten előtt? Mert örökkévaló szövetséget kötött velem, mindennel ellátva és állandót. Mert az én teljes idvességemet és minden kivánságomat   nem sarjadoztatja-é?
+Avagy nem ilyen-é az én házam Isten előtt? Mert örökkévaló szövetséget kötött velem, mindennel ellátva és állandót. Mert az én teljes idvességemet és minden kivánságomat nem sarjadoztatja-é?
 fa4dh6fed 23,6
 De az istentelenek mindnyájan olyanok, mint a kitépett tövis, melyhez kézzel nem nyúlnak;
 fa4dh6fed 23,7
@@ -1310,7 +1310,7 @@ Híres volt ő a harmincz között, mindazáltal ama hárommal nem ért fel. És
 fa4dh6fed 23,24
 Asáel is, Joáb atyjafia, e harmincz közül való, kik ezek: Elkhanán, a bethlehemi Dódónak fia.
 fa4dh6fed 23,25
-Haród  városbeli Samma; azon Haródból való Elika.
+Haród városbeli Samma; azon Haródból való Elika.
 fa4dh6fed 23,26
 Héles, Páltiból való; Híra, a Thékoából való Ikkes fia.
 fa4dh6fed 23,27
@@ -1358,9 +1358,9 @@ fa4dh6fed 24,8
 fa4dh6fed 24,9
 És beadá Joáb a megszámlált népnek számát a királynak; és Izráelben nyolczszázezer erős fegyverfogható férfi, és Júda nemzetségében ötszázezer férfiú vala.
 fa4dh6fed 24,10
-Minekutána pedig Dávid a népet megszámlálta, megsebhedék  az ő szíve, és monda Dávid az Úrnak: Igen vétkeztem abban, a mit cselekedtem. Azért most, óh Uram, vedd el, kérlek, a te szolgádnak álnokságát; mert felette esztelenül cselekedtem!
+Minekutána pedig Dávid a népet megszámlálta, megsebhedék az ő szíve, és monda Dávid az Úrnak: Igen vétkeztem abban, a mit cselekedtem. Azért most, óh Uram, vedd el, kérlek, a te szolgádnak álnokságát; mert felette esztelenül cselekedtem!
 fa4dh6fed 24,11
-És mikor felkelt reggel Dávid, szóla az Úr Gád  prófétának, a ki Dávidnak látnoka vala, ezt mondván:
+És mikor felkelt reggel Dávid, szóla az Úr Gád prófétának, a ki Dávidnak látnoka vala, ezt mondván:
 fa4dh6fed 24,12
 Menj el, és szólj Dávidnak: Ezt mondja az Úr: Három dolgot adok elődbe, válaszd egyiket magadnak ezek közül, hogy a szerint cselekedjem veled.
 fa4dh6fed 24,13
@@ -1388,4 +1388,4 @@ Arauna mindezt, óh király, a királynak adja. És monda Arauna a királynak: A
 fa4dh6fed 24,24
 Monda pedig a király Araunának: Nem, hanem pénzen veszem meg tőled, mert nem akarok az Úrnak, az én Istenemnek ingyen való áldozatot áldozni. Megvevé azért Dávid azt a szérűt és az ökröket ötven ezüst sikluson.
 fa4dh6fed 24,25
-És oltárt építe ott Dávid az Úrnak, és áldozék egészen égő és hálaáldozattal;  és megkegyelmeze az Úr a földnek, és megszünék a csapás Izráelben. $  
+És oltárt építe ott Dávid az Úrnak, és áldozék egészen égő és hálaáldozattal; és megkegyelmeze az Úr a földnek, és megszünék a csapás Izráelben. $

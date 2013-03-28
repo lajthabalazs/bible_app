@@ -2,10 +2,14 @@ package hu.droidium.bibliapp.data;
 
 public class Verse {
 
+	private Book book;
 	private String line;
 	private int verseIndex;
+	private int chapterIndex;
 	
-	public Verse(int verseIndex, String line) {
+	public Verse(Book book, int chapterIndex, int verseIndex, String line) {
+		this.book = book;
+		this.chapterIndex = chapterIndex;
 		this.setLine(line);
 		this.setVerseIndex(verseIndex);
 	}
@@ -24,5 +28,9 @@ public class Verse {
 
 	public void setVerseIndex(int verseIndex) {
 		this.verseIndex = verseIndex;
+	}
+
+	public String getId() {
+		return book.getAbbreviation() + ", " + (chapterIndex + 1) + "." + (verseIndex + 1);
 	}
 }

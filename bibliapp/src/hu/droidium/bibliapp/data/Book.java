@@ -32,7 +32,7 @@ public class Book {
 					} catch(Exception e) {
 					}
 					if (chapter==null) {
-						chapter = new Chapter(chapterIndex);
+						chapter = new Chapter(this, chapterIndex);
 						chapters.add(chapter);
 					} else{
 						verse = chapter.getVerse(verseIndex);
@@ -60,6 +60,11 @@ public class Book {
 
 
 	public String getTitle() {
+		return title;
+	}
+
+
+	public String getAbbreviation() {
 		return title;
 	}
 }

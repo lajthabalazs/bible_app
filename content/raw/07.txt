@@ -22,7 +22,7 @@ fa4dh6fed 1,10
 fa4dh6fed 1,11
 Onnan pedig méne Debir lakói ellen. Debir neve pedig azelőtt Kirjáth- Széfer volt.
 fa4dh6fed 1,12
-És monda Káleb: A ki Kirjáth-Széfert megveri és elfoglalja, annak feleségül adom az én leányomat, Akszát. 
+És monda Káleb: A ki Kirjáth-Széfert megveri és elfoglalja, annak feleségül adom az én leányomat, Akszát.
 fa4dh6fed 1,13
 És elfoglalá azt Othniel, Kénáz fia, Káleb öcscse, és néki adá Akszát, az ő leányát feleségül.
 fa4dh6fed 1,14
@@ -38,7 +38,7 @@ Azután elfoglalta Júda Gázát és annak határát, Askelont és annak határ�
 fa4dh6fed 1,19
 Vala pedig az Úr Júdával, és kiűzé a hegység lakóit ; de a völgy lakóit nem lehetett kiűzni, mert vas-szekereik voltak.
 fa4dh6fed 1,20
-És Kálebnek adták Hebront, a mint meghagyta volt Mózes,  és kiűzé onnan Anák három fiát.
+És Kálebnek adták Hebront, a mint meghagyta volt Mózes, és kiűzé onnan Anák három fiát.
 fa4dh6fed 1,21
 De a Jebuzeust, Jeruzsálemnek lakóját nem űzték el a Benjámin fiai, és ezért lakik a Jebuzeus a Benjámin fiaival Jeruzsálemben még máig is.
 fa4dh6fed 1,22
@@ -70,13 +70,13 @@ Az Emoreusok pedig felszorították a Dán fiait a hegységbe, mert nem engedté
 fa4dh6fed 1,35
 És az Emoreusoknak tetszett ott lakni a Héresz hegységen, Ajalonban és Saalbimban; de mikor a József házának keze rájok nehezedett, adófizetőkké lettek.
 fa4dh6fed 1,36
-Az Emoreusok határa pedig az Akrabbim hágójától  és Sélától fölfelé volt.
+Az Emoreusok határa pedig az Akrabbim hágójától és Sélától fölfelé volt.
 fa4dh6fed 2,1
 Felméne pedig az Úrnak angyala Gilgálból Bókimba, és monda: Én vezettelek fel titeket Égyiptomból, és hoztalak benneteket erre a földre, a mely felől megesküdtem a ti atyáitoknak, és mondék: Nem bontom fel az én szövetségemet ti veletek soha örökké.
 fa4dh6fed 2,2
-Csakhogy ti se kössetek frigyet ennek a földnek lakosival,  rontsátok le az ő oltáraikat; de ti nem hallgattatok az én szómra. Miért cselekedtétek ezt?
+Csakhogy ti se kössetek frigyet ennek a földnek lakosival, rontsátok le az ő oltáraikat; de ti nem hallgattatok az én szómra. Miért cselekedtétek ezt?
 fa4dh6fed 2,3
-Annakokáért azt mondom: Nem űzöm el őket előletek, hanem legyenek néktek mint tövisek a ti oldalaitokban, és az ő isteneik legyenek ti néktek  tőr gyanánt.
+Annakokáért azt mondom: Nem űzöm el őket előletek, hanem legyenek néktek mint tövisek a ti oldalaitokban, és az ő isteneik legyenek ti néktek tőr gyanánt.
 fa4dh6fed 2,4
 És lőn, hogy mikor az Úrnak angyala ezeket mondá az Izráel minden fiainak: felemelé a nép az ő szavát és síra.
 fa4dh6fed 2,5
@@ -100,7 +100,7 @@ fa4dh6fed 2,13
 fa4dh6fed 2,14
 És felgerjedett az Úrnak haragja Izráel ellen, és adá őket a ragadozók kezébe, és elragadozák őket, és adá őket a körülöttük való ellenségeik kezébe, és még csak megállani sem bírtak ellenségeik előtt.
 fa4dh6fed 2,15
-A hova csak kivonultak, mindenütt ellenök volt az Úr keze rontásukra, a mint megmondotta volt az Úr, és a mint megesküdt volt az Úr nékik.  És igen megnyomorodának.
+A hova csak kivonultak, mindenütt ellenök volt az Úr keze rontásukra, a mint megmondotta volt az Úr, és a mint megesküdt volt az Úr nékik. És igen megnyomorodának.
 fa4dh6fed 2,16
 És támasztott az Úr bírákat, a kik megszabadíták őket szorongatóiknak kezéből.
 fa4dh6fed 2,17
@@ -242,7 +242,7 @@ Sámgárnak, az Anath fiának napjaiban, Jáhel idejében pihentek az utak, És 
 fa4dh6fed 5,7
 Megszüntek a kerítetlen helyek Izráelben, megszüntek végképen, Mígnem én Debora felkelék, Felkelék Izráel anyjaként.
 fa4dh6fed 5,8
-Új isteneket ha választott a nép,  Mindjárt kigyúlt a harcz a kapuk előtt; De paizs, és dárda avagy láttatott-é A negyvenezereknél az Izráel között?
+Új isteneket ha választott a nép, Mindjárt kigyúlt a harcz a kapuk előtt; De paizs, és dárda avagy láttatott-é A negyvenezereknél az Izráel között?
 fa4dh6fed 5,9
 Szívem azoké, kik parancsolnak Izráelben, Kik a nép közül önként ajánlkoztak: áldjátok az Urat!
 fa4dh6fed 5,10
@@ -308,7 +308,7 @@ Prófétát külde az Úr az Izráel fiaihoz, és monda nékik: Azt mondja az Ú
 fa4dh6fed 6,9
 És én mentettelek meg benneteket az Égyiptombeliek kezéből, és minden nyomorgatóitoknak kezökből, a kiket kiűztem előletek, és néktek adtam az ő földjüket.
 fa4dh6fed 6,10
-És mondék néktek: Én, az Úr, vagyok a ti Istenetek;  ne féljétek az Emoreusok isteneit, kiknek földén laktok; de ti nem hallgattatok az én szómra.
+És mondék néktek: Én, az Úr, vagyok a ti Istenetek; ne féljétek az Emoreusok isteneit, kiknek földén laktok; de ti nem hallgattatok az én szómra.
 fa4dh6fed 6,11
 És eljöve az Úrnak angyala, és leüle ama cserfa alatt, a mely Ofrában van, a mely az Abiézer nemzetségéből való Joásé vala, és az ő fia Gedeon épen búzát csépelt a pajtában, hogy megmentse a Midiániták orczája elől.
 fa4dh6fed 6,12
@@ -332,7 +332,7 @@ fa4dh6fed 6,20
 fa4dh6fed 6,21
 Ekkor kinyújtá az Úrnak angyala pálczájának végét, mely kezében vala, és megérinté a húst, és a kovásztalan kenyeret; és tűz jött ki a kősziklából, és megemészté a húst és a kovásztalan kenyereket. Az Úrnak angyala pedig eltünt az ő szemei elől.
 fa4dh6fed 6,22
-Látván pedig Gedeon, hogy az Úrnak angyala volt az, monda Gedeon: Jaj nékem Uram, Istenem! mert az Úrnak angyalát láttam  színről színre!
+Látván pedig Gedeon, hogy az Úrnak angyala volt az, monda Gedeon: Jaj nékem Uram, Istenem! mert az Úrnak angyalát láttam színről színre!
 fa4dh6fed 6,23
 És monda néki az Úr: Békesség néked! ne félj, nem halsz meg!
 fa4dh6fed 6,24
@@ -374,7 +374,7 @@ Felkele pedig jó reggel Jerubbaál - ez Gedeon - és az egész nép, mely vele 
 fa4dh6fed 7,2
 És monda az Úr Gedeonnak: Több ez a nép, mely veled van, hogysem kezébe adhatnám Midiánt; Izráel még dicsekednék velem szemben, mondván: Az én kezem szerzett szabadulást nékem!
 fa4dh6fed 7,3
-Azért kiálts a népnek füle hallatára, mondván: A ki fél és retteg, térjen vissza, és menjen el a Gileád hegységről. És visszatérének a nép közül huszonkétezeren, és csak tizezeren maradának ott. 
+Azért kiálts a népnek füle hallatára, mondván: A ki fél és retteg, térjen vissza, és menjen el a Gileád hegységről. És visszatérének a nép közül huszonkétezeren, és csak tizezeren maradának ott.
 fa4dh6fed 7,4
 És monda az Úr Gedeonnak: Még ez a nép is sok; vezesd őket le a vízhez, és ott megpróbálom őket néked, és a melyikről azt mondom néked: Ez menjen el veled, az menjen el veled; de bármelyikről azt mondom: Ez ne menjen el veled, az ne is menjen.
 fa4dh6fed 7,5
@@ -406,7 +406,7 @@ fa4dh6fed 7,17
 fa4dh6fed 7,18
 Ha én a kürtbe fúvok és mindazok, a kik velem vannak, akkor ti is fújjátok meg a kürtöket az egész tábor körül, és ezt kiáltsátok: az Úrért és Gedeonért!
 fa4dh6fed 7,19
-És leméne Gedeon, és az a száz férfiú, a ki vele volt, a tábor széléhez a középső éjjeli őrség kezdetén, a mikor épen az őrség felváltatott, és kürtölének a kürtökkel és összetörék a korsókat, a melyek kezökben valának. 
+És leméne Gedeon, és az a száz férfiú, a ki vele volt, a tábor széléhez a középső éjjeli őrség kezdetén, a mikor épen az őrség felváltatott, és kürtölének a kürtökkel és összetörék a korsókat, a melyek kezökben valának.
 fa4dh6fed 7,20
 És kürtölt mind a három csapat a kürtökkel, és összetörték a korsókat, és balkezükben tartották a fáklyákat, jobb kezükben pedig a kürtöket, hogy kürtöljenek, és kiáltának: Fegyverre! Az Úrért és Gedeonért!
 fa4dh6fed 7,21
@@ -418,7 +418,7 @@ fa4dh6fed 7,23
 fa4dh6fed 7,24
 És követeket külde Gedeon az egész Efraim hegységbe, ezt izenvén: Jőjjetek alá a Midiániták ellen és foglaljátok el előttök a vizeket Béthbaráig, és a Jordánt. És egybegyűle Efraimnak minden férfia, és elzárák a vizeket Béthbaráig, és a Jordánt is .
 fa4dh6fed 7,25
-És elfogák Midiánnak két fejedelmét, Orebet  és Zéebet, és megölék Orebet az Oreb kőszikláján, és Zéebet megölék a Zéeb pajtájában, és űzték a Midiánitákat. Orebnek és Zéebnek fejét pedig elvivék Gedeonnak a Jordánon túl.
+És elfogák Midiánnak két fejedelmét, Orebet és Zéebet, és megölék Orebet az Oreb kőszikláján, és Zéebet megölék a Zéeb pajtájában, és űzték a Midiánitákat. Orebnek és Zéebnek fejét pedig elvivék Gedeonnak a Jordánon túl.
 fa4dh6fed 8,1
 És mondának az Efraim férfiai néki: Miért cselekedted azt mi velünk, hogy el nem hívtál minket, mikor a Midián ellen való hadakozásra indultál? És erősen feddőzének vele.
 fa4dh6fed 8,2
@@ -438,7 +438,7 @@ fa4dh6fed 8,8
 fa4dh6fed 8,9
 És szóla a Pénuel férfiainak is, mondván: Mikor békességben visszatérek, lerontom ezt a tornyot.
 fa4dh6fed 8,10
-Zéba pedig és Sálmunáh Kárkorban valának, és az ő seregök velök, mintegy tizenötezeren, mind a kik megmaradtak a Napkeletieknek egész táborából. Az elesettek száma százhúszezer fegyverfogható férfiú volt. 
+Zéba pedig és Sálmunáh Kárkorban valának, és az ő seregök velök, mintegy tizenötezeren, mind a kik megmaradtak a Napkeletieknek egész táborából. Az elesettek száma százhúszezer fegyverfogható férfiú volt.
 fa4dh6fed 8,11
 És felméne Gedeon a sátorban lakók útján keletre Nobahtól és Jogbehától, és szétverte a tábort, pedig a tábor biztonságban érezte magát .
 fa4dh6fed 8,12
@@ -482,7 +482,7 @@ fa4dh6fed 8,30
 fa4dh6fed 8,31
 És az ő ágyasa is, a ki Sikemben volt, szült néki egy fiat, és nevezé azt Abiméleknek.
 fa4dh6fed 8,32
-És meghala Gedeon, a Joás fia, késő vénségében, és eltemetteték atyjának, Joásnak sírjába, Ofrában, Abiezer városában. 
+És meghala Gedeon, a Joás fia, késő vénségében, és eltemetteték atyjának, Joásnak sírjába, Ofrában, Abiezer városában.
 fa4dh6fed 8,33
 Lőn pedig, hogy mikor meghalt Gedeon, elfordulának az Izráel fiai az Úrtól , és a Baálokkal paráználkodának, és a Baál-Beritet tevék istenökké.
 fa4dh6fed 8,34
@@ -500,7 +500,7 @@ fa4dh6fed 9,4
 fa4dh6fed 9,5
 És elméne atyjának házához Ofrába, és megölé testvéreit, Jerubbaál fiait, a hetven férfiút egy kövön, és csak Jóthám maradt meg, Jerubbaálnak legkisebb fia, mert ez elrejtőzött.
 fa4dh6fed 9,6
-És összegyülekezék Sikemnek egész polgársága, és Millónak egész háza, és elmenének és királylyá választák Abiméleket az alatt a magas tölgy alatt, a mely Sikemben  áll. 
+És összegyülekezék Sikemnek egész polgársága, és Millónak egész háza, és elmenének és királylyá választák Abiméleket az alatt a magas tölgy alatt, a mely Sikemben áll.
 fa4dh6fed 9,7
 Mikor pedig ezt elbeszélték vala Jóthámnak, elment és megállott a Garizim hegy tetején, és nagy felszóval kiálta, és így szóla hozzájuk: Hallgassatok rám, Sikem férfiai, hogy reátok is hallgasson az Isten!
 fa4dh6fed 9,8
@@ -578,7 +578,7 @@ fa4dh6fed 9,43
 fa4dh6fed 9,44
 És Abimélek és az a csapat, a mely vele volt, megtámadta és megszállotta a város kapuját; a másik két csapat pedig megtámadta mind a mezőn levőket, és megverte őket.
 fa4dh6fed 9,45
-És Abimélek egész nap vívta a várost, mígnem bevette a várost, és a népet, mely benne volt, leölte: a várost pedig lerombolta, és   behinté azt sóval.
+És Abimélek egész nap vívta a várost, mígnem bevette a várost, és a népet, mely benne volt, leölte: a várost pedig lerombolta, és behinté azt sóval.
 fa4dh6fed 9,46
 Mikor pedig ezt meghallották Sikem tornyának minden férfiai, az El- Berith isten házának várába mentek.
 fa4dh6fed 9,47
@@ -608,7 +608,7 @@ Támada pedig Abimélek után az Izráel megszabadítására Thóla, Puának, a 
 fa4dh6fed 10,2
 És bíráskodék Izráelben huszonhárom esztendeig, és meghala, és eltemetteték Sámirban.
 fa4dh6fed 10,3
-Ő utána következett Jáir,  a gileádbeli, és ítélé Izráelt huszonkét esztendeig.
+Ő utána következett Jáir, a gileádbeli, és ítélé Izráelt huszonkét esztendeig.
 fa4dh6fed 10,4
 Ennek harmincz fia volt, kik harmincz szamárcsikón nyargaltak, és volt nékik harmincz városuk, melyeket mind e mai napig Jáir faluinak neveznek, melyek Gileád földén vannak.
 fa4dh6fed 10,5
@@ -626,7 +626,7 @@ Akkor az Úrhoz kiáltottak az Izráel fiai, mondván: Vétkeztünk te ellened, 
 fa4dh6fed 10,11
 Az Úr pedig monda az Izráel fiainak: Nemde én szabadítottalak-é meg benneteket az Égyiptombeliektől, az Emoreusoktól, az Ammon fiaitól, a Filiszteusoktól,
 fa4dh6fed 10,12
-És a Sidonbeliektől, az Amálekitáktól és a Maonitáktól,  mikor titeket szorongattak, és ti én hozzám kiáltottatok, megszabadítottalak titeket az ő kezökből?
+És a Sidonbeliektől, az Amálekitáktól és a Maonitáktól, mikor titeket szorongattak, és ti én hozzám kiáltottatok, megszabadítottalak titeket az ő kezökből?
 fa4dh6fed 10,13
 És ti mégis elhagytatok engem, és idegen isteneknek szolgáltatok; annakokáért többé nem szabadítlak meg titeket ezután.
 fa4dh6fed 10,14
@@ -664,7 +664,7 @@ fa4dh6fed 11,11
 fa4dh6fed 11,12
 És követeket küldött Jefte az Ammon fiainak királyához, ezt izenvén: Mi dolgom van nékem veled, hogy hozzám jöttél, hogy hadakozzál az én földem ellen?
 fa4dh6fed 11,13
-És monda az Ammon fiainak királya Jefte követeinek: Mert elvette Izráel az én földemet,  mikor Égyiptomból feljött, az Arnontól fogva Jabbókig és a Jordánig, most te add azokat vissza békességgel.
+És monda az Ammon fiainak királya Jefte követeinek: Mert elvette Izráel az én földemet, mikor Égyiptomból feljött, az Arnontól fogva Jabbókig és a Jordánig, most te add azokat vissza békességgel.
 fa4dh6fed 11,14
 Ismét külde pedig Jefte követeket az Ammon fiainak királyához;
 fa4dh6fed 11,15
@@ -676,7 +676,7 @@ Követeket küldött Izráel Edom királyához, mondván: Hadd menjek át, kérl
 fa4dh6fed 11,18
 És mikor tovább vándorolt a pusztában, megkerülte Edom földét és Moáb földét, és napkelet felől érkezett a Moáb földéhez, és ott táborozott túl az Arnonon; de Moáb határába nem ment be, mert az Arnon Moáb határa.
 fa4dh6fed 11,19
-Ekkor követeket küldött Izráel Szihonhoz,  az Emoreusok királyához, Hesbon királyához, és monda néki Izráel: Hadd menjek át, kérlek, országodon az én helyemre.
+Ekkor követeket küldött Izráel Szihonhoz, az Emoreusok királyához, Hesbon királyához, és monda néki Izráel: Hadd menjek át, kérlek, országodon az én helyemre.
 fa4dh6fed 11,20
 De Szihon nem hitt Izráelnek, hogy átvonul az ő határán, hanem összegyűjtötte Szihon az ő egész népét, és táborba szállott Jahásban, és harczolt az Izráel ellen.
 fa4dh6fed 11,21
@@ -726,7 +726,7 @@ fa4dh6fed 12,2
 fa4dh6fed 12,3
 És a mikor láttam, hogy ti nem akartok segíteni, koczkára vetém saját életemet, és általmenék az Ammon fiai ellen, az Úr pedig kezembe adta őket. És most miért jöttetek fel hozzám, hogy hadakozzatok én ellenem?
 fa4dh6fed 12,4
-És ekkor egybegyűjté Jefte Gileádnak minden férfiait, és megtámadta Efraimot, és megverték Gileád férfiai Efraimot, mert azt mondották: Efraim szökevényei vagytok ti, kik Gileádban, Efraim és Manassé között laktok. 
+És ekkor egybegyűjté Jefte Gileádnak minden férfiait, és megtámadta Efraimot, és megverték Gileád férfiai Efraimot, mert azt mondották: Efraim szökevényei vagytok ti, kik Gileádban, Efraim és Manassé között laktok.
 fa4dh6fed 12,5
 És elfoglalák a Gileádbeliek Efraim előtt a Jordán réveit, és lőn, hogy mikor az Efraim közül való menekülők azt mondják vala: Hadd menjek által: azt kérdezték tőlük a gileádbeli férfiak Efraimbeli vagy-é? És ha az azt mondotta: nem!
 fa4dh6fed 12,6
@@ -754,11 +754,11 @@ Az Izráel fiai pedig újra gonoszul cselekedtek az Úrnak szemei előtt, azért
 fa4dh6fed 13,2
 És élt ebben az időben egy férfiú Czórából, a Dán nemzetségéből való, névszerint Manoah, kinek felesége magtalan volt, és nem szült.
 fa4dh6fed 13,3
-És megjelent az Úrnak angyala az asszonynak, és monda néki: Ímé most magtalan   vagy, és nem szültél; de terhes leszesz, és fiat szülsz.
+És megjelent az Úrnak angyala az asszonynak, és monda néki: Ímé most magtalan vagy, és nem szültél; de terhes leszesz, és fiat szülsz.
 fa4dh6fed 13,4
-Azért most megójjad magad,  és ne igyál se bort, se más részegítő italt, és ne egyél semmi tisztátalant.
+Azért most megójjad magad, és ne igyál se bort, se más részegítő italt, és ne egyél semmi tisztátalant.
 fa4dh6fed 13,5
-Mert íme terhes leszesz, és fiat szülsz, és beretva  ne érintse annak fejét, mert Istennek szenteltetett lesz az a gyermek anyjának méhétől fogva, és ő kezdi majd megszabadítani Izráelt a Filiszteusok kezéből.
+Mert íme terhes leszesz, és fiat szülsz, és beretva ne érintse annak fejét, mert Istennek szenteltetett lesz az a gyermek anyjának méhétől fogva, és ő kezdi majd megszabadítani Izráelt a Filiszteusok kezéből.
 fa4dh6fed 13,6
 És elment az asszony, és elbeszélte ezt férjének, mondván: Istennek egy embere jöve hozzám, kinek tekintete olyan volt, mint az Isten angyalának tekintete, igen rettenetes, úgy hogy meg sem mertem kérdezni, hogy honnan való, és ő sem mondotta meg nékem a nevét.
 fa4dh6fed 13,7
@@ -792,7 +792,7 @@ Tudniillik, mikor a láng felcsapott az oltárról az ég felé, az oltár láng
 fa4dh6fed 13,21
 És többé nem jelent meg az Úrnak angyala Manoáhnak és feleségének. Ekkor tudta meg Manoah, hogy az Úrnak angyala volt az.
 fa4dh6fed 13,22
-És monda Manoah az ő feleségének: Meghalván meghalunk,  mert az Istent láttuk.
+És monda Manoah az ő feleségének: Meghalván meghalunk, mert az Istent láttuk.
 fa4dh6fed 13,23
 Akkor monda néki az ő felesége: Ha meg akart volna ölni az Úr minket, nem fogadta volna el kezünkből az egészen égőáldozatot és az ételáldozatot, és nem mutatta volna nékünk mindezeket, sem pedig nem hallatott volna velünk ilyeneket.
 fa4dh6fed 13,24
@@ -882,13 +882,13 @@ fa4dh6fed 15,20
 fa4dh6fed 16,1
 És elment Sámson Gázába, és meglátott ott egy parázna asszonyt, és bement hozzá.
 fa4dh6fed 16,2
-A gázabelieknek pedig mikor  megmondották, mondván: Ide jött Sámson! körülvevék őt, és leselkedének ő utána egész éjszakán át a város kapujában, és hallgatóztak egész éjjel, és azt mondták: Reggel, ha világos lesz, megöljük őt.
+A gázabelieknek pedig mikor megmondották, mondván: Ide jött Sámson! körülvevék őt, és leselkedének ő utána egész éjszakán át a város kapujában, és hallgatóztak egész éjjel, és azt mondták: Reggel, ha világos lesz, megöljük őt.
 fa4dh6fed 16,3
 És aluvék Sámson éjfélig. Éjfélkor pedig felkelt, és megfogván a város kapujának szárnyait, a kapufélfákkal és a závárokkal együtt kiszakította azokat, és vállaira vette, és felvitte a hegy tetejére, mely Hebronnal szemben fekszik.
 fa4dh6fed 16,4
 És történt azután, hogy megszeretett egy asszonyt a Sórek völgyében, a kinek neve Delila volt.
 fa4dh6fed 16,5
-És felmenének ő hozzá a Filiszteusok fejedelmei, és mondának néki: Kérdezd ki őt és tudd meg, miben áll az ő nagy ereje, és miképen vehetünk rajta erőt, hogy megkötözzük és megkínozzuk őt, és mi mindenikünk adunk néked ezerszáz ezüst siklust. 
+És felmenének ő hozzá a Filiszteusok fejedelmei, és mondának néki: Kérdezd ki őt és tudd meg, miben áll az ő nagy ereje, és miképen vehetünk rajta erőt, hogy megkötözzük és megkínozzuk őt, és mi mindenikünk adunk néked ezerszáz ezüst siklust.
 fa4dh6fed 16,6
 És monda Delila Sámsonnak: Mondd meg nékem, miben van a te nagy erőd és mivel kellene téged megkötni, hogy megkínozhassanak téged.
 fa4dh6fed 16,7
@@ -958,7 +958,7 @@ Vala pedig egy ifjú, Júdának Bethleheméből, a Júda nemzetségéből való,
 fa4dh6fed 17,8
 És elméne ez a férfiú Júdának Bethlehem városából, hogy ott tartózkodjék, a hol helyet talál. Így jött az Efraim hegyére, Míka házához, vándorlása közben.
 fa4dh6fed 17,9
-És monda néki Míka: Honnan jössz? És monda: Lévita vagyok Júdának Bethleheméből, és járok s kelek, hogy hol találnék helyet. 
+És monda néki Míka: Honnan jössz? És monda: Lévita vagyok Júdának Bethleheméből, és járok s kelek, hogy hol találnék helyet.
 fa4dh6fed 17,10
 És monda néki Míka: Maradj nálam, és légy nékem atyám és papom, és én adok néked esztendőnként tíz ezüst pénzt és egy öltöző ruhát és eledelt. És a Lévita beszegődött.
 fa4dh6fed 17,11
@@ -1174,7 +1174,7 @@ fa4dh6fed 20,41
 fa4dh6fed 20,42
 És elfutottak az Izráel férfiai elől a pusztába vivő útra; de a harcz ott is utólérte őket, és az út közepén ölték le a városból jövőket.
 fa4dh6fed 20,43
-Körülvették Benjámint, üldözték őt, letiporták a pihenő helyen, egészen a Gibea előtt keletre eső vidékig. 
+Körülvették Benjámint, üldözték őt, letiporták a pihenő helyen, egészen a Gibea előtt keletre eső vidékig.
 fa4dh6fed 20,44
 És elesett Benjámin közül tizennyolcezer ember, mindnyájan vitéz férfiak.
 fa4dh6fed 20,45
@@ -1194,7 +1194,7 @@ fa4dh6fed 21,3
 fa4dh6fed 21,4
 És lőn másnap reggel, felkele a nép és ott oltárt épített, és egészen égőáldozatot és hálaadó áldozatot áldozott.
 fa4dh6fed 21,5
-És mondának az Izráel fiai: Kicsoda az, a ki nem jött fel a gyülekezetbe az Izráelnek minden nemzetségei közül az Úrhoz? Mert nagy esküt tettek volt egyszer a felől, a ki fel nem jött az Úrhoz Mispába, mondván: Meghalván meghaljon az! 
+És mondának az Izráel fiai: Kicsoda az, a ki nem jött fel a gyülekezetbe az Izráelnek minden nemzetségei közül az Úrhoz? Mert nagy esküt tettek volt egyszer a felől, a ki fel nem jött az Úrhoz Mispába, mondván: Meghalván meghaljon az!
 fa4dh6fed 21,6
 És megszánák az Izráel fiai Benjámint, az ő atyjokfiát, és mondának: Kivágattatott ma egy nemzetség Izráelből.
 fa4dh6fed 21,7
@@ -1204,7 +1204,7 @@ fa4dh6fed 21,8
 fa4dh6fed 21,9
 Mert megszámlálá magát a nép, és ímé nem vala ott senki a Jábes-Gileád lakosai közül.
 fa4dh6fed 21,10
-Ekkor elküldött a gyülekezet oda tizenkétezer harczban edzett férfiút, és megparancsolták nékik, mondván: Menjetek el, és vágjátok le Jábes- Gileád lakóit fegyvernek élivel, még az asszonyokat és a gyermekeket is. 
+Ekkor elküldött a gyülekezet oda tizenkétezer harczban edzett férfiút, és megparancsolták nékik, mondván: Menjetek el, és vágjátok le Jábes- Gileád lakóit fegyvernek élivel, még az asszonyokat és a gyermekeket is.
 fa4dh6fed 21,11
 És ezt kell cselekednetek, hogy minden férfiút és minden asszonyt, a ki már férfiúval hált, öljetek meg.
 fa4dh6fed 21,12
@@ -1234,4 +1234,4 @@ fa4dh6fed 21,23
 fa4dh6fed 21,24
 Az Izráel fiai pedig eltávoztak onnét abban az időben, mindegyik a maga nemzetségéhez és háznépéhez, és elmentek onnét kiki a maga örökségébe.
 fa4dh6fed 21,25
-Ebben az időben nem volt király Izráelben; azért mindenki azt cselekedte, a mi jónak látszott az ő szemei előtt. $  
+Ebben az időben nem volt király Izráelben; azért mindenki azt cselekedte, a mi jónak látszott az ő szemei előtt. $

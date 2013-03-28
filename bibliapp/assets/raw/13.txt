@@ -114,7 +114,7 @@ Dán, József, Benjámin, Nafthali, Gád és Áser.
 fa4dh6fed 2,3
 Júdának fiai: Hér, Ónán és Séla; e három születék néki a Kanaánita Súahnak leányától. De Hér, Júdának elsőszülött fia gonosz vala az Úr szemei előtt, és megölé őt az Úr .
 fa4dh6fed 2,4
-Thámár pedig, az ő menye szülé néki Péreczet és Zerákhot. Júdának fiai mindnyájan öten valának. 
+Thámár pedig, az ő menye szülé néki Péreczet és Zerákhot. Júdának fiai mindnyájan öten valának.
 fa4dh6fed 2,5
 Pérecz fiai: Kheczrón és Khámul.
 fa4dh6fed 2,6
@@ -140,7 +140,7 @@ Osemet, hatodikat és Dávidot, a hetedik fiát;
 fa4dh6fed 2,16
 És nővéreiket, Séruját és Abigáilt. Sérujának pedig fiai voltak: Absai, Joáb és Asáel, e három.
 fa4dh6fed 2,17
-Abigáil szülé  Amasát; Amasának atyja pedig az Ismáel nemzetségéből való Jéter vala.
+Abigáil szülé Amasát; Amasának atyja pedig az Ismáel nemzetségéből való Jéter vala.
 fa4dh6fed 2,18
 Káleb pedig, a Kheczrón fia nemzett vala az ő Azuba nevű feleségétől és Jérióttól; és ezek az ő fiai: Jéser, Sobáb és Ardon.
 fa4dh6fed 2,19
@@ -220,7 +220,7 @@ fa4dh6fed 2,55
 fa4dh6fed 3,1
 Ezek a Dávid fiai, a kik Hebronban születének néki: elsőszülötte vala Amnon, a Jezréelből való Ahinoámtól; második vala Dániel, a Kármelből való Abigailtól.
 fa4dh6fed 3,2
-Harmadik  Absolon, a ki Maakának, a Gessurbeli Talmai király leányának volt a fia; negyedik Adónia, Haggittól való.
+Harmadik Absolon, a ki Maakának, a Gessurbeli Talmai király leányának volt a fia; negyedik Adónia, Haggittól való.
 fa4dh6fed 3,3
 Ötödik Sefátia, Abitáltól való; hatodik Jitreám, az ő feleségétől, Eglától való.
 fa4dh6fed 3,4
@@ -278,7 +278,7 @@ Ashúrnak pedig, a Tékoa atyjának volt két felesége, Heléa és Naára.
 fa4dh6fed 4,6
 És Naára szülé néki Ahuzámot, Héfert, Teménit és Ahastárit. Ezek a Naára fiai.
 fa4dh6fed 4,7
-Heléa fiai: Séret, Jésohár, Etnán és Kócz. 
+Heléa fiai: Séret, Jésohár, Etnán és Kócz.
 fa4dh6fed 4,8
 Kócz pedig nemzé Hánubot, Hásobébát és Ahárhel háznépét, a ki Hárumnak fia vala.
 fa4dh6fed 4,9
@@ -290,7 +290,7 @@ Kélub pedig, a Súkha testvére, nemzé Méhirt; ez az Eston atyja.
 fa4dh6fed 4,12
 Eston nemzé Béth-Rafát, Paseákhot, Tehinnát, Ir-Náhás atyját. Ezek a Rékától való férfiak.
 fa4dh6fed 4,13
-Kénáz fiai: Othniel  és Serája; Othniel fia: Hatát.
+Kénáz fiai: Othniel és Serája; Othniel fia: Hatát.
 fa4dh6fed 4,14
 Meonótai nemzé Ofrát; Serája pedig nemzé Joábot, a Gé- Harasimbeliek atyját, mert mesteremberek valának.
 fa4dh6fed 4,15
@@ -334,7 +334,7 @@ fa4dh6fed 4,33
 fa4dh6fed 4,34
 Mesobáb, Jámlek és Jósa, Amásia fia.
 fa4dh6fed 4,35
-És Jóel és Jéhu, a Jósibia fia, ki Serája fia, ki Asiel fia vala; 
+És Jóel és Jéhu, a Jósibia fia, ki Serája fia, ki Asiel fia vala;
 fa4dh6fed 4,36
 És Eljoénai, Jaákoba, Jésohája, Asája, Adiel, Jesiméel és Benája.
 fa4dh6fed 4,37
@@ -346,7 +346,7 @@ Azért elindulának Gedor felé, hogy a völgy keleti részére menjenek és ott
 fa4dh6fed 4,40
 Találának is zsíros és jó legeltető helyet (az a föld pedig tágas, nyugodalmas és békességes), mert Khámból valók laktak ott azelőtt.
 fa4dh6fed 4,41
-Elmenvén pedig e névszerint megnevezettek Ezékiásnak, a Júda királyának idejében, lerombolták sátoraikat, és a Maonitákat, a kiket ott találtak, kiirtották mind e mai napig, s helyökbe letelepedének, mivel ott barmaik számára legelőhelyeket találtak. 
+Elmenvén pedig e névszerint megnevezettek Ezékiásnak, a Júda királyának idejében, lerombolták sátoraikat, és a Maonitákat, a kiket ott találtak, kiirtották mind e mai napig, s helyökbe letelepedének, mivel ott barmaik számára legelőhelyeket találtak.
 fa4dh6fed 4,42
 És közülök, a Simeon fiai közül, némelyek elmenének a Seir hegyére, úgymint ötszázan, a kiknek előljáróik az Isi fiai, Pelátja, Nehárja, Refája és Uzriel voltak.
 fa4dh6fed 4,43
@@ -356,7 +356,7 @@ Rúbennek, Izráel elsőszülöttének fiai (mert ő volt az elsőszülött; mik
 fa4dh6fed 5,2
 Mert Júda tekintélyesebb vala az ő testvérei között, és ő belőle való volt a fejedelem, hanem az elsőszülöttségnek haszna lőn Józsefé):
 fa4dh6fed 5,3
-Ezek  Rúbennek, Izráel elsőszülöttének fiai: Khánokh, Pallu, Kheczrón és Kármi.
+Ezek Rúbennek, Izráel elsőszülöttének fiai: Khánokh, Pallu, Kheczrón és Kármi.
 fa4dh6fed 5,4
 Jóel fiai: Semája ennek fia, Góg ennek fia, Simei ennek fia.
 fa4dh6fed 5,5
@@ -394,9 +394,9 @@ fa4dh6fed 5,20
 fa4dh6fed 5,21
 És elvivék az ő barmaikat, ötvenezer tevét, kétszázötvenezer juhot, kétezer szamarat és százezer embert.
 fa4dh6fed 5,22
-A seb miatt pedig sokan elhullának; mert Istentől vala az a harcz; és azok helyén lakának  a fogságig.
+A seb miatt pedig sokan elhullának; mert Istentől vala az a harcz; és azok helyén lakának a fogságig.
 fa4dh6fed 5,23
-A Manasse nemzetsége felének fiai pedig azon a földön laktak, a mely Básántól Baál-Hermonig, Szenirig és Hermon hegyéig terjedt,  mert igen megsokasodtak vala.
+A Manasse nemzetsége felének fiai pedig azon a földön laktak, a mely Básántól Baál-Hermonig, Szenirig és Hermon hegyéig terjedt, mert igen megsokasodtak vala.
 fa4dh6fed 5,24
 És ezek voltak az ő atyjok háznépének fejedelmei: Efer, Isi, Eliel, Azriel, Irméja, Hodávia és Jahdiel, igen erős férfiak, híres férfiak, a kik az ő atyjok háznépe között fők voltak.
 fa4dh6fed 5,25
@@ -480,7 +480,7 @@ Ki Tákhát fia, ki Asszir fia, ki Ebiásáf fia, ki Kórákh fia.
 fa4dh6fed 6,38
 Ki Jiczhár fia, ki Kéhát fia, ki Lévi fia, ki Izráel fia.
 fa4dh6fed 6,39
-És ennek testvére, Asáf, a ki jobbkeze felől áll vala; Asáf, a Berekiás fia, ki Simea fia vala. 
+És ennek testvére, Asáf, a ki jobbkeze felől áll vala; Asáf, a Berekiás fia, ki Simea fia vala.
 fa4dh6fed 6,40
 Ki Mikáel fia, ki Bahásia fia, ki Melkija fia.
 fa4dh6fed 6,41
@@ -500,7 +500,7 @@ Ki Makhli fia, ki Musi fia, ki Mérári fia, ki Lévi fia.
 fa4dh6fed 6,48
 És testvéreik, a Léviták rendeltetnek vala az Isten háza hajlékának egyéb szolgálatjára.
 fa4dh6fed 6,49
-Áron   pedig és az ő fiai az egészen megégetendő áldozatnak oltára mellé, és a füstölő oltár mellé, a szentek-szentjének szolgálatja mellé, és az Izráel megszentelésére rendeltetének mind a szerint, a mint Mózes, az Isten szolgája megparancsolta volt.
+Áron pedig és az ő fiai az egészen megégetendő áldozatnak oltára mellé, és a füstölő oltár mellé, a szentek-szentjének szolgálatja mellé, és az Izráel megszentelésére rendeltetének mind a szerint, a mint Mózes, az Isten szolgája megparancsolta volt.
 fa4dh6fed 6,50
 Áron fiai pedig ezek: Eleázár, az ő fia, ennek fia Fineás, ennek fia Abisua.
 fa4dh6fed 6,51
@@ -510,7 +510,7 @@ Ennek fia Merájót, ennek fia Amárja, ennek fia Akhitúb.
 fa4dh6fed 6,53
 Ennek fia Sádók, ennek fia Akhimás.
 fa4dh6fed 6,54
-És az Áron fiainak, a Kéhátiták nemzetségéből, ezek a  lakhelyeik, letelepedésük szerint az ő vidékükön, mert ez jutott volt nékik sors által.
+És az Áron fiainak, a Kéhátiták nemzetségéből, ezek a lakhelyeik, letelepedésük szerint az ő vidékükön, mert ez jutott volt nékik sors által.
 fa4dh6fed 6,55
 Ők kapták Hebront, a Júda földében és a körülte való legelőket.
 fa4dh6fed 6,56
@@ -522,7 +522,7 @@ fa4dh6fed 6,58
 fa4dh6fed 6,59
 Asánt és annak legelőit, és Béth-Semest és annak legelőit.
 fa4dh6fed 6,60
-A Benjámin nemzetségéből: Gébát és annak legelőit, Allémetet és annak legelőit, Anatót várost  is és annak legelőit. Ezeknek az ő nemzetségek szerint tizenhárom városuk volt.
+A Benjámin nemzetségéből: Gébát és annak legelőit, Allémetet és annak legelőit, Anatót várost is és annak legelőit. Ezeknek az ő nemzetségek szerint tizenhárom városuk volt.
 fa4dh6fed 6,61
 A Kéhát többi fiainak pedig az egy nemzetségnek családjaitól, és a félnemzetségből, a Manasse nemzetségének felétől, sors által tíz várost adtak.
 fa4dh6fed 6,62
@@ -576,7 +576,7 @@ fa4dh6fed 7,4
 fa4dh6fed 7,5
 Ezeknek testvéreik is, Izsakhárnak egész nemzetsége szerint erős hadakozó férfiak valának, nyolczvanhétezeren szám szerint mindenestől.
 fa4dh6fed 7,6
-Benjámin  fiai: Bela, Béker és Jediáel, hárman.
+Benjámin fiai: Bela, Béker és Jediáel, hárman.
 fa4dh6fed 7,7
 Bela fiai: Esbon, Uzzi, Uzziel, Jérimót és Hiri, öt főember az ő nemzetségökben, erős hadakozó férfiak, a kik megszámláltatván, huszonkétezerharmincznégyen valának.
 fa4dh6fed 7,8
@@ -618,7 +618,7 @@ Réfah is az ő fia és Resef; ennek fia Théla, ennek fia Táhán.
 fa4dh6fed 7,26
 Ennek fia Laadán, ennek fia Ammihud, ennek fia Elisáma.
 fa4dh6fed 7,27
-Ennek fia Nún, ennek fia  Józsué.
+Ennek fia Nún, ennek fia Józsué.
 fa4dh6fed 7,28
 Ezeknek birtokuk és lakóhelyük vala: Béthel és annak mezővárosai; napkeletre Naarán, napenyészetre Gézer és ennek mezővárosai, Sikem és ennek mezővárosai, szinte Gázáig és az ehhez tartozó mezővárosokig;
 fa4dh6fed 7,29
@@ -702,7 +702,7 @@ Jaarésia, Elia, és Zikri, Jérohám fiai.
 fa4dh6fed 8,28
 Ezek voltak a családfők az ő nemzetségök szerint, főemberek és ezek laktak Jeruzsálemben.
 fa4dh6fed 8,29
-Gibeonban pedig laktak Gibeonnak atyja; az ő feleségének neve Maaka vala. 
+Gibeonban pedig laktak Gibeonnak atyja; az ő feleségének neve Maaka vala.
 fa4dh6fed 8,30
 És az ő elsőszülötte Abdon, azután Súr, Kis, Baál, Nádáb;
 fa4dh6fed 8,31
@@ -710,7 +710,7 @@ Gedor, Ahio és Zéker,
 fa4dh6fed 8,32
 És Miklót, a ki nemzé Simámot. Ezek is testvéreiknek átellenében, Jeruzsálemben laktak testvéreikkel.
 fa4dh6fed 8,33
-Nér pedig nemzé Kist; Kis nemzé Sault, Saul nemzé Jonathánt, Malkisuát, Abinádábot és Esbaált. 
+Nér pedig nemzé Kist; Kis nemzé Sault, Saul nemzé Jonathánt, Malkisuát, Abinádábot és Esbaált.
 fa4dh6fed 8,34
 Jonathán fia: Méribbaál; Méribbaál nemzé Mikát.
 fa4dh6fed 8,35
@@ -724,7 +724,7 @@ Továbbá Aselnek hat fia volt, kiknek ezek neveik: Azrikám, Bókru, Ismáel, S
 fa4dh6fed 8,39
 Az ő testvérének Eseknek fiai ezek: Ulám az ő elsőszülötte, Jéus második és Elifélet harmadik.
 fa4dh6fed 8,40
-És az Ulám fiai erős hadakozó férfiak, kézívesek voltak, s gyermekeik és unokáik százötvenre szaporodtak. Mindezek a Benjámin fiai közül valók voltak. 
+És az Ulám fiai erős hadakozó férfiak, kézívesek voltak, s gyermekeik és unokáik százötvenre szaporodtak. Mindezek a Benjámin fiai közül valók voltak.
 fa4dh6fed 9,1
 Az egész Izráel megszámláltatván nemzetségeik szerint, beirattak az Izráel és Júda királyainak könyvébe, a kik gonoszságukért Babilóniába vitetének.
 fa4dh6fed 9,2
@@ -740,7 +740,7 @@ A Zérah fiai közül: Jéuel és az ő atyjafiai, hatszázkilenczvenen.
 fa4dh6fed 9,7
 A Benjámin fiai közül: Sallu, Mésullám fia, ki Hodávia fia, ki Hasénua fia.
 fa4dh6fed 9,8
-Ibnéja, Jérohám fia, és Ela, Uzzi fia, ki Mikri fia, és Mésullám, Séfátja fia, ki Reuel fia, ki Ibnija fia vala. 
+Ibnéja, Jérohám fia, és Ela, Uzzi fia, ki Mikri fia, és Mésullám, Séfátja fia, ki Reuel fia, ki Ibnija fia vala.
 fa4dh6fed 9,9
 Testvéreik, nemzetségeik szerint, kilenczszázötvenhatan valának; ezek mind családfők voltak az ő atyjok háznépe szerint.
 fa4dh6fed 9,10
@@ -758,7 +758,7 @@ Bakbakkár, Héres és Galál, és Mattánia, a Mika fia, ki Zikri fia, ki Asáf
 fa4dh6fed 9,16
 Obádia, a Semája fia, Galál fia, ki Jédutun fia, és Bérékia, Asa fia, ki Elkána fia, a ki Nétofáti faluiban lakik vala.
 fa4dh6fed 9,17
-És az ajtónállók: Sallum, Akkúb, Talmon, Ahimán és ezek testvérei; Sallum pedig fő vala. 
+És az ajtónállók: Sallum, Akkúb, Talmon, Ahimán és ezek testvérei; Sallum pedig fő vala.
 fa4dh6fed 9,18
 (És ennek mindez ideig a királykapun van helye napkelet felől.) Ezek az ajtónállók a Léviták rendje szerint.
 fa4dh6fed 9,19
@@ -780,11 +780,11 @@ De a kapunállók négy főemberének állandó megbizatásuk volt. Ezek a Lévi
 fa4dh6fed 9,27
 És az Úrnak háza körül hálnak vala, mivelhogy az őrzés az ő tisztök volt, és minden reggel ők nyitják vala meg az ajtókat.
 fa4dh6fed 9,28
-És ő közülök némelyek  a szolgálati edényekre viselnek vala gondot; mert mind a kivitelnél, mind a visszavitelnél számon veszik vala azokat.
+És ő közülök némelyek a szolgálati edényekre viselnek vala gondot; mert mind a kivitelnél, mind a visszavitelnél számon veszik vala azokat.
 fa4dh6fed 9,29
-Ugyanazok közül választattak vala némelyek másféle edénynek, a szenthely minden eszközeinek, a lisztnek, bornak, olajnak, tömjénnek és fűszereknek gondviselésére. 
+Ugyanazok közül választattak vala némelyek másféle edénynek, a szenthely minden eszközeinek, a lisztnek, bornak, olajnak, tömjénnek és fűszereknek gondviselésére.
 fa4dh6fed 9,30
-A papok fiai közül valók csinálják vala fűszerekből a 33.34-38.] drágakenetet is.
+A papok fiai közül valók csinálják vala fűszerekből a drágakenetet is.
 fa4dh6fed 9,31
 Továbbá Mattitja, a Léviták közül való (ki elsőszülötte a Kórakhiták közül való Sallumnak), a serpenyőkre visel vala gondot.
 fa4dh6fed 9,32
@@ -794,7 +794,7 @@ Ezek közül valók valának az éneklők is, a Léviták közül a családfők,
 fa4dh6fed 9,34
 Ezek a Léviták között családfők nemzetségök szerint, főemberek, és ezek Jeruzsálemben laktak.
 fa4dh6fed 9,35
-Gibeonban  pedig laktak a Gibeon atyja, Jéhiel, és az ő feleségének neve Maaka.
+Gibeonban pedig laktak a Gibeon atyja, Jéhiel, és az ő feleségének neve Maaka.
 fa4dh6fed 9,36
 Az ő elsőszülött fia Abdon, azután Súr, Kis, Baál, Nér és Nádáb.
 fa4dh6fed 9,37
@@ -836,7 +836,7 @@ Az ő fegyvereit isteneik házába helyezék el, fejét pedig Dágon templomába
 fa4dh6fed 10,11
 Mikor pedig meghallotta az egész Jábesgileád, hogy mit cselekedtek a Filiszteusok Saullal:
 fa4dh6fed 10,12
-Feltámadának mindnyájan az erős férfiak, és elvivék Saulnak  és az ő fiainak testét; és Jábesbe vivén, eltemeték azoknak csontjaikat a tölgyfa alatt Jábesben, és bőjtölének hetednapig.
+Feltámadának mindnyájan az erős férfiak, és elvivék Saulnak és az ő fiainak testét; és Jábesbe vivén, eltemeték azoknak csontjaikat a tölgyfa alatt Jábesben, és bőjtölének hetednapig.
 fa4dh6fed 10,13
 Meghala azért Saul az ő gonoszsága miatt, mivel vétkezett az Úr ellen, az Úrnak igéje ellen, melyet nem őrzött meg, sőt az ördöngöst is megkereste, hogy megkérdezze;
 fa4dh6fed 10,14
@@ -844,11 +844,11 @@ fa4dh6fed 10,14
 fa4dh6fed 11,1
 És gyűlének az Izráeliták mindnyájan Dávidhoz Hebronba, mondván: Ímé mi a te csontod és a te tested vagyunk;
 fa4dh6fed 11,2
-Ezelőtt is, még mikor Saul volt a király, te voltál az, a ki az Izráelt ki- és bevezetéd, és ezt mondotta a te Urad Istened néked: Te  legelteted az én népemet, az Izráelt, és te leszel vezér az én népemen, az Izráelen.
+Ezelőtt is, még mikor Saul volt a király, te voltál az, a ki az Izráelt ki- és bevezetéd, és ezt mondotta a te Urad Istened néked: Te legelteted az én népemet, az Izráelt, és te leszel vezér az én népemen, az Izráelen.
 fa4dh6fed 11,3
 Elmenének azért mindnyájan az Izráel vénei a királyhoz Hebronba, és szövetséget tőn Dávid velök Hebronban az Úr előtt; és királylyá kenték Dávidot Izráel felett, az Úrnak Sámuel által való beszéde szerint.
 fa4dh6fed 11,4
-Elméne akkor Dávid és az egész Izráel  Jeruzsálembe; ez Jebus (ott a Jebuzeusok voltak a föld lakosai).
+Elméne akkor Dávid és az egész Izráel Jeruzsálembe; ez Jebus (ott a Jebuzeusok voltak a föld lakosai).
 fa4dh6fed 11,5
 És mondának Jebus lakói Dávidnak: Ide be nem jössz! De megvevé Dávid a Sion várát; ez a Dávid városa;
 fa4dh6fed 11,6
@@ -884,7 +884,7 @@ fa4dh6fed 11,20
 fa4dh6fed 11,21
 A három közül a kettőnél híresebb vala, azért volt azok előljárója; de azért egymaga még sem ért föl a hárommal.
 fa4dh6fed 11,22
-Benája,  a Jojada fia, vitéz férfiúnak fia Kabséelből, a ki nagy dolgokat cselekedék; ő ölte meg Moáb két oroszlánját, és ő méne alá a verembe, s ölte meg az oroszlánt, mikor havas idő volt.
+Benája, a Jojada fia, vitéz férfiúnak fia Kabséelből, a ki nagy dolgokat cselekedék; ő ölte meg Moáb két oroszlánját, és ő méne alá a verembe, s ölte meg az oroszlánt, mikor havas idő volt.
 fa4dh6fed 11,23
 Ugyanez ölé meg az Égyiptombeli férfit, akinek magassága öt sing volt, és oly dárda vala az Égyiptombeli férfiú kezében, mint a szövő zugoly. Szembeszálla vele egy pálczával, s kiragadá az Égyiptombeli ember kezéből a dárdát, és saját dárdájával általveré.
 fa4dh6fed 11,24
@@ -902,7 +902,7 @@ Húsatbeli Sibbékai, Ahóhitbeli Hirai.
 fa4dh6fed 11,30
 Nétofátbeli Maharai, Nétofátbeli Héled, Bahána fia;
 fa4dh6fed 11,31
-Ittai, Ribai fia, a Benjámin fiainak Gibea városából való;  Pirátonbeli Benája;
+Ittai, Ribai fia, a Benjámin fiainak Gibea városából való; Pirátonbeli Benája;
 fa4dh6fed 11,32
 Húrai, a Gaás völgyéből való; Arbátbeli Abiel;
 fa4dh6fed 11,33
@@ -936,9 +936,9 @@ Mihávimbeli Eliel, Jéribai és Jósávia, Elnaám fia, és Jitma, Moáb nemzet
 fa4dh6fed 11,47
 Eliel és Obed és Jaásiel, Mésóbájából valók.
 fa4dh6fed 12,1
-Ezek azok, a kik  Dávidhoz menének Siklágba, mikor Saul, a Kis fia miatt még számkivetésben vala, a kik a hősöknek a harczban segítői voltak.
+Ezek azok, a kik Dávidhoz menének Siklágba, mikor Saul, a Kis fia miatt még számkivetésben vala, a kik a hősöknek a harczban segítői voltak.
 fa4dh6fed 12,2
-Ívesek, a kik mind jobb-, mind balkézre kővel  hajítanak és nyíllal lőnek vala, a kik Saul atyjafiai közül valók valának, Benjámin nemzetségéből.
+Ívesek, a kik mind jobb-, mind balkézre kővel hajítanak és nyíllal lőnek vala, a kik Saul atyjafiai közül valók valának, Benjámin nemzetségéből.
 fa4dh6fed 12,3
 Előljáró vala Ahiézer és Joás, a Gibeabeli Semáa fiai és Jéziel és Pélet, Azmávet fiai, Beráka és Jéhu, Anatótból,
 fa4dh6fed 12,4
@@ -970,13 +970,13 @@ Jövének Dávidhoz a Benjámin és a Júda fiai közül is az erősségbe.
 fa4dh6fed 12,17
 És kiméne Dávid elejökbe, és felelvén, monda nékik: Hogyha békesség okáért jöttök hozzám, hogy segítségemre legyetek, az én szívem egy lesz ti veletek; ha pedig meg akartok csalni, hogy eláruljatok az én ellenségeimnek, holott semmi gonoszságot nem követtem el: lássa meg a mi atyáink Istene és büntessen meg.
 fa4dh6fed 12,18
-A lélek pedig felindítá Amásait, a harmincznak  fejedelmét, s monda: Óh Dávid, tied vagyunk és te veled leszünk, Isai fia! Békesség, békesség néked, békesség a te segítőidnek is, mert megsegít téged a te Istened! Magához fogadá azért őket Dávid, és főemberekké tevé a seregben.
+A lélek pedig felindítá Amásait, a harmincznak fejedelmét, s monda: Óh Dávid, tied vagyunk és te veled leszünk, Isai fia! Békesség, békesség néked, békesség a te segítőidnek is, mert megsegít téged a te Istened! Magához fogadá azért őket Dávid, és főemberekké tevé a seregben.
 fa4dh6fed 12,19
 Ennekfelette Manasséból is hajlának Dávidhoz, mikor a Filiszteusokkal együtt Saul ellen ment volna harczolni; de nem segéllék őket; mert tanácsot tartván, haza küldék a Filiszteusok fejedelmei, mondván: A mi fejünk veszésével fog visszamenni az ő urához, Saulhoz.
 fa4dh6fed 12,20
-Mikor visszatére Siklágba, hajlának ő hozzá a Manassé fiai közül Adna, Józabád, Jediháel, Mikáel, Józabád, Elihu és Sillétai, a kik a Manasse nemzetségé ből való ezerek előljárói voltak. 
+Mikor visszatére Siklágba, hajlának ő hozzá a Manassé fiai közül Adna, Józabád, Jediháel, Mikáel, Józabád, Elihu és Sillétai, a kik a Manasse nemzetségé ből való ezerek előljárói voltak.
 fa4dh6fed 12,21
-És ezek Dávidnak segítségül voltak az ellenség  18.] seregei ellen; mert fejenként mind erős vitézek valának, és vezérek a seregben.
+És ezek Dávidnak segítségül voltak az ellenség seregei ellen; mert fejenként mind erős vitézek valának, és vezérek a seregben.
 fa4dh6fed 12,22
 Annakfelette minden nap mennek vala Dávidhoz, hogy segítségére legyenek néki, míg serege nagygyá lőn, mint az Istennek tábora.
 fa4dh6fed 12,23
@@ -986,7 +986,7 @@ A Júda fiai közül, a kik paizst és kopját viselének hatezernyolczszáz val
 fa4dh6fed 12,25
 A Simeon fiai közül vitéz férfiak a viadalra, hétezerszáz.
 fa4dh6fed 12,26
-A Lévi fiai közül négyezerhatszáz vala. 
+A Lévi fiai közül négyezerhatszáz vala.
 fa4dh6fed 12,27
 Jojada is, ki az Áron fiai között előljáró vala, és ő vele háromezerhétszáz.
 fa4dh6fed 12,28
@@ -1026,7 +1026,7 @@ fa4dh6fed 13,4
 fa4dh6fed 13,5
 Összegyűjté azért Dávid mind az Izráel népét Égyiptomnak Nilus folyóvizétől fogva egészen Hámátig, hogy az Istennek ládáját elhozzák Kirjáth-Jeárimból.
 fa4dh6fed 13,6
-Felméne azért Dávid és vele az egész Izráel Baalába  vagy Kirjáth-Jeárimba, a mely Júdában van, hogy onnan elhozzák az Úr Istennek ládáját, mely az ő nevéről neveztetik, a ki a Khérubok közt ül.
+Felméne azért Dávid és vele az egész Izráel Baalába vagy Kirjáth-Jeárimba, a mely Júdában van, hogy onnan elhozzák az Úr Istennek ládáját, mely az ő nevéről neveztetik, a ki a Khérubok közt ül.
 fa4dh6fed 13,7
 És helyhezteték az Isten ládáját az Abinádáb házából egy új szekérre; Uzza és Ahió vezetik vala a szekeret.
 fa4dh6fed 13,8
@@ -1048,7 +1048,7 @@ Külde pedig Hírám, Tírus királya Dávidhoz követeket: czédrusfákat, kőm
 fa4dh6fed 14,2
 És megismeré Dávid, hogy az Úr őt megerősítette a királyságban Izráel felett, mivelhogy igen felmagasztaltatott vala az ő országa az ő népéért, az Izráelért.
 fa4dh6fed 14,3
-Vőn pedig Dávid még több  feleséget Jeruzsálemben, és nemze Dávid még több fiakat és leányokat.
+Vőn pedig Dávid még több feleséget Jeruzsálemben, és nemze Dávid még több fiakat és leányokat.
 fa4dh6fed 14,4
 És ezek neveik azoknak, a kik születtek néki Jeruzsálemben: Sammua, Sobáb, Nátán és Salamon,
 fa4dh6fed 14,5
@@ -1078,35 +1078,35 @@ Dávid azért úgy cselekedék, a mint néki Isten meghagyta volt, és vágák a
 fa4dh6fed 14,17
 És elterjede Dávid híre az országokban, és az Úr adá a tőle való félelmet minden pogányokra.
 fa4dh6fed 15,1
-Csináltata pedig Dávid magának házakat az ő  városában; és helyet készített az Isten ládájának, és annak sátort állított fel.
+Csináltata pedig Dávid magának házakat az ő városában; és helyet készített az Isten ládájának, és annak sátort állított fel.
 fa4dh6fed 15,2
-Akkor monda Dávid: Nem szabad másnak hordozni az Isten 33.] ládáját, hanem csak a Lévitáknak, mert az Úr őket választotta, hogy hordozzák az Isten ládáját, és néki szolgáljanak mindörökké.
+Akkor monda Dávid: Nem szabad másnak hordozni az Isten ládáját, hanem csak a Lévitáknak, mert az Úr őket választotta, hogy hordozzák az Isten ládáját, és néki szolgáljanak mindörökké.
 fa4dh6fed 15,3
-Összegyűjté azért Dávid Jeruzsálembe az egész Izráel népét, hogy az Úr ládáját az ő  helyére vitesse, melyet számára csináltatott vala.
+Összegyűjté azért Dávid Jeruzsálembe az egész Izráel népét, hogy az Úr ládáját az ő helyére vitesse, melyet számára csináltatott vala.
 fa4dh6fed 15,4
 Összegyűjté Dávid az Áron fiait is és a Lévitákat.
 fa4dh6fed 15,5
-A Kéhát fiai között fő vala Uriel, és az ő atyjafiai százhúszan valának. 
+A Kéhát fiai között fő vala Uriel, és az ő atyjafiai százhúszan valának.
 fa4dh6fed 15,6
-A Mérári fiai között Asája volt a fő, és az ő atyjafiai kétszázhúszan valának. 
+A Mérári fiai között Asája volt a fő, és az ő atyjafiai kétszázhúszan valának.
 fa4dh6fed 15,7
-A Gerson fiai között Jóel volt a fő, és az ő atyjafiai százharminczan valának. 
+A Gerson fiai között Jóel volt a fő, és az ő atyjafiai százharminczan valának.
 fa4dh6fed 15,8
-Az Elisáfán fiai között Semája volt a fő, és az ő atyjafiai kétszázan valának. 
+Az Elisáfán fiai között Semája volt a fő, és az ő atyjafiai kétszázan valának.
 fa4dh6fed 15,9
-A Hebron fiai között Eliel volt a fő, és az ő atyjafiai nyolczvanan valának. 
+A Hebron fiai között Eliel volt a fő, és az ő atyjafiai nyolczvanan valának.
 fa4dh6fed 15,10
 Az Uzziel fiai között fő vala Amminádáb, és az ő atyjafiai száztizenketten.
 fa4dh6fed 15,11
 Hivatá akkor Dávid Sádók és Abjátár papokat, a Léviták közül pedig Urielt, Asáját, Jóelt, Sémáját, Elielt és Amminádábot.
 fa4dh6fed 15,12
-És monda nékik: Ti vagytok a Léviták családfői. Szenteljétek meg magatokat s a ti atyátokfiait, és vigyétek az Úrnak, Izráel Istenének ládáját arra a helyre, a melyet  készítettem számára.
+És monda nékik: Ti vagytok a Léviták családfői. Szenteljétek meg magatokat s a ti atyátokfiait, és vigyétek az Úrnak, Izráel Istenének ládáját arra a helyre, a melyet készítettem számára.
 fa4dh6fed 15,13
 Minthogy kezdettől fogva nem mívelték ezt, az Úr, a mi Istenünk csapást bocsátott reánk, mert nem kerestük őt a rendtartás szerint.
 fa4dh6fed 15,14
 Megszentelék azért magokat a papok és a Léviták, hogy vigyék az Úrnak, Izráel Istenének ládáját.
 fa4dh6fed 15,15
-És felvevék a Léviták fiai az Isten ládáját, úgy, a mint Mózes meghagyta volt az Úrnak beszéde szerint, a rudakkal  vállaikra.
+És felvevék a Léviták fiai az Isten ládáját, úgy, a mint Mózes meghagyta volt az Úrnak beszéde szerint, a rudakkal vállaikra.
 fa4dh6fed 15,16
 És monda Dávid a Léviták fejedelmeinek, hogy állítsanak az ő atyjokfiai közül éneklőket, éneklőszerszámokkal, lantokkal, cziterákkal és czimbalmokkal, hogy énekeljenek felemelt szóval, nagy örömmel.
 fa4dh6fed 15,17
@@ -1114,7 +1114,7 @@ Választák azért a Léviták Hémánt a Jóel fiát, és az ő atyjafiai köz�
 fa4dh6fed 15,18
 És ő velök együtt az ő atyjokfiait másod renden, Zakariást, Bént, Jeázielt, Semirámótot, Jéhielt, Unnit, Eliábot, Benáját, Maaséját, Mattithját, Elifélet, Miknéját, Obed-Edomot és Jehielt, a kik ajtónállók valának.
 fa4dh6fed 15,19
-Éneklők: Hémán,  Asáf és Etán, réz czimbalmokkal, hogy zengedezzenek;
+Éneklők: Hémán, Asáf és Etán, réz czimbalmokkal, hogy zengedezzenek;
 fa4dh6fed 15,20
 Zakariás, Aziel, Semirámót, Jéhiel, Unni, Eliáb, Maaséja és Benája lantokkal a szűzek módjára;
 fa4dh6fed 15,21
@@ -1124,7 +1124,7 @@ fa4dh6fed 15,22
 fa4dh6fed 15,23
 Berekiás és Elkána a láda előtt való ajtónállók valának:
 fa4dh6fed 15,24
-Sébániás pedig és Jósafát, Nétanéel, Amásai, Zakariás, Benája és Eliézer papok kürtölnek vala az Isten ládája előtt; Obed-Edom és Jéhija, a kik kapunállók valának, a láda után mennek vala. 
+Sébániás pedig és Jósafát, Nétanéel, Amásai, Zakariás, Benája és Eliézer papok kürtölnek vala az Isten ládája előtt; Obed-Edom és Jéhija, a kik kapunállók valának, a láda után mennek vala.
 fa4dh6fed 15,25
 Dávid pedig s az Izráel vénei és az ezredek vezérei, a kik elmenének, hogy felvigyék az Úr szövetségének ládáját az Obed- Edom házából, nagy örömben valának.
 fa4dh6fed 15,26
@@ -1148,7 +1148,7 @@ Asáf vala a fő, utána másodrenden Zakariás, Jéhiel, Semirámót, Jékhiel,
 fa4dh6fed 16,6
 Továbbá Benája és Jaháziel papok kürtölnek vala szüntelen az Isten szövetségének ládája előtt.
 fa4dh6fed 16,7
-Azon a napon adott Dávid először éneket   az Úrnak dícséretére Asáfnak és az ő atyjafiainak kezébe.
+Azon a napon adott Dávid először éneket az Úrnak dícséretére Asáfnak és az ő atyjafiainak kezébe.
 fa4dh6fed 16,8
 Dícsérjétek az Urat, hívjátok segítségül az ő nevét, hirdessétek minden népek között az ő nagy dolgait.
 fa4dh6fed 16,9
@@ -1166,7 +1166,7 @@ Ez az Úr, a mi Istenünk; az egész földön az ő ítéletei!
 fa4dh6fed 16,15
 Emlékezzetek meg örökké az ő szövetségéről, és az ő beszédéről, a melyet parancsolt, ezer nemzetségig;
 fa4dh6fed 16,16
-A melyet szerzett  Ábrahámmal; és az Izsáknak tett esküjéről.
+A melyet szerzett Ábrahámmal; és az Izsáknak tett esküjéről.
 fa4dh6fed 16,17
 Amelyet állíta Jákóbnak örök végzésül, Izráelnek örökkévaló szövetségül,
 fa4dh6fed 16,18
@@ -1212,7 +1212,7 @@ Ott hagyá azért Dávid az Úr szövetségének ládájánál Asáfot és az ő
 fa4dh6fed 16,38
 Obed-Edomot és az ő hatvannyolcz atyjafiát (Obed-Edom pedig a Jedithun fia) és Hósát pedig ajtónállóknak.
 fa4dh6fed 16,39
-Sádók  papot pedig és az ő pap atyjafiait, az Úr sátora előtt hagyá a magaslaton, mely Gibeonban vala;
+Sádók papot pedig és az ő pap atyjafiait, az Úr sátora előtt hagyá a magaslaton, mely Gibeonban vala;
 fa4dh6fed 16,40
 Hogy áldozzanak az Úrnak szüntelen égőáldozattal az égőáldozatnak oltárán minden reggel és estve, és hogy mindent a szerint cselekedjenek, a mint megiratott az Úr törvényében, melyet parancsolt vala az Izráelnek,
 fa4dh6fed 16,41
@@ -1230,23 +1230,23 @@ Azon éjjel pedig lőn az Istennek szava Nátánhoz, mondván:
 fa4dh6fed 17,4
 Menj el, és mondd meg az én szolgámnak, Dávidnak: Ezt mondja az Úr: Ne te építs nékem házat lakásul;
 fa4dh6fed 17,5
-Mert nem laktam én attól fogva házban, mióta az Izráel fiait kihoztam, mind e mai napig, hanem egy hajlékból más hajlékba mentem és sátorból sátorba. 
+Mert nem laktam én attól fogva házban, mióta az Izráel fiait kihoztam, mind e mai napig, hanem egy hajlékból más hajlékba mentem és sátorból sátorba.
 fa4dh6fed 17,6
 A mely helyeken jártam az Izráel egész népével, szólottam-é vagy egyszer valakinek az Izráel birái közül (a kiknek parancsoltam vala, hogy az én népemet legeltessék), mondván: Miért nem csináltatok nékem czédrusfából házat?
 fa4dh6fed 17,7
-Most azért ezt mondjad az én szolgámnak, Dávidnak: Ezt mondja a Seregek Ura: Én választottalak téged a juhok  mellől a pásztorkunyhóból, hogy légy vezére az én népemnek, az Izráelnek,
+Most azért ezt mondjad az én szolgámnak, Dávidnak: Ezt mondja a Seregek Ura: Én választottalak téged a juhok mellől a pásztorkunyhóból, hogy légy vezére az én népemnek, az Izráelnek,
 fa4dh6fed 17,8
 És veled voltam mindenütt, valahová mentél, minden ellenségeidet is a te orczád elől elvesztettem, ennekfelette oly hírt szerzettem néked, a minemű hírök van a hatalmasoknak, a kik a földön vannak;
 fa4dh6fed 17,9
-Lakóhelyet is adtam az én népemnek, az Izráelnek és elplántálám őt; és lakik az ő helyén, és ki nem mozdul többé, 14.] s nem fogják az álnokságnak fiai sanyargatni, mint azelőtt.
+Lakóhelyet is adtam az én népemnek, az Izráelnek és elplántálám őt; és lakik az ő helyén, és ki nem mozdul többé, s nem fogják az álnokságnak fiai sanyargatni, mint azelőtt.
 fa4dh6fed 17,10
-És attól az időtől fogva, hogy megparancsoltam volt, hogy birák legyenek az én népem, az Izráel felett, minden te ellenségeidet megalázám, és azt is jelentém néked, hogy az  Úr házat épít néked.
+És attól az időtől fogva, hogy megparancsoltam volt, hogy birák legyenek az én népem, az Izráel felett, minden te ellenségeidet megalázám, és azt is jelentém néked, hogy az Úr házat épít néked.
 fa4dh6fed 17,11
 És lészen, mikor betelnek a te életed napjai, hogy a te atyáidhoz elmenj, a te magodat feltámasztom te utánad, mely a te fiaid közül való lesz, és az ő országát megerősítem.
 fa4dh6fed 17,12
 Ő épít nékem házat, és megerősítem az ő királyi székét mindörökké.
 fa4dh6fed 17,13
-Én leszek néki atyja, ő pedig fiam lészen, és az én irgalmasságomat ő tőle el nem veszem, mint a hogy a te előtted   valótól elvettem;
+Én leszek néki atyja, ő pedig fiam lészen, és az én irgalmasságomat ő tőle el nem veszem, mint a hogy a te előtted valótól elvettem;
 fa4dh6fed 17,14
 Hanem megerősítem őt az én házamban és az én országomban mindörökké, és az ő királyiszéke erős lesz mindörökké.
 fa4dh6fed 17,15
@@ -1254,7 +1254,7 @@ Mind e beszédek szerint és mind e látás szerint szóla Nátán Dávidnak.
 fa4dh6fed 17,16
 Beméne azért Dávid király, és leüle az Úr előtt, és monda: Ki vagyok én, óh Uram Isten, s micsoda az én házam is, hogy engemet eddig juttattál?
 fa4dh6fed 17,17
-Sőt még ez is kevés volt előtted, óh Isten! hanem ennekfelette szólál jövendőt is a te szolgád háza felől, és mint magas rangú  embert, úgy tekintettél engemet, Úr Isten!
+Sőt még ez is kevés volt előtted, óh Isten! hanem ennekfelette szólál jövendőt is a te szolgád háza felől, és mint magas rangú embert, úgy tekintettél engemet, Úr Isten!
 fa4dh6fed 17,18
 És mit kérhetne Dávid többet te tőled, a te szolgádnak tisztességére, holott te jól ismered a te szolgádat?
 fa4dh6fed 17,19
@@ -1270,9 +1270,9 @@ Most azért Uram, a szó, a melyet szólál a te szolgád felől és az ő háza
 fa4dh6fed 17,24
 Maradjon meg és magasztaltassék fel a te neved mindörökké, hogy mondhassák: A Seregek Ura az Izráel Istene, Istene Izráelnek; és Dávidnak, a te szolgádnak háza legyen állandó előtted.
 fa4dh6fed 17,25
-Minthogy te, én Istenem, a te szolgádnak füle hallására megjelentetted, hogy néki házat  csinálsz: ezokáért indula meg a te szolgád, hogy könyörgene előtted.
+Minthogy te, én Istenem, a te szolgádnak füle hallására megjelentetted, hogy néki házat csinálsz: ezokáért indula meg a te szolgád, hogy könyörgene előtted.
 fa4dh6fed 17,26
-Most azért én Uram, te vagy az Isten, és te szólád e jó  dolgot a te szolgád felől.
+Most azért én Uram, te vagy az Isten, és te szólád e jó dolgot a te szolgád felől.
 fa4dh6fed 17,27
 Most azért tessék néked megáldani a te szolgádnak házát, hogy legyen állandó mindörökké előtted; mivelhogy te, Uram, megáldottad, legyen azért áldott mindörökké.
 fa4dh6fed 18,1
@@ -1280,7 +1280,7 @@ Ezek után pedig megveré Dávid a Filiszteusokat, és megalázá őket, és Gá
 fa4dh6fed 18,2
 A Moábitákat is megveré; és a Moábiták Dávidnak adófizető szolgái lettek.
 fa4dh6fed 18,3
-Továbbá megveré Dávid Hámátban Hadadézert is, Sóbának királyát, mikor elindult vala, hogy az Eufrátes folyóvízig  vesse birodalmának határát.
+Továbbá megveré Dávid Hámátban Hadadézert is, Sóbának királyát, mikor elindult vala, hogy az Eufrátes folyóvízig vesse birodalmának határát.
 fa4dh6fed 18,4
 Dávid pedig nyere ő tőle ezer szekeret és hétezer lovast és húszezer gyalogost; és minden szekeres lovaknak inait elvagdaltatá Dávid, és csak száz szekérbe valót tarta meg azokból.
 fa4dh6fed 18,5
@@ -1296,11 +1296,11 @@ Mikor meghallotta volna pedig Tóhu, a Hamáthbeli király, hogy Dávid megverte
 fa4dh6fed 18,10
 Küldé Dávid királyhoz az ő fiát, Hadorámot, hogy köszöntené őt és megáldaná, mivelhogy megharczolt vala Hadadézerrel és megverte vala őt; mert Tóhu is hadakozik Hadadézer ellen. És külde Dávidnak sok arany, ezüst és rézedényt,
 fa4dh6fed 18,11
-És Dávid király ezeket is az Úrnak szentelé,  az ezüsttel és az aranynyal együtt, a melyet nyert vala minden pogányoktól, az Edomitáktól, a Moábitáktól, az Ammon fiaitól, a Filiszteusoktól és Amálekitáktól.
+És Dávid király ezeket is az Úrnak szentelé, az ezüsttel és az aranynyal együtt, a melyet nyert vala minden pogányoktól, az Edomitáktól, a Moábitáktól, az Ammon fiaitól, a Filiszteusoktól és Amálekitáktól.
 fa4dh6fed 18,12
 Abisai pedig, a Séruja fia, az Edomiták közül a Sónak völgyében megvere tizennyolczezeret.
 fa4dh6fed 18,13
-És rendele Edomban   Dávid tiszttartókat, és lettek az Edombeliek mind Dávidnak szolgái. És megsegíté az Úr Dávidot mindenütt, a merre csak ment.
+És rendele Edomban Dávid tiszttartókat, és lettek az Edombeliek mind Dávidnak szolgái. És megsegíté az Úr Dávidot mindenütt, a merre csak ment.
 fa4dh6fed 18,14
 Így uralkodék Dávid az egész Izráel felett, és ítéletet és igazságot szolgáltat vala egész népének.
 fa4dh6fed 18,15
@@ -1372,7 +1372,7 @@ Akkor monda Joáb: Az Úr száz ennyivel szaporítsa meg az ő népét, a mennyi
 fa4dh6fed 21,4
 De a király szava erősebb volt a Joábénál. Elméne azért Joáb, és bejárta egész Izráelt; azután megtért Jeruzsálembe.
 fa4dh6fed 21,5
-És megjelenté Joáb a megszámlált népnek számát Dávidnak. És volt az egész Izráel népének száma  ezerszer ezer és százezer fegyverfogható férfi. A Júda fiai közül pedig négyszázhetvenezer fegyverfogható férfi.
+És megjelenté Joáb a megszámlált népnek számát Dávidnak. És volt az egész Izráel népének száma ezerszer ezer és százezer fegyverfogható férfi. A Júda fiai közül pedig négyszázhetvenezer fegyverfogható férfi.
 fa4dh6fed 21,6
 A Lévi és Benjámin fiait azonban nem számlálta közéjök; mert sehogy sem tetszett Joábnak a király parancsolata.
 fa4dh6fed 21,7
@@ -1384,11 +1384,11 @@ Akkor szóla az Úr Gádnak, a Dávid prófétájának, mondván:
 fa4dh6fed 21,10
 Eredj el, szólj Dávidnak ekképen: Ezt mondja az Úr: Három dolgot teszek elődbe, válaszsz magadnak azok közül egyet, hogy azt cselekedjem veled.
 fa4dh6fed 21,11
-Elméne azért Gád  próféta Dávidhoz, és monda néki: Ezt mondja az Úr: válaszsz magadnak!
+Elméne azért Gád próféta Dávidhoz, és monda néki: Ezt mondja az Úr: válaszsz magadnak!
 fa4dh6fed 21,12
 Vagy három esztendeig való éhséget, vagy hogy három hónapig emésztessél ellenségeid által és a te ellenséged fegyvere legyen rajtad; vagy az Úr fegyvere és a döghalál három napig kegyetlenkedjék földedben és az Úr angyala pusztítson Izráel minden határaiban! Azért lássad most, mit feleljek annak, a ki engem hozzád küldött.
 fa4dh6fed 21,13
-És monda Dávid Gádnak: Nagy az én szorongattatásom! Hadd essem inkább az Úr kezébe (mert igen nagy az ő  irgalmassága) és ne essem emberek kezébe!
+És monda Dávid Gádnak: Nagy az én szorongattatásom! Hadd essem inkább az Úr kezébe (mert igen nagy az ő irgalmassága) és ne essem emberek kezébe!
 fa4dh6fed 21,14
 Bocsáta azért az Úr döghalált Izráelre; és meghalának Izráel közül hetvenezeren.
 fa4dh6fed 21,15
@@ -1414,7 +1414,7 @@ fa4dh6fed 21,24
 fa4dh6fed 21,25
 Ada azért Dávid Ornánnak a szérűért hatszáz arany siklust.
 fa4dh6fed 21,26
-És építe ott oltárt Dávid az Úrnak, és áldozék égő- és hálaáldozatokkal és segítségül hívá az Urat, a ki meghallgatá őt, mennyből tüzet   bocsátván az égőáldozat oltárára.
+És építe ott oltárt Dávid az Úrnak, és áldozék égő- és hálaáldozatokkal és segítségül hívá az Urat, a ki meghallgatá őt, mennyből tüzet bocsátván az égőáldozat oltárára.
 fa4dh6fed 21,27
 És parancsola az Úr az angyalnak; és betevé az ő kardját hüvelyébe.
 fa4dh6fed 21,28
@@ -1424,15 +1424,15 @@ fa4dh6fed 21,29
 fa4dh6fed 21,30
 És Dávid nem mehetett fel oda, hogy az Istent megengesztelje, mert igen megrettent volt az Úr angyalának kardjától.)
 fa4dh6fed 22,1
-Monda Dávid: Ez az  Úr Istennek háza és az égőáldozatnak oltára Izráel számára.
+Monda Dávid: Ez az Úr Istennek háza és az égőáldozatnak oltára Izráel számára.
 fa4dh6fed 22,2
 Megparancsolá azért Dávid, hogy gyűjtsék össze az Izráel földén való jövevényeket, a kiket kővágókká tőn, hogy faragni való köveket vágnának, hogy az Isten házát megcsinálnák.
 fa4dh6fed 22,3
 Továbbá sok vasat szerze Dávid szegeknek, az ajtókhoz és a foglalásokra; rezet is bőségesen minden mérték nélkül.
 fa4dh6fed 22,4
-Számtalan czédrusfát is; mert a Sídon és Tírus  város beliek czédrusfákat bőségesen szállítának Dávidnak.
+Számtalan czédrusfát is; mert a Sídon és Tírus város beliek czédrusfákat bőségesen szállítának Dávidnak.
 fa4dh6fed 22,5
-Mert monda Dávid: Az én fiam, Salamon,  gyermek és igen gyenge, az Úrnak pedig nagy házat kell építeni, mely híres legyen és ékesség az egész világon; elkészítek azért mindeneket néki. Dávid azért mindeneket nagy bőségesen megszerze, minekelőtte meghalna.
+Mert monda Dávid: Az én fiam, Salamon, gyermek és igen gyenge, az Úrnak pedig nagy házat kell építeni, mely híres legyen és ékesség az egész világon; elkészítek azért mindeneket néki. Dávid azért mindeneket nagy bőségesen megszerze, minekelőtte meghalna.
 fa4dh6fed 22,6
 Hivatá azért Dávid az ő fiát, Salamont, és meghagyá néki, hogy az Úrnak, Izráel Istenének házat csináltasson.
 fa4dh6fed 22,7
@@ -1448,7 +1448,7 @@ Most édes fiam legyen az Úr veled, hogy sikerüljön néked házat építeni a
 fa4dh6fed 22,12
 De adjon az Úr néked értelmet és bölcseséget, mikor téged Izráel fölé helyez, hogy az Úrnak a te Istenednek törvényét megőrízzed.
 fa4dh6fed 22,13
-Akkor jól lesz dolgod,  ha a rendeléseket és a végzéseket megtartod és teljesíted azokat, a melyeket az Úr Mózes által parancsolt volt Izráelnek. Légy bátor, légy erős, ne félj, és ne rettegj!
+Akkor jól lesz dolgod, ha a rendeléseket és a végzéseket megtartod és teljesíted azokat, a melyeket az Úr Mózes által parancsolt volt Izráelnek. Légy bátor, légy erős, ne félj, és ne rettegj!
 fa4dh6fed 22,14
 Ímé én is az én szegénységemben szereztem az Úr házának építésére százezer tálentom aranyat és ezerszer ezer tálentom ezüstöt, és rezet, s vasat mérték nélkül, mert igen bőven van; fákat is, köveket is szerzettem; te is szerezz ezekhez.
 fa4dh6fed 22,15
@@ -1466,7 +1466,7 @@ Megvénhedék pedig Dávid és mikor igen koros volna: királylyá tevé az ő f
 fa4dh6fed 23,2
 És összegyűjté Izráel összes fejedelmeit, a papokat és a Lévitákat is.
 fa4dh6fed 23,3
-És megszámláltatának a Léviták, harmincz  esztendőstől fogva, és a kik annál idősebbek valának; és azok száma fejenként, férfianként harmincznyolczezer volt.
+És megszámláltatának a Léviták, harmincz esztendőstől fogva, és a kik annál idősebbek valának; és azok száma fejenként, férfianként harmincznyolczezer volt.
 fa4dh6fed 23,4
 Ezek közül huszonnégyezeren az Úr háza teendőinek gondviselői valának, és hatezeren tiszttartók és birák.
 fa4dh6fed 23,5
@@ -1522,7 +1522,7 @@ fa4dh6fed 23,29
 fa4dh6fed 23,30
 És hogy álljanak az Úrnak tiszteletére és dícséretére, úgy reggel, mint este;
 fa4dh6fed 23,31
-És hogy áldozzanak az Úrnak minden égőáldozattal, minden szombaton, a hónapok első napjain és a szokott ünnepeken  bizonyos szám szerint, a mint szükség vala, szüntelen az Úr előtt;
+És hogy áldozzanak az Úrnak minden égőáldozattal, minden szombaton, a hónapok első napjain és a szokott ünnepeken bizonyos szám szerint, a mint szükség vala, szüntelen az Úr előtt;
 fa4dh6fed 23,32
 És hogy szorgalmasan őrizzék a gyülekezet sátorát, őrizzék a szenthelyet, és hogy vigyázzanak az ő atyjokfiainak, az Áron fiainak szolgálatjánál az Úr házában.
 fa4dh6fed 24,1
@@ -1530,13 +1530,13 @@ Az Áron fiainak is voltak rendjeik. Áron fiai: Nádáb, Abihú, Eleázár és 
 fa4dh6fed 24,2
 Nádáb és Abihú még atyjuk előtt meghaltak és fiaik nem valának, azért Eleázár és Itamár viselék a papságot.
 fa4dh6fed 24,3
-És elosztá őket Dávid és Sádók, ki az Eleázár fiai közül vala, és Ahimélek, ki az Itamár fiai közül vala, az ő tisztök szerint a szolgálatra. 
+És elosztá őket Dávid és Sádók, ki az Eleázár fiai közül vala, és Ahimélek, ki az Itamár fiai közül vala, az ő tisztök szerint a szolgálatra.
 fa4dh6fed 24,4
 Eleázár fiai között pedig több főember találtaték, mint az Itamár fiai között, mikor eloszták őket. Az Eleázár fiai között családjaik szerint tizenhat főember volt; az Itamár fiai közül, családjaik szerint, nyolcz.
 fa4dh6fed 24,5
 Eloszták pedig őket sors által válogatás nélkül, mert a szenthelynek fejedelmei és Istennek fejedelmei valának úgy az Eleázár, mint az Itamár fiai közül valók.
 fa4dh6fed 24,6
-És beírá őket Semája, a Nétanéel fia, a Lévi nemzetségéből való íródeák, a király előtt és a fejedelmek előtt, Sádók pap  előtt; Ahimélek előtt, ki Abjátár fia vala, és a papoknak és Lévitáknak családfői előtt. Egy család sorsoltatott az Eleázár és egy az Itamár nemzetségéből. 
+És beírá őket Semája, a Nétanéel fia, a Lévi nemzetségéből való íródeák, a király előtt és a fejedelmek előtt, Sádók pap előtt; Ahimélek előtt, ki Abjátár fia vala, és a papoknak és Lévitáknak családfői előtt. Egy család sorsoltatott az Eleázár és egy az Itamár nemzetségéből.
 fa4dh6fed 24,7
 Esék pedig az első sors Jojáribra; a második Jedájára;
 fa4dh6fed 24,8
@@ -1570,7 +1570,7 @@ A mi illeti Rehábiát: a Rehábia fiai közül Issija vala fő.
 fa4dh6fed 24,22
 Az Ishár fiai közül Selómót; és a Selómót fiai közül Jahát.
 fa4dh6fed 24,23
-A Hebron  fiai közül első vala Jérija, Amárja második, Jaháziel harmadik, Jekámhám negyedik.
+A Hebron fiai közül első vala Jérija, Amárja második, Jaháziel harmadik, Jekámhám negyedik.
 fa4dh6fed 24,24
 Uzziel fiai: Mika; a Mika fiai közül Sámir.
 fa4dh6fed 24,25
@@ -1592,7 +1592,7 @@ Dávid és a sereg fővezérei a szolgálatra kijelölék az Asáf, Hémán és 
 fa4dh6fed 25,2
 Az Asáf fiai közül: Zakkúr, József, Nétánia és Asaréla, az Asáf fiai Asáf mellett, a ki a király mellett prófétál vala.
 fa4dh6fed 25,3
-A Jédutun fiai közül: A Jédutun fiai Gedália, Séri, Jésája, Hasábia, Mattithia és  Simei, hatan cziterával az ő atyjok Jédutun mellett, a ki az Úr tiszteletére és dícséretére prófétál vala.
+A Jédutun fiai közül: A Jédutun fiai Gedália, Séri, Jésája, Hasábia, Mattithia és Simei, hatan cziterával az ő atyjok Jédutun mellett, a ki az Úr tiszteletére és dícséretére prófétál vala.
 fa4dh6fed 25,4
 A Hémán fiai közül: Hémán fiai: Bukkija, Mattánia, Uzziel, Sébuel, Jérimót, Hanánia, Hanáni, Eliáta, Giddálti, Romámti-Ezer, Josbekása, Mallóti, Hótir, Maháziót.
 fa4dh6fed 25,5
@@ -1688,11 +1688,11 @@ A külső részen napnyugat felé: négy a felmenő töltésen, kettő a külső
 fa4dh6fed 26,19
 Ezek az ajtónállók csoportjai a Kóriták és Méráriták közül.
 fa4dh6fed 26,20
-A Léviták közül: Ahija volt az Isten háza kincsének, és az Istennek szentelt kincsnek főgondviselője. 
+A Léviták közül: Ahija volt az Isten háza kincsének, és az Istennek szentelt kincsnek főgondviselője.
 fa4dh6fed 26,21
 A Lahdán fiai, Gersoniták fiai Lahdántól; a Lahdán családfői, Gersonita Jéhiéli.
 fa4dh6fed 26,22
-Jéhiéli fiai: Zétám és Joel az ő testvére, a kik az Úr háza kincseinek valának gondviselői. 
+Jéhiéli fiai: Zétám és Joel az ő testvére, a kik az Úr háza kincseinek valának gondviselői.
 fa4dh6fed 26,23
 Az Amrám, Ishár, Hebron és Aziel nemzetségéből valók is.
 fa4dh6fed 26,24
@@ -1700,11 +1700,11 @@ Sébuel pedig Gersonnak, a Mózes fiának fia a kincs főgondviselője volt.
 fa4dh6fed 26,25
 Az ő atyjafiai pedig, Eliézertől valók, ezek: Rehábiás az ő fia, kinek fia Jésáia, kinek fia Jórám, kinek fia Zikri, kinek fia Selómit.
 fa4dh6fed 26,26
-Ez a Selómit és az ő testvérei valának gondviselői minden megszentelt kincsnek, a melyet Dávid király, a nemzetségek  fejedelmei, az ezredesek, századosok és a hadakozó nép fejedelmei szenteltek vala Istennek, 
+Ez a Selómit és az ő testvérei valának gondviselői minden megszentelt kincsnek, a melyet Dávid király, a nemzetségek fejedelmei, az ezredesek, századosok és a hadakozó nép fejedelmei szenteltek vala Istennek,
 fa4dh6fed 26,27
 A melyet a hadban való zsákmányból szenteltek vala az Úr házának építésére,
 fa4dh6fed 26,28
-És a mit csak szentelt Sámuel próféta, és Saul, a Kis fia, és Abner, a Nér fia, és Joáb, a Séruja fia; és bárki szentelt is valamit Istennek: mind Selómitnak és az ő testvéreinek gondviselése alatt volt. 
+És a mit csak szentelt Sámuel próféta, és Saul, a Kis fia, és Abner, a Nér fia, és Joáb, a Séruja fia; és bárki szentelt is valamit Istennek: mind Selómitnak és az ő testvéreinek gondviselése alatt volt.
 fa4dh6fed 26,29
 Az Isháriták közül Kenániás és az ő fiai Izráel külső dolgaival bízattak meg, mint tiszttartók és birák.
 fa4dh6fed 26,30
@@ -1714,7 +1714,7 @@ A Hebroniták között Jerija vala a fő (a Hebroniták nemzetségeik és csalá
 fa4dh6fed 26,32
 És az ő atyjafiai, erős férfiak, kétezerhétszázan valának, családfők; a kiket Dávid király gondviselőkké tett a Rubenitákon és Gáditákon és Manasse félnemzetségén, mind az Istennek, mind a királynak minden dolgaiban.
 fa4dh6fed 27,1
-Ezek az Izráel fiai szám szerint, családfők, ezredesek, századosok és előljáróik azoknak, a kik a király szolgálatában állottak a seregek minden dolgaiban, a kik be- és kimennek hónapról-hónapra az egész esztendőn át; a seregek egyenként huszonnégyezer ember ből állának. 
+Ezek az Izráel fiai szám szerint, családfők, ezredesek, századosok és előljáróik azoknak, a kik a király szolgálatában állottak a seregek minden dolgaiban, a kik be- és kimennek hónapról-hónapra az egész esztendőn át; a seregek egyenként huszonnégyezer ember ből állának.
 fa4dh6fed 27,2
 Az első csapatnak vezére az első hónapban Jasobeám, a Zabdiel fia vala, mely csapat huszonnégyezerből állott;
 fa4dh6fed 27,3
@@ -1724,7 +1724,7 @@ A második csapatnak vezére a második hónapban Dódai Ahohites vala és az ő
 fa4dh6fed 27,5
 A harmadik seregnek a harmadik hónapban Benája volt a vezére, a ki Jójada főpapnak volt a fia; az ő csapatja is huszonnégyezerből állott.
 fa4dh6fed 27,6
-Ez a Benája hős volt a harmincz között, sőt a harmincz felett való volt. Csapatjának  előljárója az ő fia, Ammizabád vala.
+Ez a Benája hős volt a harmincz között, sőt a harmincz felett való volt. Csapatjának előljárója az ő fia, Ammizabád vala.
 fa4dh6fed 27,7
 A negyediknek vezére a negyedik hónapban Asáel vala, a Joáb testvére és utána az ő fia, Zebádia. Az ő csapatja is huszonnégyezerből állott.
 fa4dh6fed 27,8
@@ -1762,7 +1762,7 @@ Nem számláltatá meg pedig Dávid azokat, a kik húsz esztendőn alól valána
 fa4dh6fed 27,24
 Joáb, a Séruja fia megkezdé a számlálást, de véghez nem vivé, mivelhogy e miatt Istennek haragja támadt Izráel ellen. Ez okból a szám nem vétetett fel a Dávid király krónikájának száma közé.
 fa4dh6fed 27,25
-A király kincsének gondviselője vala Azmávet, az Adiel fia; a mezőkön, a városokban, a falvakban, a várakban való kincseknek pedig Jónatán, az Uzziás fia volt a gondviselője; 
+A király kincsének gondviselője vala Azmávet, az Adiel fia; a mezőkön, a városokban, a falvakban, a várakban való kincseknek pedig Jónatán, az Uzziás fia volt a gondviselője;
 fa4dh6fed 27,26
 A föld művelésére rendelt mezei munkások felett volt Ezri, a Kélub fia.
 fa4dh6fed 27,27
@@ -1786,9 +1786,9 @@ Egybehívatá pedig Dávid Jeruzsálembe az Izráel összes fejedelmeit, a nemze
 fa4dh6fed 28,2
 És felálla Dávid király az ő lábaira, és monda: Halljátok meg szómat atyámfiai és én népem! Elvégezém szívem szerint, hogy az Úr szövetsége ládájának nyugodalmas házat csináltatnék és a mi Istenünk lábainak zsámolyt; hozzá is készítettem mindent az építéshez.
 fa4dh6fed 28,3
-De az Isten monda nékem: Ne   te csinálj házat az én nevemnek; mert hadakozó ember vagy, sok vért is ontottál immár. 
+De az Isten monda nékem: Ne te csinálj házat az én nevemnek; mert hadakozó ember vagy, sok vért is ontottál immár.
 fa4dh6fed 28,4
-Engem választa az Úr, Izráel Istene az én atyámnak egész házából, hogy lennék királya az Izráel népének mindörökké; mert Júdát választotta előljárónak és a Júda törzsében az én atyámnak 13.] háznépét; az én atyámnak fiai közül pedig engem méltóztatott királylyá tenni egész Izráel felett.
+Engem választa az Úr, Izráel Istene az én atyámnak egész házából, hogy lennék királya az Izráel népének mindörökké; mert Júdát választotta előljárónak és a Júda törzsében az én atyámnak háznépét; az én atyámnak fiai közül pedig engem méltóztatott királylyá tenni egész Izráel felett.
 fa4dh6fed 28,5
 És minden fiaim közül (mert az Úr sok fiakat adott nékem) választotta Salamont az én fiamat, hogy ülne az Úr királyságának székében Izráel felett.
 fa4dh6fed 28,6
@@ -1802,7 +1802,7 @@ Te azért, fiam, Salamon, ismerd meg a te atyád Istenét, és szolgálj néki t
 fa4dh6fed 28,10
 Most azért, mivelhogy az Úr választott téged, hogy néki szent házat építs: légy erős és készítsd meg azt.
 fa4dh6fed 28,11
-Akkor átadá Dávid az ő fiának, Salamonnak a tornácznak, annak házacskáinak, kincstartó helyeinek, felházainak és belső kamaráinak, a kegyelem táblája helyének is  formáját,
+Akkor átadá Dávid az ő fiának, Salamonnak a tornácznak, annak házacskáinak, kincstartó helyeinek, felházainak és belső kamaráinak, a kegyelem táblája helyének is formáját,
 fa4dh6fed 28,12
 És mindennek formáját, a melyeket szívében elgondolt vala, az Úr házának pitvarai felől, az Isten háza kincsének és a szent kincseknek számára köröskörül levő minden kamarák felől.
 fa4dh6fed 28,13
@@ -1830,7 +1830,7 @@ fa4dh6fed 29,2
 fa4dh6fed 29,3
 Ezenfölül, mivel nagy kedvem van az én Istenem házához, a mi kincsem, aranyam és ezüstöm van, oda adom az én Istenem házának szükségére, azok mellett, a melyeket szereztem a szentház számára.
 fa4dh6fed 29,4
-Háromezer tálentom aranyat Ofir aranyából és hétezer tálentom tiszta ezüstöt, a házak falainak  beborítására.
+Háromezer tálentom aranyat Ofir aranyából és hétezer tálentom tiszta ezüstöt, a házak falainak beborítására.
 fa4dh6fed 29,5
 Aranyat az arany szerszámok ra, ezüstöt az ezüstre és minden szükségre, a mesteremberek kezéhez. És ha valaki még adni akar, szabad akaratja szerint, töltse meg az ő kezét ma és adjon, a mit akar az Úrnak.
 fa4dh6fed 29,6
@@ -1844,15 +1844,15 @@ fa4dh6fed 29,9
 fa4dh6fed 29,10
 Hálákat ada azért Dávid az Úrnak az egész gyülekezet előtt, és monda Dávid: Áldott vagy te, Uram, Izráelnek, a mi atyánknak Istene, öröktől fogva mind örökké!
 fa4dh6fed 29,11
-Oh Uram, tied a nagyság, hatalom, dicsőség,  örökkévalóság és méltóság, sőt minden, valami a mennyben és a földön van, tied ! Tied, oh Uram, az ország, te magasztalod fel magadat, hogy légy minden fejedelmek felett!
+Oh Uram, tied a nagyság, hatalom, dicsőség, örökkévalóság és méltóság, sőt minden, valami a mennyben és a földön van, tied ! Tied, oh Uram, az ország, te magasztalod fel magadat, hogy légy minden fejedelmek felett!
 fa4dh6fed 29,12
 A gazdagság és a dicsőség mind te tőled vannak, és te uralkodol mindeneken; a te kezedben van mind az erősség és mind a birodalom; a te kezedben van mindeneknek felmagasztaltatása és megerősíttetése.
 fa4dh6fed 29,13
 Most azért, oh mi Istenünk, vallást teszünk előtted, és dícsérjük a te dicsőséges nevedet;
 fa4dh6fed 29,14
-Mert micsoda vagyok én, és micsoda az én népem, hogy erőnk lehetne a szabad akarat szerint való ajándék adására, a mint tettünk? Mert tőled van minden, és a miket a te kezedből  vettünk, azokat adtuk most néked.
+Mert micsoda vagyok én, és micsoda az én népem, hogy erőnk lehetne a szabad akarat szerint való ajándék adására, a mint tettünk? Mert tőled van minden, és a miket a te kezedből vettünk, azokat adtuk most néked.
 fa4dh6fed 29,15
-Mert mi csak jövevények vagyunk te  előtted és zsellérek, a mint a mi atyáink is egyenként; a mi életünk napjai olyanok e földön, mint az árnyék, melyben állandóság nincsen.
+Mert mi csak jövevények vagyunk te előtted és zsellérek, a mint a mi atyáink is egyenként; a mi életünk napjai olyanok e földön, mint az árnyék, melyben állandóság nincsen.
 fa4dh6fed 29,16
 Oh mi Urunk Istenünk! mind ez a gazdagság, a mit gyűjtöttünk, hogy néked és a te szent nevednek házat építsünk, a te kezedből való és mindazok tiéid!
 fa4dh6fed 29,17
@@ -1880,6 +1880,6 @@ Az idő pedig, a melyben uralkodék Izráel felett, negyven esztendő. Hebronban
 fa4dh6fed 29,28
 És meghala jó vénségben, életével, gazdagságával és minden dicsőségével megelégedve. És uralkodék az ő fia, Salamon helyette.
 fa4dh6fed 29,29
-Dávid királynak pedig úgy első, mint    utolsó dolgai, ímé megirattak a Sámuel próféta könyvében és a Nátán próféta könyvében és a Gád próféta könyvében;
+Dávid királynak pedig úgy első, mint utolsó dolgai, ímé megirattak a Sámuel próféta könyvében és a Nátán próféta könyvében és a Gád próféta könyvében;
 fa4dh6fed 29,30
-Az ő egész országlásával, hatalmasságával és mind azzal, a mi az ő idejében történt vele, Izráellel és a föld minden országaival.  
+Az ő egész országlásával, hatalmasságával és mind azzal, a mi az ő idejében történt vele, Izráellel és a föld minden országaival.
