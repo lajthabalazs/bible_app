@@ -7,9 +7,12 @@
     <string name="unknownTitle">Ismeretlen</string>
     <string name="chapter">Fejezet</string>
     <string name="versesLabel">vers</string>
-    <string name="facebookShareButton">facebookShareButton</string>
+    <string name="facebookShareButton">Share on Facebook</string>
+    <string name="addBookmarkButton">Add bookmark</string>
     <string name="facebookPostSend">Megosztom</string>
     <string name="facebookPostCancel">Mégsem</string>
     <string name="facebookShareDialogTitle">Hallja mindenki!</string>
+    <string name="saveBookmark">Könyvjelző hozzáadása</string>
+    <string name="noteLabel">Megjegyzés</string>
     
 </resources>

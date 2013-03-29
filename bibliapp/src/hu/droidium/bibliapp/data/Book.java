@@ -6,11 +6,13 @@ import java.util.Vector;
 
 public class Book {
 	private String title;
+	private String id;
 	private Vector<Chapter> chapters = new Vector<Chapter>();
 	//HashMap<String, String> verses = new HashMap<String, String>();
 	
 
-	public Book(BufferedReader in) throws IOException {
+	public Book(String id, BufferedReader in) throws IOException {
+		this.id = id;
 		boolean firstLine = true;
 		int chapterIndex = -1;
 		int verseIndex = -1;
@@ -66,5 +68,10 @@ public class Book {
 
 	public String getAbbreviation() {
 		return title;
+	}
+
+
+	public String getId() {
+		return id;
 	}
 }

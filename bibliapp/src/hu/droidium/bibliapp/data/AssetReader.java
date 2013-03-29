@@ -37,7 +37,7 @@ public class AssetReader {
 	public static Book readFile(String fileName, Context context) {
 		try {
 			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(fileName), "UTF8"));
-			Book book = new Book(in);
+			Book book = new Book(fileName, in);
 			return book;
 		} catch (UnsupportedEncodingException e) {
 			e.printStackTrace();

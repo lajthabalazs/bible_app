@@ -40,4 +40,15 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         />
+
+    <ImageView
+        android:id="@+id/saveBookmark"
+        android:contentDescription="@string/addBookmarkButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/activity_small_horizontal_margin"
+        android:layout_toLeftOf="@+id/facebookShareButton"
+        android:src="@drawable/bookmark" />
+
 </RelativeLayout>

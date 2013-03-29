@@ -1,7 +1,11 @@
 package hu.droidium.bibliapp;
 
+import java.util.List;
+
 import hu.droidium.bibliapp.data.AssetReader;
 import hu.droidium.bibliapp.data.Book;
+import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.database.DatabaseManager;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -25,7 +29,8 @@ public class VerseListActivity extends FacebookEnabledBibleActivity implements O
 		int chapterIndex = intent.getIntExtra(CHAPTER_INDEX, -1);
 		Book book = AssetReader.readFile(fileName, this);
 		((TextView)findViewById(R.id.verseListTitle)).setText(book.getTitle());
-		adapter = new VerseAdapter(book, chapterIndex, getLayoutInflater(), this);
+		List<Bookmark> bookmarks = getBookmarksForChapter(book.getId(), chapterIndex);
+		adapter = new VerseAdapter(book, chapterIndex, bookmarks, getLayoutInflater(), this);
 		ListView verseList = (ListView)findViewById(R.id.verseList);
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);

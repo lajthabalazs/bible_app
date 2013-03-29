@@ -1,5 +1,8 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.database.DatabaseManager;
+
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
@@ -42,10 +45,12 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 	
 	
 	private boolean pendingPublishReauthorization = false;
+	private DatabaseManager databaseManager;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		databaseManager = new DatabaseManager(this);
 		uiHelper = new UiLifecycleHelper(this, this);
 		uiHelper.onCreate(savedInstanceState);
 	}
@@ -124,6 +129,15 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 	protected abstract void facebookSessionOpened();
 
 	protected abstract void facebookSessionClosed();
+
+	public List<Bookmark> getBookmarksForChapter(String bookId, int chapterIndex) {
+		List<Bookmark> bookmarks = databaseManager.getBookmarksForChapter(bookId, chapterIndex);
+		return bookmarks;
+	}
+	
+	public Bookmark saveBookmark(String note, String book, int chapter, int vers, String color) {
+		return databaseManager.saveBookmark(new Bookmark(note, book, chapter, vers, color));
+	}
 	
 	protected void publishStory(String message, String versId, String versBody) {
 		SharedPreferences prefs = getSharedPreferences(SHARED_PREFS, MODE_PRIVATE);

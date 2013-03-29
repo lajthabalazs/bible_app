@@ -176,17 +176,20 @@ public class Parser {
 		String capitalized = String.valueOf(chars);
 		String[] parts = capitalized.split(" ");
 		StringBuilder bulider = new StringBuilder();
-		for (String part : parts) {
-			for (String lowercase : SMALL_WORDS){
-				if (part.toLowerCase().equals(lowercase)) {
-					part = part.toLowerCase();
-					break;
+		for (int i = 0; i < parts.length; i++) {
+			String part = parts[i];
+			if (i!=0) {
+				for (String lowercase : SMALL_WORDS){
+					if (part.toLowerCase().equals(lowercase)) {
+						part = part.toLowerCase();
+						break;
+					}
 				}
-			}
-			for (String uppercase : LARGE_WORDS){
-				if (part.toUpperCase().equals(uppercase)) {
-					part = part.toUpperCase();
-					break;
+				for (String uppercase : LARGE_WORDS){
+					if (part.toUpperCase().equals(uppercase)) {
+						part = part.toUpperCase();
+						break;
+					}
 				}
 			}
 			if ((bulider.length() > 0) && (part.length() > 0)) {
