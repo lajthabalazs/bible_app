@@ -49,8 +49,6 @@ public class VerseListActivity extends FacebookEnabledBibleActivity implements O
 
 	@Override
 	public void onItemClick(AdapterView<?> parentView, View view, int itemIndex, long itemId) {
-		if (super.isFacebookSessionOpened()) {
-			adapter.showOptions(view, itemId);
-		}
+		adapter.showOptions(view, itemId, super.isFacebookSessionOpened());
 	}
 }
