@@ -1,6 +1,5 @@
 package hu.droidium.bibliapp;
 
-import hu.droidium.bibliapp.data.AssetReader; 
 import hu.droidium.bibliapp.data.Book;
 
 import android.content.Intent;
@@ -14,7 +13,6 @@ import android.widget.ListView;
 
 public class ChapterListActivity extends FacebookEnabledBibleActivity implements OnItemClickListener {
 
-	public static final String BOOK_FILE_NAME = "Book file name";
 	private ChapterAdapter adapter;
 	private String fileName; 
  
@@ -24,7 +22,7 @@ public class ChapterListActivity extends FacebookEnabledBibleActivity implements
 		setContentView(R.layout.chapter_list);
 		Intent intent = getIntent();
 		fileName = intent.getStringExtra(BOOK_FILE_NAME);
-		Book book = AssetReader.readFile(fileName, this);
+		Book book = getBook(fileName);
 		((TextView)findViewById(R.id.chapterListTitle)).setText(book.getTitle());
 		adapter = new ChapterAdapter(book, getLayoutInflater(), this);		
 		ListView chapterList = (ListView)findViewById(R.id.chapterList);

@@ -14,5 +14,6 @@
     <string name="facebookShareDialogTitle">Hallja mindenki!</string>
     <string name="saveBookmark">Könyvjelző hozzáadása</string>
     <string name="noteLabel">Megjegyzés</string>
+    <string name="bookmarksTitle">Könyvjelzők</string>
     
 </resources>

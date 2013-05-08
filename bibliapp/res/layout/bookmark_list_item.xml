@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:baselineAligned="false"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_small_vertical_margin"
+    android:paddingTop="@dimen/activity_small_vertical_margin"
+    android:background="@android:color/transparent">
+	<TextView
+	    android:drawableLeft="@drawable/bookmark"
+        android:id="@+id/verseTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/unknownTitle"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:background="@android:color/transparent"/>
+
+
+    <TextView
+        android:id="@+id/verseContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/unknownTitle"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:background="@android:color/transparent"/>
+</LinearLayout>

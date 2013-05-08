@@ -5,7 +5,6 @@ import java.util.List;
 import hu.droidium.bibliapp.data.AssetReader;
 import hu.droidium.bibliapp.data.Book;
 import hu.droidium.bibliapp.database.Bookmark;
-import hu.droidium.bibliapp.database.DatabaseManager;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -17,7 +16,6 @@ import android.widget.TextView;
 
 public class VerseListActivity extends FacebookEnabledBibleActivity implements OnItemClickListener {
 
-	public static final String CHAPTER_INDEX = "Chapter index";
 	private VerseAdapter adapter;
 
 	@Override
@@ -35,6 +33,10 @@ public class VerseListActivity extends FacebookEnabledBibleActivity implements O
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);
 		verseList.setOnItemClickListener(this);
+		if (intent.hasExtra(VERSE_INDEX)) {
+			int verseIndex = intent.getIntExtra(VERSE_INDEX,0);
+			verseList.setSelection(verseIndex);
+		}
 	}
 
 	@Override

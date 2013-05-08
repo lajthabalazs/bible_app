@@ -1,11 +1,15 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.data.AssetReader;
+import hu.droidium.bibliapp.data.Book;
 import hu.droidium.bibliapp.database.Bookmark;
 import hu.droidium.bibliapp.database.DatabaseManager;
 
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Vector;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -35,17 +39,26 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 			.asList("publish_actions");
 
 	private Session session;
+	private boolean sessionOnline = false;
 	private UiLifecycleHelper uiHelper;
 	private static final String PENDING_PUBLISH_KEY = "pendingPublishReauthorization";
 	private static final String SHARED_PREFS = "Biblia prefs";
 	private static final String MESSAGE_KEY = "Post message key";
 	private static final String VERS_ID_KEY = "Vers id key";
-
 	private static final String VERS_BODY_KEY = "Vers body key";
+	
+	public static final String BOOK_FILE_NAME = "Book file name";
+	public static final String CHAPTER_INDEX = "Chapter index";
+	public static final String VERSE_INDEX = "Vers index";
+	
 	
 	
 	private boolean pendingPublishReauthorization = false;
 	private DatabaseManager databaseManager;
+
+	private static Vector<String[]> titles;
+
+	private static HashMap<String, Book> books = new HashMap<String, Book>();
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -61,8 +74,6 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 		uiHelper.onResume();
 		if (session != null) {
 			session.addCallback(this);
-			Log.e("We have a session", "Session! cool. "
-					+ session.getState().toString());
 		} else {
 			Session.openActiveSession(this, true, this);
 		}
@@ -95,26 +106,8 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 		this.session = session;
 		session.addCallback(this);
 		if (state.isOpened()) {
-			if (pendingPublishReauthorization
-					&& state.equals(SessionState.OPENED_TOKEN_UPDATED)) {
-				pendingPublishReauthorization = false;
-				publishStory();
-			}
-			this.session = session; 
-			Log.e("Logged in to Facebook", "Yippikaye!");
-			Request.executeMeRequestAsync(session, new Request.GraphUserCallback() {
-				
-				@Override
-				public void onCompleted(GraphUser user, Response response) {
-					// TODO process user information if needed
-					if (user!=null) {
-						Log.e("We have a user!", user.getName());
-					} else {
-						Log.e("No user!", "WTF?");
-					}
-				}
-			});
-			facebookSessionOpened();
+			this.session = session;
+			checkIfOnline();
 		} else if (state.isClosed()) {
 			facebookSessionClosed();
 		}
@@ -125,6 +118,28 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 		super.onActivityResult(requestCode, resultCode, data);
 		uiHelper.onActivityResult(requestCode, resultCode, data);
 	}
+	
+	private void checkIfOnline() {
+		Request.executeMeRequestAsync(session, new Request.GraphUserCallback() {
+			@Override
+			public void onCompleted(GraphUser user, Response response) {
+				// TODO process user information if needed
+				if (user!=null) {
+					Log.i("We have a user!", user.getName());
+					sessionOnline = true;
+					if (pendingPublishReauthorization
+							&& session.getState().equals(SessionState.OPENED_TOKEN_UPDATED)) {
+						pendingPublishReauthorization = false;
+						publishStory();
+					}
+					facebookSessionOpened();
+				} else {
+					sessionOnline = false;
+					facebookSessionClosed();
+				}
+			}
+		});
+	}
 
 	protected abstract void facebookSessionOpened();
 
@@ -134,6 +149,11 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 		List<Bookmark> bookmarks = databaseManager.getBookmarksForChapter(bookId, chapterIndex);
 		return bookmarks;
 	}
+
+	public List<Bookmark> getAllBookmarks() {
+		return databaseManager.getAllBookmarks(null, false);
+	}
+
 	
 	public Bookmark saveBookmark(String note, String book, int chapter, int vers, String color) {
 		return databaseManager.saveBookmark(new Bookmark(note, book, chapter, vers, color));
@@ -168,7 +188,7 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 
 		Session session = Session.getActiveSession();
 
-		if (session != null) {
+		if (sessionOnline && session != null) {
 
 			// Check for publish permissions
 			List<String> permissions = session.getPermissions();
@@ -242,10 +262,22 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 	}
 
 	public boolean isFacebookSessionOpened() {
-		if (session == null) {
-			return false;
-		} else {
-			return session.isOpened();
+		return sessionOnline;
+	}
+
+	public Vector<String[]> getBookTitles() {
+		if (titles == null) {
+			titles = AssetReader.readTitles(this);
 		}
+		return titles;
+	}
+	
+	public Book getBook(String bookId) {
+		Book book = books.get(bookId);
+		if (book == null) {
+			book = AssetReader.readFile(bookId, this);
+			books.put(bookId, book);
+		}
+		return book;
 	}
 }
