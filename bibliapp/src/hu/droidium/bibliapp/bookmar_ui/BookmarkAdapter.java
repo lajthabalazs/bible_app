@@ -60,6 +60,15 @@ public class BookmarkAdapter implements ListAdapter {
 		titleView.setText(book.getChapter(bookmark.getChapter()).getVerse(bookmark.getVers()).getId());
 		TextView versTextView = (TextView)convertView.findViewById(R.id.verseContent);
 		versTextView.setText(book.getChapter(bookmark.getChapter()).getVerse(bookmark.getVers()).getLine());
+		TextView noteView = (TextView)convertView.findViewById(R.id.bookmarkNote);
+		noteView.setVisibility(View.GONE);
+		convertView.findViewById(R.id.noteTitle).setVisibility(View.GONE);
+		String note = bookmark.getNote();
+		if ((note != null) && (note.length() > 0)) {
+			noteView.setText(bookmark.getNote());
+			noteView.setVisibility(View.VISIBLE);
+			convertView.findViewById(R.id.noteTitle).setVisibility(View.VISIBLE);
+		}
 		return convertView;
 	}
 

@@ -47,6 +47,5 @@ public class BookmarkListActivity extends FacebookEnabledBibleActivity implement
 		intent.putExtra(CHAPTER_INDEX, bookmark.getChapter());
 		intent.putExtra(BOOK_FILE_NAME, bookmark.getBook());
 		startActivity(intent);
-		finish();
 	}
 }

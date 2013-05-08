@@ -27,4 +27,22 @@
         android:text="@string/unknownTitle"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:background="@android:color/transparent"/>
+	
+	<TextView
+	    android:id="@+id/noteTitle"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/noteLabel"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:background="@android:color/transparent"/>
+    
+    <TextView
+        android:id="@+id/bookmarkNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/unknownTitle"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:background="@android:color/transparent"/>
+
 </LinearLayout>

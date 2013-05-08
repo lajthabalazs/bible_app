@@ -8,6 +8,7 @@ import java.util.List;
 
 import android.app.AlertDialog;
 import android.database.DataSetObserver;
+import android.util.Log;
 import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -29,6 +30,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private SparseArray<Bookmark> bookmarks;
 	private int chapterIndex;
 	private long displayMenu = -1;
+	private boolean facebookEnabled;
 	
 	public VerseAdapter(Book book, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, FacebookEnabledBibleActivity activity) {
 		this.book = book;
@@ -75,19 +77,26 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		ImageView bookmarkButton = (ImageView)convertView.findViewById(R.id.saveBookmark);
 		if (displayMenu == position) {
 			displayMenu = -1;
+			Log.e("Display item", "Item found, setting display menu item to -1");
 			bookmarkButton.setVisibility(View.VISIBLE);
-			facebookButton.setVisibility(View.VISIBLE);
 			bookmarkButton.setOnClickListener(this);
-			facebookButton.setOnClickListener(this);
+			if (facebookEnabled) {
+				facebookButton.setVisibility(View.VISIBLE);
+				facebookButton.setOnClickListener(this);
+			}
 			// Animate buttons
 			Animation slideInFacebook = AnimationUtils.loadAnimation(activity, R.anim.facebook_share_button_in_from_right);
 			slideInFacebook.setDuration(600);
-			facebookButton.startAnimation(slideInFacebook);		
-			facebookButton.setTag(position);
+			if (facebookEnabled) {
+				facebookButton.startAnimation(slideInFacebook);		
+				facebookButton.setTag(position);
+			}
 			if (bookmarks.get(position) == null) {
 				Animation slideInBookmark = AnimationUtils.loadAnimation(activity, R.anim.save_bookmark_button_in_from_right);
 				slideInBookmark.setDuration(300);
 				bookmarkButton.startAnimation(slideInBookmark);
+			}
+			if (bookmarks.get(position) == null) {
 				bookmarkButton.setTag(position);
 			}
 		} else {
@@ -136,8 +145,10 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		return true;
 	}
 
-	public void showOptions(View view, long itemId) {
+	public void showOptions(View view, long itemId, boolean facebookEnabled) {
+		Log.e("Options requested", "For item " + itemId);
 		displayMenu = itemId;
+		this.facebookEnabled = facebookEnabled;
 		for (DataSetObserver observer : observers){
 			observer.onChanged();
 		}
@@ -145,7 +156,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 
 	@Override
 	public void onClick(View v) {
-		if (v.getId() == R.id.facebookShareButton) {
+		if ((v.getId() == R.id.facebookShareButton) && facebookEnabled) {
 			Integer index = (Integer)v.getTag();
 			if (index != null) {
 				final String versId = book.getChapter(chapterIndex).getVerse(index).getId();

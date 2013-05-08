@@ -21,7 +21,7 @@ public class BookListActivity extends FacebookEnabledBibleActivity implements On
 		setContentView(R.layout.book_list);
 		TextView bookmarksLink = (TextView) findViewById(R.id.bookmarkLink);
 		bookmarksLink.setOnClickListener(this);
-		adapter = new BookTitleAdapter(super.getBookTitles(), getLayoutInflater(), this);
+		adapter = new BookTitleAdapter(super.getBookTitles(), getLayoutInflater());
 		ListView bookList = (ListView) findViewById(R.id.bookList);
 		bookList.setCacheColorHint(Color.TRANSPARENT);
 		bookList.setAdapter(adapter);
@@ -39,14 +39,10 @@ public class BookListActivity extends FacebookEnabledBibleActivity implements On
 
 	@Override
 	protected void facebookSessionOpened() {
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
 	protected void facebookSessionClosed() {
-		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
