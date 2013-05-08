@@ -1,3 +1,4 @@
 biblia_parser/bin/*
 bibliapp/bin/*
 bibliapp/gen/*
+*/*.class
