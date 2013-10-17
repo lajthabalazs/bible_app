@@ -15,5 +15,7 @@
     <string name="saveBookmark">Könyvjelző hozzáadása</string>
     <string name="noteLabel">Megjegyzés</string>
     <string name="bookmarksTitle">Könyvjelzők</string>
+    <string name="toBookList">Könyvek listája</string>
+    <string name="continueWhereFinished">Legutóbb olvasott ige</string>
     
 </resources>

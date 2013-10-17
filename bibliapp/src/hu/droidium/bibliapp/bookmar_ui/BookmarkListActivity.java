@@ -2,6 +2,7 @@ package hu.droidium.bibliapp.bookmar_ui;
 
 import java.util.List;
 
+import hu.droidium.bibliapp.Constants;
 import hu.droidium.bibliapp.FacebookEnabledBibleActivity;
 import hu.droidium.bibliapp.R;
 import hu.droidium.bibliapp.VerseListActivity;
@@ -43,9 +44,9 @@ public class BookmarkListActivity extends FacebookEnabledBibleActivity implement
 		// Show verse
 		Intent intent = new Intent(this, VerseListActivity.class);
 		Bookmark bookmark = (Bookmark)view.getTag();
-		intent.putExtra(VERSE_INDEX, bookmark.getVers());
-		intent.putExtra(CHAPTER_INDEX, bookmark.getChapter());
-		intent.putExtra(BOOK_FILE_NAME, bookmark.getBook());
+		intent.putExtra(Constants.VERSE_INDEX, bookmark.getVers());
+		intent.putExtra(Constants.CHAPTER_INDEX, bookmark.getChapter());
+		intent.putExtra(Constants.BOOK_FILE_NAME, bookmark.getBook());
 		startActivity(intent);
 	}
 }

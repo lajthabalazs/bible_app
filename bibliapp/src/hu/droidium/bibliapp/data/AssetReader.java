@@ -9,8 +9,11 @@ import java.io.UnsupportedEncodingException;
 import java.util.Vector;
 
 import android.content.Context;
+import android.util.Log;
 
 public class AssetReader {
+	private static final String TAG = "AssetReader";
+
 	public static Vector<String[]> readTitles(Context context) {
 		Vector<String[]> ret = new Vector<String[]>();
 		try {
@@ -43,6 +46,10 @@ public class AssetReader {
 			e.printStackTrace();
 			return null;
 		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		} catch (Exception e) {
+			Log.e(TAG, "Couldn't read " + fileName);
 			e.printStackTrace();
 			return null;
 		}

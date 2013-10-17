@@ -35,23 +35,18 @@ import com.facebook.UiLifecycleHelper;
 
 public abstract class FacebookEnabledBibleActivity extends Activity implements
 		StatusCallback {
-	private static final List<String> PERMISSIONS = Arrays
-			.asList("publish_actions");
-
-	private Session session;
-	private boolean sessionOnline = false;
-	private UiLifecycleHelper uiHelper;
 	private static final String PENDING_PUBLISH_KEY = "pendingPublishReauthorization";
 	private static final String SHARED_PREFS = "Biblia prefs";
 	private static final String MESSAGE_KEY = "Post message key";
 	private static final String VERS_ID_KEY = "Vers id key";
 	private static final String VERS_BODY_KEY = "Vers body key";
-	
-	public static final String BOOK_FILE_NAME = "Book file name";
-	public static final String CHAPTER_INDEX = "Chapter index";
-	public static final String VERSE_INDEX = "Vers index";
-	
-	
+
+	private static final List<String> PERMISSIONS = Arrays
+			.asList("publish_actions");
+
+	private Session session;
+	private boolean sessionOnline = false;
+	private UiLifecycleHelper uiHelper;	
 	
 	private boolean pendingPublishReauthorization = false;
 	private DatabaseManager databaseManager;
@@ -119,6 +114,7 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 		uiHelper.onActivityResult(requestCode, resultCode, data);
 	}
 	
+	@SuppressWarnings("deprecation")
 	private void checkIfOnline() {
 		Request.executeMeRequestAsync(session, new Request.GraphUserCallback() {
 			@Override
