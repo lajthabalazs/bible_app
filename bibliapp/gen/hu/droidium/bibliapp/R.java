@@ -347,6 +347,11 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_logged_in=0x7f080009;
         public static final int com_facebook_usersettingsfragment_not_logged_in=0x7f08000a;
         public static final int continueWhereFinished=0x7f080028;
+        public static final int facebookDialogLater=0x7f08002c;
+        public static final int facebookDialogLogin=0x7f08002b;
+        public static final int facebookDialogMessage=0x7f08002a;
+        public static final int facebookDialogNever=0x7f08002d;
+        public static final int facebookDialogTitle=0x7f080029;
         public static final int facebookPostCancel=0x7f080022;
         public static final int facebookPostSend=0x7f080021;
         public static final int facebookShareButton=0x7f08001f;

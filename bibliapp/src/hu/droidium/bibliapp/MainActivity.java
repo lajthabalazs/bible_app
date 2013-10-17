@@ -1,5 +1,6 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -10,6 +11,7 @@ public class MainActivity extends FacebookEnabledBibleActivity implements OnClic
 
 	private Button lastReadVers;
 	private Button toBookList;
+	private View bookmarks;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +21,8 @@ public class MainActivity extends FacebookEnabledBibleActivity implements OnClic
 		toBookList.setOnClickListener(this);
 		lastReadVers = (Button) findViewById(R.id.lastReadVers);
 		lastReadVers.setOnClickListener(this);
+		bookmarks = findViewById(R.id.bookmarkLink);
+		bookmarks.setOnClickListener(this);
 	}
 	
 	@Override
@@ -50,6 +54,11 @@ public class MainActivity extends FacebookEnabledBibleActivity implements OnClic
 			case R.id.lastReadVers: {
 				Intent intent = new Intent(this, BookListActivity.class);
 				intent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
+				startActivity(intent);
+				break;
+			}
+			case R.id.bookmarkLink: {
+				Intent intent = new Intent(this, BookmarkListActivity.class);
 				startActivity(intent);
 				break;
 			}

@@ -17,6 +17,11 @@ public class Constants {
 	public static final String VERSE_INDEX = "Vers index";
 	
 	private static final String SHARED_PREFS = "General preferences";
+	public static final String FACEBOOK_LOGIN_DECISION = "Facebook login decision";
+	public static final int FACEBOOK_UNKNOWN = 0;
+	public static final int FACEBOOK_DONT_ASK = 1;
+	public static final int FACEBOOK_LOGIN = 2;
+
 	
 	public static SharedPreferences getPrefs(Context context) {
 		return context.getSharedPreferences(SHARED_PREFS, Context.MODE_PRIVATE);
@@ -31,5 +36,5 @@ public class Constants {
 		editor.putInt(LAST_READ_VERS, vers);
 		editor.commit();
 	}
-
+	
 }

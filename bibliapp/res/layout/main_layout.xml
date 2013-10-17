@@ -18,7 +18,7 @@
         android:layout_height="60dp"
         android:drawableLeft="@drawable/bookmark"
         android:paddingLeft="10dp"
-        android:paddingTop="15dp"
+        android:paddingTop="10dp"
         android:text="@string/bookmarksTitle"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
@@ -28,6 +28,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:padding="@dimen/activity_horizontal_margin"
         android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
         android:layout_marginRight="@dimen/activity_double_horizontal_margin"
         android:layout_marginBottom="70dp"
@@ -38,6 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/lastReadVers"
+        android:padding="@dimen/activity_horizontal_margin"
         android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
         android:layout_marginRight="@dimen/activity_double_horizontal_margin"
         android:layout_centerHorizontal="true"

@@ -15,6 +15,9 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import android.app.Activity;
+import android.app.AlertDialog.Builder;
+import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
@@ -43,6 +46,7 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 
 	private static final List<String> PERMISSIONS = Arrays
 			.asList("publish_actions");
+	private static final String TAG = "FacebookEnabledBibleActivity";
 
 	private Session session;
 	private boolean sessionOnline = false;
@@ -50,6 +54,7 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 	
 	private boolean pendingPublishReauthorization = false;
 	private DatabaseManager databaseManager;
+	private SharedPreferences prefs;
 
 	private static Vector<String[]> titles;
 
@@ -58,6 +63,7 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		prefs = Constants.getPrefs(this);
 		databaseManager = new DatabaseManager(this);
 		uiHelper = new UiLifecycleHelper(this, this);
 		uiHelper.onCreate(savedInstanceState);
@@ -66,14 +72,47 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 	@Override
 	protected void onResume() {
 		super.onResume();
-		uiHelper.onResume();
-		if (session != null) {
-			session.addCallback(this);
-		} else {
-			Session.openActiveSession(this, true, this);
+		// Check if user wants to use Facebook
+		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
+		switch(facebookAsk) {
+			case Constants.FACEBOOK_UNKNOWN: {
+				Builder builder = new Builder(this);
+				builder.setTitle(R.string.facebookDialogTitle);
+				builder.setMessage(R.string.facebookDialogMessage);
+				builder.setPositiveButton(R.string.facebookDialogLogin,
+						new DialogInterface.OnClickListener() {
+							@Override
+							public void onClick(DialogInterface dialog, int which) {
+								login();
+							}
+						});
+				builder.setNeutralButton(R.string.facebookDialogLater,
+						new DialogInterface.OnClickListener() { @Override public void onClick(DialogInterface dialog, int which) {}});
+				builder.setNegativeButton(R.string.facebookDialogNever,
+						new DialogInterface.OnClickListener() {
+							@Override
+							public void onClick(DialogInterface dialog, int which) {
+								prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_DONT_ASK).commit();
+							}
+						});
+				builder.create().show();
+				break;
+			}
+			case Constants.FACEBOOK_LOGIN: {
+				login();
+				break;
+			}
 		}
 	}
 
+	private void login() {
+ 		if (session != null) {
+ 			session.addCallback(this);
+		} else {
+			Session.openActiveSession(this, true, this);
+ 		}
+	}
+	
 	@Override
 	protected void onPause() {
 		uiHelper.onPause();
@@ -256,6 +295,28 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 		}
 		return true;
 	}
+	
+	public static void silentLogin(Context context) {
+		if(!isLoggedInWithFacebook(context)) {
+			Session.openActiveSession(context, null,false, new StatusCallback() {
+				@Override
+				public void call(Session session, SessionState state, Exception exception) {
+					Log.e(TAG, "Silent Facebook login succesfull");
+				}
+			});
+		} else {
+			Log.e(TAG, "User already logged in with Facebook");
+		}
+	}
+	
+	public static boolean isLoggedInWithFacebook(Context context) {
+		if (Session.getActiveSession() == null) {
+			return false;
+		} else {
+			return true;
+		}
+	}
+
 
 	public boolean isFacebookSessionOpened() {
 		return sessionOnline;

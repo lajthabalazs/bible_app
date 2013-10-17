@@ -17,5 +17,10 @@
     <string name="bookmarksTitle">Könyvjelzők</string>
     <string name="toBookList">Könyvek listája</string>
     <string name="continueWhereFinished">Legutóbb olvasott ige</string>
+    <string name="facebookDialogTitle">Facebook bejelentkezés</string>
+    <string name="facebookDialogMessage">A közösségi szolgáltatások használatához be kell jelentkezni. Szeretne belépni Facebook profiljával?</string>
+    <string name="facebookDialogLogin">Belépek</string>
+    <string name="facebookDialogLater">Most nem</string>
+    <string name="facebookDialogNever">Sose</string>
     
 </resources>
