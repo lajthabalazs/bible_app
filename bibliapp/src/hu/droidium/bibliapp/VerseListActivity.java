@@ -15,7 +15,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.TextView;
 
-public class VerseListActivity extends FacebookEnabledBibleActivity implements OnItemClickListener {
+public class VerseListActivity extends BibleBaseActivity implements OnItemClickListener {
 
 	private VerseAdapter adapter;
 	private ListView verseList;
@@ -30,7 +30,7 @@ public class VerseListActivity extends FacebookEnabledBibleActivity implements O
 		fileName = intent.getStringExtra(Constants.BOOK_FILE_NAME);
 		chapterIndex = intent.getIntExtra(Constants.CHAPTER_INDEX, 0);
 		Book book = AssetReader.readFile(fileName, this);
-		((TextView)findViewById(R.id.verseListTitle)).setText(book.getTitle());
+		((TextView)findViewById(R.id.activityTitle)).setText(book.getTitle());
 		List<Bookmark> bookmarks = getBookmarksForChapter(book.getId(), chapterIndex);
 		adapter = new VerseAdapter(book, chapterIndex, bookmarks, getLayoutInflater(), this);
 		verseList = (ListView)findViewById(R.id.verseList);

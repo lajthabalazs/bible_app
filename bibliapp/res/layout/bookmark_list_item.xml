@@ -15,8 +15,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/unknownTitle"
-        android:textStyle="bold"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_gravity="left"
+        style="@style/ListItemTitle"
         android:background="@android:color/transparent"/>
 
 
@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/unknownTitle"
-        android:textAppearance="?android:attr/textAppearanceSmall"
+        style="@style/listItemText"
         android:background="@android:color/transparent"/>
 	
 	<TextView
@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/noteLabel"
-        android:textAppearance="?android:attr/textAppearanceSmall"
+        style="@style/listItemText"
         android:background="@android:color/transparent"/>
     
     <TextView
@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/unknownTitle"
-        android:textAppearance="?android:attr/textAppearanceSmall"
+        style="@style/listItemText"
         android:background="@android:color/transparent"/>
 
 </LinearLayout>

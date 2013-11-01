@@ -15,10 +15,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/unknownTitle"
-        android:gravity="center"
         android:layout_gravity="center"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:background="@android:color/transparent"/>
+        style="@style/ListItemLargeText"/>
     <TextView
         android:id="@+id/chapterDetails"
         android:layout_width="wrap_content"

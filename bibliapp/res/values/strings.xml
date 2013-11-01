@@ -22,5 +22,10 @@
     <string name="facebookDialogLogin">Belépek</string>
     <string name="facebookDialogLater">Most nem</string>
     <string name="facebookDialogNever">Sose</string>
+    <string name="settings">Belállítások</string>
+    <string name="textSize">Betűméret</string>
+    <string name="settingsSmallerFont">Kisebb</string>
+    <string name="settingsActualFont">Aktuális</string>
+    <string name="settingsLargerFonts">Nagyobb</string>
     
 </resources>

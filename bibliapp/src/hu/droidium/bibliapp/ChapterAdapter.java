@@ -49,6 +49,10 @@ public class ChapterAdapter implements ListAdapter {
 	public View getView(int position, View convertView, ViewGroup parent) {
 		if (convertView == null) {
 			convertView = inflater.inflate(R.layout.chapter_list_item, null);
+			TextView titleView = (TextView)convertView.findViewById(R.id.chapterTitle);
+			Constants.scaleText(titleView, context);
+			TextView detailsView = (TextView)convertView.findViewById(R.id.chapterDetails);
+			Constants.scaleText(detailsView, context);
 		}
 		convertView.setTag(book.getChapter(position));
 		TextView titleView = (TextView)convertView.findViewById(R.id.chapterTitle);

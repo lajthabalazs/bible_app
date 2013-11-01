@@ -1,35 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="hu.droidium.bibliapp"
-    android:versionCode="5"
-    android:versionName="1.3.1" >
+    android:versionCode="6"
+    android:versionName="1.4" >
 
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="18" />
-    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-       	<meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
-        <activity android:name="hu.droidium.bibliapp.ReaderActivity" android:label="@string/app_name" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/app_id" />
+
+        <activity
+            android:name="hu.droidium.bibliapp.ReaderActivity"
+            android:label="@string/app_name" >
         </activity>
-        <activity android:name="BookListActivity" android:label="@string/app_name">
+        <activity
+            android:name="hu.droidium.bibliapp.SettingsActivity"
+            android:label="@string/app_name" >
         </activity>
-        <activity android:name="ChapterListActivity"></activity>
-        <activity android:name="VerseListActivity"></activity>
-        <activity android:name="LoginActivity"></activity>
-        <activity android:name="com.facebook.LoginActivity"></activity>
-        <activity android:name=".bookmar_ui.BookmarkListActivity"></activity>
-        <activity android:name="MainActivity">
+        <activity
+            android:name="BookListActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="ChapterListActivity" >
+        </activity>
+        <activity android:name="VerseListActivity" >
+        </activity>
+        <activity android:name="com.facebook.LoginActivity" >
+        </activity>
+        <activity android:name=".bookmar_ui.BookmarkListActivity" >
+        </activity>
+        <activity android:name="MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- receiver android:name="RandomVersWidgetProvider" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/random_vers_widget_info" />
+        </receiver-->
     </application>
 
 </manifest>

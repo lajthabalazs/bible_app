@@ -36,10 +36,10 @@ import com.facebook.model.GraphUser;
 import com.facebook.SessionState;
 import com.facebook.UiLifecycleHelper;
 
-public abstract class FacebookEnabledBibleActivity extends Activity implements
+public abstract class BibleBaseActivity extends Activity implements
 		StatusCallback {
 	private static final String PENDING_PUBLISH_KEY = "pendingPublishReauthorization";
-	private static final String SHARED_PREFS = "Biblia prefs";
+	private static final String SHARED_PREFS = "Facebook prefs";
 	private static final String MESSAGE_KEY = "Post message key";
 	private static final String VERS_ID_KEY = "Vers id key";
 	private static final String VERS_BODY_KEY = "Vers body key";
@@ -68,6 +68,17 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 		uiHelper = new UiLifecycleHelper(this, this);
 		uiHelper.onCreate(savedInstanceState);
 	}
+	
+	/*
+	@Override
+	public void setContentView(int layoutResID) {
+		super.setContentView(layoutResID);
+		TextView title = (TextView)findViewById(R.id.activityTitle);
+		if (title != null) {
+			Constants.scaleText(title, this);
+		}
+	}
+	*/
 
 	@Override
 	protected void onResume() {
@@ -83,6 +94,7 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 						new DialogInterface.OnClickListener() {
 							@Override
 							public void onClick(DialogInterface dialog, int which) {
+								prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_LOGIN).commit();
 								login();
 							}
 						});
@@ -264,13 +276,13 @@ public abstract class FacebookEnabledBibleActivity extends Activity implements
 					FacebookRequestError error = response.getError();
 					if (error != null) {
 						Toast.makeText(
-								FacebookEnabledBibleActivity.this
+								BibleBaseActivity.this
 										.getApplicationContext(),
 								error.getErrorMessage(), Toast.LENGTH_SHORT)
 								.show();
 					} else {
 						Toast.makeText(
-								FacebookEnabledBibleActivity.this
+								BibleBaseActivity.this
 										.getApplicationContext(),
 								postId, Toast.LENGTH_LONG).show();
 					}

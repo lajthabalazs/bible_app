@@ -10,4 +10,12 @@
     <dimen name="activity_double_horizontal_margin">32dp</dimen>
     <dimen name="activity_double_vertical_margin">32dp</dimen>
     
+    <dimen name="widget_margin">8dp</dimen>
+
+    <dimen name="text_size_activity_title_normal">20sp</dimen>
+    <dimen name="text_size_subtitle_normal">16sp</dimen>
+    <dimen name="text_size_list_item_title_normal">14sp</dimen>
+    <dimen name="text_size_list_item_large_text_normal">17sp</dimen>
+    <dimen name="text_size_list_item_text_normal">14sp</dimen>
+    
 </resources>

@@ -8,16 +8,18 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin">
+
     <TextView
+        android:id="@+id/activityTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:gravity="center_horizontal"
+        android:layout_marginBottom="5dp"
         android:layout_weight="0"
-        android:textStyle="bold"        
+        android:gravity="center_horizontal"
         android:text="@string/bookmarksTitle"
-        android:layout_marginBottom="5dp"        
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold" />
     
     <ListView
         android:id="@+id/bookmarkList"

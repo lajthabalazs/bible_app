@@ -18,18 +18,15 @@
         android:text="@string/unknownTitle"
         android:gravity="center"
         android:layout_gravity="center"
-        android:textStyle="bold"
 	    android:layout_marginBottom="@dimen/activity_large_vertical_margin"
-        android:textAppearance="?android:attr/textAppearanceSmall"
+	    style="@style/ListItemTitle"
         android:background="@android:color/transparent"/>
     <TextView
         android:id="@+id/verseContent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/unknownTitle"
-	    android:paddingLeft="@dimen/activity_horizontal_margin"
-	    android:paddingRight="@dimen/activity_horizontal_margin"
-        android:textAppearance="?android:attr/textAppearanceSmall"
+        style="@style/listItemText"
         android:background="@android:color/transparent"/>
     </LinearLayout>
     <ImageView

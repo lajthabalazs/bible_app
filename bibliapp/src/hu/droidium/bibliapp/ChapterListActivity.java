@@ -12,7 +12,7 @@ import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
-public class ChapterListActivity extends FacebookEnabledBibleActivity implements OnItemClickListener {
+public class ChapterListActivity extends BibleBaseActivity implements OnItemClickListener {
 
 	private ChapterAdapter adapter;
 	private String fileName; 
@@ -25,7 +25,7 @@ public class ChapterListActivity extends FacebookEnabledBibleActivity implements
 		Intent intent = getIntent();
 		fileName = intent.getStringExtra(Constants.BOOK_FILE_NAME);
 		Book book = getBook(fileName);
-		((TextView)findViewById(R.id.chapterListTitle)).setText(book.getTitle());
+		((TextView)findViewById(R.id.activityTitle)).setText(book.getTitle());
 		adapter = new ChapterAdapter(book, getLayoutInflater(), this);		
 		ListView chapterList = (ListView)findViewById(R.id.chapterList);
 		chapterList.setCacheColorHint(Color.TRANSPARENT);

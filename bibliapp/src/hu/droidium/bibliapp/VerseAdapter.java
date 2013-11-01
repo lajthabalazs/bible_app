@@ -25,14 +25,14 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 
 	private Book book;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
-	private FacebookEnabledBibleActivity activity; 
+	private BibleBaseActivity activity; 
 	private LayoutInflater inflater;
 	private SparseArray<Bookmark> bookmarks;
 	private int chapterIndex;
 	private long displayMenu = -1;
 	private boolean facebookEnabled;
 	
-	public VerseAdapter(Book book, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, FacebookEnabledBibleActivity activity) {
+	public VerseAdapter(Book book, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity) {
 		this.book = book;
 		this.chapterIndex = chapterIndex;
 		this.activity = activity;
@@ -67,6 +67,10 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	public View getView(int position, View convertView, ViewGroup parent) {
 		if (convertView == null) {
 			convertView = inflater.inflate(R.layout.verse_list_item, null);
+			TextView titleView = (TextView)convertView.findViewById(R.id.verseTitle);
+			Constants.scaleText(titleView, activity);
+			TextView versTextView = (TextView)convertView.findViewById(R.id.verseContent);
+			Constants.scaleText(versTextView, activity);
 		}
 		convertView.setTag(position);
 		TextView titleView = (TextView)convertView.findViewById(R.id.verseTitle);

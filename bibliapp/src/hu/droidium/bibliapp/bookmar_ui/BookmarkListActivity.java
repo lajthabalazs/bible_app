@@ -3,7 +3,7 @@ package hu.droidium.bibliapp.bookmar_ui;
 import java.util.List;
 
 import hu.droidium.bibliapp.Constants;
-import hu.droidium.bibliapp.FacebookEnabledBibleActivity;
+import hu.droidium.bibliapp.BibleBaseActivity;
 import hu.droidium.bibliapp.R;
 import hu.droidium.bibliapp.VerseListActivity;
 import hu.droidium.bibliapp.database.Bookmark;
@@ -15,7 +15,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
-public class BookmarkListActivity extends FacebookEnabledBibleActivity implements OnItemClickListener {
+public class BookmarkListActivity extends BibleBaseActivity implements OnItemClickListener {
 
 	private BookmarkAdapter adapter;
 

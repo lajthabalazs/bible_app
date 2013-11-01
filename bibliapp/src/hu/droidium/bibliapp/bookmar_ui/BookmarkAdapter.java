@@ -1,6 +1,6 @@
 package hu.droidium.bibliapp.bookmar_ui;
 
-import hu.droidium.bibliapp.FacebookEnabledBibleActivity;
+import hu.droidium.bibliapp.BibleBaseActivity;
 import hu.droidium.bibliapp.R;
 import hu.droidium.bibliapp.data.Book;
 import hu.droidium.bibliapp.database.Bookmark;
@@ -18,11 +18,11 @@ import android.widget.TextView;
 public class BookmarkAdapter implements ListAdapter {
 
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
-	private FacebookEnabledBibleActivity activity; 
+	private BibleBaseActivity activity; 
 	private LayoutInflater inflater;
 	private List<Bookmark> bookmarks;
 	
-	public BookmarkAdapter(List<Bookmark> bookmarks, LayoutInflater inflater, FacebookEnabledBibleActivity activity) {
+	public BookmarkAdapter(List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity) {
 		this.activity = activity;
 		this.inflater = inflater;
 		this.bookmarks = bookmarks;

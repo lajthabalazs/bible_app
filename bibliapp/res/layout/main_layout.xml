@@ -5,7 +5,6 @@
     android:orientation="vertical" >
 
     <ImageView
-        android:id="@+id/imageView1"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:contentDescription="@string/bookmarksTitle"
@@ -23,27 +22,39 @@
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <Button
-        android:id="@+id/lastReadVers"
+        android:id="@+id/toSettingsButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_double_horizontal_margin"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:text="@string/settings" />
+
+    <Button
+        android:id="@+id/lastReadVersButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/toSettingsButton"
+        android:layout_centerHorizontal="true"
         android:padding="@dimen/activity_horizontal_margin"
         android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
         android:layout_marginRight="@dimen/activity_double_horizontal_margin"
-        android:layout_marginBottom="70dp"
+        android:layout_marginBottom="15dp"
         android:text="@string/continueWhereFinished" />
 
     <Button
         android:id="@+id/toBookListButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/lastReadVers"
+        android:layout_above="@+id/lastReadVersButton"
         android:padding="@dimen/activity_horizontal_margin"
         android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
         android:layout_marginRight="@dimen/activity_double_horizontal_margin"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="30dp"
+        android:layout_marginBottom="15dp"
         android:text="@string/toBookList" />
 
 </RelativeLayout>

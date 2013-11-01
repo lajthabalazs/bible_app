@@ -12,7 +12,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.TextView;
 
-public class BookListActivity extends BibleBaseActivity implements OnItemClickListener, OnClickListener {
+public class RandomWidgetConfigurationActivity extends BibleBaseActivity implements OnItemClickListener, OnClickListener {
 
 	private BookTitleAdapter adapter;
 
@@ -23,7 +23,6 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 		setContentView(R.layout.book_list);
 		TextView bookmarksLink = (TextView) findViewById(R.id.bookmarkLink);
 		bookmarksLink.setOnClickListener(this);
-		adapter = new BookTitleAdapter(super.getBookTitles(), getLayoutInflater(), this);
 		ListView bookList = (ListView) findViewById(R.id.bookList);
 		bookList.setCacheColorHint(Color.TRANSPARENT);
 		bookList.setAdapter(adapter);

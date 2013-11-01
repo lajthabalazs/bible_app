@@ -7,11 +7,12 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class MainActivity extends FacebookEnabledBibleActivity implements OnClickListener {
+public class MainActivity extends BibleBaseActivity implements OnClickListener {
 
 	private Button lastReadVers;
 	private Button toBookList;
 	private View bookmarks;
+	private Button settings;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -19,8 +20,10 @@ public class MainActivity extends FacebookEnabledBibleActivity implements OnClic
 		setContentView(R.layout.main_layout);
 		toBookList = (Button) findViewById(R.id.toBookListButton);
 		toBookList.setOnClickListener(this);
-		lastReadVers = (Button) findViewById(R.id.lastReadVers);
+		lastReadVers = (Button) findViewById(R.id.lastReadVersButton);
 		lastReadVers.setOnClickListener(this);
+		settings = (Button) findViewById(R.id.toSettingsButton);
+		settings.setOnClickListener(this);
 		bookmarks = findViewById(R.id.bookmarkLink);
 		bookmarks.setOnClickListener(this);
 	}
@@ -51,9 +54,14 @@ public class MainActivity extends FacebookEnabledBibleActivity implements OnClic
 				startActivity(intent);
 				break;
 			}
-			case R.id.lastReadVers: {
+			case R.id.lastReadVersButton: {
 				Intent intent = new Intent(this, BookListActivity.class);
 				intent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
+				startActivity(intent);
+				break;
+			}
+			case R.id.toSettingsButton: {
+				Intent intent = new Intent(this, SettingsActivity.class);
 				startActivity(intent);
 				break;
 			}

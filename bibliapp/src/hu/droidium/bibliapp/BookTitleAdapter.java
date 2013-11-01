@@ -3,6 +3,7 @@ package hu.droidium.bibliapp;
 import java.util.HashSet;
 import java.util.Vector;
 
+import android.content.Context;
 import android.database.DataSetObserver;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,10 +16,12 @@ public class BookTitleAdapter implements ListAdapter {
 	private Vector<String[]> books;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
 	private LayoutInflater inflater;
+	private Context context;
 	
-	public BookTitleAdapter(Vector<String[]> books, LayoutInflater inflater) {
+	public BookTitleAdapter(Vector<String[]> books, LayoutInflater inflater, Context context) {
 		this.books = books;
 		this.inflater = inflater;
+		this.context = context;
 	}
 
 	@Override
@@ -45,6 +48,8 @@ public class BookTitleAdapter implements ListAdapter {
 	public View getView(int position, View convertView, ViewGroup parent) {
 		if (convertView == null) {
 			convertView = inflater.inflate(R.layout.book_list_item, null);
+			TextView titleView = (TextView)convertView.findViewById(R.id.bookTitle);
+			Constants.scaleText(titleView, context);
 		}
 		convertView.setTag(books.get(position)[0]);
 		TextView titleView = (TextView)convertView.findViewById(R.id.bookTitle);

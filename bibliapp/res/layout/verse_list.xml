@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin">
     <TextView
-        android:id="@+id/verseListTitle"
+        android:id="@id/activityTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
@@ -18,7 +18,7 @@
         android:textStyle="bold"        
         android:text="@string/unknownTitle"
         android:layout_marginBottom="5dp"        
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        style="@style/ActivityTitle" />
     
     <ListView
         android:id="@+id/verseList"
