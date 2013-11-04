@@ -3,7 +3,7 @@ package hu.droidium.bibliapp.database;
 import android.provider.BaseColumns;
 
 public class TagMeta implements BaseColumns {
-	public static final String TABLE_NAME = "tag";
+	public static final String TABLE_NAME = "tagMeta";
 	public static final String COLUMN_NAME_TAG_ID = "tagId";
 	public static final String COLUMN_NAME_COLOR = "color";
 	

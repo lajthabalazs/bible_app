@@ -8,7 +8,6 @@ public class Book {
 	private String title;
 	private String id;
 	private Vector<Chapter> chapters = new Vector<Chapter>();
-	//HashMap<String, String> verses = new HashMap<String, String>();
 	
 
 	public Book(String id, BufferedReader in) throws IOException {

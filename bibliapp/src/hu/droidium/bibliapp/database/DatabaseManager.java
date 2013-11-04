@@ -184,7 +184,7 @@ public class DatabaseManager {
 		if (newId == -1) {
 			// Update old value
 			String selection = Translation.COLUMN_NAME_ORIGINAL + " =  ? AND " + Translation.COLUMN_NAME_LANGUAGE + " =  ?";
-			String[] selectionArgs = { String.valueOf(translation.getOriginal()), String.valueOf(translation.getLanguage())};
+			String[] selectionArgs = { translation.getOriginal(), translation.getLanguage()};
 			int result = db.update(Translation.TABLE_NAME,
 					values,
 					selection,
@@ -198,5 +198,51 @@ public class DatabaseManager {
 		} else{
 			return true; // New value inserted
 		}
+	}
+	
+	public String getTranslation(String language, String original) {
+		String[] projection = {
+				Translation.COLUMN_NAME_ORIGINAL,
+				Translation.COLUMN_NAME_LANGUAGE,
+				Translation.COLUMN_NAME_TRANSLATION
+		};
+		String selection = Translation.COLUMN_NAME_ORIGINAL + " =  ? AND " + Translation.COLUMN_NAME_LANGUAGE + " =  ?";
+		String[] selectionArgs = { original, language };
+		Cursor c = db.query(
+				Translation.TABLE_NAME,
+				projection,
+				selection,
+				selectionArgs,
+				null,
+				null,
+				null
+				);
+		List<Translation> translations = new ArrayList<Translation>();
+		for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String translation = c.getString(c.getColumnIndex(Translation.COLUMN_NAME_TRANSLATION));
+			translations.add(new Translation(original, language, translation));
+		}
+		if (translations.size() > 0) {
+			return translations.get(0).getTranslation();
+		} else{
+			return original;
+		}
+	}
+
+	public List<TagMeta> getTags(String book, int chapterIndex, int verseIndex) {
+		ArrayList<TagMeta> tags = new ArrayList<TagMeta>();
+		final String query = "SELECT * FROM " + TagMeta.TABLE_NAME + " meta INNER JOIN " + Tag.TABLE_NAME+ " tags " +
+				"ON meta." + TagMeta.COLUMN_NAME_TAG_ID+ "=tags." + Tag.COLUMN_NAME_TAG_ID + " " + 
+				"WHERE tags." + Tag.COLUMN_NAME_BOOK + " =? AND " +
+				" tags." + Tag.COLUMN_NAME_CHAPTER + "=? AND " +
+				" tags." + Tag.COLUMN_NAME_VERS + "=?;";
+		String[] args = new String[]{book, String.valueOf(chapterIndex), String.valueOf(verseIndex)};
+	    Cursor c = db.rawQuery(query, args);
+	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String tagId = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_TAG_ID));
+			String tagColor = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_COLOR));
+			tags.add(new TagMeta(tagId, tagColor));
+		}
+	    return tags;
 	}
 }

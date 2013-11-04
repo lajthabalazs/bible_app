@@ -53,7 +53,7 @@ public abstract class BibleBaseActivity extends Activity implements
 	private UiLifecycleHelper uiHelper;	
 	
 	private boolean pendingPublishReauthorization = false;
-	private DatabaseManager databaseManager;
+	protected DatabaseManager databaseManager;
 	private SharedPreferences prefs;
 
 	private static Vector<String[]> titles;

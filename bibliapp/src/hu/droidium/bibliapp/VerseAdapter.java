@@ -1,7 +1,9 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.bookmar_ui.TagMargin;
 import hu.droidium.bibliapp.data.Book;
 import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.database.DatabaseManager;
 
 import java.util.HashSet;
 import java.util.List;
@@ -31,13 +33,15 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private int chapterIndex;
 	private long displayMenu = -1;
 	private boolean facebookEnabled;
+	private DatabaseManager databaseManager;
 	
-	public VerseAdapter(Book book, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity) {
+	public VerseAdapter(Book book, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, DatabaseManager databaseManager) {
 		this.book = book;
 		this.chapterIndex = chapterIndex;
 		this.activity = activity;
 		this.inflater = inflater;
 		this.bookmarks = new SparseArray<Bookmark>();
+		this.databaseManager = databaseManager;
 		for (Bookmark bookmark : bookmarks) {
 			this.bookmarks.put(bookmark.getVers(), bookmark);
 		}
@@ -79,6 +83,8 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		versTextView.setText(book.getChapter(chapterIndex).getVerse(position).getLine());
 		ImageView facebookButton = (ImageView)convertView.findViewById(R.id.facebookShareButton);
 		ImageView bookmarkButton = (ImageView)convertView.findViewById(R.id.saveBookmark);
+		TagMargin tagMargin = (TagMargin)convertView.findViewById(R.id.tagMargin);
+		tagMargin.setColors(book.getChapter(chapterIndex).getVerse(position).getTagColors(databaseManager));
 		if (displayMenu == position) {
 			displayMenu = -1;
 			Log.e("Display item", "Item found, setting display menu item to -1");

@@ -3,7 +3,7 @@ package hu.droidium.bibliapp.database;
 import android.provider.BaseColumns;
 
 public class Translation implements BaseColumns {
-	public static final String TABLE_NAME = "tag";
+	public static final String TABLE_NAME = "translation";
 	public static final String COLUMN_NAME_ORIGINAL = "original";
 	public static final String COLUMN_NAME_LANGUAGE = "language";
 	public static final String COLUMN_NAME_TRANSLATION = "translation";

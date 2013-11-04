@@ -48,4 +48,11 @@
         android:layout_toLeftOf="@+id/facebookShareButton"
         android:src="@drawable/bookmark" />
 
+    <hu.droidium.bibliapp.bookmar_ui.TagMargin
+        android:id="@+id/tagMargin"
+        android:layout_width="10dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"/>
+
 </RelativeLayout>

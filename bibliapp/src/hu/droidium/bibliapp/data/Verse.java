@@ -1,5 +1,11 @@
 package hu.droidium.bibliapp.data;
 
+import hu.droidium.bibliapp.database.DatabaseManager;
+import hu.droidium.bibliapp.database.TagMeta;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Verse {
 
 	private Book book;
@@ -32,5 +38,14 @@ public class Verse {
 
 	public String getId() {
 		return book.getAbbreviation() + ", " + (chapterIndex + 1) + "." + (verseIndex + 1);
+	}
+
+	public ArrayList<String> getTagColors(DatabaseManager databaseManager) {
+		List<TagMeta> tags = databaseManager.getTags(book.getId(), chapterIndex, verseIndex);
+		ArrayList<String> colors = new ArrayList<String>();
+		for (TagMeta tag : tags){
+			colors.add(tag.getColor());
+		}
+		return colors;
 	}
 }

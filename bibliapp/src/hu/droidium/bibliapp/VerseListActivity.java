@@ -32,7 +32,7 @@ public class VerseListActivity extends BibleBaseActivity implements OnItemClickL
 		Book book = AssetReader.readFile(fileName, this);
 		((TextView)findViewById(R.id.activityTitle)).setText(book.getTitle());
 		List<Bookmark> bookmarks = getBookmarksForChapter(book.getId(), chapterIndex);
-		adapter = new VerseAdapter(book, chapterIndex, bookmarks, getLayoutInflater(), this);
+		adapter = new VerseAdapter(book, chapterIndex, bookmarks, getLayoutInflater(), this, databaseManager);
 		verseList = (ListView)findViewById(R.id.verseList);
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);

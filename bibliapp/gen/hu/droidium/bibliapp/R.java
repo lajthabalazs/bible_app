@@ -236,7 +236,7 @@ containing a value of this type.
         public static final int paper_1280x720=0x7f020024;
     }
     public static final class id {
-        public static final int action_settings=0x7f060039;
+        public static final int action_settings=0x7f06003a;
         public static final int activityTitle=0x7f06000c;
         public static final int addBookmarkButton=0x7f060008;
         public static final int addBookmarkCancelButton=0x7f060007;
@@ -288,6 +288,7 @@ containing a value of this type.
         public static final int settingsLargerText=0x7f060030;
         public static final int settingsSmallerText=0x7f06002e;
         public static final int small=0x7f060000;
+        public static final int tagMargin=0x7f060039;
         public static final int textSizeLabel=0x7f06002d;
         public static final int toBookListButton=0x7f06002c;
         public static final int toSettingsButton=0x7f06002a;
