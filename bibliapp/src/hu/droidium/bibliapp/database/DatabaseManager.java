@@ -125,4 +125,78 @@ public class DatabaseManager {
 		String[] selectionArgs = { String.valueOf(bookmark.getId()) };
 		db.delete(Bookmark.TABLE_NAME, selection, selectionArgs);
 	}
+
+	public List<TagMeta> getTagMetas() {
+		String[] projection = {
+				TagMeta.COLUMN_NAME_TAG_ID,
+				TagMeta.COLUMN_NAME_COLOR
+		};
+		Cursor c = db.query(
+				TagMeta.TABLE_NAME,
+				projection,
+				null,
+				null,
+				null,
+				null,
+				null
+				);
+		List<TagMeta> tags = new ArrayList<TagMeta>();
+		for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String tagId = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_TAG_ID));
+			String color = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_COLOR));
+			tags.add(new TagMeta(tagId, color));
+		}
+		return tags;
+	}
+	
+	public boolean addTagMeta(TagMeta tag) {
+		ContentValues values = new ContentValues();
+		values.put(TagMeta.COLUMN_NAME_TAG_ID, tag.getId());
+		values.put(TagMeta.COLUMN_NAME_COLOR, tag.getColor());
+		// Try to insert new value
+		long newId = db.insert(TagMeta.TABLE_NAME, null , values);
+		if (newId == -1) {
+			// Update old value
+			String selection = TagMeta.COLUMN_NAME_TAG_ID + " =  ?";
+			String[] selectionArgs = { String.valueOf(tag.getId()) };
+			int result = db.update(TagMeta.TABLE_NAME,
+					values,
+					selection,
+					selectionArgs);
+			if (result != 1) {
+				return false; // Something got screwed up
+			}
+			else {
+				return true; // Value updated
+			}
+		} else{
+			return true; // New value inserted
+		}
+	}
+
+	public boolean addTranslation(Translation translation) {
+		ContentValues values = new ContentValues();
+		values.put(Translation.COLUMN_NAME_ORIGINAL, translation.getOriginal());
+		values.put(Translation.COLUMN_NAME_LANGUAGE, translation.getLanguage());
+		values.put(Translation.COLUMN_NAME_TRANSLATION, translation.getTranslation());
+		// Try to insert new value
+		long newId = db.insert(Translation.TABLE_NAME, null , values);
+		if (newId == -1) {
+			// Update old value
+			String selection = Translation.COLUMN_NAME_ORIGINAL + " =  ? AND " + Translation.COLUMN_NAME_LANGUAGE + " =  ?";
+			String[] selectionArgs = { String.valueOf(translation.getOriginal()), String.valueOf(translation.getLanguage())};
+			int result = db.update(Translation.TABLE_NAME,
+					values,
+					selection,
+					selectionArgs);
+			if (result != 1) {
+				return false; // Something got screwed up
+			}
+			else {
+				return true; // Value updated
+			}
+		} else{
+			return true; // New value inserted
+		}
+	}
 }

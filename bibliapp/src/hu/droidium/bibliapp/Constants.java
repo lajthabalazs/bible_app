@@ -18,6 +18,10 @@ public class Constants {
 	public static final String CHAPTER_INDEX = "Chapter index";
 	public static final String VERSE_INDEX = "Vers index";
 	
+	public static final String COLUMN_NAME_BOOK = "bookId";
+	public static final String COLUMN_NAME_CHAPTER = "chapterNumber";
+	public static final String COLUMN_NAME_VERS = "versNumber";
+
 	private static final String SHARED_PREFS = "General preferences";
 	public static final String FACEBOOK_LOGIN_DECISION = "Facebook login decision";
 	public static final int FACEBOOK_UNKNOWN = 0;
