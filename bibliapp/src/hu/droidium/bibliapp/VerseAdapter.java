@@ -83,6 +83,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		versTextView.setText(book.getChapter(chapterIndex).getVerse(position).getLine());
 		ImageView facebookButton = (ImageView)convertView.findViewById(R.id.facebookShareButton);
 		ImageView bookmarkButton = (ImageView)convertView.findViewById(R.id.saveBookmark);
+		ImageView highlightButton = (ImageView)convertView.findViewById(R.id.highlight);
 		TagMargin tagMargin = (TagMargin)convertView.findViewById(R.id.tagMargin);
 		tagMargin.setColors(book.getChapter(chapterIndex).getVerse(position).getTagColors(databaseManager));
 		if (displayMenu == position) {
@@ -90,27 +91,33 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 			Log.e("Display item", "Item found, setting display menu item to -1");
 			bookmarkButton.setVisibility(View.VISIBLE);
 			bookmarkButton.setOnClickListener(this);
+			highlightButton.setVisibility(View.VISIBLE);
+			highlightButton.setOnClickListener(this);
 			if (facebookEnabled) {
 				facebookButton.setVisibility(View.VISIBLE);
 				facebookButton.setOnClickListener(this);
 			}
 			// Animate buttons
 			Animation slideInFacebook = AnimationUtils.loadAnimation(activity, R.anim.facebook_share_button_in_from_right);
-			slideInFacebook.setDuration(600);
+			slideInFacebook.setDuration(900);
 			if (facebookEnabled) {
 				facebookButton.startAnimation(slideInFacebook);		
 				facebookButton.setTag(position);
 			}
 			if (bookmarks.get(position) == null) {
 				Animation slideInBookmark = AnimationUtils.loadAnimation(activity, R.anim.save_bookmark_button_in_from_right);
-				slideInBookmark.setDuration(300);
+				slideInBookmark.setDuration(600);
 				bookmarkButton.startAnimation(slideInBookmark);
 			}
-			if (bookmarks.get(position) == null) {
-				bookmarkButton.setTag(position);
-			}
+			Animation slideInHighlight = AnimationUtils.loadAnimation(activity, R.anim.highlight_button_in_from_right);
+			slideInHighlight.setDuration(300);
+			highlightButton.startAnimation(slideInHighlight);		
+			highlightButton.setTag(position);
+			
+			bookmarkButton.setTag(position);
 		} else {
 			facebookButton.setVisibility(View.INVISIBLE);
+			highlightButton.setVisibility(View.INVISIBLE);
 			if (bookmarks.get(position) != null) {
 				convertView.findViewById(R.id.saveBookmark).setVisibility(View.VISIBLE);
 			} else {
@@ -166,66 +173,104 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 
 	@Override
 	public void onClick(View v) {
-		if ((v.getId() == R.id.facebookShareButton) && facebookEnabled) {
-			Integer index = (Integer)v.getTag();
-			if (index != null) {
-				final String versId = book.getChapter(chapterIndex).getVerse(index).getId();
-				final String versBody = book.getChapter(chapterIndex).getVerse(index).getLine();
-				AlertDialog.Builder builder = new AlertDialog.Builder(activity);
-				builder.setTitle(R.string.facebookShareDialogTitle);
-				final AlertDialog dialog = builder.create();
-				final View dialogView = inflater.inflate(R.layout.share_vers_dialog, null);
-				dialog.setView(dialogView);
-				dialog.show();
-				dialogView.findViewById(R.id.facebookPostCancelButton).setOnClickListener(new OnClickListener() {
-					@Override
-					public void onClick(View v) {
-						dialog.dismiss();
+		Integer index = (Integer)v.getTag();
+		final String bookId = book.getId();
+		final int chapter = chapterIndex;
+		final int vers = index;
+		final String versId = book.getChapter(chapterIndex).getVerse(index).getId();
+		final String versBody = book.getChapter(chapterIndex).getVerse(index).getLine();
+
+		switch (v.getId()) {
+			case R.id.facebookShareButton: {
+				if (facebookEnabled) {
+					if (index != null) {
+						AlertDialog.Builder builder = new AlertDialog.Builder(activity);
+						builder.setTitle(R.string.facebookShareDialogTitle);
+						final AlertDialog dialog = builder.create();
+						final View dialogView = inflater.inflate(R.layout.share_vers_dialog, null);
+						dialog.setView(dialogView);
+						dialog.show();
+						dialogView.findViewById(R.id.facebookPostCancelButton).setOnClickListener(new OnClickListener() {
+							@Override
+							public void onClick(View v) {
+								dialog.dismiss();
+							}
+						});
+						((TextView)dialogView.findViewById(R.id.facebookPostVersView)).setText("\"" + versBody + "\"");
+						final EditText commentEditor = (EditText)dialogView.findViewById(R.id.facebookPostEditor);
+						dialogView.findViewById(R.id.facebookPostSendButton).setOnClickListener(new OnClickListener() {
+							@Override
+							public void onClick(View v) {
+								activity.publishStory(commentEditor.getText().toString(), versId, versBody);
+								dialog.dismiss();
+							}
+						});
 					}
-				});
-				((TextView)dialogView.findViewById(R.id.facebookPostVersView)).setText("\"" + versBody + "\"");
-				final EditText commentEditor = (EditText)dialogView.findViewById(R.id.facebookPostEditor);
-				dialogView.findViewById(R.id.facebookPostSendButton).setOnClickListener(new OnClickListener() {
-					@Override
-					public void onClick(View v) {
-						activity.publishStory(commentEditor.getText().toString(), versId, versBody);
-						dialog.dismiss();
-					}
-				});
+				}
+				break;
 			}
-		} else {
-			Integer index = (Integer)v.getTag();
-			if (index != null) {
-				final String bookId = book.getId();
-				final int chapter = chapterIndex;
-				final int vers = index;
-				final String versBody = book.getChapter(chapterIndex).getVerse(index).getLine();
-				AlertDialog.Builder builder = new AlertDialog.Builder(activity);
-				builder.setTitle(R.string.addBookmarkButton);
-				final AlertDialog dialog = builder.create();
-				final View dialogView = inflater.inflate(R.layout.add_bookmark_dialog, null);
-				dialog.setView(dialogView);
-				dialog.show();
-				dialogView.findViewById(R.id.addBookmarkCancelButton).setOnClickListener(new OnClickListener() {
-					@Override
-					public void onClick(View v) {
-						dialog.dismiss();
-					}
-				});
-				((TextView)dialogView.findViewById(R.id.addBookmarkVersView)).setText("\"" + versBody + "\"");
-				final EditText commentEditor = (EditText)dialogView.findViewById(R.id.addBookmarkNoteEditor);
-				dialogView.findViewById(R.id.addBookmarkButton).setOnClickListener(new OnClickListener() {
-					@Override
-					public void onClick(View v) {
-						Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapter, vers, Bookmark.DEFAULT_COLOR);
-						bookmarks.put(vers, bookmark);
-						dialog.dismiss();
-						for (DataSetObserver observer : observers){
-							observer.onChanged();
+			case R.id.addBookmarkButton: {
+				if (index != null) {
+					AlertDialog.Builder builder = new AlertDialog.Builder(activity);
+					builder.setTitle(R.string.addBookmarkButton);
+					final AlertDialog dialog = builder.create();
+					final View dialogView = inflater.inflate(R.layout.add_bookmark_dialog, null);
+					dialog.setView(dialogView);
+					dialog.show();
+					dialogView.findViewById(R.id.addBookmarkCancelButton).setOnClickListener(new OnClickListener() {
+						@Override
+						public void onClick(View v) {
+							dialog.dismiss();
 						}
-					}
-				});
+					});
+					((TextView)dialogView.findViewById(R.id.addBookmarkVersView)).setText("\"" + versBody + "\"");
+					final EditText commentEditor = (EditText)dialogView.findViewById(R.id.addBookmarkNoteEditor);
+					dialogView.findViewById(R.id.addBookmarkButton).setOnClickListener(new OnClickListener() {
+						@Override
+						public void onClick(View v) {
+							Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapter, vers, Bookmark.DEFAULT_COLOR);
+							bookmarks.put(vers, bookmark);
+							dialog.dismiss();
+							for (DataSetObserver observer : observers){
+								observer.onChanged();
+							}
+						}
+					});
+				}
+				break;
 			}
+			case R.id.highlight: {
+				if (index != null) {
+					AlertDialog.Builder builder = new AlertDialog.Builder(activity);
+					builder.setTitle(R.string.addBookmarkButton);
+					final AlertDialog dialog = builder.create();
+					final View dialogView = inflater.inflate(R.layout.add_bookmark_dialog, null);
+					dialog.setView(dialogView);
+					dialog.show();
+					dialogView.findViewById(R.id.addBookmarkCancelButton).setOnClickListener(new OnClickListener() {
+						@Override
+						public void onClick(View v) {
+							dialog.dismiss();
+						}
+					});
+					((TextView)dialogView.findViewById(R.id.addBookmarkVersView)).setText("\"" + versBody + "\"");
+					final EditText commentEditor = (EditText)dialogView.findViewById(R.id.addBookmarkNoteEditor);
+					dialogView.findViewById(R.id.addBookmarkButton).setOnClickListener(new OnClickListener() {
+						@Override
+						public void onClick(View v) {
+							Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapter, vers, Bookmark.DEFAULT_COLOR);
+							bookmarks.put(vers, bookmark);
+							dialog.dismiss();
+							for (DataSetObserver observer : observers){
+								observer.onChanged();
+							}
+						}
+					});
+				}
+				break;
+			}
+			default:
+				break;
 		}
 	}
 }

@@ -6,37 +6,44 @@
     android:paddingBottom="@dimen/activity_small_vertical_margin"
     android:paddingTop="@dimen/activity_small_vertical_margin"
     android:background="@android:color/transparent">
+
+    <hu.droidium.bibliapp.bookmar_ui.TagMargin
+        android:id="@+id/tagMargin"
+        android:layout_width="10dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"/>
+
     <LinearLayout
         android:orientation="vertical"
 	    android:layout_width="match_parent"
-	    android:layout_height="wrap_content"
-    >
-    <TextView
-        android:id="@+id/verseTitle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/unknownTitle"
-        android:gravity="center"
-        android:layout_gravity="center"
-	    android:layout_marginBottom="@dimen/activity_large_vertical_margin"
-	    style="@style/ListItemTitle"
-        android:background="@android:color/transparent"/>
-    <TextView
-        android:id="@+id/verseContent"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/unknownTitle"
-        style="@style/listItemText"
-        android:background="@android:color/transparent"/>
+	    android:layout_height="wrap_content">
+	    <TextView
+	        android:id="@+id/verseTitle"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/unknownTitle"
+	        android:gravity="center"
+	        android:layout_gravity="center"
+		    android:layout_marginBottom="@dimen/activity_large_vertical_margin"
+		    style="@style/ListItemTitle"
+	        android:background="@android:color/transparent"/>
+	    <TextView
+	        android:id="@+id/verseContent"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/unknownTitle"
+	        style="@style/listItemText"
+	        android:background="@android:color/transparent"/>
     </LinearLayout>
+    
     <ImageView
         android:id="@+id/facebookShareButton"
         android:src="@drawable/facebook"
         android:contentDescription="@string/facebookShareButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        />
+        android:layout_alignParentRight="true"/>
 
     <ImageView
         android:id="@+id/saveBookmark"
@@ -48,11 +55,14 @@
         android:layout_toLeftOf="@+id/facebookShareButton"
         android:src="@drawable/bookmark" />
 
-    <hu.droidium.bibliapp.bookmar_ui.TagMargin
-        android:id="@+id/tagMargin"
-        android:layout_width="10dp"
-        android:layout_height="match_parent"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"/>
+    <ImageView
+        android:id="@+id/highlight"
+        android:contentDescription="@string/highlightButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/activity_small_horizontal_margin"
+        android:layout_toLeftOf="@+id/saveBookmark"
+        android:src="@drawable/highlighter" />
 
 </RelativeLayout>

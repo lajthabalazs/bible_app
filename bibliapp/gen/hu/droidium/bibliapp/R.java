@@ -10,7 +10,8 @@ package hu.droidium.bibliapp;
 public final class R {
     public static final class anim {
         public static final int facebook_share_button_in_from_right=0x7f040000;
-        public static final int save_bookmark_button_in_from_right=0x7f040001;
+        public static final int highlight_button_in_from_right=0x7f040001;
+        public static final int save_bookmark_button_in_from_right=0x7f040002;
     }
     public static final class attr {
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
@@ -214,7 +215,7 @@ containing a value of this type.
         public static final int com_facebook_list_section_header_background=0x7f02000f;
         public static final int com_facebook_loginbutton_silver=0x7f020010;
         public static final int com_facebook_logo=0x7f020011;
-        public static final int com_facebook_picker_default_separator_color=0x7f020025;
+        public static final int com_facebook_picker_default_separator_color=0x7f020026;
         public static final int com_facebook_picker_item_background=0x7f020012;
         public static final int com_facebook_picker_list_focused=0x7f020013;
         public static final int com_facebook_picker_list_longpressed=0x7f020014;
@@ -232,11 +233,12 @@ containing a value of this type.
         public static final int com_facebook_top_button=0x7f020020;
         public static final int com_facebook_usersettingsfragment_background_gradient=0x7f020021;
         public static final int facebook=0x7f020022;
-        public static final int ic_launcher=0x7f020023;
-        public static final int paper_1280x720=0x7f020024;
+        public static final int highlighter=0x7f020023;
+        public static final int ic_launcher=0x7f020024;
+        public static final int paper_1280x720=0x7f020025;
     }
     public static final class id {
-        public static final int action_settings=0x7f06003a;
+        public static final int action_settings=0x7f06003b;
         public static final int activityTitle=0x7f06000c;
         public static final int addBookmarkButton=0x7f060008;
         public static final int addBookmarkCancelButton=0x7f060007;
@@ -274,7 +276,8 @@ containing a value of this type.
         public static final int facebookPostEditor=0x7f060031;
         public static final int facebookPostSendButton=0x7f060035;
         public static final int facebookPostVersView=0x7f060033;
-        public static final int facebookShareButton=0x7f060037;
+        public static final int facebookShareButton=0x7f060038;
+        public static final int highlight=0x7f06003a;
         public static final int large=0x7f060002;
         public static final int lastReadVersButton=0x7f06002b;
         public static final int msgView=0x7f060003;
@@ -282,13 +285,13 @@ containing a value of this type.
         public static final int noteTitle=0x7f060010;
         public static final int picker_subtitle=0x7f060024;
         public static final int regButton=0x7f060004;
-        public static final int saveBookmark=0x7f060038;
+        public static final int saveBookmark=0x7f060039;
         public static final int scrollView1=0x7f060032;
         public static final int settingsActualText=0x7f06002f;
         public static final int settingsLargerText=0x7f060030;
         public static final int settingsSmallerText=0x7f06002e;
         public static final int small=0x7f060000;
-        public static final int tagMargin=0x7f060039;
+        public static final int tagMargin=0x7f060037;
         public static final int textSizeLabel=0x7f06002d;
         public static final int toBookListButton=0x7f06002c;
         public static final int toSettingsButton=0x7f06002a;
@@ -334,7 +337,7 @@ containing a value of this type.
         public static final int addBookmarkButton=0x7f090020;
         public static final int app_id=0x7f090019;
         public static final int app_name=0x7f09001a;
-        public static final int bookmarksTitle=0x7f090026;
+        public static final int bookmarksTitle=0x7f090027;
         public static final int chapter=0x7f09001d;
         public static final int com_facebook_choose_friends=0x7f09000f;
         public static final int com_facebook_dialogloginactivity_ok_button=0x7f090000;
@@ -361,24 +364,25 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_log_in_button=0x7f090008;
         public static final int com_facebook_usersettingsfragment_logged_in=0x7f090009;
         public static final int com_facebook_usersettingsfragment_not_logged_in=0x7f09000a;
-        public static final int continueWhereFinished=0x7f090028;
-        public static final int facebookDialogLater=0x7f09002c;
-        public static final int facebookDialogLogin=0x7f09002b;
-        public static final int facebookDialogMessage=0x7f09002a;
-        public static final int facebookDialogNever=0x7f09002d;
-        public static final int facebookDialogTitle=0x7f090029;
-        public static final int facebookPostCancel=0x7f090022;
-        public static final int facebookPostSend=0x7f090021;
+        public static final int continueWhereFinished=0x7f090029;
+        public static final int facebookDialogLater=0x7f09002d;
+        public static final int facebookDialogLogin=0x7f09002c;
+        public static final int facebookDialogMessage=0x7f09002b;
+        public static final int facebookDialogNever=0x7f09002e;
+        public static final int facebookDialogTitle=0x7f09002a;
+        public static final int facebookPostCancel=0x7f090023;
+        public static final int facebookPostSend=0x7f090022;
         public static final int facebookShareButton=0x7f09001f;
-        public static final int facebookShareDialogTitle=0x7f090023;
-        public static final int noteLabel=0x7f090025;
-        public static final int saveBookmark=0x7f090024;
-        public static final int settings=0x7f09002e;
-        public static final int settingsActualFont=0x7f090031;
-        public static final int settingsLargerFonts=0x7f090032;
-        public static final int settingsSmallerFont=0x7f090030;
-        public static final int textSize=0x7f09002f;
-        public static final int toBookList=0x7f090027;
+        public static final int facebookShareDialogTitle=0x7f090024;
+        public static final int highlightButton=0x7f090021;
+        public static final int noteLabel=0x7f090026;
+        public static final int saveBookmark=0x7f090025;
+        public static final int settings=0x7f09002f;
+        public static final int settingsActualFont=0x7f090032;
+        public static final int settingsLargerFonts=0x7f090033;
+        public static final int settingsSmallerFont=0x7f090031;
+        public static final int textSize=0x7f090030;
+        public static final int toBookList=0x7f090028;
         public static final int unknownTitle=0x7f09001c;
         public static final int versesLabel=0x7f09001e;
     }

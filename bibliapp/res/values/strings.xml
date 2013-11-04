@@ -3,12 +3,14 @@
     <string name="app_id">503327623063069</string>
     
     <string name="app_name">Biblia</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Beállítások</string>
     <string name="unknownTitle">Ismeretlen</string>
     <string name="chapter">Fejezet</string>
     <string name="versesLabel">vers</string>
-    <string name="facebookShareButton">Share on Facebook</string>
-    <string name="addBookmarkButton">Add bookmark</string>
+    <string name="facebookShareButton">Megosztás Facebookon</string>
+    <string name="addBookmarkButton">Könyvjelző hozzáadása</string>
+    <string name="highlightButton">Kijelölés</string>
+    
     <string name="facebookPostSend">Megosztom</string>
     <string name="facebookPostCancel">Mégsem</string>
     <string name="facebookShareDialogTitle">Hallja mindenki!</string>
