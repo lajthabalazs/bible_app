@@ -4,11 +4,14 @@ import hu.droidium.bibliapp.data.AssetReader;
 import hu.droidium.bibliapp.data.Book;
 import hu.droidium.bibliapp.database.Bookmark;
 import hu.droidium.bibliapp.database.DatabaseManager;
+import hu.droidium.bibliapp.database.TagMeta;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Locale;
 import java.util.Vector;
 
 import org.json.JSONException;
@@ -55,6 +58,7 @@ public abstract class BibleBaseActivity extends Activity implements
 	private boolean pendingPublishReauthorization = false;
 	protected DatabaseManager databaseManager;
 	private SharedPreferences prefs;
+	private static ArrayList<TagMeta> localizedTagMetas;
 
 	private static Vector<String[]> titles;
 
@@ -200,7 +204,19 @@ public abstract class BibleBaseActivity extends Activity implements
 	public List<Bookmark> getAllBookmarks() {
 		return databaseManager.getAllBookmarks(null, false);
 	}
-
+	
+	public List<TagMeta> getTags() {
+		if (localizedTagMetas == null) {
+			localizedTagMetas = new ArrayList<TagMeta>();
+			List<TagMeta> tagMetas = databaseManager.getTagMetas();
+			for (TagMeta tagMeta : tagMetas) {
+				String localizedName = databaseManager.getTranslation(Locale.getDefault().getDisplayLanguage(), tagMeta.getName());
+				TagMeta localizedMeta = new TagMeta(tagMeta.getId(), localizedName, tagMeta.getColor());
+				localizedTagMetas.add(localizedMeta);
+			}
+		}
+		return localizedTagMetas;
+	}
 	
 	public Bookmark saveBookmark(String note, String book, int chapter, int vers, String color) {
 		return databaseManager.saveBookmark(new Bookmark(note, book, chapter, vers, color));

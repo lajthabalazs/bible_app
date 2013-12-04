@@ -238,7 +238,7 @@ containing a value of this type.
         public static final int paper_1280x720=0x7f020025;
     }
     public static final class id {
-        public static final int action_settings=0x7f06003b;
+        public static final int action_settings=0x7f06003e;
         public static final int activityTitle=0x7f06000c;
         public static final int addBookmarkButton=0x7f060008;
         public static final int addBookmarkCancelButton=0x7f060007;
@@ -276,8 +276,8 @@ containing a value of this type.
         public static final int facebookPostEditor=0x7f060031;
         public static final int facebookPostSendButton=0x7f060035;
         public static final int facebookPostVersView=0x7f060033;
-        public static final int facebookShareButton=0x7f060038;
-        public static final int highlight=0x7f06003a;
+        public static final int facebookShareButton=0x7f06003b;
+        public static final int highlight=0x7f06003d;
         public static final int large=0x7f060002;
         public static final int lastReadVersButton=0x7f06002b;
         public static final int msgView=0x7f060003;
@@ -285,18 +285,21 @@ containing a value of this type.
         public static final int noteTitle=0x7f060010;
         public static final int picker_subtitle=0x7f060024;
         public static final int regButton=0x7f060004;
-        public static final int saveBookmark=0x7f060039;
+        public static final int saveBookmark=0x7f06003c;
         public static final int scrollView1=0x7f060032;
         public static final int settingsActualText=0x7f06002f;
         public static final int settingsLargerText=0x7f060030;
         public static final int settingsSmallerText=0x7f06002e;
         public static final int small=0x7f060000;
-        public static final int tagMargin=0x7f060037;
+        public static final int tagColor=0x7f060037;
+        public static final int tagList=0x7f060036;
+        public static final int tagMargin=0x7f06003a;
+        public static final int tagName=0x7f060038;
         public static final int textSizeLabel=0x7f06002d;
         public static final int toBookListButton=0x7f06002c;
         public static final int toSettingsButton=0x7f06002a;
         public static final int verseContent=0x7f06000f;
-        public static final int verseList=0x7f060036;
+        public static final int verseList=0x7f060039;
         public static final int verseTitle=0x7f06000e;
     }
     public static final class layout {
@@ -326,8 +329,10 @@ containing a value of this type.
         public static final int random_vers_widget_layout=0x7f030017;
         public static final int settings=0x7f030018;
         public static final int share_vers_dialog=0x7f030019;
-        public static final int verse_list=0x7f03001a;
-        public static final int verse_list_item=0x7f03001b;
+        public static final int tag_list=0x7f03001a;
+        public static final int tag_list_item=0x7f03001b;
+        public static final int verse_list=0x7f03001c;
+        public static final int verse_list_item=0x7f03001d;
     }
     public static final class menu {
         public static final int reader=0x7f0b0000;
@@ -381,6 +386,7 @@ containing a value of this type.
         public static final int settingsActualFont=0x7f090032;
         public static final int settingsLargerFonts=0x7f090033;
         public static final int settingsSmallerFont=0x7f090031;
+        public static final int tagsTitle=0x7f090034;
         public static final int textSize=0x7f090030;
         public static final int toBookList=0x7f090028;
         public static final int unknownTitle=0x7f09001c;

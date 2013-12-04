@@ -143,8 +143,9 @@ public class DatabaseManager {
 		List<TagMeta> tags = new ArrayList<TagMeta>();
 		for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
 			String tagId = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_TAG_ID));
+			String tagName = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_TAG_NAME));
 			String color = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_COLOR));
-			tags.add(new TagMeta(tagId, color));
+			tags.add(new TagMeta(tagId, tagName, color));
 		}
 		return tags;
 	}
@@ -240,9 +241,26 @@ public class DatabaseManager {
 	    Cursor c = db.rawQuery(query, args);
 	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
 			String tagId = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_TAG_ID));
+			String tagName = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_TAG_NAME));
 			String tagColor = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_COLOR));
-			tags.add(new TagMeta(tagId, tagColor));
+			tags.add(new TagMeta(tagId, tagName, tagColor));
 		}
 	    return tags;
+	}
+	
+	public String[] getBookIds() {
+		return new String[] {"Elso", "Masodik", "Harmadik", "Negyedik"};
+	}
+
+	public int getChapterCount(String bookId) {
+		return 3;
+	}
+
+	public int getVerseCount(String bookId, int chapterId) {
+		return 5;
+	}
+
+	public String getVerseLine(String bookId, int chapterIndex, int verseIndex) {
+		return "No verse yet for book " + bookId + " " + chapterIndex + " " + verseIndex;
 	}
 }

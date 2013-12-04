@@ -67,8 +67,9 @@ public class DataLoader {
 			try {
 				JSONObject tagJson = tags.getJSONObject(i);
 				String tagId = tagJson.getString(TagMeta.COLUMN_NAME_TAG_ID);
+				String tagName = tagJson.getString(TagMeta.COLUMN_NAME_TAG_NAME);
 				String color = tagJson.getString(TagMeta.COLUMN_NAME_COLOR);
-				TagMeta tag = new TagMeta(tagId, color);
+				TagMeta tag = new TagMeta(tagId, tagName, color);
 				databaseManager.addTagMeta(tag);
 			} catch (Exception e) {
 				Log.e(TAG, "Couldn't parse tag meta: " + e.getLocalizedMessage());

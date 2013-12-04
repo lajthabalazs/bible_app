@@ -29,5 +29,7 @@
     <string name="settingsSmallerFont">Kisebb</string>
     <string name="settingsActualFont">Aktuális</string>
     <string name="settingsLargerFonts">Nagyobb</string>
+
+    <string name="tagsTitle">Címkék</string>
     
 </resources>
