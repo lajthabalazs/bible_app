@@ -1,6 +1,6 @@
 package hu.droidium.bibliapp;
 
-import hu.droidium.bibliapp.data.Book;
+import hu.droidium.bibliapp.data.BibleDataAdapter;
 
 import java.util.HashSet;
 
@@ -14,25 +14,27 @@ import android.widget.TextView;
 
 public class ChapterAdapter implements ListAdapter {
 
-	private Book book;
+	private BibleDataAdapter bibleDataAdapter;
+	private String bookId;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
 	private Context context;
 	private LayoutInflater inflater;
 	
-	public ChapterAdapter(Book book, LayoutInflater inflater, Context context) {
-		this.book = book;
+	public ChapterAdapter(String bookId, BibleDataAdapter bibleDataAdapter, LayoutInflater inflater, Context context) {
+		this.bookId = bookId;
+		this.bibleDataAdapter = bibleDataAdapter;
 		this.context = context;
 		this.inflater = inflater;
 	}
 
 	@Override
 	public int getCount() {
-		return book.getChapterCount();
+		return bibleDataAdapter.getChapterCount(bookId);
 	}
 
 	@Override
 	public Object getItem(int position) {
-		return book.getChapter(position);
+		return position;
 	}
 
 	@Override
@@ -54,11 +56,11 @@ public class ChapterAdapter implements ListAdapter {
 			TextView detailsView = (TextView)convertView.findViewById(R.id.chapterDetails);
 			Constants.scaleText(detailsView, context);
 		}
-		convertView.setTag(book.getChapter(position));
+		convertView.setTag(position);
 		TextView titleView = (TextView)convertView.findViewById(R.id.chapterTitle);
 		titleView.setText((position + 1) +". " +  context.getString(R.string.chapter));
 		TextView detailsView = (TextView)convertView.findViewById(R.id.chapterDetails);
-		detailsView.setText(book.getChapter(position).getVerseCount() + " " + context.getString(R.string.versesLabel));
+		detailsView.setText(bibleDataAdapter.getVerseCount(bookId, position) + " " + context.getString(R.string.versesLabel));
 		return convertView;
 	}
 
@@ -74,7 +76,7 @@ public class ChapterAdapter implements ListAdapter {
 
 	@Override
 	public boolean isEmpty() {
-		return book.getChapterCount() == 0;
+		return bibleDataAdapter.getChapterCount(bookId) == 0;
 	}
 
 	@Override

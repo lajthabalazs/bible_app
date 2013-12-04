@@ -2,8 +2,8 @@ package hu.droidium.bibliapp.bookmar_ui;
 
 import hu.droidium.bibliapp.BibleBaseActivity;
 import hu.droidium.bibliapp.R;
-import hu.droidium.bibliapp.data.Book;
 import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.database.Tag;
 
 import java.util.HashSet;
 import java.util.List;
@@ -13,7 +13,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListAdapter;
-import android.widget.TextView;
 
 public class TagAdapter implements ListAdapter {
 
@@ -22,10 +21,10 @@ public class TagAdapter implements ListAdapter {
 	private LayoutInflater inflater;
 	private List<Bookmark> bookmarks;
 	
-	public TagAdapter(List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity) {
+	public TagAdapter(List<Tag> bookmarks, LayoutInflater inflater, BibleBaseActivity activity) {
 		this.activity = activity;
 		this.inflater = inflater;
-		this.bookmarks = bookmarks;
+		//this.bookmarks = bookmarks;
 	}
 
 	@Override
@@ -50,25 +49,6 @@ public class TagAdapter implements ListAdapter {
 
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
-		Bookmark bookmark = bookmarks.get(position);
-		if (convertView == null) {
-			convertView = inflater.inflate(R.layout.bookmark_list_item, null);
-		}
-		convertView.setTag(bookmark);
-		TextView titleView = (TextView)convertView.findViewById(R.id.verseTitle);
-		Book book = activity.getBook(bookmark.getBook());
-		titleView.setText(book.getChapter(bookmark.getChapter()).getVerse(bookmark.getVers()).getId());
-		TextView versTextView = (TextView)convertView.findViewById(R.id.verseContent);
-		versTextView.setText(book.getChapter(bookmark.getChapter()).getVerse(bookmark.getVers()).getLine());
-		TextView noteView = (TextView)convertView.findViewById(R.id.bookmarkNote);
-		noteView.setVisibility(View.GONE);
-		convertView.findViewById(R.id.noteTitle).setVisibility(View.GONE);
-		String note = bookmark.getNote();
-		if ((note != null) && (note.length() > 0)) {
-			noteView.setText(bookmark.getNote());
-			noteView.setVisibility(View.VISIBLE);
-			convertView.findViewById(R.id.noteTitle).setVisibility(View.VISIBLE);
-		}
 		return convertView;
 	}
 

@@ -20,7 +20,7 @@ public class Bookmark implements BaseColumns {
 	
 	private long id;
 	private String note;
-	private String book;
+	private String bookId;
 	private int chapter;
 	private int vers;
 	private Date lastUpdate;
@@ -49,7 +49,7 @@ public class Bookmark implements BaseColumns {
 	protected Bookmark (long id, String note, String book, int chapter, int vers, String color, Date lastUpdate) {
 		this.id = id;
 		this.note = note;
-		this.book = book;
+		this.bookId = book;
 		this.chapter = chapter;
 		this.vers = vers;
 		this.color = color;
@@ -64,8 +64,8 @@ public class Bookmark implements BaseColumns {
 		return note;
 	}
 
-	public String getBook() {
-		return book;
+	public String getBookId() {
+		return bookId;
 	}
 
 	public int getChapter() {

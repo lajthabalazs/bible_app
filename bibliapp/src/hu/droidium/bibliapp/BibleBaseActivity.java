@@ -1,7 +1,11 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.asset_adapter.AssetBibleDataAdapter;
 import hu.droidium.bibliapp.data.AssetReader;
-import hu.droidium.bibliapp.data.Book;
+import hu.droidium.bibliapp.data.BibleDataAdapter;
+import hu.droidium.bibliapp.data.BookmarkDataAdapter;
+import hu.droidium.bibliapp.data.TagDataAdapter;
+import hu.droidium.bibliapp.data.Translator;
 import hu.droidium.bibliapp.database.Bookmark;
 import hu.droidium.bibliapp.database.DatabaseManager;
 import hu.droidium.bibliapp.database.TagMeta;
@@ -9,7 +13,6 @@ import hu.droidium.bibliapp.database.TagMeta;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Vector;
@@ -56,19 +59,27 @@ public abstract class BibleBaseActivity extends Activity implements
 	private UiLifecycleHelper uiHelper;	
 	
 	private boolean pendingPublishReauthorization = false;
-	protected DatabaseManager databaseManager;
+	
+	protected BibleDataAdapter bibleDataAdapter;
+	protected BookmarkDataAdapter bookmarkDataAdapter;
+	protected TagDataAdapter tagDataAdapter;
+	private Translator translator;
+	
 	private SharedPreferences prefs;
 	private static ArrayList<TagMeta> localizedTagMetas;
-
-	private static Vector<String[]> titles;
-
-	private static HashMap<String, Book> books = new HashMap<String, Book>();
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		prefs = Constants.getPrefs(this);
-		databaseManager = new DatabaseManager(this);
+		bibleDataAdapter = new AssetBibleDataAdapter(this);
+		// Most functionality is covered by a database manager
+		DatabaseManager databaseManager = new DatabaseManager(this);
+		bookmarkDataAdapter = databaseManager;
+		tagDataAdapter = databaseManager;
+		translator = databaseManager;
+		
+		
 		uiHelper = new UiLifecycleHelper(this, this);
 		uiHelper.onCreate(savedInstanceState);
 	}
@@ -197,20 +208,20 @@ public abstract class BibleBaseActivity extends Activity implements
 	protected abstract void facebookSessionClosed();
 
 	public List<Bookmark> getBookmarksForChapter(String bookId, int chapterIndex) {
-		List<Bookmark> bookmarks = databaseManager.getBookmarksForChapter(bookId, chapterIndex);
+		List<Bookmark> bookmarks = bookmarkDataAdapter.getBookmarksForChapter(bookId, chapterIndex);
 		return bookmarks;
 	}
 
 	public List<Bookmark> getAllBookmarks() {
-		return databaseManager.getAllBookmarks(null, false);
+		return bookmarkDataAdapter.getAllBookmarks(null, false);
 	}
 	
 	public List<TagMeta> getTags() {
 		if (localizedTagMetas == null) {
 			localizedTagMetas = new ArrayList<TagMeta>();
-			List<TagMeta> tagMetas = databaseManager.getTagMetas();
+			List<TagMeta> tagMetas = tagDataAdapter.getTagMetas();
 			for (TagMeta tagMeta : tagMetas) {
-				String localizedName = databaseManager.getTranslation(Locale.getDefault().getDisplayLanguage(), tagMeta.getName());
+				String localizedName = translator.getTranslation(Locale.getDefault().getDisplayLanguage(), tagMeta.getName());
 				TagMeta localizedMeta = new TagMeta(tagMeta.getId(), localizedName, tagMeta.getColor());
 				localizedTagMetas.add(localizedMeta);
 			}
@@ -219,7 +230,7 @@ public abstract class BibleBaseActivity extends Activity implements
 	}
 	
 	public Bookmark saveBookmark(String note, String book, int chapter, int vers, String color) {
-		return databaseManager.saveBookmark(new Bookmark(note, book, chapter, vers, color));
+		return bookmarkDataAdapter.saveBookmark(new Bookmark(note, book, chapter, vers, color));
 	}
 	
 	protected void publishStory(String message, String versId, String versBody) {
@@ -350,19 +361,7 @@ public abstract class BibleBaseActivity extends Activity implements
 		return sessionOnline;
 	}
 
-	public Vector<String[]> getBookTitles() {
-		if (titles == null) {
-			titles = AssetReader.readTitles(this);
-		}
-		return titles;
-	}
-	
-	public Book getBook(String bookId) {
-		Book book = books.get(bookId);
-		if (book == null) {
-			book = AssetReader.readFile(bookId, this);
-			books.put(bookId, book);
-		}
-		return book;
-	}
+	public String[] getBookIds() {
+		return bibleDataAdapter.getBookIds();
+	}	
 }

@@ -1,9 +1,9 @@
 package hu.droidium.bibliapp;
 
 import hu.droidium.bibliapp.bookmar_ui.TagMargin;
-import hu.droidium.bibliapp.data.Book;
+import hu.droidium.bibliapp.data.BibleDataAdapter;
+import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.database.Bookmark;
-import hu.droidium.bibliapp.database.DatabaseManager;
 
 import java.util.HashSet;
 import java.util.List;
@@ -25,7 +25,9 @@ import android.widget.TextView;
 
 public class VerseAdapter implements ListAdapter, OnClickListener {
 
-	private Book book;
+	private String bookId;
+	private BibleDataAdapter bibleDataAdapter;
+	private TagDataAdapter tagAdapter;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
 	private BibleBaseActivity activity; 
 	private LayoutInflater inflater;
@@ -33,15 +35,15 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private int chapterIndex;
 	private long displayMenu = -1;
 	private boolean facebookEnabled;
-	private DatabaseManager databaseManager;
 	
-	public VerseAdapter(Book book, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, DatabaseManager databaseManager) {
-		this.book = book;
+	public VerseAdapter(String bookId, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagAdapter) {
+		this.bookId = bookId;
 		this.chapterIndex = chapterIndex;
 		this.activity = activity;
 		this.inflater = inflater;
 		this.bookmarks = new SparseArray<Bookmark>();
-		this.databaseManager = databaseManager;
+		this.bibleDataAdapter = bibleDataAdapter;
+		this.tagAdapter = tagAdapter;
 		for (Bookmark bookmark : bookmarks) {
 			this.bookmarks.put(bookmark.getVers(), bookmark);
 		}
@@ -49,12 +51,12 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 
 	@Override
 	public int getCount() {
-		return book.getChapter(chapterIndex).getVerseCount();
+		return bibleDataAdapter.getVerseCount(bookId, chapterIndex);
 	}
 
 	@Override
 	public Object getItem(int position) {
-		return book.getChapter(chapterIndex).getVerse(position);
+		return position;
 	}
 
 	@Override
@@ -78,14 +80,14 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		}
 		convertView.setTag(position);
 		TextView titleView = (TextView)convertView.findViewById(R.id.verseTitle);
-		titleView.setText((book.getChapter(chapterIndex).getIndex() + 1) + "," + (position + 1));
+		titleView.setText((chapterIndex + 1) + "," + (position + 1));
 		TextView versTextView = (TextView)convertView.findViewById(R.id.verseContent);
-		versTextView.setText(book.getChapter(chapterIndex).getVerse(position).getLine());
+		versTextView.setText(bibleDataAdapter.getVerseLine(bookId, chapterIndex, position));
 		ImageView facebookButton = (ImageView)convertView.findViewById(R.id.facebookShareButton);
 		ImageView bookmarkButton = (ImageView)convertView.findViewById(R.id.saveBookmark);
 		ImageView highlightButton = (ImageView)convertView.findViewById(R.id.highlight);
 		TagMargin tagMargin = (TagMargin)convertView.findViewById(R.id.tagMargin);
-		tagMargin.setColors(book.getChapter(chapterIndex).getVerse(position).getTagColors(databaseManager));
+		tagMargin.setColors(tagAdapter.getTagColors(bookId, chapterIndex, position));
 		if (displayMenu == position) {
 			displayMenu = -1;
 			Log.e("Display item", "Item found, setting display menu item to -1");
@@ -139,7 +141,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 
 	@Override
 	public boolean isEmpty() {
-		return book.getChapter(chapterIndex).getVerseCount() == 0;
+		return bibleDataAdapter.getVerseCount(bookId, chapterIndex) == 0;
 	}
 
 	@Override
@@ -174,11 +176,10 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	@Override
 	public void onClick(View v) {
 		Integer index = (Integer)v.getTag();
-		final String bookId = book.getId();
 		final int chapter = chapterIndex;
 		final int vers = index;
-		final String versId = book.getChapter(chapterIndex).getVerse(index).getId();
-		final String versBody = book.getChapter(chapterIndex).getVerse(index).getLine();
+		final String verseId = Constants.getVerseLabel(bookId, chapter, vers, bibleDataAdapter);
+		final String versBody = bibleDataAdapter.getVerseLine(bookId, chapterIndex, index);
 
 		switch (v.getId()) {
 			case R.id.facebookShareButton: {
@@ -201,7 +202,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 						dialogView.findViewById(R.id.facebookPostSendButton).setOnClickListener(new OnClickListener() {
 							@Override
 							public void onClick(View v) {
-								activity.publishStory(commentEditor.getText().toString(), versId, versBody);
+								activity.publishStory(commentEditor.getText().toString(), verseId, versBody);
 								dialog.dismiss();
 							}
 						});

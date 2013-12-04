@@ -24,7 +24,7 @@ public class BookmarkListActivity extends BibleBaseActivity implements OnItemCli
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.bookmark_list);
 		List<Bookmark> bookmarks = getAllBookmarks();
-		adapter = new BookmarkAdapter(bookmarks, getLayoutInflater(), this);
+		adapter = new BookmarkAdapter(bookmarks, getLayoutInflater(), bibleDataAdapter);
 		ListView verseList = (ListView)findViewById(R.id.bookmarkList);
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);
@@ -46,7 +46,7 @@ public class BookmarkListActivity extends BibleBaseActivity implements OnItemCli
 		Bookmark bookmark = (Bookmark)view.getTag();
 		intent.putExtra(Constants.VERSE_INDEX, bookmark.getVers());
 		intent.putExtra(Constants.CHAPTER_INDEX, bookmark.getChapter());
-		intent.putExtra(Constants.BOOK_FILE_NAME, bookmark.getBook());
+		intent.putExtra(Constants.BOOK_ID, bookmark.getBookId());
 		startActivity(intent);
 	}
 }

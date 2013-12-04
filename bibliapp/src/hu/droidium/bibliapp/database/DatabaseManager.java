@@ -1,5 +1,10 @@
 package hu.droidium.bibliapp.database;
 
+import hu.droidium.bibliapp.data.BibleDataAdapter;
+import hu.droidium.bibliapp.data.BookmarkDataAdapter;
+import hu.droidium.bibliapp.data.TagDataAdapter;
+import hu.droidium.bibliapp.data.Translator;
+
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -11,7 +16,8 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-public class DatabaseManager {
+public class DatabaseManager implements BibleDataAdapter, BookmarkDataAdapter, TagDataAdapter, Translator {
+	
 	public static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
 	BibleDbHelper dbHelper;
 	private SQLiteDatabase db;
@@ -21,10 +27,11 @@ public class DatabaseManager {
 		db = dbHelper.getWritableDatabase();
 	}
 	
+	@Override
 	public Bookmark saveBookmark(Bookmark bookmark) {
 		ContentValues values = new ContentValues();
 		values.put(Bookmark.COLUMN_NAME_NOTE, bookmark.getNote());
-		values.put(Bookmark.COLUMN_NAME_BOOK, bookmark.getBook());
+		values.put(Bookmark.COLUMN_NAME_BOOK, bookmark.getBookId());
 		values.put(Bookmark.COLUMN_NAME_CHAPTER, bookmark.getChapter());
 		values.put(Bookmark.COLUMN_NAME_VERS, bookmark.getVers());
 		values.put(Bookmark.COLUMN_NAME_LAST_UPDATE, new SimpleDateFormat(DATE_FORMAT, Locale.getDefault()).format(bookmark.getLastUpdate()));
@@ -32,7 +39,7 @@ public class DatabaseManager {
 		if (bookmark.getId() == Bookmark.NEW_ID) {
 			// Insert new value
 			long newId = db.insert(Bookmark.TABLE_NAME, null , values);
-			return new Bookmark(newId, bookmark.getNote(), bookmark.getBook(), bookmark.getChapter(), bookmark.getVers(), bookmark.getColor(), new Date());
+			return new Bookmark(newId, bookmark.getNote(), bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers(), bookmark.getColor(), new Date());
 		} else {
 			// Update old value
 			String selection = Bookmark._ID + " =  ?";
@@ -50,6 +57,7 @@ public class DatabaseManager {
 		}
 	}
 		
+	@Override
 	public List<Bookmark> getBookmarksForChapter(String book, int chapter) {
 		String[] projection = {
 				Bookmark._ID,
@@ -83,6 +91,7 @@ public class DatabaseManager {
 		return bookmarks;
 	}
 
+	@Override
 	public List<Bookmark> getAllBookmarks(String sortColumn, boolean sortDesc) {
 		String[] projection = {
 				Bookmark._ID,
@@ -120,12 +129,14 @@ public class DatabaseManager {
 		return bookmarks;
 	}
 	
+	@Override
 	public void deleteBookmark(Bookmark bookmark) {
 		String selection = Bookmark._ID + " =  ?";
 		String[] selectionArgs = { String.valueOf(bookmark.getId()) };
 		db.delete(Bookmark.TABLE_NAME, selection, selectionArgs);
 	}
 
+	@Override
 	public List<TagMeta> getTagMetas() {
 		String[] projection = {
 				TagMeta.COLUMN_NAME_TAG_ID,
@@ -153,6 +164,7 @@ public class DatabaseManager {
 	public boolean addTagMeta(TagMeta tag) {
 		ContentValues values = new ContentValues();
 		values.put(TagMeta.COLUMN_NAME_TAG_ID, tag.getId());
+		values.put(TagMeta.COLUMN_NAME_TAG_NAME, tag.getName());
 		values.put(TagMeta.COLUMN_NAME_COLOR, tag.getColor());
 		// Try to insert new value
 		long newId = db.insert(TagMeta.TABLE_NAME, null , values);
@@ -201,6 +213,7 @@ public class DatabaseManager {
 		}
 	}
 	
+	@Override
 	public String getTranslation(String language, String original) {
 		String[] projection = {
 				Translation.COLUMN_NAME_ORIGINAL,
@@ -230,6 +243,7 @@ public class DatabaseManager {
 		}
 	}
 
+	@Override
 	public List<TagMeta> getTags(String book, int chapterIndex, int verseIndex) {
 		ArrayList<TagMeta> tags = new ArrayList<TagMeta>();
 		final String query = "SELECT * FROM " + TagMeta.TABLE_NAME + " meta INNER JOIN " + Tag.TABLE_NAME+ " tags " +
@@ -248,18 +262,43 @@ public class DatabaseManager {
 	    return tags;
 	}
 	
+	@Override
+	public ArrayList<String> getTagColors(String bookId, int chapterIndex, int verseIndex) {
+		List<TagMeta> tags = getTags(bookId, chapterIndex, verseIndex);
+		ArrayList<String> colors = new ArrayList<String>();
+		for (TagMeta tag : tags){
+			colors.add(tag.getColor());
+		}
+		return colors;
+	}
+	
+	@Override
 	public String[] getBookIds() {
 		return new String[] {"Elso", "Masodik", "Harmadik", "Negyedik"};
 	}
 
+	@Override
+	public String getBookTitle(String bookId) {
+		return bookId + " title";
+	}
+
+	@Override
+	public String getBookAbbreviation(String bookId) {
+		// TODO store book abbreviation
+		return bookId;
+	}
+
+	@Override
 	public int getChapterCount(String bookId) {
 		return 3;
 	}
 
+	@Override
 	public int getVerseCount(String bookId, int chapterId) {
 		return 5;
 	}
 
+	@Override
 	public String getVerseLine(String bookId, int chapterIndex, int verseIndex) {
 		return "No verse yet for book " + bookId + " " + chapterIndex + " " + verseIndex;
 	}

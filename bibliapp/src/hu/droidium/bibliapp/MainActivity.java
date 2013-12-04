@@ -31,7 +31,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	@Override
 	protected void onResume() {
 		super.onResume();
-		if (Constants.getPrefs(this).contains(Constants.LAST_READ_BOOK)) {
+		if (Constants.getPrefs(this).contains(Constants.LAST_READ_BOOK_ID)) {
 			lastReadVers.setEnabled(true);
 		} else {
 			lastReadVers.setEnabled(false);

@@ -1,7 +1,5 @@
 package hu.droidium.bibliapp;
 
-import hu.droidium.bibliapp.data.Book;
-
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
@@ -15,7 +13,7 @@ import android.widget.ListView;
 public class ChapterListActivity extends BibleBaseActivity implements OnItemClickListener {
 
 	private ChapterAdapter adapter;
-	private String fileName; 
+	private String bookId; 
  
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -23,10 +21,9 @@ public class ChapterListActivity extends BibleBaseActivity implements OnItemClic
 		setContentView(R.layout.chapter_list);
 		SharedPreferences prefs = Constants.getPrefs(this);
 		Intent intent = getIntent();
-		fileName = intent.getStringExtra(Constants.BOOK_FILE_NAME);
-		Book book = getBook(fileName);
-		((TextView)findViewById(R.id.activityTitle)).setText(book.getTitle());
-		adapter = new ChapterAdapter(book, getLayoutInflater(), this);		
+		bookId = intent.getStringExtra(Constants.BOOK_ID);
+		((TextView)findViewById(R.id.activityTitle)).setText(bibleDataAdapter.getBookTitle(bookId));
+		adapter = new ChapterAdapter(bookId, bibleDataAdapter, getLayoutInflater(), this);		
 		ListView chapterList = (ListView)findViewById(R.id.chapterList);
 		chapterList.setCacheColorHint(Color.TRANSPARENT);
 		chapterList.setAdapter(adapter);
@@ -35,7 +32,7 @@ public class ChapterListActivity extends BibleBaseActivity implements OnItemClic
 		if (intent.hasExtra(Constants.SHOULD_OPEN_LAST_READ)) {
 			int chapterIndex = prefs.getInt(Constants.LAST_READ_CHAPTER, 0);
 			Intent nextIntent = new Intent(this, VerseListActivity.class);
-			nextIntent.putExtra(Constants.BOOK_FILE_NAME, fileName);
+			nextIntent.putExtra(Constants.BOOK_ID, bookId);
 			nextIntent.putExtra(Constants.CHAPTER_INDEX, chapterIndex);
 			nextIntent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
 			startActivity(nextIntent);
@@ -45,7 +42,7 @@ public class ChapterListActivity extends BibleBaseActivity implements OnItemClic
 	@Override
 	public void onItemClick(AdapterView<?> adapterView, View view, int selectedIndex, long id) {
 		Intent intent = new Intent(this, VerseListActivity.class);
-		intent.putExtra(Constants.BOOK_FILE_NAME, fileName);
+		intent.putExtra(Constants.BOOK_ID, bookId);
 		intent.putExtra(Constants.CHAPTER_INDEX, selectedIndex);
 		startActivity(intent);
 	}

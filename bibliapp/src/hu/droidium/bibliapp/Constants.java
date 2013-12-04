@@ -1,5 +1,6 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.data.BibleDataAdapter;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
@@ -8,13 +9,14 @@ import android.widget.TextView;
 
 public class Constants {
 
-	public static final String LAST_READ_BOOK = "Last read book";
+	public static final String LAST_READ_BOOK_ID = "Last read book";
 	public static final String LAST_READ_CHAPTER = "Last read chapter";
 	public static final String LAST_READ_VERS = "Last read vers";
 	public static final String SHOULD_OPEN_LAST_READ = "Open last read";
 
 	
-	public static final String BOOK_FILE_NAME = "Book file name";
+	//public static final String BOOK_FILE_NAME = "Book file name";
+	public static final String BOOK_ID = "Book id";
 	public static final String CHAPTER_INDEX = "Chapter index";
 	public static final String VERSE_INDEX = "Vers index";
 	
@@ -36,11 +38,11 @@ public class Constants {
 		return context.getSharedPreferences(SHARED_PREFS, Context.MODE_PRIVATE);
 	}
 
-	public static void savePosition(String book, int chapter,
+	public static void savePosition(String bookId, int chapter,
 			int vers, Context context) {
 		SharedPreferences prefs = getPrefs(context);
 		Editor editor = prefs.edit();
-		editor.putString(LAST_READ_BOOK, book);
+		editor.putString(LAST_READ_BOOK_ID, bookId);
 		editor.putInt(LAST_READ_CHAPTER, chapter);
 		editor.putInt(LAST_READ_VERS, vers);
 		editor.commit();
@@ -59,4 +61,9 @@ public class Constants {
 		float actualSize = (float) (baseSize * currentMultiplier);
 		textView.setTextSize(TypedValue.COMPLEX_UNIT_PX, actualSize);
 	}
+	
+	public static String getVerseLabel(String bookId, int chapterIndex, int verseIndex, BibleDataAdapter bibleDataAdapter) {
+		return bibleDataAdapter.getBookAbbreviation(bookId) + ", " + (chapterIndex + 1) + "." + (verseIndex + 1);
+	}
+
 }

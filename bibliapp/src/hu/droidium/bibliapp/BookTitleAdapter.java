@@ -1,5 +1,7 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.data.BibleDataAdapter;
+
 import java.util.HashSet;
 import java.util.Vector;
 
@@ -13,25 +15,27 @@ import android.widget.TextView;
 
 public class BookTitleAdapter implements ListAdapter {
 	
-	private Vector<String[]> books;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
 	private LayoutInflater inflater;
+	private BibleDataAdapter bibleDataAdapter;
 	private Context context;
+	private String[] bookIds;
 	
-	public BookTitleAdapter(Vector<String[]> books, LayoutInflater inflater, Context context) {
-		this.books = books;
-		this.inflater = inflater;
+	public BookTitleAdapter(LayoutInflater layoutInflater, BibleDataAdapter bibleDataAdapter, Context context) {
+		this.inflater = layoutInflater;
 		this.context = context;
+		this.bibleDataAdapter = bibleDataAdapter;
+		bookIds = bibleDataAdapter.getBookIds();
 	}
 
 	@Override
 	public int getCount() {
-		return books.size();
+		return bookIds.length;
 	}
 
 	@Override
 	public Object getItem(int position) {
-		return books.get(position);
+		return bookIds[position];
 	}
 
 	@Override
@@ -51,9 +55,9 @@ public class BookTitleAdapter implements ListAdapter {
 			TextView titleView = (TextView)convertView.findViewById(R.id.bookTitle);
 			Constants.scaleText(titleView, context);
 		}
-		convertView.setTag(books.get(position)[0]);
+		convertView.setTag(bookIds[position]);
 		TextView titleView = (TextView)convertView.findViewById(R.id.bookTitle);
-		titleView.setText(books.get(position)[1]);
+		titleView.setText(bibleDataAdapter.getBookTitle(bookIds[position]));
 		return convertView;
 	}
 
@@ -69,7 +73,7 @@ public class BookTitleAdapter implements ListAdapter {
 
 	@Override
 	public boolean isEmpty() {
-		return books.isEmpty();
+		return bookIds == null || bookIds.length == 0;
 	}
 
 	@Override

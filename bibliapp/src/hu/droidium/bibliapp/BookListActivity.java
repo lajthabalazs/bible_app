@@ -23,16 +23,16 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 		setContentView(R.layout.book_list);
 		TextView bookmarksLink = (TextView) findViewById(R.id.bookmarkLink);
 		bookmarksLink.setOnClickListener(this);
-		adapter = new BookTitleAdapter(super.getBookTitles(), getLayoutInflater(), this);
+		adapter = new BookTitleAdapter(getLayoutInflater(), bibleDataAdapter, this);
 		ListView bookList = (ListView) findViewById(R.id.bookList);
 		bookList.setCacheColorHint(Color.TRANSPARENT);
 		bookList.setAdapter(adapter);
 		bookList.setOnItemClickListener(this);
 		if (intent.hasExtra(Constants.SHOULD_OPEN_LAST_READ)) {
 			SharedPreferences prefs = Constants.getPrefs(this);
-			String fileName = prefs.getString(Constants.LAST_READ_BOOK, null);
+			String bookId = prefs.getString(Constants.LAST_READ_BOOK_ID, null);
 			Intent nextIntent = new Intent(this, ChapterListActivity.class);
-			nextIntent.putExtra(Constants.BOOK_FILE_NAME, fileName);
+			nextIntent.putExtra(Constants.BOOK_ID, bookId);
 			nextIntent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
 			startActivity(nextIntent);
 		}
@@ -41,9 +41,9 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 	@Override
 	public void onItemClick(AdapterView<?> adapterView, View view,
 			int selectedIndex, long id) {
-		String fileName = ((String[]) adapter.getItem(selectedIndex))[0];
+		String bookId = (String)adapter.getItem(selectedIndex);
 		Intent intent = new Intent(this, ChapterListActivity.class);
-		intent.putExtra(Constants.BOOK_FILE_NAME, fileName);
+		intent.putExtra(Constants.BOOK_ID, bookId);
 		startActivity(intent);
 	}
 

@@ -1,8 +1,8 @@
 package hu.droidium.bibliapp.bookmar_ui;
 
-import hu.droidium.bibliapp.BibleBaseActivity;
+import hu.droidium.bibliapp.Constants;
 import hu.droidium.bibliapp.R;
-import hu.droidium.bibliapp.data.Book;
+import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.database.Bookmark;
 
 import java.util.HashSet;
@@ -18,14 +18,14 @@ import android.widget.TextView;
 public class BookmarkAdapter implements ListAdapter {
 
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
-	private BibleBaseActivity activity; 
 	private LayoutInflater inflater;
 	private List<Bookmark> bookmarks;
+	private BibleDataAdapter bibleDataAdapter;
 	
-	public BookmarkAdapter(List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity) {
-		this.activity = activity;
+	public BookmarkAdapter(List<Bookmark> bookmarks, LayoutInflater inflater, BibleDataAdapter bibleDataAdapter) {
 		this.inflater = inflater;
 		this.bookmarks = bookmarks;
+		this.bibleDataAdapter = bibleDataAdapter;
 	}
 
 	@Override
@@ -56,10 +56,9 @@ public class BookmarkAdapter implements ListAdapter {
 		}
 		convertView.setTag(bookmark);
 		TextView titleView = (TextView)convertView.findViewById(R.id.verseTitle);
-		Book book = activity.getBook(bookmark.getBook());
-		titleView.setText(book.getChapter(bookmark.getChapter()).getVerse(bookmark.getVers()).getId());
+		titleView.setText(Constants.getVerseLabel(bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers(), bibleDataAdapter));
 		TextView versTextView = (TextView)convertView.findViewById(R.id.verseContent);
-		versTextView.setText(book.getChapter(bookmark.getChapter()).getVerse(bookmark.getVers()).getLine());
+		versTextView.setText(bibleDataAdapter.getVerseLine(bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers()));
 		TextView noteView = (TextView)convertView.findViewById(R.id.bookmarkNote);
 		noteView.setVisibility(View.GONE);
 		convertView.findViewById(R.id.noteTitle).setVisibility(View.GONE);

@@ -26,7 +26,7 @@ public class TagListActivity extends BibleBaseActivity implements OnItemClickLis
 		setContentView(R.layout.tag_list);
 		List<Bookmark> bookmarks = getAllBookmarks();
 		((TextView)findViewById(R.id.activityTitle)).setText(R.string.tagsTitle);
-		adapter = new BookmarkAdapter(bookmarks, getLayoutInflater(), this);
+		// TODO tag adapter
 		ListView verseList = (ListView)findViewById(R.id.bookmarkList);
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);
@@ -48,7 +48,7 @@ public class TagListActivity extends BibleBaseActivity implements OnItemClickLis
 		Bookmark bookmark = (Bookmark)view.getTag();
 		intent.putExtra(Constants.VERSE_INDEX, bookmark.getVers());
 		intent.putExtra(Constants.CHAPTER_INDEX, bookmark.getChapter());
-		intent.putExtra(Constants.BOOK_FILE_NAME, bookmark.getBook());
+		intent.putExtra(Constants.BOOK_ID, bookmark.getBookId());
 		startActivity(intent);
 	}
 }
