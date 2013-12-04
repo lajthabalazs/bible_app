@@ -2,6 +2,11 @@ package hu.droidium.bibliapp.database;
 
 import android.provider.BaseColumns;
 
+/**
+ * Represents a tag added to a verse.
+ * @author Balazs Lajtha
+ *
+ */
 public class Tag implements BaseColumns {
 	public static final String TABLE_NAME = "tag";
 	public static final String COLUMN_NAME_TAG_ID = "tagId";

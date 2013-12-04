@@ -3,6 +3,8 @@
     <string name="app_id">503327623063069</string>
     
     <string name="app_name">Biblia</string>
+    <string name="placeholder">Hely tartó</string>
+    <string name="dialogImageContent">Ez itt egy kép</string>
     <string name="action_settings">Beállítások</string>
     <string name="unknownTitle">Ismeretlen</string>
     <string name="chapter">Fejezet</string>
@@ -31,5 +33,6 @@
     <string name="settingsLargerFonts">Nagyobb</string>
 
     <string name="tagsTitle">Címkék</string>
+    <string name="tagListItemWithCount">%1$s (%2$d vers)</string>
     
 </resources>

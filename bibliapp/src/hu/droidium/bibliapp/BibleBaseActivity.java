@@ -1,7 +1,6 @@
 package hu.droidium.bibliapp;
 
 import hu.droidium.bibliapp.asset_adapter.AssetBibleDataAdapter;
-import hu.droidium.bibliapp.data.AssetReader;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.BookmarkDataAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
@@ -15,7 +14,6 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.Locale;
-import java.util.Vector;
 
 import org.json.JSONException;
 import org.json.JSONObject;

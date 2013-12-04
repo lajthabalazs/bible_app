@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gold">#FFD700</color>
+    
+    <color name="black">#000000</color>
+    <color name="dialogBackgroundColor">#99000000</color>
+    
+    <color name="firstMenu">#ACFF29</color>
+    <color name="secondMenu">#FF249A</color>
+	<color name="thirdMenu">#12BBB8</color>
+
+	<color name="terminatorFirst">#6e801a</color>
+	<color name="terminatorSecond">#076438</color>
+	<color name="terminatorThird">#1b7576</color>
+	<color name="terminatorFourth">#676767</color>
+	<color name="terminatorFirstHighlight">#dffe4b</color>
+	<color name="terminatorSecondHighlight">#08de7c</color>
+	<color name="terminatorThirdHighlight">#2bf2f5</color>
+	<color name="terminatorFourthHighlight">#cbccce</color>
+
+	<color name="marilynFirst">#7b184f</color>
+	<color name="marilynSecond">#128888</color>
+	<color name="marilynThird">#b9850b</color>
+	<color name="marilynFourth">#a437a0</color>
+	<color name="marilynFirstHighlight">#ff209d</color>
+	<color name="marilynSecondHighlight">#02fffd</color>
+	<color name="marilynThirdHighlight">#fff802</color>
+	<color name="marilynFourthHighlight">#ff6ef9</color>
+
+	<color name="userFirst">#6e801a</color>
+	<color name="userSecond">#076438</color>
+	<color name="userThird">#1b7576</color>
+	<color name="userFourth">#676767</color>
+	<color name="userFirstHighlight">#dffe4b</color>
+	<color name="userSecondHighlight">#08de7c</color>
+	<color name="userThirdHighlight">#2bf2f5</color>
+	<color name="userFourthHighlight">#cbccce</color>
+									
+	
+	<color name="white">#FFFFFF</color>
+</resources>

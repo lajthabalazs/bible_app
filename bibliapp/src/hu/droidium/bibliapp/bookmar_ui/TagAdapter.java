@@ -1,40 +1,58 @@
 package hu.droidium.bibliapp.bookmar_ui;
 
-import hu.droidium.bibliapp.BibleBaseActivity;
 import hu.droidium.bibliapp.R;
-import hu.droidium.bibliapp.database.Bookmark;
-import hu.droidium.bibliapp.database.Tag;
+import hu.droidium.bibliapp.database.TagMeta;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
+import android.content.res.Resources;
 import android.database.DataSetObserver;
+import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListAdapter;
+import android.widget.TextView;
 
 public class TagAdapter implements ListAdapter {
 
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
-	private BibleBaseActivity activity; 
 	private LayoutInflater inflater;
-	private List<Bookmark> bookmarks;
+	private List<TagMeta> tags = new ArrayList<TagMeta>();
+	private List<Integer> occurrences = new ArrayList<Integer>();
+	private Resources resources;
 	
-	public TagAdapter(List<Tag> bookmarks, LayoutInflater inflater, BibleBaseActivity activity) {
-		this.activity = activity;
+	public TagAdapter(List<TagMeta> tags, List<Integer>occurrences, LayoutInflater inflater, Resources resources) {
 		this.inflater = inflater;
-		//this.bookmarks = bookmarks;
+		this.occurrences.addAll(occurrences);
+		this.tags.addAll(tags);
+		this.resources = resources;
+	}
+	
+	public void setTags(List<TagMeta> tags, List<Integer>occurrences) {
+		this.tags.clear();
+		if (tags != null) {
+			this.tags.addAll(tags);
+		}
+		this.occurrences.clear();
+		if (occurrences != null) {
+			this.occurrences.addAll(occurrences);
+		}
+		for (DataSetObserver observer : observers) {
+			observer.onChanged();
+		}
 	}
 
 	@Override
 	public int getCount() {
-		return bookmarks.size();
+		return tags.size();
 	}
 
 	@Override
 	public Object getItem(int position) {
-		return bookmarks.get(position);
+		return tags.get(position);
 	}
 
 	@Override
@@ -49,6 +67,17 @@ public class TagAdapter implements ListAdapter {
 
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
+		if (convertView == null) {
+			convertView = inflater.inflate(R.layout.tag_list_item, null);
+		}
+		TextView tagNameView = (TextView) convertView.findViewById(R.id.tagName);
+		View colorField = convertView.findViewById(R.id.tagColor);
+		if (occurrences.size() != 0) {
+			tagNameView.setText(resources.getString(R.string.tagListItemWithCount, tags.get(position).getName(), occurrences.get(position)));
+		} else {
+			tagNameView.setText(tags.get(position).getName());
+		}
+		colorField.setBackgroundColor(Color.parseColor(tags.get(position).getColor()));
 		return convertView;
 	}
 
@@ -64,7 +93,7 @@ public class TagAdapter implements ListAdapter {
 
 	@Override
 	public boolean isEmpty() {
-		return bookmarks.isEmpty();
+		return tags.isEmpty();
 	}
 
 	@Override

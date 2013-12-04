@@ -2,6 +2,11 @@ package hu.droidium.bibliapp.database;
 
 import android.provider.BaseColumns;
 
+/**
+ * Represents a tag. Tags can be added to verses. Each tag has a color that symbolizes highlighting.
+ * @author Balazs Lajtha
+ *
+ */
 public class TagMeta implements BaseColumns {
 	public static final String TABLE_NAME = "tagMeta";
 	public static final String COLUMN_NAME_TAG_ID = "tagId";

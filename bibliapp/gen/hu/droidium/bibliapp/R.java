@@ -156,6 +156,7 @@ containing a value of this type.
         public static final int title_text=0x7f010003;
     }
     public static final class color {
+        public static final int black=0x7f080008;
         public static final int com_facebook_blue=0x7f080002;
         public static final int com_facebook_loginview_text_color=0x7f080006;
         public static final int com_facebook_picker_search_bar_background=0x7f080000;
@@ -163,7 +164,36 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_connected_shadow_color=0x7f080004;
         public static final int com_facebook_usersettingsfragment_connected_text_color=0x7f080003;
         public static final int com_facebook_usersettingsfragment_not_connected_text_color=0x7f080005;
+        public static final int dialogBackgroundColor=0x7f080009;
+        public static final int firstMenu=0x7f08000a;
         public static final int gold=0x7f080007;
+        public static final int marilynFirst=0x7f080015;
+        public static final int marilynFirstHighlight=0x7f080019;
+        public static final int marilynFourth=0x7f080018;
+        public static final int marilynFourthHighlight=0x7f08001c;
+        public static final int marilynSecond=0x7f080016;
+        public static final int marilynSecondHighlight=0x7f08001a;
+        public static final int marilynThird=0x7f080017;
+        public static final int marilynThirdHighlight=0x7f08001b;
+        public static final int secondMenu=0x7f08000b;
+        public static final int terminatorFirst=0x7f08000d;
+        public static final int terminatorFirstHighlight=0x7f080011;
+        public static final int terminatorFourth=0x7f080010;
+        public static final int terminatorFourthHighlight=0x7f080014;
+        public static final int terminatorSecond=0x7f08000e;
+        public static final int terminatorSecondHighlight=0x7f080012;
+        public static final int terminatorThird=0x7f08000f;
+        public static final int terminatorThirdHighlight=0x7f080013;
+        public static final int thirdMenu=0x7f08000c;
+        public static final int userFirst=0x7f08001d;
+        public static final int userFirstHighlight=0x7f080021;
+        public static final int userFourth=0x7f080020;
+        public static final int userFourthHighlight=0x7f080024;
+        public static final int userSecond=0x7f08001e;
+        public static final int userSecondHighlight=0x7f080022;
+        public static final int userThird=0x7f08001f;
+        public static final int userThirdHighlight=0x7f080023;
+        public static final int white=0x7f080025;
     }
     public static final class dimen {
         public static final int activity_double_horizontal_margin=0x7f070013;
@@ -238,7 +268,7 @@ containing a value of this type.
         public static final int paper_1280x720=0x7f020025;
     }
     public static final class id {
-        public static final int action_settings=0x7f06003e;
+        public static final int action_settings=0x7f060047;
         public static final int activityTitle=0x7f06000c;
         public static final int addBookmarkButton=0x7f060008;
         public static final int addBookmarkCancelButton=0x7f060007;
@@ -272,34 +302,43 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_login_button=0x7f060029;
         public static final int com_facebook_usersettingsfragment_logo_image=0x7f060027;
         public static final int com_facebook_usersettingsfragment_profile_name=0x7f060028;
-        public static final int facebookPostCancelButton=0x7f060034;
-        public static final int facebookPostEditor=0x7f060031;
-        public static final int facebookPostSendButton=0x7f060035;
-        public static final int facebookPostVersView=0x7f060033;
-        public static final int facebookShareButton=0x7f06003b;
-        public static final int highlight=0x7f06003d;
+        public static final int dialogButtonStub=0x7f060034;
+        public static final int dialogButtons=0x7f060035;
+        public static final int dialogFirstButton=0x7f06002a;
+        public static final int dialogImage=0x7f060031;
+        public static final int dialogImageHolder=0x7f060030;
+        public static final int dialogImageSubtitle=0x7f060032;
+        public static final int dialogMessage=0x7f060033;
+        public static final int dialogSecondButton=0x7f06002b;
+        public static final int dialogThirdButton=0x7f06002c;
+        public static final int facebookPostCancelButton=0x7f06003d;
+        public static final int facebookPostEditor=0x7f06003a;
+        public static final int facebookPostSendButton=0x7f06003e;
+        public static final int facebookPostVersView=0x7f06003c;
+        public static final int facebookShareButton=0x7f060044;
+        public static final int highlight=0x7f060046;
         public static final int large=0x7f060002;
-        public static final int lastReadVersButton=0x7f06002b;
+        public static final int lastReadVersButton=0x7f06002e;
         public static final int msgView=0x7f060003;
         public static final int normal=0x7f060001;
         public static final int noteTitle=0x7f060010;
         public static final int picker_subtitle=0x7f060024;
         public static final int regButton=0x7f060004;
-        public static final int saveBookmark=0x7f06003c;
-        public static final int scrollView1=0x7f060032;
-        public static final int settingsActualText=0x7f06002f;
-        public static final int settingsLargerText=0x7f060030;
-        public static final int settingsSmallerText=0x7f06002e;
+        public static final int saveBookmark=0x7f060045;
+        public static final int scrollView1=0x7f06003b;
+        public static final int settingsActualText=0x7f060038;
+        public static final int settingsLargerText=0x7f060039;
+        public static final int settingsSmallerText=0x7f060037;
         public static final int small=0x7f060000;
-        public static final int tagColor=0x7f060037;
-        public static final int tagList=0x7f060036;
-        public static final int tagMargin=0x7f06003a;
-        public static final int tagName=0x7f060038;
-        public static final int textSizeLabel=0x7f06002d;
-        public static final int toBookListButton=0x7f06002c;
-        public static final int toSettingsButton=0x7f06002a;
+        public static final int tagColor=0x7f060040;
+        public static final int tagList=0x7f06003f;
+        public static final int tagMargin=0x7f060043;
+        public static final int tagName=0x7f060041;
+        public static final int textSizeLabel=0x7f060036;
+        public static final int toBookListButton=0x7f06002f;
+        public static final int toSettingsButton=0x7f06002d;
         public static final int verseContent=0x7f06000f;
-        public static final int verseList=0x7f060039;
+        public static final int verseList=0x7f060042;
         public static final int verseTitle=0x7f06000e;
     }
     public static final class layout {
@@ -325,25 +364,28 @@ containing a value of this type.
         public static final int com_facebook_placepickerfragment_list_row=0x7f030013;
         public static final int com_facebook_search_bar_layout=0x7f030014;
         public static final int com_facebook_usersettingsfragment=0x7f030015;
-        public static final int main_layout=0x7f030016;
-        public static final int random_vers_widget_layout=0x7f030017;
-        public static final int settings=0x7f030018;
-        public static final int share_vers_dialog=0x7f030019;
-        public static final int tag_list=0x7f03001a;
-        public static final int tag_list_item=0x7f03001b;
-        public static final int verse_list=0x7f03001c;
-        public static final int verse_list_item=0x7f03001d;
+        public static final int dialog_horizontal_buttons=0x7f030016;
+        public static final int dialog_vertical_buttons=0x7f030017;
+        public static final int main_layout=0x7f030018;
+        public static final int popart_dialog=0x7f030019;
+        public static final int random_vers_widget_layout=0x7f03001a;
+        public static final int settings=0x7f03001b;
+        public static final int share_vers_dialog=0x7f03001c;
+        public static final int tag_list=0x7f03001d;
+        public static final int tag_list_item=0x7f03001e;
+        public static final int verse_list=0x7f03001f;
+        public static final int verse_list_item=0x7f030020;
     }
     public static final class menu {
         public static final int reader=0x7f0b0000;
     }
     public static final class string {
-        public static final int action_settings=0x7f09001b;
-        public static final int addBookmarkButton=0x7f090020;
+        public static final int action_settings=0x7f09001d;
+        public static final int addBookmarkButton=0x7f090022;
         public static final int app_id=0x7f090019;
         public static final int app_name=0x7f09001a;
-        public static final int bookmarksTitle=0x7f090027;
-        public static final int chapter=0x7f09001d;
+        public static final int bookmarksTitle=0x7f090029;
+        public static final int chapter=0x7f09001f;
         public static final int com_facebook_choose_friends=0x7f09000f;
         public static final int com_facebook_dialogloginactivity_ok_button=0x7f090000;
         public static final int com_facebook_internet_permission_error_message=0x7f090013;
@@ -369,28 +411,31 @@ containing a value of this type.
         public static final int com_facebook_usersettingsfragment_log_in_button=0x7f090008;
         public static final int com_facebook_usersettingsfragment_logged_in=0x7f090009;
         public static final int com_facebook_usersettingsfragment_not_logged_in=0x7f09000a;
-        public static final int continueWhereFinished=0x7f090029;
-        public static final int facebookDialogLater=0x7f09002d;
-        public static final int facebookDialogLogin=0x7f09002c;
-        public static final int facebookDialogMessage=0x7f09002b;
-        public static final int facebookDialogNever=0x7f09002e;
-        public static final int facebookDialogTitle=0x7f09002a;
-        public static final int facebookPostCancel=0x7f090023;
-        public static final int facebookPostSend=0x7f090022;
-        public static final int facebookShareButton=0x7f09001f;
-        public static final int facebookShareDialogTitle=0x7f090024;
-        public static final int highlightButton=0x7f090021;
-        public static final int noteLabel=0x7f090026;
-        public static final int saveBookmark=0x7f090025;
-        public static final int settings=0x7f09002f;
-        public static final int settingsActualFont=0x7f090032;
-        public static final int settingsLargerFonts=0x7f090033;
-        public static final int settingsSmallerFont=0x7f090031;
-        public static final int tagsTitle=0x7f090034;
-        public static final int textSize=0x7f090030;
-        public static final int toBookList=0x7f090028;
-        public static final int unknownTitle=0x7f09001c;
-        public static final int versesLabel=0x7f09001e;
+        public static final int continueWhereFinished=0x7f09002b;
+        public static final int dialogImageContent=0x7f09001c;
+        public static final int facebookDialogLater=0x7f09002f;
+        public static final int facebookDialogLogin=0x7f09002e;
+        public static final int facebookDialogMessage=0x7f09002d;
+        public static final int facebookDialogNever=0x7f090030;
+        public static final int facebookDialogTitle=0x7f09002c;
+        public static final int facebookPostCancel=0x7f090025;
+        public static final int facebookPostSend=0x7f090024;
+        public static final int facebookShareButton=0x7f090021;
+        public static final int facebookShareDialogTitle=0x7f090026;
+        public static final int highlightButton=0x7f090023;
+        public static final int noteLabel=0x7f090028;
+        public static final int placeholder=0x7f09001b;
+        public static final int saveBookmark=0x7f090027;
+        public static final int settings=0x7f090031;
+        public static final int settingsActualFont=0x7f090034;
+        public static final int settingsLargerFonts=0x7f090035;
+        public static final int settingsSmallerFont=0x7f090033;
+        public static final int tagListItemWithCount=0x7f090037;
+        public static final int tagsTitle=0x7f090036;
+        public static final int textSize=0x7f090032;
+        public static final int toBookList=0x7f09002a;
+        public static final int unknownTitle=0x7f09001e;
+        public static final int versesLabel=0x7f090020;
     }
     public static final class style {
         /**  Text styles  

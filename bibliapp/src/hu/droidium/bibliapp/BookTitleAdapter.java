@@ -3,7 +3,6 @@ package hu.droidium.bibliapp;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 
 import java.util.HashSet;
-import java.util.Vector;
 
 import android.content.Context;
 import android.database.DataSetObserver;
