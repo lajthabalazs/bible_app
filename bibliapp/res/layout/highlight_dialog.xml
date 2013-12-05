@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/paper_1280x720">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0">
+	    <TextView
+	        android:id="@+id/addBookmarkVersView"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/unknownTitle"
+	        style="@style/listItemText"/>
+	        
+    </ScrollView>
+
+    <ListView
+        android:id="@+id/setHighlightList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+    </ListView>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right">
+
+        <Button
+            android:id="@+id/setHighlightCancelButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/facebookPostCancel" />
+
+        <Button
+            android:id="@+id/setHighlightOkButton"
+            android:layout_width="150dip"
+            android:layout_height="wrap_content"
+            android:text="@string/highlightSaveButton" />
+
+    </LinearLayout>
+
+</LinearLayout>

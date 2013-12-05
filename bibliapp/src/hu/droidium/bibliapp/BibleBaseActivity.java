@@ -18,15 +18,14 @@ import java.util.Locale;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import android.app.Activity;
-import android.app.AlertDialog.Builder;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.view.View.OnClickListener;
 import android.widget.Toast;
 
 import com.facebook.FacebookRequestError;
@@ -40,7 +39,7 @@ import com.facebook.model.GraphUser;
 import com.facebook.SessionState;
 import com.facebook.UiLifecycleHelper;
 
-public abstract class BibleBaseActivity extends Activity implements
+public abstract class BibleBaseActivity extends BaseActivity implements
 		StatusCallback {
 	private static final String PENDING_PUBLISH_KEY = "pendingPublishReauthorization";
 	private static final String SHARED_PREFS = "Facebook prefs";
@@ -100,27 +99,27 @@ public abstract class BibleBaseActivity extends Activity implements
 		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
 		switch(facebookAsk) {
 			case Constants.FACEBOOK_UNKNOWN: {
-				Builder builder = new Builder(this);
-				builder.setTitle(R.string.facebookDialogTitle);
-				builder.setMessage(R.string.facebookDialogMessage);
-				builder.setPositiveButton(R.string.facebookDialogLogin,
-						new DialogInterface.OnClickListener() {
-							@Override
-							public void onClick(DialogInterface dialog, int which) {
-								prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_LOGIN).commit();
-								login();
-							}
-						});
-				builder.setNeutralButton(R.string.facebookDialogLater,
-						new DialogInterface.OnClickListener() { @Override public void onClick(DialogInterface dialog, int which) {}});
-				builder.setNegativeButton(R.string.facebookDialogNever,
-						new DialogInterface.OnClickListener() {
-							@Override
-							public void onClick(DialogInterface dialog, int which) {
-								prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_DONT_ASK).commit();
-							}
-						});
-				builder.create().show();
+				OnClickListener firstButtonListener = new OnClickListener() {
+					
+					@Override
+					public void onClick(View v) {
+						prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_LOGIN).commit();
+						login();
+					}
+				};
+				OnClickListener secondButtonListener = null;
+				OnClickListener thirdButtonListener = new OnClickListener() {
+					@Override
+					public void onClick(View v) {
+						prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_DONT_ASK).commit();
+					}
+				};
+				showDialog(R.string.facebookDialogTitle, 
+						R.string.facebookDialogMessage,
+						R.string.facebookDialogLogin, firstButtonListener,
+						R.string.facebookDialogLater, secondButtonListener,
+						R.string.facebookDialogNever, thirdButtonListener,
+						Orientation.HORIZONTAL);
 				break;
 			}
 			case Constants.FACEBOOK_LOGIN: {

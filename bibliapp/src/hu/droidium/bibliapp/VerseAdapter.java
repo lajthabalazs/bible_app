@@ -1,10 +1,13 @@
 package hu.droidium.bibliapp;
 
+import hu.droidium.bibliapp.bookmar_ui.CheckableTagAdapter;
 import hu.droidium.bibliapp.bookmar_ui.TagMargin;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.database.TagMeta;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
@@ -21,29 +24,33 @@ import android.view.animation.AnimationUtils;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.ListAdapter;
+import android.widget.ListView;
 import android.widget.TextView;
 
 public class VerseAdapter implements ListAdapter, OnClickListener {
 
 	private String bookId;
-	private BibleDataAdapter bibleDataAdapter;
-	private TagDataAdapter tagAdapter;
-	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
-	private BibleBaseActivity activity; 
-	private LayoutInflater inflater;
-	private SparseArray<Bookmark> bookmarks;
 	private int chapterIndex;
+
+	private BibleDataAdapter bibleDataAdapter;
+	private TagDataAdapter tagDataAdapter;
+	private SparseArray<Bookmark> bookmarks;
+	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
 	private long displayMenu = -1;
 	private boolean facebookEnabled;
+	private BibleBaseActivity activity; 
+	private LayoutInflater inflater;
 	
-	public VerseAdapter(String bookId, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagAdapter) {
+	public VerseAdapter(String bookId, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagDataAdapter) {
 		this.bookId = bookId;
 		this.chapterIndex = chapterIndex;
+
+		this.bibleDataAdapter = bibleDataAdapter;
+		this.tagDataAdapter = tagDataAdapter;
 		this.activity = activity;
 		this.inflater = inflater;
+		
 		this.bookmarks = new SparseArray<Bookmark>();
-		this.bibleDataAdapter = bibleDataAdapter;
-		this.tagAdapter = tagAdapter;
 		for (Bookmark bookmark : bookmarks) {
 			this.bookmarks.put(bookmark.getVers(), bookmark);
 		}
@@ -87,7 +94,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		ImageView bookmarkButton = (ImageView)convertView.findViewById(R.id.saveBookmark);
 		ImageView highlightButton = (ImageView)convertView.findViewById(R.id.highlight);
 		TagMargin tagMargin = (TagMargin)convertView.findViewById(R.id.tagMargin);
-		tagMargin.setColors(tagAdapter.getTagColors(bookId, chapterIndex, position));
+		tagMargin.setColors(tagDataAdapter.getTagColors(bookId, chapterIndex, position));
 		if (displayMenu == position) {
 			displayMenu = -1;
 			Log.e("Display item", "Item found, setting display menu item to -1");
@@ -243,12 +250,23 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 			case R.id.highlight: {
 				if (index != null) {
 					AlertDialog.Builder builder = new AlertDialog.Builder(activity);
-					builder.setTitle(R.string.addBookmarkButton);
+					builder.setTitle(R.string.highlightDialogTitle);
+					final int verseIndex = index;
 					final AlertDialog dialog = builder.create();
-					final View dialogView = inflater.inflate(R.layout.add_bookmark_dialog, null);
-					dialog.setView(dialogView);
-					dialog.show();
-					dialogView.findViewById(R.id.addBookmarkCancelButton).setOnClickListener(new OnClickListener() {
+					final View dialogView = inflater.inflate(R.layout.highlight_dialog, null);
+					ListView tagList = (ListView)dialogView.findViewById(R.id.tagList);
+					final List<TagMeta> tagMetas = tagDataAdapter.getTagMetas();
+					HashMap<String, Boolean> checked = new HashMap<String, Boolean>();
+					// Register original state to be able to check for changes
+					final HashSet<String> usedTagMetaIds = new HashSet<String>();
+					List<TagMeta> tags = tagDataAdapter.getTags(bookId, chapterIndex, verseIndex);
+					for (TagMeta tag : tags) {
+						usedTagMetaIds.add(tag.getId());
+						checked.put(tag.getId(), true);
+					}
+					final CheckableTagAdapter tagAdapter = new CheckableTagAdapter(tagMetas, checked, inflater);
+					tagList.setAdapter(tagAdapter);
+					dialogView.findViewById(R.id.setHighlightCancelButton).setOnClickListener(new OnClickListener() {
 						@Override
 						public void onClick(View v) {
 							dialog.dismiss();
@@ -256,17 +274,27 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 					});
 					((TextView)dialogView.findViewById(R.id.addBookmarkVersView)).setText("\"" + versBody + "\"");
 					final EditText commentEditor = (EditText)dialogView.findViewById(R.id.addBookmarkNoteEditor);
-					dialogView.findViewById(R.id.addBookmarkButton).setOnClickListener(new OnClickListener() {
+					dialogView.findViewById(R.id.setHighlightOkButton).setOnClickListener(new OnClickListener() {
 						@Override
 						public void onClick(View v) {
-							Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapter, vers, Bookmark.DEFAULT_COLOR);
-							bookmarks.put(vers, bookmark);
+							for (TagMeta tagMeta : tagMetas) {
+								// Save changed highlighting
+								if (usedTagMetaIds.contains(tagMeta.getId()) != tagAdapter.isChecked(tagMeta.getId())) {
+									if (usedTagMetaIds.contains(tagMeta.getId())) {
+										tagDataAdapter.removeTag(tagMeta.getId(), bookId, chapterIndex, verseIndex);
+									} else {
+										tagDataAdapter.addTag(tagMeta.getId(), bookId, chapterIndex, verseIndex);
+									}
+								}
+							}
 							dialog.dismiss();
 							for (DataSetObserver observer : observers){
 								observer.onChanged();
 							}
 						}
 					});
+					dialog.setView(dialogView);
+					dialog.show();
 				}
 				break;
 			}

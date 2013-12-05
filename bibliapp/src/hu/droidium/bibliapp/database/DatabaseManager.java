@@ -1,6 +1,5 @@
 package hu.droidium.bibliapp.database;
 
-import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.BookmarkDataAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.data.Translator;
@@ -16,7 +15,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-public class DatabaseManager implements BibleDataAdapter, BookmarkDataAdapter, TagDataAdapter, Translator {
+public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Translator {
 	
 	public static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
 	BibleDbHelper dbHelper;
@@ -273,33 +272,16 @@ public class DatabaseManager implements BibleDataAdapter, BookmarkDataAdapter, T
 	}
 	
 	@Override
-	public String[] getBookIds() {
-		return new String[] {"Elso", "Masodik", "Harmadik", "Negyedik"};
+	public void removeTag(String id, String bookId, int chapterIndex,
+			int verseIndex) {
+		// TODO Auto-generated method stub
+		
 	}
 
 	@Override
-	public String getBookTitle(String bookId) {
-		return bookId + " title";
-	}
-
-	@Override
-	public String getBookAbbreviation(String bookId) {
-		// TODO store book abbreviation
-		return bookId;
-	}
-
-	@Override
-	public int getChapterCount(String bookId) {
-		return 3;
-	}
-
-	@Override
-	public int getVerseCount(String bookId, int chapterId) {
-		return 5;
-	}
-
-	@Override
-	public String getVerseLine(String bookId, int chapterIndex, int verseIndex) {
-		return "No verse yet for book " + bookId + " " + chapterIndex + " " + verseIndex;
+	public void addTag(String id, String bookId, int chapterIndex,
+			int verseIndex) {
+		// TODO Auto-generated method stub
+		
 	}
 }

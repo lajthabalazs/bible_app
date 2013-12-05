@@ -12,6 +12,7 @@
     <string name="facebookShareButton">Megosztás Facebookon</string>
     <string name="addBookmarkButton">Könyvjelző hozzáadása</string>
     <string name="highlightButton">Kijelölés</string>
+    <string name="highlightDialogTitle">Címke hozzáadása</string>
     
     <string name="facebookPostSend">Megosztom</string>
     <string name="facebookPostCancel">Mégsem</string>
@@ -34,5 +35,6 @@
 
     <string name="tagsTitle">Címkék</string>
     <string name="tagListItemWithCount">%1$s (%2$d vers)</string>
+    <string name="highlightSaveButton">Mentés</string>
     
 </resources>
