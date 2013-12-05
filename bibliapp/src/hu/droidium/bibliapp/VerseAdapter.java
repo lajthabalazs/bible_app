@@ -94,10 +94,11 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		ImageView bookmarkButton = (ImageView)convertView.findViewById(R.id.saveBookmark);
 		ImageView highlightButton = (ImageView)convertView.findViewById(R.id.highlight);
 		TagMargin tagMargin = (TagMargin)convertView.findViewById(R.id.tagMargin);
+		tagMargin.setTag(position);
+		tagMargin.setOnClickListener(this);
 		tagMargin.setColors(tagDataAdapter.getTagColors(bookId, chapterIndex, position));
 		if (displayMenu == position) {
 			displayMenu = -1;
-			Log.e("Display item", "Item found, setting display menu item to -1");
 			bookmarkButton.setVisibility(View.VISIBLE);
 			bookmarkButton.setOnClickListener(this);
 			highlightButton.setVisibility(View.VISIBLE);
@@ -183,9 +184,8 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	@Override
 	public void onClick(View v) {
 		Integer index = (Integer)v.getTag();
-		final int chapter = chapterIndex;
 		final int vers = index;
-		final String verseId = Constants.getVerseLabel(bookId, chapter, vers, bibleDataAdapter);
+		final String verseId = Constants.getVerseLabel(bookId, chapterIndex, vers, bibleDataAdapter);
 		final String versBody = bibleDataAdapter.getVerseLine(bookId, chapterIndex, index);
 
 		switch (v.getId()) {
@@ -217,7 +217,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 				}
 				break;
 			}
-			case R.id.addBookmarkButton: {
+			case R.id.saveBookmark: {
 				if (index != null) {
 					AlertDialog.Builder builder = new AlertDialog.Builder(activity);
 					builder.setTitle(R.string.addBookmarkButton);
@@ -236,7 +236,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 					dialogView.findViewById(R.id.addBookmarkButton).setOnClickListener(new OnClickListener() {
 						@Override
 						public void onClick(View v) {
-							Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapter, vers, Bookmark.DEFAULT_COLOR);
+							Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapterIndex, vers, Bookmark.DEFAULT_COLOR);
 							bookmarks.put(vers, bookmark);
 							dialog.dismiss();
 							for (DataSetObserver observer : observers){
@@ -247,6 +247,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 				}
 				break;
 			}
+			case R.id.tagMargin:
 			case R.id.highlight: {
 				if (index != null) {
 					AlertDialog.Builder builder = new AlertDialog.Builder(activity);
@@ -254,7 +255,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 					final int verseIndex = index;
 					final AlertDialog dialog = builder.create();
 					final View dialogView = inflater.inflate(R.layout.highlight_dialog, null);
-					ListView tagList = (ListView)dialogView.findViewById(R.id.tagList);
+					ListView tagList = (ListView)dialogView.findViewById(R.id.setHighlightList);
 					final List<TagMeta> tagMetas = tagDataAdapter.getTagMetas();
 					HashMap<String, Boolean> checked = new HashMap<String, Boolean>();
 					// Register original state to be able to check for changes
@@ -273,7 +274,6 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 						}
 					});
 					((TextView)dialogView.findViewById(R.id.addBookmarkVersView)).setText("\"" + versBody + "\"");
-					final EditText commentEditor = (EditText)dialogView.findViewById(R.id.addBookmarkNoteEditor);
 					dialogView.findViewById(R.id.setHighlightOkButton).setOnClickListener(new OnClickListener() {
 						@Override
 						public void onClick(View v) {

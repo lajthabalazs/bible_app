@@ -1,5 +1,6 @@
 package hu.droidium.bibliapp.database;
 
+import hu.droidium.bibliapp.data.AssetReader;
 import hu.droidium.bibliapp.data.BookmarkDataAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.data.Translator;
@@ -24,6 +25,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	public DatabaseManager(Context context) {
 		dbHelper = new BibleDbHelper(context);
 		db = dbHelper.getWritableDatabase();
+		loadTagMetaFromAssets(context);
 	}
 	
 	@Override
@@ -139,6 +141,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	public List<TagMeta> getTagMetas() {
 		String[] projection = {
 				TagMeta.COLUMN_NAME_TAG_ID,
+				TagMeta.COLUMN_NAME_TAG_NAME,
 				TagMeta.COLUMN_NAME_COLOR
 		};
 		Cursor c = db.query(
@@ -246,7 +249,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	public List<TagMeta> getTags(String book, int chapterIndex, int verseIndex) {
 		ArrayList<TagMeta> tags = new ArrayList<TagMeta>();
 		final String query = "SELECT * FROM " + TagMeta.TABLE_NAME + " meta INNER JOIN " + Tag.TABLE_NAME+ " tags " +
-				"ON meta." + TagMeta.COLUMN_NAME_TAG_ID+ "=tags." + Tag.COLUMN_NAME_TAG_ID + " " + 
+				"ON meta." + TagMeta.COLUMN_NAME_TAG_ID + "=tags." + Tag.COLUMN_NAME_TAG_ID + " " + 
 				"WHERE tags." + Tag.COLUMN_NAME_BOOK + " =? AND " +
 				" tags." + Tag.COLUMN_NAME_CHAPTER + "=? AND " +
 				" tags." + Tag.COLUMN_NAME_VERS + "=?;";
@@ -272,16 +275,58 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	}
 	
 	@Override
-	public void removeTag(String id, String bookId, int chapterIndex,
+	public boolean removeTag(String id, String bookId, int chapterIndex,
 			int verseIndex) {
-		// TODO Auto-generated method stub
-		
+		String[] whereArgs = {bookId, ""+chapterIndex, "" + verseIndex, id};
+		int result = db.delete(Tag.TABLE_NAME,
+				Tag.COLUMN_NAME_BOOK + "=? AND " +
+						Tag.COLUMN_NAME_CHAPTER + "=? AND " +
+						Tag.COLUMN_NAME_VERS + "=? AND " +
+						Tag.COLUMN_NAME_TAG_ID + "=?", whereArgs);
+		return (result != 0);
 	}
 
 	@Override
-	public void addTag(String id, String bookId, int chapterIndex,
+	public boolean addTag(String tagId, String bookId, int chapterIndex,
 			int verseIndex) {
-		// TODO Auto-generated method stub
-		
+		ContentValues values = new ContentValues();
+		values.put(Tag.COLUMN_NAME_TAG_ID, tagId);
+		values.put(Tag.COLUMN_NAME_BOOK, bookId);
+		values.put(Tag.COLUMN_NAME_CHAPTER, chapterIndex);
+		values.put(Tag.COLUMN_NAME_VERS, verseIndex);
+		values.put(Tag.COLUMN_NAME_LAST_UPDATE, (System.currentTimeMillis() / 1000)); // Seconds, not milliseconds!
+		long result = db.replace(Tag.TABLE_NAME,
+				null,
+				values);
+		if (result != 1) {
+			return false;
+		}
+		else {
+			return true;
+		}
+	}
+	
+	public boolean addTagMeta(String tagId, String name, String color) {
+		ContentValues values = new ContentValues();
+		values.put(TagMeta.COLUMN_NAME_TAG_ID, tagId);
+		values.put(TagMeta.COLUMN_NAME_TAG_NAME, name);
+		values.put(TagMeta.COLUMN_NAME_COLOR, color);
+		long result = db.replace(TagMeta.TABLE_NAME, null , values);
+		if (result != 1) {
+			return false;
+		}
+		else {
+			return true;
+		}
+	}
+
+	private void loadTagMetaFromAssets(Context context) {
+		// TODO version based asset loading
+		List<TagMeta> tagMetas = AssetReader.parseTagMetas(context);
+		if (tagMetas.size() != getTagMetas().size()) {
+			for (TagMeta tag : tagMetas) {
+				addTagMeta(tag);
+			}
+		}
 	}
 }

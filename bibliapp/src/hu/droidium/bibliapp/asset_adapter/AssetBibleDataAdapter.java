@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Vector;
 
 import android.content.Context;
-import android.util.Log;
 import hu.droidium.bibliapp.data.AssetReader;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.Book;
@@ -48,9 +47,7 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 
 	@Override
 	public int getChapterCount(String bookId) {
-		Log.e("Chapter count", "For book " + bookId);
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
-			Log.e("Chapter count", "No last accessed book");
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
 		}
 		return lastAccessedBook.getChapterCount();

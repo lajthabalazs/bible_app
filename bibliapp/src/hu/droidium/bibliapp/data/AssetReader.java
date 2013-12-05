@@ -1,11 +1,15 @@
 package hu.droidium.bibliapp.data;
 
+import hu.droidium.bibliapp.database.TagMeta;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Vector;
 
 import android.content.Context;
@@ -14,6 +18,7 @@ import android.util.Log;
 public class AssetReader {
 	private static final String TAG = "AssetReader";
 	private static final String RAW_DIRECTORY = "raw";
+	private static final String TAG_META_FILE = "tags.txt";
 
 	/**
 	 * Reads book titles.
@@ -69,5 +74,33 @@ public class AssetReader {
 			return null;
 		}
 	}
-	
+
+	public static List<TagMeta> parseTagMetas(Context context) {
+		try {
+			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(TAG_META_FILE), "UTF8"));
+			List<TagMeta> tags = new ArrayList<TagMeta>();
+			String line = in.readLine();
+			while (line != null) {
+				TagMeta tag = TagMeta.parse(line);
+				if (tag != null) {
+					tags.add(tag);
+				} else {
+					Log.e(TAG, "Couldn't load tag meta from line " + line);
+				}
+				line = in.readLine();
+			}
+			return tags;
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
+			return null;
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		} catch (Exception e) {
+			Log.e(TAG, "Couldn't read " + TAG_META_FILE);
+			e.printStackTrace();
+			return null;
+		}
+	}
+
 }

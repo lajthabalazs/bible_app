@@ -16,7 +16,7 @@
 	        style="@style/listItemText"/>
 	        
     </ScrollView>
-
+    
     <ListView
         android:id="@+id/setHighlightList"
         android:layout_width="match_parent"
@@ -24,9 +24,11 @@
         android:layout_weight="1" >
     </ListView>
     
+    
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0"
         android:gravity="right">
 
         <Button

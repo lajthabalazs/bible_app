@@ -47,4 +47,13 @@ public class TagMeta implements BaseColumns {
 	public static String getDeleteTableText() {
 		return "DROP TABLE IF EXISTS " + TABLE_NAME;
 	}
+
+	public static TagMeta parse(String line) {
+		String[] parts = line.split(";");
+		if (parts.length == 3) {
+			TagMeta tag = new TagMeta(parts[0], parts[1], parts[2]);
+			return tag;
+		}
+		return null;
+	}
 }
