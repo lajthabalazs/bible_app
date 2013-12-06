@@ -16,6 +16,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.util.Log;
 
 public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Translator {
 	
@@ -44,12 +45,14 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 		values.put(Bookmark.COLUMN_NAME_LAST_UPDATE, new SimpleDateFormat(DATE_FORMAT, Locale.getDefault()).format(bookmark.getLastUpdate()));
 		values.put(Bookmark.COLUMN_NAME_COLOR, bookmark.getColor());
 		if (bookmark.getId() == Bookmark.NEW_ID) {
+			Log.e("Db", "Insert new bookmark");
 			// Insert new value
 			long newId = db.insert(Bookmark.TABLE_NAME, null , values);
+			Log.e("Db", "Resulting id " + newId);
 			return new Bookmark(newId, bookmark.getNote(), bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers(), bookmark.getColor(), new Date());
 		} else {
 			// Update old value
-			String selection = Bookmark._ID + " =  ?";
+			String selection = Bookmark._ID + "= ?";
 			String[] selectionArgs = { String.valueOf(bookmark.getId()) };
 			int result = db.update(Bookmark.TABLE_NAME,
 					values,
@@ -131,6 +134,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 			int vers = c.getInt(c.getColumnIndex(Bookmark.COLUMN_NAME_VERS));
 			String color = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_COLOR));
 			String lastUpdate = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_LAST_UPDATE));
+			Log.e("Db", "Fetch id " + id);
 			bookmarks.add(new Bookmark(id, note, book, chapter, vers, color, lastUpdate));
 		}
 		return bookmarks;
@@ -138,9 +142,10 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	
 	@Override
 	public void deleteBookmark(Bookmark bookmark) {
-		String selection = Bookmark._ID + " =  ?";
+		String selection = Bookmark._ID + "=?";
 		String[] selectionArgs = { String.valueOf(bookmark.getId()) };
-		db.delete(Bookmark.TABLE_NAME, selection, selectionArgs);
+		int result = db.delete(Bookmark.TABLE_NAME, selection, selectionArgs);
+		Log.e("Manager", "Delete result " + result);
 	}
 
 	@Override

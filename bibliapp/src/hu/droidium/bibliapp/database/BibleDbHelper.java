@@ -9,7 +9,7 @@ import android.util.Log;
 
 public class BibleDbHelper extends SQLiteOpenHelper {
 
-	private static final int DATABASE_VERSION = 3;
+	private static final int DATABASE_VERSION = 4;
 	private static final String DATABASE_NAME = "BibleDatabase";
 
 	public BibleDbHelper(Context context) {
@@ -32,20 +32,28 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 			db.execSQL(TagMeta.getCreateTableText());
 			db.execSQL(Translation.getCreateTableText());
 		} 
-		if (oldVersion < 3) {
+		if (oldVersion < 4) {
 			Log.e("BibleDbHelper", "Database updating from version " + oldVersion);
 			// Change bookmark's book id's from row/xy.txt to xy
 			DatabaseManager databaseManager = new DatabaseManager(db);
 			List<Bookmark> bookmarks = databaseManager.getAllBookmarks(null, false);
 			for (Bookmark bookmark : bookmarks) {
+				Log.e("DbHelper", "Bookmark before " + bookmark.getBookId() + " id : " + bookmark.getId());
+			}
+			db.execSQL(Bookmark.getDeleteTableText());
+			db.execSQL(Bookmark.getCreateTableText());
+			for (Bookmark bookmark : bookmarks) {
 				String book = bookmark.getBookId();
 				if (book.startsWith("raw")) {
 					book = book.substring(4,6);
-					Bookmark newBookmark = new Bookmark(bookmark.getNote(), book, bookmark.getChapter(), bookmark.getVers(), bookmark.getColor());
-					databaseManager.saveBookmark(newBookmark);
 				}
+				Bookmark newBookmark = new Bookmark(bookmark.getNote(), book, bookmark.getChapter(), bookmark.getVers(), bookmark.getColor());
+				databaseManager.saveBookmark(newBookmark);
 			}
-			
+			bookmarks = databaseManager.getAllBookmarks(null, false);
+			for (Bookmark bookmark : bookmarks) {
+				Log.e("DbHelper", "Bookmark after " + bookmark.getBookId());
+			}
 
 		}
 	}

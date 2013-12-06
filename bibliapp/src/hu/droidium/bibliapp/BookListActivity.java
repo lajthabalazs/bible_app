@@ -31,6 +31,10 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 		if (intent.hasExtra(Constants.SHOULD_OPEN_LAST_READ)) {
 			SharedPreferences prefs = Constants.getPrefs(this);
 			String bookId = prefs.getString(Constants.LAST_READ_BOOK_ID, null);
+			if (bookId.startsWith("raw")) {
+				bookId = bookId.substring(4,6);
+				prefs.edit().putString(Constants.LAST_READ_BOOK_ID, bookId).commit();
+			}
 			Intent nextIntent = new Intent(this, ChapterListActivity.class);
 			nextIntent.putExtra(Constants.BOOK_ID, bookId);
 			nextIntent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);

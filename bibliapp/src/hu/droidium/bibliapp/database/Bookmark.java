@@ -27,7 +27,7 @@ public class Bookmark implements BaseColumns {
 	private String color;
 	
 	public Bookmark (String note, String book, int chapter, int vers, String color) {
-		this(-1, note, book, chapter, vers, color, new Date());
+		this(NEW_ID, note, book, chapter, vers, color, new Date());
 	}
 
 	protected Bookmark (long id, String note, String book, int chapter, int vers, String color, String lastUpdate) {
@@ -87,7 +87,7 @@ public class Bookmark implements BaseColumns {
 	public static String getCreateTableText() {
 		String create = "CREATE TABLE ";
 		create += TABLE_NAME + " (";
-		create += _ID + " INTEGER_PRIMARY_KEY,";
+		create += _ID + " INTEGER PRIMARY KEY,";
 		create += COLUMN_NAME_NOTE + " TEXT,";
 		create += COLUMN_NAME_LAST_UPDATE + " INTEGER,";
 		create += COLUMN_NAME_COLOR + " TEXT,";
