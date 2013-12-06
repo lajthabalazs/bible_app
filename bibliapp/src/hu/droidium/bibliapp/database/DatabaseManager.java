@@ -164,7 +164,35 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 			tags.add(new TagMeta(tagId, tagName, color));
 		}
 		return tags;
+	}
+	
+	@Override
+	public TagMeta getTagMeta(String tagId) {
+		String[] projection = {
+				TagMeta.COLUMN_NAME_TAG_ID,
+				TagMeta.COLUMN_NAME_TAG_NAME,
+				TagMeta.COLUMN_NAME_COLOR
+		};
+	    String selection = TagMeta.COLUMN_NAME_TAG_ID + "=?";
+	    String[] selectionArgs = new String[]{tagId};
+		Cursor c = db.query(
+				TagMeta.TABLE_NAME,
+				projection,
+				selection,
+				selectionArgs,
+				null,
+				null,
+				null
+				);
+		TagMeta ret = null;
+		if (c.moveToFirst()) {
+			String tagName = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_TAG_NAME));
+			String color = c.getString(c.getColumnIndex(TagMeta.COLUMN_NAME_COLOR));
+			ret = new TagMeta(tagId, tagName, color);
+		}
+		return ret;
 	}	
+
 
 	public boolean addTranslation(Translation translation) {
 		ContentValues values = new ContentValues();
@@ -250,7 +278,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 		}
 		return colors;
 	}
-	
+		
 	@Override
 	public boolean removeTag(String id, String bookId, int chapterIndex,
 			int verseIndex) {

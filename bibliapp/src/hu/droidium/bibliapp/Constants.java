@@ -32,6 +32,7 @@ public class Constants {
 	
 	public static final String TEXT_SIZE_KEY = "Text size";
 	public static final double TEXT_SIZE_FACTOR = 1.2;
+	public static final String TAG_META_ID = "Tag meta id";
 
 	
 	public static SharedPreferences getPrefs(Context context) {

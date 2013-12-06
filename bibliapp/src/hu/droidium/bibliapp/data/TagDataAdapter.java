@@ -10,6 +10,8 @@ public interface TagDataAdapter {
 
 	List<TagMeta> getTagMetas();
 
+	TagMeta getTagMeta(String tagId);
+
 	ArrayList<String> getTagColors(String bookId, int chapterIndex,
 			int verseIndex);
 
