@@ -1,4 +1,4 @@
-package hu.droidium.bibliapp.bookmar_ui;
+package hu.droidium.bibliapp.tag_ui;
 
 import java.util.ArrayList;
 import java.util.List;

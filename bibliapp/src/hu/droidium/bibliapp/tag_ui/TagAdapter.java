@@ -1,6 +1,7 @@
-package hu.droidium.bibliapp.bookmar_ui;
+package hu.droidium.bibliapp.tag_ui;
 
 import hu.droidium.bibliapp.R;
+import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.database.TagMeta;
 
 import java.util.ArrayList;
@@ -8,41 +9,42 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
+import android.content.Context;
 import android.database.DataSetObserver;
 import android.graphics.Color;
 import android.graphics.PorterDuff.Mode;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListAdapter;
 import android.widget.TextView;
 
-public class CheckableTagAdapter implements ListAdapter, OnItemClickListener {
+public class TagAdapter implements ListAdapter {
 
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
 	private LayoutInflater inflater;
 	private List<TagMeta> tags = new ArrayList<TagMeta>();
-	private HashMap<String, Boolean> checked = new HashMap<String, Boolean>();
+	private HashMap<String, Integer> occurrences = new HashMap<String, Integer>();
+	private TagDataAdapter tagDataAdapter;
+	private Context context;
 
-	public CheckableTagAdapter(List<TagMeta> tags, HashMap<String, Boolean> checked, LayoutInflater inflater) {
+	public TagAdapter(List<TagMeta> tags, TagDataAdapter tagDataAdapter, LayoutInflater inflater, Context context) {
 		this.inflater = inflater;
 		this.tags.addAll(tags);
-		for (String key : checked.keySet()) {
-			this.checked.put(key, checked.get(key));
+		this.tagDataAdapter = tagDataAdapter;
+		this.context = context;
+		for (TagMeta tag : tags){
+			occurrences.put(tag.getId(), tagDataAdapter.getTotalTags(tag.getId()));
 		}
 	}
 
-	public void setTags(List<TagMeta> tags, HashMap<String, Boolean> checked) {
+	public void setTags(List<TagMeta> tags) {
 		this.tags.clear();
+		this.occurrences.clear();
 		if (tags != null) {
 			this.tags.addAll(tags);
-		}
-		this.checked.clear();
-		if (checked != null) {
-			for (String key : checked.keySet()) {
-				this.checked.put(key, checked.get(key));
+			for (TagMeta tag : tags){
+				occurrences.put(tag.getId(), tagDataAdapter.getTotalTags(tag.getId()));
 			}
 		}
 		for (DataSetObserver observer : observers) {
@@ -80,14 +82,8 @@ public class CheckableTagAdapter implements ListAdapter, OnItemClickListener {
 		View tagColorCheck = convertView.findViewById(R.id.highlightListItemColorBox);
 		tagColorCheck.setTag(tag);
 		tagNameText.setTag(tag);
-		tagNameText.setText(tag.getName());
-		Boolean tagChecked = checked.get(tag.getId());
-		tagColorCheck.getBackground().clearColorFilter();
-		if (tagChecked != null) {
-			if (tagChecked) {
-				tagColorCheck.getBackground().setColorFilter(Color.parseColor(tag.getColor()), Mode.MULTIPLY);
-			}
-		}
+		tagNameText.setText(tag.getName() + " " + context.getString(R.string.tagCountSuffix, occurrences.get(tag.getId())));
+		tagColorCheck.getBackground().setColorFilter(Color.parseColor(tag.getColor()), Mode.MULTIPLY);
 		return convertView;
 	}
 
@@ -124,36 +120,5 @@ public class CheckableTagAdapter implements ListAdapter, OnItemClickListener {
 	@Override
 	public boolean isEnabled(int position) {
 		return true;
-	}
-
-	public boolean isChecked(String tagId) {
-		if (checked.get(tagId) != null) {
-			return checked.get(tagId);
-		} else {
-			return false;
-		}
-	}
-
-	public boolean isChecked(int position) {
-		String tagId = tags.get(position).getId();
-		if (checked.get(tagId) != null) {
-			return checked.get(tagId);
-		} else {
-			return false;
-		}
-	}
-
-	@Override
-	public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-		TagMeta tag = tags.get(position);
-		Boolean tagChecked = checked.get(tag.getId());
-		if (tagChecked == null) {
-			tagChecked = false;
-		}
-		tagChecked = !tagChecked;
-		this.checked.put(tag.getId(), tagChecked);
-		for (DataSetObserver observer : observers) {
-			observer.onChanged();
-		}
 	}
 }

@@ -1,5 +1,6 @@
 package hu.droidium.bibliapp.data;
 
+import hu.droidium.bibliapp.database.Tag;
 import hu.droidium.bibliapp.database.TagMeta;
 
 import java.util.ArrayList;
@@ -17,5 +18,10 @@ public interface TagDataAdapter {
 	boolean removeTag(String id, String bookId, int chapterIndex, int verseIndex);
 
 	boolean addTag(String id, String bookId, int chapterIndex, int verseIndex);
-
+	
+	List<Tag> getTags(String tagMetaId);
+	
+	int getTotalTags();
+	
+	int getTotalTags(String tagMetaId);
 }

@@ -1,11 +1,11 @@
 package hu.droidium.bibliapp;
 
-import hu.droidium.bibliapp.bookmar_ui.CheckableTagAdapter;
-import hu.droidium.bibliapp.bookmar_ui.TagMargin;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.database.Bookmark;
 import hu.droidium.bibliapp.database.TagMeta;
+import hu.droidium.bibliapp.tag_ui.CheckableTagAdapter;
+import hu.droidium.bibliapp.tag_ui.TagMargin;
 
 import java.util.HashMap;
 import java.util.HashSet;

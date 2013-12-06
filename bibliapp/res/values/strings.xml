@@ -36,5 +36,6 @@
     <string name="tagsTitle">Címkék</string>
     <string name="tagListItemWithCount">%1$s (%2$d vers)</string>
     <string name="highlightSaveButton">Mentés</string>
-    
+    <string name="verseByTag">Versek témakörök szerint (%1$d vers)</string>
+    <string name="tagCountSuffix">(%1$d vers)</string>
 </resources>

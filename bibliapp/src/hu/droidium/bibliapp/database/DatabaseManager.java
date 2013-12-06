@@ -13,6 +13,7 @@ import java.util.Locale;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
@@ -21,6 +22,8 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	public static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
 	BibleDbHelper dbHelper;
 	private SQLiteDatabase db;
+	private static final String VERSION_STORE = "Database version store";
+	private static final String VERSION_KEY = "Database version key";
 	
 	public DatabaseManager(Context context) {
 		dbHelper = new BibleDbHelper(context);
@@ -161,33 +164,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 			tags.add(new TagMeta(tagId, tagName, color));
 		}
 		return tags;
-	}
-	
-	public boolean addTagMeta(TagMeta tag) {
-		ContentValues values = new ContentValues();
-		values.put(TagMeta.COLUMN_NAME_TAG_ID, tag.getId());
-		values.put(TagMeta.COLUMN_NAME_TAG_NAME, tag.getName());
-		values.put(TagMeta.COLUMN_NAME_COLOR, tag.getColor());
-		// Try to insert new value
-		long newId = db.insert(TagMeta.TABLE_NAME, null , values);
-		if (newId == -1) {
-			// Update old value
-			String selection = TagMeta.COLUMN_NAME_TAG_ID + " =  ?";
-			String[] selectionArgs = { String.valueOf(tag.getId()) };
-			int result = db.update(TagMeta.TABLE_NAME,
-					values,
-					selection,
-					selectionArgs);
-			if (result != 1) {
-				return false; // Something got screwed up
-			}
-			else {
-				return true; // Value updated
-			}
-		} else{
-			return true; // New value inserted
-		}
-	}
+	}	
 
 	public boolean addTranslation(Translation translation) {
 		ContentValues values = new ContentValues();
@@ -321,12 +298,63 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	}
 
 	private void loadTagMetaFromAssets(Context context) {
-		// TODO version based asset loading
-		List<TagMeta> tagMetas = AssetReader.parseTagMetas(context);
-		if (tagMetas.size() != getTagMetas().size()) {
+		SharedPreferences prefs = context.getSharedPreferences(VERSION_STORE, Context.MODE_PRIVATE);
+		
+		if (prefs.getInt(VERSION_KEY, -1) != db.getVersion()) {			
+			List<TagMeta> tagMetas = AssetReader.parseTagMetas(context);
 			for (TagMeta tag : tagMetas) {
-				addTagMeta(tag);
+				addTagMeta(tag.getId(), tag.getName(), tag.getColor());
 			}
+			prefs.edit().putInt(VERSION_KEY, db.getVersion()).commit();
 		}
+		
+	}
+
+	@Override
+	public List<Tag> getTags(String tagMetaId) {		
+		ArrayList<Tag> tags = new ArrayList<Tag>();
+	    String[] columns = new String[]{
+	    		Tag.COLUMN_NAME_TAG_ID,
+	    		Tag.COLUMN_NAME_BOOK,
+	    		Tag.COLUMN_NAME_CHAPTER,
+	    		Tag.COLUMN_NAME_VERS,
+	    		Tag.COLUMN_NAME_LAST_UPDATE};
+	    String selection = Tag.COLUMN_NAME_TAG_ID + "=?";
+	    String[] selectionArgs = new String[]{tagMetaId};
+	    String orderString = Tag.COLUMN_NAME_LAST_UPDATE + " desc";
+		Cursor c = db.query(true, Tag.TABLE_NAME, columns, selection, selectionArgs, null, null, orderString, null, null);
+	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String tagId = c.getString(c.getColumnIndex(Tag.COLUMN_NAME_TAG_ID));
+			String bookId = c.getString(c.getColumnIndex(Tag.COLUMN_NAME_BOOK));
+			int chapter = c.getInt(c.getColumnIndex(Tag.COLUMN_NAME_CHAPTER));
+			int vers = c.getInt(c.getColumnIndex(Tag.COLUMN_NAME_VERS));
+			long updated = c.getLong(c.getColumnIndex(Tag.COLUMN_NAME_LAST_UPDATE));
+			tags.add(new Tag(tagId, bookId, chapter, vers, updated));
+		}
+	    return tags;
+	}
+
+	@Override
+	public int getTotalTags() {
+		final String query = "SELECT COUNT(*) as tagCount FROM " + Tag.TABLE_NAME + ";";
+	    Cursor c = db.rawQuery(query, null);
+	    if (c.moveToFirst()) {
+	    	return c.getInt(c.getColumnIndex("tagCount"));
+	    } else {
+	    	return 0;
+	    }
+	}
+
+	@Override
+	public int getTotalTags(String tagMetaId) {
+		final String query = "SELECT COUNT(*) as tagCount FROM " + Tag.TABLE_NAME +
+				" WHERE " + Tag.COLUMN_NAME_TAG_ID + " =?;";
+		String[] args = new String[]{tagMetaId};
+	    Cursor c = db.rawQuery(query, args);
+	    if (c.moveToFirst()) {
+	    	return c.getInt(c.getColumnIndex("tagCount"));
+	    } else {
+	    	return 0;
+	    }
 	}
 }

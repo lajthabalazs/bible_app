@@ -58,6 +58,8 @@
         </receiver>
     
         <activity android:launchMode="singleTop" android:name=".RegisterActivity"/>
+        <activity android:name=".tag_ui.TagMetaListActivity"></activity>
+        <activity android:name=".tag_ui.TagListActivity"></activity>
 </application>
 
 </manifest>

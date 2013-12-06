@@ -1,12 +1,9 @@
-package hu.droidium.bibliapp.asset_adapter;
+package hu.droidium.bibliapp.data;
 
 import java.util.HashMap;
 import java.util.Vector;
 
 import android.content.Context;
-import hu.droidium.bibliapp.data.AssetReader;
-import hu.droidium.bibliapp.data.BibleDataAdapter;
-import hu.droidium.bibliapp.data.Book;
 
 public class AssetBibleDataAdapter implements BibleDataAdapter {
 	

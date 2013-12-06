@@ -34,10 +34,22 @@
         android:text="@string/settings" />
 
     <Button
-        android:id="@+id/lastReadVersButton"
+        android:id="@+id/tagsButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/toSettingsButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_double_horizontal_margin"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:text="@string/verseByTag" />
+    
+	<Button
+        android:id="@+id/lastReadVersButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tagsButton"
         android:layout_centerHorizontal="true"
         android:padding="@dimen/activity_horizontal_margin"
         android:layout_marginLeft="@dimen/activity_double_horizontal_margin"

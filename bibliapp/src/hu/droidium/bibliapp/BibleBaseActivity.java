@@ -1,6 +1,6 @@
 package hu.droidium.bibliapp;
 
-import hu.droidium.bibliapp.asset_adapter.AssetBibleDataAdapter;
+import hu.droidium.bibliapp.data.AssetBibleDataAdapter;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.BookmarkDataAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;

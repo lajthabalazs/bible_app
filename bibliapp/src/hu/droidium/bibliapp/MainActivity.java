@@ -1,6 +1,7 @@
 package hu.droidium.bibliapp;
 
 import hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity;
+import hu.droidium.bibliapp.tag_ui.TagMetaListActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -13,6 +14,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	private Button toBookList;
 	private View bookmarks;
 	private Button settings;
+	private Button tags;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +28,8 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 		settings.setOnClickListener(this);
 		bookmarks = findViewById(R.id.bookmarkLink);
 		bookmarks.setOnClickListener(this);
+		tags = (Button)findViewById(R.id.tagsButton);
+		tags.setOnClickListener(this);
 	}
 	
 	@Override
@@ -36,6 +40,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 		} else {
 			lastReadVers.setEnabled(false);
 		}
+		tags.setText(getString(R.string.verseByTag, tagDataAdapter.getTotalTags()));
 	}
 	
 	@Override
@@ -67,6 +72,11 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 			}
 			case R.id.bookmarkLink: {
 				Intent intent = new Intent(this, BookmarkListActivity.class);
+				startActivity(intent);
+				break;
+			}
+			case R.id.tagsButton: {
+				Intent intent = new Intent(this, TagMetaListActivity.class);
 				startActivity(intent);
 				break;
 			}
