@@ -10,10 +10,21 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@android:color/transparent">
 
-    <CheckBox
-        android:id="@+id/highlightedCheckbox"
-        android:layout_width="match_parent"
+    <LinearLayout
+        android:id="@+id/highlightListItemColorBox"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/white_checkbox_square">
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/highlightListItemText"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/placeholder"/>
+        android:layout_marginLeft="5dp"
+        android:layout_gravity="center_vertical"
+        android:text="@string/placeholder" />
 
 </LinearLayout>

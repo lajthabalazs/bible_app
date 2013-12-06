@@ -245,7 +245,7 @@ containing a value of this type.
         public static final int com_facebook_list_section_header_background=0x7f02000f;
         public static final int com_facebook_loginbutton_silver=0x7f020010;
         public static final int com_facebook_logo=0x7f020011;
-        public static final int com_facebook_picker_default_separator_color=0x7f020026;
+        public static final int com_facebook_picker_default_separator_color=0x7f020027;
         public static final int com_facebook_picker_item_background=0x7f020012;
         public static final int com_facebook_picker_list_focused=0x7f020013;
         public static final int com_facebook_picker_list_longpressed=0x7f020014;
@@ -266,9 +266,10 @@ containing a value of this type.
         public static final int highlighter=0x7f020023;
         public static final int ic_launcher=0x7f020024;
         public static final int paper_1280x720=0x7f020025;
+        public static final int white_checkbox_square=0x7f020026;
     }
     public static final class id {
-        public static final int action_settings=0x7f060049;
+        public static final int action_settings=0x7f06004a;
         public static final int activityTitle=0x7f06000c;
         public static final int addBookmarkButton=0x7f060008;
         public static final int addBookmarkCancelButton=0x7f060007;
@@ -315,9 +316,10 @@ containing a value of this type.
         public static final int facebookPostEditor=0x7f06003d;
         public static final int facebookPostSendButton=0x7f060041;
         public static final int facebookPostVersView=0x7f06003f;
-        public static final int facebookShareButton=0x7f060046;
-        public static final int highlight=0x7f060048;
-        public static final int highlightedCheckbox=0x7f060043;
+        public static final int facebookShareButton=0x7f060047;
+        public static final int highlight=0x7f060049;
+        public static final int highlightListItemColorBox=0x7f060043;
+        public static final int highlightListItemText=0x7f060044;
         public static final int large=0x7f060002;
         public static final int lastReadVersButton=0x7f060031;
         public static final int msgView=0x7f060003;
@@ -325,7 +327,7 @@ containing a value of this type.
         public static final int noteTitle=0x7f060010;
         public static final int picker_subtitle=0x7f060024;
         public static final int regButton=0x7f060004;
-        public static final int saveBookmark=0x7f060047;
+        public static final int saveBookmark=0x7f060048;
         public static final int scrollView1=0x7f06003e;
         public static final int setHighlightCancelButton=0x7f06002e;
         public static final int setHighlightList=0x7f06002d;
@@ -335,12 +337,12 @@ containing a value of this type.
         public static final int settingsSmallerText=0x7f06003a;
         public static final int small=0x7f060000;
         public static final int tagList=0x7f060042;
-        public static final int tagMargin=0x7f060045;
+        public static final int tagMargin=0x7f060046;
         public static final int textSizeLabel=0x7f060039;
         public static final int toBookListButton=0x7f060032;
         public static final int toSettingsButton=0x7f060030;
         public static final int verseContent=0x7f06000f;
-        public static final int verseList=0x7f060044;
+        public static final int verseList=0x7f060045;
         public static final int verseTitle=0x7f06000e;
     }
     public static final class layout {

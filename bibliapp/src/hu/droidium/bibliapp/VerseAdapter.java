@@ -13,7 +13,6 @@ import java.util.List;
 
 import android.app.AlertDialog;
 import android.database.DataSetObserver;
-import android.util.Log;
 import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -173,7 +172,6 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	}
 
 	public void showOptions(View view, long itemId, boolean facebookEnabled) {
-		Log.e("Options requested", "For item " + itemId);
 		displayMenu = itemId;
 		this.facebookEnabled = facebookEnabled;
 		for (DataSetObserver observer : observers){
@@ -267,6 +265,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 					}
 					final CheckableTagAdapter tagAdapter = new CheckableTagAdapter(tagMetas, checked, inflater);
 					tagList.setAdapter(tagAdapter);
+					tagList.setOnItemClickListener(tagAdapter);
 					dialogView.findViewById(R.id.setHighlightCancelButton).setOnClickListener(new OnClickListener() {
 						@Override
 						public void onClick(View v) {

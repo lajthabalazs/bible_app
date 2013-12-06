@@ -1,7 +1,5 @@
 package hu.droidium.bibliapp.bookmar_ui;
 
-import java.util.List;
-
 import hu.droidium.bibliapp.Constants;
 import hu.droidium.bibliapp.BibleBaseActivity;
 import hu.droidium.bibliapp.R;
@@ -24,7 +22,6 @@ public class TagListActivity extends BibleBaseActivity implements OnItemClickLis
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.tag_list);
-		List<Bookmark> bookmarks = getAllBookmarks();
 		((TextView)findViewById(R.id.activityTitle)).setText(R.string.tagsTitle);
 		// TODO tag adapter
 		ListView verseList = (ListView)findViewById(R.id.bookmarkList);

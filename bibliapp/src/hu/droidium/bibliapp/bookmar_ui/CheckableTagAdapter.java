@@ -8,18 +8,18 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-import android.content.res.Resources;
 import android.database.DataSetObserver;
 import android.graphics.Color;
+import android.graphics.PorterDuff.Mode;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.CheckBox;
-import android.widget.CompoundButton;
-import android.widget.CompoundButton.OnCheckedChangeListener;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListAdapter;
+import android.widget.TextView;
 
-public class CheckableTagAdapter implements ListAdapter, OnCheckedChangeListener {
+public class CheckableTagAdapter implements ListAdapter, OnItemClickListener {
 
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
 	private LayoutInflater inflater;
@@ -76,16 +76,17 @@ public class CheckableTagAdapter implements ListAdapter, OnCheckedChangeListener
 			convertView = inflater.inflate(R.layout.tag_list_item, null);
 		}
 		TagMeta tag = tags.get(position);
-		CheckBox tagNameCheck = (CheckBox) convertView.findViewById(R.id.highlightedCheckbox);
-		tagNameCheck.setTag(tag);
-		tagNameCheck.setOnCheckedChangeListener(this);
-		tagNameCheck.setText(tag.getName());
-		tagNameCheck.setBackgroundColor(Color.parseColor(tag.getColor()));
+		TextView tagNameText = (TextView) convertView.findViewById(R.id.highlightListItemText);
+		View tagColorCheck = convertView.findViewById(R.id.highlightListItemColorBox);
+		tagColorCheck.setTag(tag);
+		tagNameText.setTag(tag);
+		tagNameText.setText(tag.getName());
 		Boolean tagChecked = checked.get(tag.getId());
+		tagColorCheck.getBackground().clearColorFilter();
 		if (tagChecked != null) {
-			tagNameCheck.setChecked(tagChecked);
-		} else {
-			tagNameCheck.setChecked(false);
+			if (tagChecked) {
+				tagColorCheck.getBackground().setColorFilter(Color.parseColor(tag.getColor()), Mode.MULTIPLY);
+			}
 		}
 		return convertView;
 	}
@@ -125,12 +126,6 @@ public class CheckableTagAdapter implements ListAdapter, OnCheckedChangeListener
 		return true;
 	}
 
-	@Override
-	public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-		TagMeta tag = (TagMeta) buttonView.getTag();
-		this.checked.put(tag.getId(), isChecked);
-	}
-	
 	public boolean isChecked(String tagId) {
 		if (checked.get(tagId) != null) {
 			return checked.get(tagId);
@@ -145,6 +140,20 @@ public class CheckableTagAdapter implements ListAdapter, OnCheckedChangeListener
 			return checked.get(tagId);
 		} else {
 			return false;
+		}
+	}
+
+	@Override
+	public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+		TagMeta tag = tags.get(position);
+		Boolean tagChecked = checked.get(tag.getId());
+		if (tagChecked == null) {
+			tagChecked = false;
+		}
+		tagChecked = !tagChecked;
+		this.checked.put(tag.getId(), tagChecked);
+		for (DataSetObserver observer : observers) {
+			observer.onChanged();
 		}
 	}
 }
