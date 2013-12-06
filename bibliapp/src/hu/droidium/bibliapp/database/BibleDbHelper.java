@@ -5,7 +5,6 @@ import java.util.List;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.util.Log;
 
 public class BibleDbHelper extends SQLiteOpenHelper {
 
@@ -33,13 +32,9 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 			db.execSQL(Translation.getCreateTableText());
 		} 
 		if (oldVersion < 4) {
-			Log.e("BibleDbHelper", "Database updating from version " + oldVersion);
 			// Change bookmark's book id's from row/xy.txt to xy
 			DatabaseManager databaseManager = new DatabaseManager(db);
 			List<Bookmark> bookmarks = databaseManager.getAllBookmarks(null, false);
-			for (Bookmark bookmark : bookmarks) {
-				Log.e("DbHelper", "Bookmark before " + bookmark.getBookId() + " id : " + bookmark.getId());
-			}
 			db.execSQL(Bookmark.getDeleteTableText());
 			db.execSQL(Bookmark.getCreateTableText());
 			for (Bookmark bookmark : bookmarks) {
@@ -51,10 +46,6 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 				databaseManager.saveBookmark(newBookmark);
 			}
 			bookmarks = databaseManager.getAllBookmarks(null, false);
-			for (Bookmark bookmark : bookmarks) {
-				Log.e("DbHelper", "Bookmark after " + bookmark.getBookId());
-			}
-
 		}
 	}
 	

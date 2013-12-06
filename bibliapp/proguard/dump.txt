@@ -65000,7 +65000,7 @@ _____________________________________________________________________
 
 Interfaces (count = 0):
 
-Constant Pool (count = 351):
+Constant Pool (count = 355):
   + String [%s/activities]
   + String [Both context and applicationId must be non-null]
   + String [Facebook-publish]
@@ -65112,6 +65112,7 @@ Constant Pool (count = 351):
   + Methodref [java/lang/reflect/Field.get (Ljava/lang/Object;)Ljava/lang/Object;]
   + Methodref [java/util/Arrays.asList ([Ljava/lang/Object;)Ljava/util/List;]
   + Methodref [java/util/HashSet.<init> (Ljava/util/Collection;)V]
+  + Methodref [java/util/HashSet.contains (Ljava/lang/Object;)Z]
   + Methodref [java/util/concurrent/LinkedBlockingQueue.<init> (I)V]
   + Methodref [java/util/concurrent/ThreadPoolExecutor.<init> (IIJLjava/util/concurrent/TimeUnit;Ljava/util/concurrent/BlockingQueue;Ljava/util/concurrent/ThreadFactory;)V]
   + Methodref [org/json/JSONObject.<init> (Ljava/lang/String;)V]
@@ -65159,6 +65160,7 @@ Constant Pool (count = 351):
   + NameAndType [c Ljava/util/concurrent/Executor;]
   + NameAndType [close ()V]
   + NameAndType [commit ()Z]
+  + NameAndType [contains (Ljava/lang/Object;)Z]
   + NameAndType [currentTimeMillis ()J]
   + NameAndType [d Z]
   + NameAndType [e ()Lcom/facebook/bk;]
@@ -65216,6 +65218,7 @@ Constant Pool (count = 351):
   + Utf8 [(Lcom/facebook/bl;Ljava/lang/String;Lcom/facebook/c/c;Lcom/facebook/bc;)Lcom/facebook/Request;]
   + Utf8 [(Ljava/lang/Object;)Ljava/lang/Object;]
   + Utf8 [(Ljava/lang/Object;)Ljava/lang/String;]
+  + Utf8 [(Ljava/lang/Object;)Z]
   + Utf8 [(Ljava/lang/String;)I]
   + Utf8 [(Ljava/lang/String;)Landroid/net/Uri;]
   + Utf8 [(Ljava/lang/String;)Ljava/lang/StringBuilder;]
@@ -65298,6 +65301,7 @@ Constant Pool (count = 351):
   + Utf8 [com/facebook/cg]
   + Utf8 [com/facebook/ch]
   + Utf8 [commit]
+  + Utf8 [contains]
   + Utf8 [content://com.facebook.katana.provider.AttributionIdProvider]
   + Utf8 [currentTimeMillis]
   + Utf8 [d]
@@ -65440,7 +65444,7 @@ Methods (count = 11):
         + Class [java/util/concurrent/LinkedBlockingQueue]
       [57] dup
       [58] bipush 10
-      [60] invokespecial #112
+      [60] invokespecial #113
         + Methodref [java/util/concurrent/LinkedBlockingQueue.<init> (I)V]
       [63] putstatic #71
         + Fieldref [com/facebook/cg.i Ljava/util/concurrent/BlockingQueue;]
@@ -65469,25 +65473,35 @@ Methods (count = 11):
     Access flags: 0x19
       = public static final boolean a(com.facebook.av)
     Class member attributes (count = 1):
-    + Code attribute instructions (code length = 13, locals = 2, stack = 2):
+    + Code attribute instructions (code length = 27, locals = 2, stack = 2):
       [0] getstatic #64
         + Fieldref [com/facebook/cg.b Ljava/util/HashSet;]
       [3] dup
       [4] astore_1 v1
       [5] monitorenter
-      [6] iconst_0
-      [7] aload_1 v1
-      [8] monitorexit
-      [9] ireturn
-      [10] aload_1 v1
-      [11] monitorexit
-      [12] athrow
+      [6] getstatic #64
+        + Fieldref [com/facebook/cg.b Ljava/util/HashSet;]
+      [9] aload_0 v0
+      [10] invokevirtual #112
+        + Methodref [java/util/HashSet.contains (Ljava/lang/Object;)Z]
+      [13] ifeq +7 (target=20)
+      [16] iconst_1
+      [17] goto +4 (target=21)
+      [20] iconst_0
+      [21] aload_1 v1
+      [22] monitorexit
+      [23] ireturn
+      [24] aload_1 v1
+      [25] monitorexit
+      [26] athrow
       Code attribute exceptions (count = 2):
-      - ExceptionInfo (6 -> 9: 10):
-      - ExceptionInfo (10 -> 12: 10):
+      - ExceptionInfo (6 -> 23: 24):
+      - ExceptionInfo (24 -> 26: 24):
       Code attribute attributes (attribute count = 1):
-      + Stack map table attribute (count = 1):
-        - [10] Var: [a:com/facebook/av][a:java/util/HashSet], Stack: [a:java/lang/Throwable]
+      + Stack map table attribute (count = 3):
+        - [20] Var: ...[a:java/util/HashSet], Stack: (empty)
+        - [21] Var: ..., Stack: [i]
+        - [24] Var: ..., Stack: [a:java/lang/Throwable]
   + Method:       a()Ljava/util/concurrent/Executor;
     Access flags: 0x9
       = public static java.util.concurrent.Executor a()
@@ -65518,7 +65532,7 @@ Methods (count = 11):
         + Fieldref [com/facebook/cg.i Ljava/util/concurrent/BlockingQueue;]
       [35] getstatic #72
         + Fieldref [com/facebook/cg.j Ljava/util/concurrent/ThreadFactory;]
-      [38] invokespecial #113
+      [38] invokespecial #114
         + Methodref [java/util/concurrent/ThreadPoolExecutor.<init> (IIJLjava/util/concurrent/TimeUnit;Ljava/util/concurrent/BlockingQueue;Ljava/util/concurrent/ThreadFactory;)V]
       [41] astore_1 v1
       [42] aload_1 v1
@@ -65696,13 +65710,13 @@ Methods (count = 11):
       [77] aload v4
       [79] aload v5
       [81] lconst_0
-      [82] invokeinterface #117
+      [82] invokeinterface #118
         + InterfaceMethodref [android/content/SharedPreferences.getLong (Ljava/lang/String;J)J]
       [87] lstore v7
       [89] aload v4
       [91] aload v6
       [93] aconst_null
-      [94] invokeinterface #118
+      [94] invokeinterface #119
         + InterfaceMethodref [android/content/SharedPreferences.getString (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;]
       [99] astore v9
       [101] iload_2 v2
@@ -65718,13 +65732,13 @@ Methods (count = 11):
         + String [event]
       [118] ldc #5
         + String [MOBILE_APP_INSTALL]
-      [120] invokeinterface #126
+      [120] invokeinterface #127
         + InterfaceMethodref [com/facebook/c/c.a (Ljava/lang/String;Ljava/lang/Object;)V]
       [125] aload v10
       [127] ldc #11
         + String [attribution]
       [129] aload_3 v3
-      [130] invokeinterface #126
+      [130] invokeinterface #127
         + InterfaceMethodref [com/facebook/c/c.a (Ljava/lang/String;Ljava/lang/Object;)V]
       [135] aload v10
       [137] ldc #12
@@ -65732,7 +65746,7 @@ Methods (count = 11):
       [139] iload_2 v2
       [140] invokestatic #98
         + Methodref [java/lang/Boolean.valueOf (Z)Ljava/lang/Boolean;]
-      [143] invokeinterface #126
+      [143] invokeinterface #127
         + InterfaceMethodref [com/facebook/c/c.a (Ljava/lang/String;Ljava/lang/Object;)V]
       [148] aload v10
       [150] ldc #10
@@ -65746,7 +65760,7 @@ Methods (count = 11):
       [163] iconst_1
       [164] invokestatic #98
         + Methodref [java/lang/Boolean.valueOf (Z)Ljava/lang/Boolean;]
-      [167] invokeinterface #126
+      [167] invokeinterface #127
         + InterfaceMethodref [com/facebook/c/c.a (Ljava/lang/String;Ljava/lang/Object;)V]
       [172] aload v10
       [174] ldc #9
@@ -65754,7 +65768,7 @@ Methods (count = 11):
       [176] aload_0 v0
       [177] invokevirtual #76
         + Methodref [android/content/Context.getPackageName ()Ljava/lang/String;]
-      [180] invokeinterface #126
+      [180] invokeinterface #127
         + InterfaceMethodref [com/facebook/c/c.a (Ljava/lang/String;Ljava/lang/Object;)V]
       [185] ldc #1
         + String [%s/activities]
@@ -65787,7 +65801,7 @@ Methods (count = 11):
         + Class [org/json/JSONObject]
       [229] dup
       [230] aload v9
-      [232] invokespecial #114
+      [232] invokespecial #115
         + Methodref [org/json/JSONObject.<init> (Ljava/lang/String;)V]
       [235] invokestatic #93
         + Methodref [com/facebook/c/d.a (Lorg/json/JSONObject;)Lcom/facebook/c/c;]
@@ -65815,7 +65829,7 @@ Methods (count = 11):
       [270] invokestatic #89
         + Methodref [com/facebook/bk.a (Ljava/lang/String;Ljava/net/HttpURLConnection;Lcom/facebook/bi;Z)Ljava/util/List;]
       [273] iconst_0
-      [274] invokeinterface #128
+      [274] invokeinterface #129
         + InterfaceMethodref [java/util/List.get (I)Ljava/lang/Object;]
       [279] checkcast #35
         + Class [com/facebook/bk]
@@ -65860,7 +65874,7 @@ Methods (count = 11):
         + Methodref [com/facebook/Request.e ()Lcom/facebook/bk;]
       [336] astore v13
       [338] aload v4
-      [340] invokeinterface #116
+      [340] invokeinterface #117
         + InterfaceMethodref [android/content/SharedPreferences.edit ()Landroid/content/SharedPreferences$Editor;]
       [345] astore v14
       [347] invokestatic #108
@@ -65869,7 +65883,7 @@ Methods (count = 11):
       [352] aload v14
       [354] aload v5
       [356] lload v7
-      [358] invokeinterface #120
+      [358] invokeinterface #121
         + InterfaceMethodref [android/content/SharedPreferences$Editor.putLong (Ljava/lang/String;J)Landroid/content/SharedPreferences$Editor;]
       [363] pop
       [364] aload v13
@@ -65879,7 +65893,7 @@ Methods (count = 11):
       [372] aload v13
       [374] invokevirtual #90
         + Methodref [com/facebook/bk.b ()Lcom/facebook/c/c;]
-      [377] invokeinterface #127
+      [377] invokeinterface #128
         + InterfaceMethodref [com/facebook/c/c.c ()Lorg/json/JSONObject;]
       [382] ifnull +26 (target=408)
       [385] aload v14
@@ -65887,15 +65901,15 @@ Methods (count = 11):
       [389] aload v13
       [391] invokevirtual #90
         + Methodref [com/facebook/bk.b ()Lcom/facebook/c/c;]
-      [394] invokeinterface #127
+      [394] invokeinterface #128
         + InterfaceMethodref [com/facebook/c/c.c ()Lorg/json/JSONObject;]
-      [399] invokevirtual #115
+      [399] invokevirtual #116
         + Methodref [org/json/JSONObject.toString ()Ljava/lang/String;]
-      [402] invokeinterface #121
+      [402] invokeinterface #122
         + InterfaceMethodref [android/content/SharedPreferences$Editor.putString (Ljava/lang/String;Ljava/lang/String;)Landroid/content/SharedPreferences$Editor;]
       [407] pop
       [408] aload v14
-      [410] invokeinterface #119
+      [410] invokeinterface #120
         + InterfaceMethodref [android/content/SharedPreferences$Editor.commit ()Z]
       [415] pop
       [416] aload v13
@@ -65973,7 +65987,7 @@ Methods (count = 11):
       [22] aload_2 v2
       [23] ifnull +12 (target=35)
       [26] aload_2 v2
-      [27] invokeinterface #125
+      [27] invokeinterface #126
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [32] ifne +5 (target=37)
       [35] aconst_null
@@ -65982,13 +65996,13 @@ Methods (count = 11):
       [38] aload_2 v2
       [39] ldc #8
         + String [aid]
-      [41] invokeinterface #123
+      [41] invokeinterface #124
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [46] invokeinterface #124
+      [46] invokeinterface #125
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [51] astore_3 v3
       [52] aload_2 v2
-      [53] invokeinterface #122
+      [53] invokeinterface #123
         + InterfaceMethodref [android/database/Cursor.close ()V]
       [58] aload_3 v3
       [59] areturn
@@ -77896,9 +77910,10 @@ _____________________________________________________________________
 
 Interfaces (count = 0):
 
-Constant Pool (count = 431):
+Constant Pool (count = 453):
   + String [,]
   + String [.facebook.com]
+  + String [: ]
   + String [;]
   + String [=]
   + String [=;expires=Sat, 1 Jan 2000 00:00:01 UTC;]
@@ -77927,6 +77942,7 @@ Constant Pool (count = 431):
   + Class [android/os/Bundle]
   + Class [android/os/Parcelable]
   + Class [android/text/TextUtils]
+  + Class [android/util/Log]
   + Class [android/webkit/CookieManager]
   + Class [android/webkit/CookieSyncManager]
   + Class [com/facebook/Request]
@@ -77944,6 +77960,8 @@ Constant Pool (count = 431):
   + Class [java/io/InputStream]
   + Class [java/io/InputStreamReader]
   + Class [java/lang/Boolean]
+  + Class [java/lang/Class]
+  + Class [java/lang/Exception]
   + Class [java/lang/Integer]
   + Class [java/lang/Object]
   + Class [java/lang/String]
@@ -77984,6 +78002,7 @@ Constant Pool (count = 431):
   + Methodref [android/os/Bundle.putParcelable (Ljava/lang/String;Landroid/os/Parcelable;)V]
   + Methodref [android/os/Bundle.putString (Ljava/lang/String;Ljava/lang/String;)V]
   + Methodref [android/text/TextUtils.join (Ljava/lang/CharSequence;[Ljava/lang/Object;)Ljava/lang/String;]
+  + Methodref [android/util/Log.d (Ljava/lang/String;Ljava/lang/String;)I]
   + Methodref [android/webkit/CookieManager.getCookie (Ljava/lang/String;)Ljava/lang/String;]
   + Methodref [android/webkit/CookieManager.getInstance ()Landroid/webkit/CookieManager;]
   + Methodref [android/webkit/CookieManager.removeExpiredCookie ()V]
@@ -78011,8 +78030,11 @@ Constant Pool (count = 431):
   + Methodref [java/io/InputStreamReader.read ([C)I]
   + Methodref [java/lang/Boolean.booleanValue ()Z]
   + Methodref [java/lang/Boolean.valueOf (Z)Ljava/lang/Boolean;]
+  + Methodref [java/lang/Class.getSimpleName ()Ljava/lang/String;]
+  + Methodref [java/lang/Exception.getMessage ()Ljava/lang/String;]
   + Methodref [java/lang/Integer.toHexString (I)Ljava/lang/String;]
   + Methodref [java/lang/Object.equals (Ljava/lang/Object;)Z]
+  + Methodref [java/lang/Object.getClass ()Ljava/lang/Class;]
   + Methodref [java/lang/String.getBytes ()[B]
   + Methodref [java/lang/String.length ()I]
   + Methodref [java/lang/String.split (Ljava/lang/String;)[Ljava/lang/String;]
@@ -78078,6 +78100,7 @@ Constant Pool (count = 431):
   + NameAndType [contains (Ljava/lang/Object;)Z]
   + NameAndType [containsKey (Ljava/lang/Object;)Z]
   + NameAndType [createInstance (Landroid/content/Context;)Landroid/webkit/CookieSyncManager;]
+  + NameAndType [d (Ljava/lang/String;Ljava/lang/String;)I]
   + NameAndType [delete ()Z]
   + NameAndType [digest ()[B]
   + NameAndType [disconnect ()V]
@@ -78088,11 +78111,14 @@ Constant Pool (count = 431):
   + NameAndType [get (Ljava/lang/String;)Ljava/lang/Object;]
   + NameAndType [getApplicationInfo (Ljava/lang/String;I)Landroid/content/pm/ApplicationInfo;]
   + NameAndType [getBytes ()[B]
+  + NameAndType [getClass ()Ljava/lang/Class;]
   + NameAndType [getCookie (Ljava/lang/String;)Ljava/lang/String;]
   + NameAndType [getInstance ()Landroid/webkit/CookieManager;]
   + NameAndType [getInstance (Ljava/lang/String;)Ljava/security/MessageDigest;]
+  + NameAndType [getMessage ()Ljava/lang/String;]
   + NameAndType [getPackageManager ()Landroid/content/pm/PackageManager;]
   + NameAndType [getPackageName ()Ljava/lang/String;]
+  + NameAndType [getSimpleName ()Ljava/lang/String;]
   + NameAndType [getString (Ljava/lang/String;)Ljava/lang/String;]
   + NameAndType [hasNext ()Z]
   + NameAndType [isDirectory ()Z]
@@ -78131,6 +78157,7 @@ Constant Pool (count = 431):
   + Utf8 [()Landroid/webkit/CookieManager;]
   + Utf8 [()Lcom/facebook/bk;]
   + Utf8 [()Lcom/facebook/c/c;]
+  + Utf8 [()Ljava/lang/Class;]
   + Utf8 [()Ljava/lang/Object;]
   + Utf8 [()Ljava/lang/String;]
   + Utf8 [()Ljava/util/Iterator;]
@@ -78171,6 +78198,7 @@ Constant Pool (count = 431):
   + Utf8 [(Ljava/lang/String;Landroid/os/Parcelable;)V]
   + Utf8 [(Ljava/lang/String;Ljava/lang/Exception;)V]
   + Utf8 [(Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;]
+  + Utf8 [(Ljava/lang/String;Ljava/lang/String;)I]
   + Utf8 [(Ljava/lang/String;Ljava/lang/String;)Landroid/net/Uri$Builder;]
   + Utf8 [(Ljava/lang/String;Ljava/lang/String;)V]
   + Utf8 [(Ljava/lang/String;Ljava/lang/String;Landroid/os/Bundle;)Landroid/net/Uri;]
@@ -78191,6 +78219,7 @@ Constant Pool (count = 431):
   + Utf8 [([Ljava/lang/Object;)Ljava/util/List;]
   + Utf8 [,]
   + Utf8 [.facebook.com]
+  + Utf8 [: ]
   + Utf8 [;]
   + Utf8 [<T:Ljava/lang/Object;>(Ljava/util/Collection<TT;>;)Z]
   + Utf8 [<T:Ljava/lang/Object;>(Ljava/util/Collection<TT;>;Ljava/util/Collection<TT;>;)Z]
@@ -78224,6 +78253,7 @@ Constant Pool (count = 431):
   + Utf8 [android/os/Bundle]
   + Utf8 [android/os/Parcelable]
   + Utf8 [android/text/TextUtils]
+  + Utf8 [android/util/Log]
   + Utf8 [android/webkit/CookieManager]
   + Utf8 [android/webkit/CookieSyncManager]
   + Utf8 [append]
@@ -78249,6 +78279,7 @@ Constant Pool (count = 431):
   + Utf8 [containsKey]
   + Utf8 [context]
   + Utf8 [createInstance]
+  + Utf8 [d]
   + Utf8 [delete]
   + Utf8 [digest]
   + Utf8 [disconnect]
@@ -78260,10 +78291,13 @@ Constant Pool (count = 431):
   + Utf8 [get]
   + Utf8 [getApplicationInfo]
   + Utf8 [getBytes]
+  + Utf8 [getClass]
   + Utf8 [getCookie]
   + Utf8 [getInstance]
+  + Utf8 [getMessage]
   + Utf8 [getPackageManager]
   + Utf8 [getPackageName]
+  + Utf8 [getSimpleName]
   + Utf8 [getString]
   + Utf8 [hasNext]
   + Utf8 [https]
@@ -78278,6 +78312,8 @@ Constant Pool (count = 431):
   + Utf8 [java/io/InputStream]
   + Utf8 [java/io/InputStreamReader]
   + Utf8 [java/lang/Boolean]
+  + Utf8 [java/lang/Class]
+  + Utf8 [java/lang/Exception]
   + Utf8 [java/lang/Integer]
   + Utf8 [java/lang/Object]
   + Utf8 [java/lang/String]
@@ -78346,26 +78382,26 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 28, locals = 0, stack = 4):
       [0] iconst_2
-      [1] anewarray #50
+      [1] anewarray #54
         + Class [java/lang/String]
       [4] dup
       [5] iconst_0
-      [6] ldc #16
+      [6] ldc #17
         + String [supports_attribution]
       [8] aastore
       [9] dup
       [10] iconst_1
-      [11] ldc #17
+      [11] ldc #18
         + String [supports_implicit_sdk_logging]
       [13] aastore
-      [14] putstatic #69
+      [14] putstatic #73
         + Fieldref [com/facebook/b/ab.a [Ljava/lang/String;]
-      [17] new #64
+      [17] new #68
         + Class [java/util/concurrent/ConcurrentHashMap]
       [20] dup
-      [21] invokespecial #137
+      [21] invokespecial #145
         + Methodref [java/util/concurrent/ConcurrentHashMap.<init> ()V]
-      [24] putstatic #70
+      [24] putstatic #74
         + Fieldref [com/facebook/b/ab.b Ljava/util/Map;]
       [27] return
       Code attribute exceptions (count = 0):
@@ -78378,46 +78414,46 @@ Methods (count = 23):
       [0] aload_1 v1
       [1] ifnull +12 (target=13)
       [4] aload_1 v1
-      [5] invokeinterface #146
+      [5] invokeinterface #154
         + InterfaceMethodref [java/util/Collection.size ()I]
       [10] ifne +20 (target=30)
       [13] aload_0 v0
       [14] ifnull +14 (target=28)
       [17] aload_0 v0
-      [18] invokeinterface #146
+      [18] invokeinterface #154
         + InterfaceMethodref [java/util/Collection.size ()I]
       [23] ifeq +5 (target=28)
       [26] iconst_0
       [27] ireturn
       [28] iconst_1
       [29] ireturn
-      [30] new #60
+      [30] new #64
         + Class [java/util/HashSet]
       [33] dup
       [34] aload_1 v1
-      [35] invokespecial #135
+      [35] invokespecial #143
         + Methodref [java/util/HashSet.<init> (Ljava/util/Collection;)V]
       [38] astore_2 v2
       [39] aload_0 v0
-      [40] invokeinterface #145
+      [40] invokeinterface #153
         + InterfaceMethodref [java/util/Collection.iterator ()Ljava/util/Iterator;]
       [45] astore v4
       [47] goto +24 (target=71)
       [50] aload v4
-      [52] invokeinterface #148
+      [52] invokeinterface #156
         + InterfaceMethodref [java/util/Iterator.next ()Ljava/lang/Object;]
-      [57] checkcast #49
+      [57] checkcast #53
         + Class [java/lang/Object]
       [60] astore_3 v3
       [61] aload_2 v2
       [62] aload_3 v3
-      [63] invokevirtual #136
+      [63] invokevirtual #144
         + Methodref [java/util/HashSet.contains (Ljava/lang/Object;)Z]
       [66] ifne +5 (target=71)
       [69] iconst_0
       [70] ireturn
       [71] aload v4
-      [73] invokeinterface #147
+      [73] invokeinterface #155
         + InterfaceMethodref [java/util/Iterator.hasNext ()Z]
       [78] ifne -28 (target=50)
       [81] iconst_1
@@ -78440,7 +78476,7 @@ Methods (count = 23):
       [0] aload_0 v0
       [1] ifnull +14 (target=15)
       [4] aload_0 v0
-      [5] invokeinterface #146
+      [5] invokeinterface #154
         + InterfaceMethodref [java/util/Collection.size ()I]
       [10] ifeq +5 (target=15)
       [13] iconst_0
@@ -78461,7 +78497,7 @@ Methods (count = 23):
       [0] aload_0 v0
       [1] ifnull +12 (target=13)
       [4] aload_0 v0
-      [5] invokevirtual #118
+      [5] invokevirtual #126
         + Methodref [java/lang/String.length ()I]
       [8] ifeq +5 (target=13)
       [11] iconst_0
@@ -78478,9 +78514,9 @@ Methods (count = 23):
     Class member attributes (count = 2):
     + Code attribute instructions (code length = 8, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] invokestatic #133
+      [1] invokestatic #141
         + Methodref [java/util/Arrays.asList ([Ljava/lang/Object;)Ljava/util/List;]
-      [4] invokestatic #134
+      [4] invokestatic #142
         + Methodref [java/util/Collections.unmodifiableCollection (Ljava/util/Collection;)Ljava/util/Collection;]
       [7] areturn
       Code attribute exceptions (count = 0):
@@ -78494,9 +78530,9 @@ Methods (count = 23):
     + Code attribute instructions (code length = 100, locals = 8, stack = 3):
       [0] aconst_null
       [1] astore_1 v1
-      [2] ldc #7
+      [2] ldc #8
         + String [MD5]
-      [4] invokestatic #129
+      [4] invokestatic #137
         + Methodref [java/security/MessageDigest.getInstance (Ljava/lang/String;)Ljava/security/MessageDigest;]
       [7] astore_1 v1
       [8] goto +6 (target=14)
@@ -78505,18 +78541,18 @@ Methods (count = 23):
       [13] areturn
       [14] aload_1 v1
       [15] aload_0 v0
-      [16] invokevirtual #117
+      [16] invokevirtual #125
         + Methodref [java/lang/String.getBytes ()[B]
-      [19] invokevirtual #130
+      [19] invokevirtual #138
         + Methodref [java/security/MessageDigest.update ([B)V]
       [22] aload_1 v1
-      [23] invokevirtual #128
+      [23] invokevirtual #136
         + Methodref [java/security/MessageDigest.digest ()[B]
       [26] astore_2 v2
-      [27] new #51
+      [27] new #55
         + Class [java/lang/StringBuilder]
       [30] dup
-      [31] invokespecial #122
+      [31] invokespecial #130
         + Methodref [java/lang/StringBuilder.<init> ()V]
       [34] astore_3 v3
       [35] aload_2 v2
@@ -78537,9 +78573,9 @@ Methods (count = 23):
       [59] ishr
       [60] bipush 15
       [62] iand
-      [63] invokestatic #115
+      [63] invokestatic #122
         + Methodref [java/lang/Integer.toHexString (I)Ljava/lang/String;]
-      [66] invokevirtual #124
+      [66] invokevirtual #132
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
       [69] pop
       [70] aload_3 v3
@@ -78548,9 +78584,9 @@ Methods (count = 23):
       [74] ishr
       [75] bipush 15
       [77] iand
-      [78] invokestatic #115
+      [78] invokestatic #122
         + Methodref [java/lang/Integer.toHexString (I)Ljava/lang/String;]
-      [81] invokevirtual #124
+      [81] invokevirtual #132
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
       [84] pop
       [85] iinc v5, 1
@@ -78558,7 +78594,7 @@ Methods (count = 23):
       [90] iload v6
       [92] ificmplt -44 (target=48)
       [95] aload_3 v3
-      [96] invokevirtual #126
+      [96] invokevirtual #134
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [99] areturn
       Code attribute exceptions (count = 1):
@@ -78575,64 +78611,64 @@ Methods (count = 23):
       = public static android.net.Uri a(java.lang.String,java.lang.String,android.os.Bundle)
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 96, locals = 7, stack = 3):
-      [0] new #27
+      [0] new #28
         + Class [android/net/Uri$Builder]
       [3] dup
-      [4] invokespecial #74
+      [4] invokespecial #78
         + Methodref [android/net/Uri$Builder.<init> ()V]
       [7] astore_3 v3
       [8] aload_3 v3
-      [9] ldc #13
+      [9] ldc #14
         + String [https]
-      [11] invokevirtual #79
+      [11] invokevirtual #83
         + Methodref [android/net/Uri$Builder.scheme (Ljava/lang/String;)Landroid/net/Uri$Builder;]
       [14] pop
       [15] aload_3 v3
       [16] aload_0 v0
-      [17] invokevirtual #76
+      [17] invokevirtual #80
         + Methodref [android/net/Uri$Builder.authority (Ljava/lang/String;)Landroid/net/Uri$Builder;]
       [20] pop
       [21] aload_3 v3
       [22] aload_1 v1
-      [23] invokevirtual #78
+      [23] invokevirtual #82
         + Methodref [android/net/Uri$Builder.path (Ljava/lang/String;)Landroid/net/Uri$Builder;]
       [26] pop
       [27] aload_2 v2
-      [28] invokevirtual #83
+      [28] invokevirtual #87
         + Methodref [android/os/Bundle.keySet ()Ljava/util/Set;]
-      [31] invokeinterface #152
+      [31] invokeinterface #160
         + InterfaceMethodref [java/util/Set.iterator ()Ljava/util/Iterator;]
       [36] astore v5
       [38] goto +43 (target=81)
       [41] aload v5
-      [43] invokeinterface #148
+      [43] invokeinterface #156
         + InterfaceMethodref [java/util/Iterator.next ()Ljava/lang/Object;]
-      [48] checkcast #50
+      [48] checkcast #54
         + Class [java/lang/String]
       [51] astore v4
       [53] aload_2 v2
       [54] aload v4
-      [56] invokevirtual #81
+      [56] invokevirtual #85
         + Methodref [android/os/Bundle.get (Ljava/lang/String;)Ljava/lang/Object;]
       [59] astore v6
       [61] aload v6
-      [63] instanceof #50
+      [63] instanceof #54
         + Class [java/lang/String]
       [66] ifeq +15 (target=81)
       [69] aload_3 v3
       [70] aload v4
       [72] aload v6
-      [74] checkcast #50
+      [74] checkcast #54
         + Class [java/lang/String]
-      [77] invokevirtual #75
+      [77] invokevirtual #79
         + Methodref [android/net/Uri$Builder.appendQueryParameter (Ljava/lang/String;Ljava/lang/String;)Landroid/net/Uri$Builder;]
       [80] pop
       [81] aload v5
-      [83] invokeinterface #147
+      [83] invokeinterface #155
         + InterfaceMethodref [java/util/Iterator.hasNext ()Z]
       [88] ifne -47 (target=41)
       [91] aload_3 v3
-      [92] invokevirtual #77
+      [92] invokevirtual #81
         + Methodref [android/net/Uri$Builder.build ()Landroid/net/Uri;]
       [95] areturn
       Code attribute exceptions (count = 0):
@@ -78646,47 +78682,47 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 68, locals = 3, stack = 3):
       [0] aload_2 v2
-      [1] instanceof #50
+      [1] instanceof #54
         + Class [java/lang/String]
       [4] ifeq +15 (target=19)
       [7] aload_0 v0
       [8] aload_1 v1
       [9] aload_2 v2
-      [10] checkcast #50
+      [10] checkcast #54
         + Class [java/lang/String]
-      [13] invokevirtual #86
+      [13] invokevirtual #90
         + Methodref [android/os/Bundle.putString (Ljava/lang/String;Ljava/lang/String;)V]
       [16] goto +51 (target=67)
       [19] aload_2 v2
-      [20] instanceof #29
+      [20] instanceof #30
         + Class [android/os/Parcelable]
       [23] ifeq +15 (target=38)
       [26] aload_0 v0
       [27] aload_1 v1
       [28] aload_2 v2
-      [29] checkcast #29
+      [29] checkcast #30
         + Class [android/os/Parcelable]
-      [32] invokevirtual #85
+      [32] invokevirtual #89
         + Methodref [android/os/Bundle.putParcelable (Ljava/lang/String;Landroid/os/Parcelable;)V]
       [35] goto +32 (target=67)
       [38] aload_2 v2
-      [39] instanceof #18
+      [39] instanceof #19
         + Class [[B]
       [42] ifeq +15 (target=57)
       [45] aload_0 v0
       [46] aload_1 v1
       [47] aload_2 v2
-      [48] checkcast #18
+      [48] checkcast #19
         + Class [[B]
-      [51] invokevirtual #84
+      [51] invokevirtual #88
         + Methodref [android/os/Bundle.putByteArray (Ljava/lang/String;[B)V]
       [54] goto +13 (target=67)
-      [57] new #34
+      [57] new #36
         + Class [com/facebook/am]
       [60] dup
-      [61] ldc #8
+      [61] ldc #9
         + String [attempted to add unsupported type to Bundle]
-      [63] invokespecial #97
+      [63] invokespecial #102
         + Methodref [com/facebook/am.<init> (Ljava/lang/String;)V]
       [66] athrow
       [67] return
@@ -78705,7 +78741,7 @@ Methods (count = 23):
       [0] aload_0 v0
       [1] ifnull +13 (target=14)
       [4] aload_0 v0
-      [5] invokeinterface #144
+      [5] invokeinterface #152
         + InterfaceMethodref [java/io/Closeable.close ()V]
       [10] goto +4 (target=14)
       [13] astore_1 v1
@@ -78724,13 +78760,13 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 15, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] instanceof #53
+      [1] instanceof #57
         + Class [java/net/HttpURLConnection]
       [4] ifeq +10 (target=14)
       [7] aload_0 v0
-      [8] checkcast #53
+      [8] checkcast #57
         + Class [java/net/HttpURLConnection]
-      [11] invokevirtual #127
+      [11] invokevirtual #135
         + Methodref [java/net/HttpURLConnection.disconnect ()V]
       [14] return
       Code attribute exceptions (count = 0):
@@ -78743,30 +78779,30 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 41, locals = 2, stack = 3):
       [0] aload_0 v0
-      [1] ldc #10
+      [1] ldc #11
         + String [context]
-      [3] invokestatic #103
+      [3] invokestatic #108
         + Methodref [com/facebook/b/ad.a (Ljava/lang/Object;Ljava/lang/String;)V]
       [6] aload_0 v0
-      [7] invokevirtual #71
+      [7] invokevirtual #75
         + Methodref [android/content/Context.getPackageManager ()Landroid/content/pm/PackageManager;]
       [10] aload_0 v0
-      [11] invokevirtual #72
+      [11] invokevirtual #76
         + Methodref [android/content/Context.getPackageName ()Ljava/lang/String;]
       [14] sipush 128
-      [17] invokevirtual #73
+      [17] invokevirtual #77
         + Methodref [android/content/pm/PackageManager.getApplicationInfo (Ljava/lang/String;I)Landroid/content/pm/ApplicationInfo;]
       [20] astore_1 v1
       [21] aload_1 v1
-      [22] getfield #68
+      [22] getfield #72
         + Fieldref [android/content/pm/ApplicationInfo.metaData Landroid/os/Bundle;]
       [25] ifnull +14 (target=39)
       [28] aload_1 v1
-      [29] getfield #68
+      [29] getfield #72
         + Fieldref [android/content/pm/ApplicationInfo.metaData Landroid/os/Bundle;]
-      [32] ldc #9
+      [32] ldc #10
         + String [com.facebook.sdk.ApplicationId]
-      [34] invokevirtual #82
+      [34] invokevirtual #86
         + Methodref [android/os/Bundle.getString (Ljava/lang/String;)Ljava/lang/String;]
       [37] areturn
       [38] astore_1 v1
@@ -78786,60 +78822,60 @@ Methods (count = 23):
     + Code attribute instructions (code length = 87, locals = 5, stack = 3):
       [0] aload_0 v0
       [1] aload_1 v1
-      [2] invokevirtual #139
+      [2] invokevirtual #147
         + Methodref [org/json/JSONObject.opt (Ljava/lang/String;)Ljava/lang/Object;]
       [5] astore_3 v3
       [6] aload_3 v3
       [7] ifnull +29 (target=36)
       [10] aload_3 v3
-      [11] instanceof #50
+      [11] instanceof #54
         + Class [java/lang/String]
       [14] ifeq +22 (target=36)
-      [17] new #67
+      [17] new #71
         + Class [org/json/JSONTokener]
       [20] dup
       [21] aload_3 v3
-      [22] checkcast #50
+      [22] checkcast #54
         + Class [java/lang/String]
-      [25] invokespecial #141
+      [25] invokespecial #149
         + Methodref [org/json/JSONTokener.<init> (Ljava/lang/String;)V]
       [28] astore v4
       [30] aload v4
-      [32] invokevirtual #142
+      [32] invokevirtual #150
         + Methodref [org/json/JSONTokener.nextValue ()Ljava/lang/Object;]
       [35] astore_3 v3
       [36] aload_3 v3
       [37] ifnull +48 (target=85)
       [40] aload_3 v3
-      [41] instanceof #66
+      [41] instanceof #70
         + Class [org/json/JSONObject]
       [44] ifne +41 (target=85)
       [47] aload_3 v3
-      [48] instanceof #65
+      [48] instanceof #69
         + Class [org/json/JSONArray]
       [51] ifne +34 (target=85)
       [54] aload_2 v2
       [55] ifnull +20 (target=75)
-      [58] new #66
+      [58] new #70
         + Class [org/json/JSONObject]
       [61] dup
-      [62] invokespecial #138
+      [62] invokespecial #146
         + Methodref [org/json/JSONObject.<init> ()V]
       [65] astore_0 v0
       [66] aload_0 v0
       [67] aload_2 v2
       [68] aload_3 v3
-      [69] invokevirtual #140
+      [69] invokevirtual #148
         + Methodref [org/json/JSONObject.putOpt (Ljava/lang/String;Ljava/lang/Object;)Lorg/json/JSONObject;]
       [72] pop
       [73] aload_0 v0
       [74] areturn
-      [75] new #34
+      [75] new #36
         + Class [com/facebook/am]
       [78] dup
-      [79] ldc #6
+      [79] ldc #7
         + String [Got an unexpected non-JSON object.]
-      [81] invokespecial #97
+      [81] invokespecial #102
         + Methodref [com/facebook/am.<init> (Ljava/lang/String;)V]
       [84] athrow
       [85] aload_3 v3
@@ -78859,24 +78895,24 @@ Methods (count = 23):
       [1] astore_1 v1
       [2] aconst_null
       [3] astore_2 v2
-      [4] new #41
+      [4] new #43
         + Class [java/io/BufferedInputStream]
       [7] dup
       [8] aload_0 v0
-      [9] invokespecial #106
+      [9] invokespecial #111
         + Methodref [java/io/BufferedInputStream.<init> (Ljava/io/InputStream;)V]
       [12] astore_1 v1
-      [13] new #46
+      [13] new #48
         + Class [java/io/InputStreamReader]
       [16] dup
       [17] aload_1 v1
-      [18] invokespecial #111
+      [18] invokespecial #116
         + Methodref [java/io/InputStreamReader.<init> (Ljava/io/InputStream;)V]
       [21] astore_2 v2
-      [22] new #51
+      [22] new #55
         + Class [java/lang/StringBuilder]
       [25] dup
-      [26] invokespecial #122
+      [26] invokespecial #130
         + Methodref [java/lang/StringBuilder.<init> ()V]
       [29] astore_3 v3
       [30] sipush 2048
@@ -78891,35 +78927,35 @@ Methods (count = 23):
       [49] aload v5
       [51] iconst_0
       [52] iload v6
-      [54] invokevirtual #125
+      [54] invokevirtual #133
         + Methodref [java/lang/StringBuilder.append ([CII)Ljava/lang/StringBuilder;]
       [57] pop
       [58] aload_2 v2
       [59] aload v5
-      [61] invokevirtual #112
+      [61] invokevirtual #117
         + Methodref [java/io/InputStreamReader.read ([C)I]
       [64] dup
       [65] istore v6
       [67] iconst_m1
       [68] ificmpne -20 (target=48)
       [71] aload_3 v3
-      [72] invokevirtual #126
+      [72] invokevirtual #134
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [75] astore v8
       [77] aload_1 v1
-      [78] invokestatic #100
+      [78] invokestatic #105
         + Methodref [com/facebook/b/ab.a (Ljava/io/Closeable;)V]
       [81] aload_2 v2
-      [82] invokestatic #100
+      [82] invokestatic #105
         + Methodref [com/facebook/b/ab.a (Ljava/io/Closeable;)V]
       [85] aload v8
       [87] areturn
       [88] astore v7
       [90] aload_1 v1
-      [91] invokestatic #100
+      [91] invokestatic #105
         + Methodref [com/facebook/b/ab.a (Ljava/io/Closeable;)V]
       [94] aload_2 v2
-      [95] invokestatic #100
+      [95] invokestatic #105
         + Methodref [com/facebook/b/ab.a (Ljava/io/Closeable;)V]
       [98] aload v7
       [100] athrow
@@ -78936,27 +78972,27 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 120, locals = 12, stack = 4):
       [0] aload_0 v0
-      [1] invokestatic #92
+      [1] invokestatic #97
         + Methodref [android/webkit/CookieSyncManager.createInstance (Landroid/content/Context;)Landroid/webkit/CookieSyncManager;]
       [4] astore_2 v2
       [5] aload_2 v2
-      [6] invokevirtual #93
+      [6] invokevirtual #98
         + Methodref [android/webkit/CookieSyncManager.sync ()V]
-      [9] invokestatic #89
+      [9] invokestatic #94
         + Methodref [android/webkit/CookieManager.getInstance ()Landroid/webkit/CookieManager;]
       [12] astore_3 v3
       [13] aload_3 v3
       [14] aload_1 v1
-      [15] invokevirtual #88
+      [15] invokevirtual #93
         + Methodref [android/webkit/CookieManager.getCookie (Ljava/lang/String;)Ljava/lang/String;]
       [18] astore v4
       [20] aload v4
       [22] ifnonnull +4 (target=26)
       [25] return
       [26] aload v4
-      [28] ldc #3
+      [28] ldc #4
         + String [;]
-      [30] invokevirtual #119
+      [30] invokevirtual #127
         + Methodref [java/lang/String.split (Ljava/lang/String;)[Ljava/lang/String;]
       [33] astore v5
       [35] aload v5
@@ -78972,44 +79008,44 @@ Methods (count = 23):
       [53] aaload
       [54] astore v6
       [56] aload v6
-      [58] ldc #4
+      [58] ldc #5
         + String [=]
-      [60] invokevirtual #119
+      [60] invokevirtual #127
         + Methodref [java/lang/String.split (Ljava/lang/String;)[Ljava/lang/String;]
       [63] astore v10
       [65] aload v10
       [67] arraylength
       [68] ifle +37 (target=105)
-      [71] new #51
+      [71] new #55
         + Class [java/lang/StringBuilder]
       [74] dup
       [75] aload v10
       [77] iconst_0
       [78] aaload
-      [79] invokevirtual #120
+      [79] invokevirtual #128
         + Methodref [java/lang/String.trim ()Ljava/lang/String;]
-      [82] invokestatic #121
+      [82] invokestatic #129
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [85] invokespecial #123
+      [85] invokespecial #131
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [88] ldc #5
+      [88] ldc #6
         + String [=;expires=Sat, 1 Jan 2000 00:00:01 UTC;]
-      [90] invokevirtual #124
+      [90] invokevirtual #132
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [93] invokevirtual #126
+      [93] invokevirtual #134
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [96] astore v11
       [98] aload_3 v3
       [99] aload_1 v1
       [100] aload v11
-      [102] invokevirtual #91
+      [102] invokevirtual #96
         + Methodref [android/webkit/CookieManager.setCookie (Ljava/lang/String;Ljava/lang/String;)V]
       [105] iinc v7, 1
       [108] iload v7
       [110] iload v8
       [112] ificmplt -63 (target=49)
       [115] aload_3 v3
-      [116] invokevirtual #90
+      [116] invokevirtual #95
         + Methodref [android/webkit/CookieManager.removeExpiredCookie ()V]
       [119] return
       Code attribute exceptions (count = 0):
@@ -79025,24 +79061,24 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 25, locals = 1, stack = 2):
       [0] aload_0 v0
-      [1] ldc #11
+      [1] ldc #12
         + String [facebook.com]
-      [3] invokestatic #98
+      [3] invokestatic #103
         + Methodref [com/facebook/b/ab.a (Landroid/content/Context;Ljava/lang/String;)V]
       [6] aload_0 v0
       [7] ldc #2
         + String [.facebook.com]
-      [9] invokestatic #98
+      [9] invokestatic #103
         + Methodref [com/facebook/b/ab.a (Landroid/content/Context;Ljava/lang/String;)V]
       [12] aload_0 v0
-      [13] ldc #15
+      [13] ldc #16
         + String [https://facebook.com]
-      [15] invokestatic #98
+      [15] invokestatic #103
         + Methodref [com/facebook/b/ab.a (Landroid/content/Context;Ljava/lang/String;)V]
       [18] aload_0 v0
-      [19] ldc #14
+      [19] ldc #15
         + String [https://.facebook.com]
-      [21] invokestatic #98
+      [21] invokestatic #103
         + Methodref [com/facebook/b/ab.a (Landroid/content/Context;Ljava/lang/String;)V]
       [24] return
       Code attribute exceptions (count = 0):
@@ -79051,18 +79087,62 @@ Methods (count = 23):
     Access flags: 0x9
       = public static void a(java.lang.String,java.lang.Exception)
     Class member attributes (count = 1):
-    + Code attribute instructions (code length = 1, locals = 2, stack = 0):
-      [0] return
+    + Code attribute instructions (code length = 46, locals = 2, stack = 4):
+      [0] aload_0 v0
+      [1] ifnull +44 (target=45)
+      [4] aload_1 v1
+      [5] ifnull +40 (target=45)
+      [8] aload_0 v0
+      [9] new #55
+        + Class [java/lang/StringBuilder]
+      [12] dup
+      [13] aload_1 v1
+      [14] invokevirtual #124
+        + Methodref [java/lang/Object.getClass ()Ljava/lang/Class;]
+      [17] invokevirtual #120
+        + Methodref [java/lang/Class.getSimpleName ()Ljava/lang/String;]
+      [20] invokestatic #129
+        + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
+      [23] invokespecial #131
+        + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
+      [26] ldc #3
+        + String [: ]
+      [28] invokevirtual #132
+        + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
+      [31] aload_1 v1
+      [32] invokevirtual #121
+        + Methodref [java/lang/Exception.getMessage ()Ljava/lang/String;]
+      [35] invokevirtual #132
+        + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
+      [38] invokevirtual #134
+        + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
+      [41] invokestatic #92
+        + Methodref [android/util/Log.d (Ljava/lang/String;Ljava/lang/String;)I]
+      [44] pop
+      [45] return
       Code attribute exceptions (count = 0):
-      Code attribute attributes (attribute count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Stack map table attribute (count = 1):
+        - [45] Var: ..., Stack: (empty)
   + Method:       a(Ljava/lang/String;Ljava/lang/String;)V
     Access flags: 0x9
       = public static void a(java.lang.String,java.lang.String)
     Class member attributes (count = 1):
-    + Code attribute instructions (code length = 1, locals = 2, stack = 0):
-      [0] return
+    + Code attribute instructions (code length = 15, locals = 2, stack = 2):
+      [0] aload_0 v0
+      [1] ifnull +13 (target=14)
+      [4] aload_1 v1
+      [5] ifnull +9 (target=14)
+      [8] aload_0 v0
+      [9] aload_1 v1
+      [10] invokestatic #92
+        + Methodref [android/util/Log.d (Ljava/lang/String;Ljava/lang/String;)I]
+      [13] pop
+      [14] return
       Code attribute exceptions (count = 0):
-      Code attribute attributes (attribute count = 0):
+      Code attribute attributes (attribute count = 1):
+      + Stack map table attribute (count = 1):
+        - [14] Var: ..., Stack: (empty)
   + Method:       a(Ljava/lang/Object;Ljava/lang/Object;)Z
     Access flags: 0x9
       = public static boolean a(java.lang.Object,java.lang.Object)
@@ -79078,7 +79158,7 @@ Methods (count = 23):
       [11] ireturn
       [12] aload_0 v0
       [13] aload_1 v1
-      [14] invokevirtual #116
+      [14] invokevirtual #123
         + Methodref [java/lang/Object.equals (Ljava/lang/Object;)Z]
       [17] ireturn
       Code attribute exceptions (count = 0):
@@ -79095,75 +79175,75 @@ Methods (count = 23):
     + Code attribute instructions (code length = 111, locals = 6, stack = 5):
       [0] iload_1 v1
       [1] ifne +28 (target=29)
-      [4] getstatic #70
+      [4] getstatic #74
         + Fieldref [com/facebook/b/ab.b Ljava/util/Map;]
       [7] aload_0 v0
-      [8] invokeinterface #149
+      [8] invokeinterface #157
         + InterfaceMethodref [java/util/Map.containsKey (Ljava/lang/Object;)Z]
       [13] ifeq +16 (target=29)
-      [16] getstatic #70
+      [16] getstatic #74
         + Fieldref [com/facebook/b/ab.b Ljava/util/Map;]
       [19] aload_0 v0
-      [20] invokeinterface #150
+      [20] invokeinterface #158
         + InterfaceMethodref [java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;]
-      [25] checkcast #36
+      [25] checkcast #38
         + Class [com/facebook/b/ac]
       [28] areturn
-      [29] new #28
+      [29] new #29
         + Class [android/os/Bundle]
       [32] dup
-      [33] invokespecial #80
+      [33] invokespecial #84
         + Methodref [android/os/Bundle.<init> ()V]
       [36] astore_2 v2
       [37] aload_2 v2
-      [38] ldc #12
+      [38] ldc #13
         + String [fields]
       [40] ldc #1
         + String [,]
-      [42] getstatic #69
+      [42] getstatic #73
         + Fieldref [com/facebook/b/ab.a [Ljava/lang/String;]
-      [45] invokestatic #87
+      [45] invokestatic #91
         + Methodref [android/text/TextUtils.join (Ljava/lang/CharSequence;[Ljava/lang/Object;)Ljava/lang/String;]
-      [48] invokevirtual #86
+      [48] invokevirtual #90
         + Methodref [android/os/Bundle.putString (Ljava/lang/String;Ljava/lang/String;)V]
       [51] aconst_null
       [52] aload_0 v0
       [53] aconst_null
-      [54] invokestatic #95
+      [54] invokestatic #100
         + Methodref [com/facebook/Request.a (Lcom/facebook/bl;Ljava/lang/String;Lcom/facebook/bc;)Lcom/facebook/Request;]
       [57] astore_3 v3
       [58] aload_3 v3
       [59] aload_2 v2
-      [60] invokevirtual #94
+      [60] invokevirtual #99
         + Methodref [com/facebook/Request.a (Landroid/os/Bundle;)V]
       [63] aload_3 v3
-      [64] invokevirtual #96
+      [64] invokevirtual #101
         + Methodref [com/facebook/Request.e ()Lcom/facebook/bk;]
-      [67] invokevirtual #105
+      [67] invokevirtual #110
         + Methodref [com/facebook/bk.b ()Lcom/facebook/c/c;]
       [70] astore v4
-      [72] new #36
+      [72] new #38
         + Class [com/facebook/b/ac]
       [75] dup
       [76] aload v4
-      [78] ldc #16
+      [78] ldc #17
         + String [supports_attribution]
-      [80] invokestatic #99
+      [80] invokestatic #104
         + Methodref [com/facebook/b/ab.a (Lcom/facebook/c/c;Ljava/lang/String;)Z]
       [83] aload v4
-      [85] ldc #17
+      [85] ldc #18
         + String [supports_implicit_sdk_logging]
-      [87] invokestatic #99
+      [87] invokestatic #104
         + Methodref [com/facebook/b/ab.a (Lcom/facebook/c/c;Ljava/lang/String;)Z]
       [90] aconst_null
-      [91] invokespecial #102
+      [91] invokespecial #107
         + Methodref [com/facebook/b/ac.<init> (ZZLcom/facebook/b/ac;)V]
       [94] astore v5
-      [96] getstatic #70
+      [96] getstatic #74
         + Fieldref [com/facebook/b/ab.b Ljava/util/Map;]
       [99] aload_0 v0
       [100] aload v5
-      [102] invokeinterface #151
+      [102] invokeinterface #159
         + InterfaceMethodref [java/util/Map.put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;]
       [107] pop
       [108] aload v5
@@ -79178,28 +79258,28 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 37, locals = 3, stack = 2):
       [0] iconst_0
-      [1] invokestatic #114
+      [1] invokestatic #119
         + Methodref [java/lang/Boolean.valueOf (Z)Ljava/lang/Boolean;]
       [4] astore_2 v2
       [5] aload_0 v0
       [6] ifnull +11 (target=17)
       [9] aload_0 v0
       [10] aload_1 v1
-      [11] invokeinterface #143
+      [11] invokeinterface #151
         + InterfaceMethodref [com/facebook/c/c.a (Ljava/lang/String;)Ljava/lang/Object;]
       [16] astore_2 v2
       [17] aload_2 v2
-      [18] instanceof #47
+      [18] instanceof #49
         + Class [java/lang/Boolean]
       [21] ifne +8 (target=29)
       [24] iconst_0
-      [25] invokestatic #114
+      [25] invokestatic #119
         + Methodref [java/lang/Boolean.valueOf (Z)Ljava/lang/Boolean;]
       [28] astore_2 v2
       [29] aload_2 v2
-      [30] checkcast #47
+      [30] checkcast #49
         + Class [java/lang/Boolean]
-      [33] invokevirtual #113
+      [33] invokevirtual #118
         + Methodref [java/lang/Boolean.booleanValue ()Z]
       [36] ireturn
       Code attribute exceptions (count = 0):
@@ -79213,7 +79293,7 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] invokestatic #104
+      [1] invokestatic #109
         + Methodref [com/facebook/b/o.a (Landroid/content/Context;)V]
       [4] return
       Code attribute exceptions (count = 0):
@@ -79224,16 +79304,16 @@ Methods (count = 23):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 52, locals = 5, stack = 2):
       [0] aload_0 v0
-      [1] invokevirtual #108
+      [1] invokevirtual #113
         + Methodref [java/io/File.exists ()Z]
       [4] ifne +4 (target=8)
       [7] return
       [8] aload_0 v0
-      [9] invokevirtual #109
+      [9] invokevirtual #114
         + Methodref [java/io/File.isDirectory ()Z]
       [12] ifeq +34 (target=46)
       [15] aload_0 v0
-      [16] invokevirtual #110
+      [16] invokevirtual #115
         + Methodref [java/io/File.listFiles ()[Ljava/io/File;]
       [19] dup
       [20] astore v4
@@ -79247,14 +79327,14 @@ Methods (count = 23):
       [32] aaload
       [33] astore_1 v1
       [34] aload_1 v1
-      [35] invokestatic #101
+      [35] invokestatic #106
         + Methodref [com/facebook/b/ab.a (Ljava/io/File;)V]
       [38] iinc v2, 1
       [41] iload_2 v2
       [42] iload_3 v3
       [43] ificmplt -14 (target=29)
       [46] aload_0 v0
-      [47] invokevirtual #107
+      [47] invokevirtual #112
         + Methodref [java/io/File.delete ()Z]
       [50] pop
       [51] return
@@ -79270,10 +79350,10 @@ Methods (count = 23):
       = public static varargs java.util.List b(java.lang.Object[])
     Class member attributes (count = 2):
     + Code attribute instructions (code length = 46, locals = 6, stack = 2):
-      [0] new #56
+      [0] new #60
         + Class [java/util/ArrayList]
       [3] dup
-      [4] invokespecial #131
+      [4] invokespecial #139
         + Methodref [java/util/ArrayList.<init> ()V]
       [7] astore_1 v1
       [8] aload_0 v0
@@ -79292,7 +79372,7 @@ Methods (count = 23):
       [26] ifnull +9 (target=35)
       [29] aload_1 v1
       [30] aload_2 v2
-      [31] invokevirtual #132
+      [31] invokevirtual #140
         + Methodref [java/util/ArrayList.add (Ljava/lang/Object;)Z]
       [34] pop
       [35] iinc v3, 1
@@ -92741,15 +92821,18 @@ Interfaces (count = 2):
   + Class [android/view/View$OnClickListener]
   + Class [android/widget/AdapterView$OnItemClickListener]
 
-Constant Pool (count = 125):
+Constant Pool (count = 150):
   + Integer [2130903042]
   + Integer [2131034121]
   + Integer [2131034122]
   + String [Book id]
   + String [Last read book]
   + String [Open last read]
+  + String [raw]
   + Class [android/content/Intent]
   + Class [android/content/SharedPreferences]
+  + Class [android/content/SharedPreferences$Editor]
+  + Class [android/os/Bundle]
   + Class [android/view/View$OnClickListener]
   + Class [android/widget/AdapterView$OnItemClickListener]
   + Class [android/widget/ListView]
@@ -92781,13 +92864,20 @@ Constant Pool (count = 125):
   + Methodref [hu/droidium/bibliapp/j.<init> (Landroid/view/LayoutInflater;Lhu/droidium/bibliapp/a/c;Landroid/content/Context;)V]
   + Methodref [hu/droidium/bibliapp/j.getItem (I)Ljava/lang/Object;]
   + Methodref [hu/droidium/bibliapp/l.a (Landroid/content/Context;)Landroid/content/SharedPreferences;]
+  + Methodref [java/lang/String.startsWith (Ljava/lang/String;)Z]
+  + Methodref [java/lang/String.substring (II)Ljava/lang/String;]
+  + InterfaceMethodref [android/content/SharedPreferences.edit ()Landroid/content/SharedPreferences$Editor;]
   + InterfaceMethodref [android/content/SharedPreferences.getString (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;]
+  + InterfaceMethodref [android/content/SharedPreferences$Editor.commit ()Z]
+  + InterfaceMethodref [android/content/SharedPreferences$Editor.putString (Ljava/lang/String;Ljava/lang/String;)Landroid/content/SharedPreferences$Editor;]
   + NameAndType [<init> ()V]
   + NameAndType [<init> (Landroid/content/Context;Ljava/lang/Class;)V]
   + NameAndType [<init> (Landroid/view/LayoutInflater;Lhu/droidium/bibliapp/a/c;Landroid/content/Context;)V]
   + NameAndType [a (Landroid/content/Context;)Landroid/content/SharedPreferences;]
   + NameAndType [a Lhu/droidium/bibliapp/a/c;]
+  + NameAndType [commit ()Z]
   + NameAndType [d Lhu/droidium/bibliapp/j;]
+  + NameAndType [edit ()Landroid/content/SharedPreferences$Editor;]
   + NameAndType [findViewById (I)Landroid/view/View;]
   + NameAndType [getIntent ()Landroid/content/Intent;]
   + NameAndType [getItem (I)Ljava/lang/Object;]
@@ -92797,18 +92887,24 @@ Constant Pool (count = 125):
   + NameAndType [onCreate (Landroid/os/Bundle;)V]
   + NameAndType [putExtra (Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;]
   + NameAndType [putExtra (Ljava/lang/String;Z)Landroid/content/Intent;]
+  + NameAndType [putString (Ljava/lang/String;Ljava/lang/String;)Landroid/content/SharedPreferences$Editor;]
   + NameAndType [setAdapter (Landroid/widget/ListAdapter;)V]
   + NameAndType [setCacheColorHint (I)V]
   + NameAndType [setContentView (I)V]
   + NameAndType [setOnClickListener (Landroid/view/View$OnClickListener;)V]
   + NameAndType [setOnItemClickListener (Landroid/widget/AdapterView$OnItemClickListener;)V]
   + NameAndType [startActivity (Landroid/content/Intent;)V]
+  + NameAndType [startsWith (Ljava/lang/String;)Z]
+  + NameAndType [substring (II)Ljava/lang/String;]
   + Utf8 [()Landroid/content/Intent;]
+  + Utf8 [()Landroid/content/SharedPreferences$Editor;]
   + Utf8 [()Landroid/view/LayoutInflater;]
   + Utf8 [()V]
+  + Utf8 [()Z]
   + Utf8 [(I)Landroid/view/View;]
   + Utf8 [(I)Ljava/lang/Object;]
   + Utf8 [(I)V]
+  + Utf8 [(II)Ljava/lang/String;]
   + Utf8 [(Landroid/content/Context;)Landroid/content/SharedPreferences;]
   + Utf8 [(Landroid/content/Context;Ljava/lang/Class;)V]
   + Utf8 [(Landroid/content/Intent;)V]
@@ -92822,6 +92918,7 @@ Constant Pool (count = 125):
   + Utf8 [(Landroid/widget/ListAdapter;)V]
   + Utf8 [(Ljava/lang/String;)Z]
   + Utf8 [(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;]
+  + Utf8 [(Ljava/lang/String;Ljava/lang/String;)Landroid/content/SharedPreferences$Editor;]
   + Utf8 [(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;]
   + Utf8 [(Ljava/lang/String;Z)Landroid/content/Intent;]
   + Utf8 [<init>]
@@ -92837,12 +92934,16 @@ Constant Pool (count = 125):
   + Utf8 [a]
   + Utf8 [android/content/Intent]
   + Utf8 [android/content/SharedPreferences]
+  + Utf8 [android/content/SharedPreferences$Editor]
+  + Utf8 [android/os/Bundle]
   + Utf8 [android/view/View$OnClickListener]
   + Utf8 [android/widget/AdapterView$OnItemClickListener]
   + Utf8 [android/widget/ListView]
   + Utf8 [android/widget/TextView]
   + Utf8 [b]
+  + Utf8 [commit]
   + Utf8 [d]
+  + Utf8 [edit]
   + Utf8 [findViewById]
   + Utf8 [getIntent]
   + Utf8 [getItem]
@@ -92860,12 +92961,16 @@ Constant Pool (count = 125):
   + Utf8 [onCreate]
   + Utf8 [onItemClick]
   + Utf8 [putExtra]
+  + Utf8 [putString]
+  + Utf8 [raw]
   + Utf8 [setAdapter]
   + Utf8 [setCacheColorHint]
   + Utf8 [setContentView]
   + Utf8 [setOnClickListener]
   + Utf8 [setOnItemClickListener]
   + Utf8 [startActivity]
+  + Utf8 [startsWith]
+  + Utf8 [substring]
 
 Fields (count = 1):
   + Field:        d Lhu/droidium/bibliapp/j;
@@ -92879,7 +92984,7 @@ Methods (count = 6):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] invokespecial #35
+      [1] invokespecial #38
         + Methodref [hu/droidium/bibliapp/e.<init> ()V]
       [4] return
       Code attribute exceptions (count = 0):
@@ -92888,151 +92993,175 @@ Methods (count = 6):
     Access flags: 0x4
       = protected void onCreate(android.os.Bundle)
     Class member attributes (count = 1):
-    + Code attribute instructions (code length = 148, locals = 8, stack = 6):
+    + Code attribute instructions (code length = 190, locals = 8, stack = 6):
       [0] aload_0 v0
       [1] aload_1 v1
-      [2] invokespecial #36
+      [2] invokespecial #39
         + Methodref [hu/droidium/bibliapp/e.onCreate (Landroid/os/Bundle;)V]
       [5] aload_0 v0
-      [6] invokevirtual #31
+      [6] invokevirtual #34
         + Methodref [hu/droidium/bibliapp/BookListActivity.getIntent ()Landroid/content/Intent;]
       [9] astore_2 v2
       [10] aload_0 v0
       [11] ldc #1
         + Integer [2130903042]
-      [13] invokevirtual #33
+      [13] invokevirtual #36
         + Methodref [hu/droidium/bibliapp/BookListActivity.setContentView (I)V]
       [16] aload_0 v0
       [17] ldc #2
         + Integer [2131034121]
-      [19] invokevirtual #30
+      [19] invokevirtual #33
         + Methodref [hu/droidium/bibliapp/BookListActivity.findViewById (I)Landroid/view/View;]
-      [22] checkcast #12
+      [22] checkcast #15
         + Class [android/widget/TextView]
       [25] astore_3 v3
       [26] aload_3 v3
       [27] aload_0 v0
-      [28] invokevirtual #29
+      [28] invokevirtual #32
         + Methodref [android/widget/TextView.setOnClickListener (Landroid/view/View$OnClickListener;)V]
       [31] aload_0 v0
-      [32] new #17
+      [32] new #20
         + Class [hu/droidium/bibliapp/j]
       [35] dup
       [36] aload_0 v0
-      [37] invokevirtual #32
+      [37] invokevirtual #35
         + Methodref [hu/droidium/bibliapp/BookListActivity.getLayoutInflater ()Landroid/view/LayoutInflater;]
       [40] aload_0 v0
-      [41] getfield #20
+      [41] getfield #23
         + Fieldref [hu/droidium/bibliapp/BookListActivity.a Lhu/droidium/bibliapp/a/c;]
       [44] aload_0 v0
-      [45] invokespecial #37
+      [45] invokespecial #40
         + Methodref [hu/droidium/bibliapp/j.<init> (Landroid/view/LayoutInflater;Lhu/droidium/bibliapp/a/c;Landroid/content/Context;)V]
-      [48] putfield #21
+      [48] putfield #24
         + Fieldref [hu/droidium/bibliapp/BookListActivity.d Lhu/droidium/bibliapp/j;]
       [51] aload_0 v0
       [52] ldc #3
         + Integer [2131034122]
-      [54] invokevirtual #30
+      [54] invokevirtual #33
         + Methodref [hu/droidium/bibliapp/BookListActivity.findViewById (I)Landroid/view/View;]
-      [57] checkcast #11
+      [57] checkcast #14
         + Class [android/widget/ListView]
       [60] astore v4
       [62] aload v4
       [64] iconst_0
-      [65] invokevirtual #27
+      [65] invokevirtual #30
         + Methodref [android/widget/ListView.setCacheColorHint (I)V]
       [68] aload v4
       [70] aload_0 v0
-      [71] getfield #21
+      [71] getfield #24
         + Fieldref [hu/droidium/bibliapp/BookListActivity.d Lhu/droidium/bibliapp/j;]
-      [74] invokevirtual #26
+      [74] invokevirtual #29
         + Methodref [android/widget/ListView.setAdapter (Landroid/widget/ListAdapter;)V]
       [77] aload v4
       [79] aload_0 v0
-      [80] invokevirtual #28
+      [80] invokevirtual #31
         + Methodref [android/widget/ListView.setOnItemClickListener (Landroid/widget/AdapterView$OnItemClickListener;)V]
       [83] aload_2 v2
       [84] ldc #6
         + String [Open last read]
-      [86] invokevirtual #23
+      [86] invokevirtual #26
         + Methodref [android/content/Intent.hasExtra (Ljava/lang/String;)Z]
-      [89] ifeq +58 (target=147)
+      [89] ifeq +100 (target=189)
       [92] aload_0 v0
-      [93] invokestatic #39
+      [93] invokestatic #42
         + Methodref [hu/droidium/bibliapp/l.a (Landroid/content/Context;)Landroid/content/SharedPreferences;]
       [96] astore v5
       [98] aload v5
       [100] ldc #5
         + String [Last read book]
       [102] aconst_null
-      [103] invokeinterface #40
+      [103] invokeinterface #46
         + InterfaceMethodref [android/content/SharedPreferences.getString (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;]
       [108] astore v6
-      [110] new #7
+      [110] aload v6
+      [112] ldc #7
+        + String [raw]
+      [114] invokevirtual #43
+        + Methodref [java/lang/String.startsWith (Ljava/lang/String;)Z]
+      [117] ifeq +35 (target=152)
+      [120] aload v6
+      [122] iconst_4
+      [123] bipush 6
+      [125] invokevirtual #44
+        + Methodref [java/lang/String.substring (II)Ljava/lang/String;]
+      [128] astore v6
+      [130] aload v5
+      [132] invokeinterface #45
+        + InterfaceMethodref [android/content/SharedPreferences.edit ()Landroid/content/SharedPreferences$Editor;]
+      [137] ldc #5
+        + String [Last read book]
+      [139] aload v6
+      [141] invokeinterface #48
+        + InterfaceMethodref [android/content/SharedPreferences$Editor.putString (Ljava/lang/String;Ljava/lang/String;)Landroid/content/SharedPreferences$Editor;]
+      [146] invokeinterface #47
+        + InterfaceMethodref [android/content/SharedPreferences$Editor.commit ()Z]
+      [151] pop
+      [152] new #8
         + Class [android/content/Intent]
-      [113] dup
-      [114] aload_0 v0
-      [115] ldc #14
+      [155] dup
+      [156] aload_0 v0
+      [157] ldc #17
         + Class [hu/droidium/bibliapp/ChapterListActivity]
-      [117] invokespecial #22
+      [159] invokespecial #25
         + Methodref [android/content/Intent.<init> (Landroid/content/Context;Ljava/lang/Class;)V]
-      [120] astore v7
-      [122] aload v7
-      [124] ldc #4
+      [162] astore v7
+      [164] aload v7
+      [166] ldc #4
         + String [Book id]
-      [126] aload v6
-      [128] invokevirtual #24
+      [168] aload v6
+      [170] invokevirtual #27
         + Methodref [android/content/Intent.putExtra (Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;]
-      [131] pop
-      [132] aload v7
-      [134] ldc #6
+      [173] pop
+      [174] aload v7
+      [176] ldc #6
         + String [Open last read]
-      [136] iconst_1
-      [137] invokevirtual #25
+      [178] iconst_1
+      [179] invokevirtual #28
         + Methodref [android/content/Intent.putExtra (Ljava/lang/String;Z)Landroid/content/Intent;]
-      [140] pop
-      [141] aload_0 v0
-      [142] aload v7
-      [144] invokevirtual #34
+      [182] pop
+      [183] aload_0 v0
+      [184] aload v7
+      [186] invokevirtual #37
         + Methodref [hu/droidium/bibliapp/BookListActivity.startActivity (Landroid/content/Intent;)V]
-      [147] return
+      [189] return
       Code attribute exceptions (count = 0):
       Code attribute attributes (attribute count = 1):
-      + Stack map table attribute (count = 1):
-        - [147] Var: ...[a:android/content/Intent][a:android/widget/TextView][a:android/widget/ListView], Stack: (empty)
+      + Stack map table attribute (count = 2):
+        - [152] Var: [a:hu/droidium/bibliapp/BookListActivity][a:android/os/Bundle][a:android/content/Intent][a:android/widget/TextView][a:android/widget/ListView][a:android/content/SharedPreferences][a:java/lang/String], Stack: 
+        - [189] Var: -2, Stack: (empty)
   + Method:       onItemClick(Landroid/widget/AdapterView;Landroid/view/View;IJ)V
     Access flags: 0x1
       = public void onItemClick(android.widget.AdapterView,android.view.View,int,long)
     Class member attributes (count = 2):
     + Code attribute instructions (code length = 42, locals = 8, stack = 4):
       [0] aload_0 v0
-      [1] getfield #21
+      [1] getfield #24
         + Fieldref [hu/droidium/bibliapp/BookListActivity.d Lhu/droidium/bibliapp/j;]
       [4] iload_3 v3
-      [5] invokevirtual #38
+      [5] invokevirtual #41
         + Methodref [hu/droidium/bibliapp/j.getItem (I)Ljava/lang/Object;]
-      [8] checkcast #19
+      [8] checkcast #22
         + Class [java/lang/String]
       [11] astore v6
-      [13] new #7
+      [13] new #8
         + Class [android/content/Intent]
       [16] dup
       [17] aload_0 v0
-      [18] ldc #14
+      [18] ldc #17
         + Class [hu/droidium/bibliapp/ChapterListActivity]
-      [20] invokespecial #22
+      [20] invokespecial #25
         + Methodref [android/content/Intent.<init> (Landroid/content/Context;Ljava/lang/Class;)V]
       [23] astore v7
       [25] aload v7
       [27] ldc #4
         + String [Book id]
       [29] aload v6
-      [31] invokevirtual #24
+      [31] invokevirtual #27
         + Methodref [android/content/Intent.putExtra (Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;]
       [34] pop
       [35] aload_0 v0
       [36] aload v7
-      [38] invokevirtual #34
+      [38] invokevirtual #37
         + Methodref [hu/droidium/bibliapp/BookListActivity.startActivity (Landroid/content/Intent;)V]
       [41] return
       Code attribute exceptions (count = 0):
@@ -93060,18 +93189,18 @@ Methods (count = 6):
       = public void onClick(android.view.View)
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 17, locals = 3, stack = 4):
-      [0] new #7
+      [0] new #8
         + Class [android/content/Intent]
       [3] dup
       [4] aload_0 v0
-      [5] ldc #15
+      [5] ldc #18
         + Class [hu/droidium/bibliapp/bookmar_ui/BookmarkListActivity]
-      [7] invokespecial #22
+      [7] invokespecial #25
         + Methodref [android/content/Intent.<init> (Landroid/content/Context;Ljava/lang/Class;)V]
       [10] astore_2 v2
       [11] aload_0 v0
       [12] aload_2 v2
-      [13] invokevirtual #34
+      [13] invokevirtual #37
         + Methodref [hu/droidium/bibliapp/BookListActivity.startActivity (Landroid/content/Intent;)V]
       [16] return
       Code attribute exceptions (count = 0):
@@ -101258,32 +101387,76 @@ _____________________________________________________________________
 
 Interfaces (count = 0):
 
-Constant Pool (count = 44):
+Constant Pool (count = 103):
   + String [BibleDatabase]
+  + String [raw]
   + Class [android/database/sqlite/SQLiteDatabase]
   + Class [android/database/sqlite/SQLiteOpenHelper]
   + Class [hu/droidium/bibliapp/b/a]
   + Class [hu/droidium/bibliapp/b/b]
+  + Class [hu/droidium/bibliapp/b/c]
   + Class [hu/droidium/bibliapp/b/d]
   + Class [hu/droidium/bibliapp/b/e]
   + Class [hu/droidium/bibliapp/b/f]
+  + Class [java/lang/String]
+  + Class [java/util/Iterator]
+  + Class [java/util/List]
   + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
   + Methodref [android/database/sqlite/SQLiteOpenHelper.<init> (Landroid/content/Context;Ljava/lang/String;Landroid/database/sqlite/SQLiteDatabase$CursorFactory;I)V]
+  + Methodref [hu/droidium/bibliapp/b/b.<init> (Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;)V]
+  + Methodref [hu/droidium/bibliapp/b/b.b ()Ljava/lang/String;]
+  + Methodref [hu/droidium/bibliapp/b/b.c ()Ljava/lang/String;]
+  + Methodref [hu/droidium/bibliapp/b/b.d ()I]
+  + Methodref [hu/droidium/bibliapp/b/b.e ()I]
+  + Methodref [hu/droidium/bibliapp/b/b.g ()Ljava/lang/String;]
   + Methodref [hu/droidium/bibliapp/b/b.h ()Ljava/lang/String;]
+  + Methodref [hu/droidium/bibliapp/b/b.i ()Ljava/lang/String;]
+  + Methodref [hu/droidium/bibliapp/b/c.<init> (Landroid/database/sqlite/SQLiteDatabase;)V]
+  + Methodref [hu/droidium/bibliapp/b/c.a (Lhu/droidium/bibliapp/b/b;)Lhu/droidium/bibliapp/b/b;]
+  + Methodref [hu/droidium/bibliapp/b/c.a (Ljava/lang/String;Z)Ljava/util/List;]
   + Methodref [hu/droidium/bibliapp/b/d.d ()Ljava/lang/String;]
   + Methodref [hu/droidium/bibliapp/b/e.d ()Ljava/lang/String;]
   + Methodref [hu/droidium/bibliapp/b/f.a ()Ljava/lang/String;]
+  + Methodref [java/lang/String.startsWith (Ljava/lang/String;)Z]
+  + Methodref [java/lang/String.substring (II)Ljava/lang/String;]
+  + InterfaceMethodref [java/util/Iterator.hasNext ()Z]
+  + InterfaceMethodref [java/util/Iterator.next ()Ljava/lang/Object;]
+  + InterfaceMethodref [java/util/List.iterator ()Ljava/util/Iterator;]
   + NameAndType [<init> (Landroid/content/Context;Ljava/lang/String;Landroid/database/sqlite/SQLiteDatabase$CursorFactory;I)V]
+  + NameAndType [<init> (Landroid/database/sqlite/SQLiteDatabase;)V]
+  + NameAndType [<init> (Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;)V]
   + NameAndType [a ()Ljava/lang/String;]
+  + NameAndType [a (Lhu/droidium/bibliapp/b/b;)Lhu/droidium/bibliapp/b/b;]
+  + NameAndType [a (Ljava/lang/String;Z)Ljava/util/List;]
+  + NameAndType [b ()Ljava/lang/String;]
+  + NameAndType [c ()Ljava/lang/String;]
+  + NameAndType [d ()I]
   + NameAndType [d ()Ljava/lang/String;]
+  + NameAndType [e ()I]
   + NameAndType [execSQL (Ljava/lang/String;)V]
+  + NameAndType [g ()Ljava/lang/String;]
   + NameAndType [h ()Ljava/lang/String;]
+  + NameAndType [hasNext ()Z]
+  + NameAndType [i ()Ljava/lang/String;]
+  + NameAndType [iterator ()Ljava/util/Iterator;]
+  + NameAndType [next ()Ljava/lang/Object;]
+  + NameAndType [startsWith (Ljava/lang/String;)Z]
+  + NameAndType [substring (II)Ljava/lang/String;]
+  + Utf8 [()I]
+  + Utf8 [()Ljava/lang/Object;]
   + Utf8 [()Ljava/lang/String;]
+  + Utf8 [()Ljava/util/Iterator;]
+  + Utf8 [()Z]
+  + Utf8 [(II)Ljava/lang/String;]
   + Utf8 [(Landroid/content/Context;)V]
   + Utf8 [(Landroid/content/Context;Ljava/lang/String;Landroid/database/sqlite/SQLiteDatabase$CursorFactory;I)V]
   + Utf8 [(Landroid/database/sqlite/SQLiteDatabase;)V]
   + Utf8 [(Landroid/database/sqlite/SQLiteDatabase;II)V]
+  + Utf8 [(Lhu/droidium/bibliapp/b/b;)Lhu/droidium/bibliapp/b/b;]
   + Utf8 [(Ljava/lang/String;)V]
+  + Utf8 [(Ljava/lang/String;)Z]
+  + Utf8 [(Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;)V]
+  + Utf8 [(Ljava/lang/String;Z)Ljava/util/List;]
   + Utf8 [<init>]
   + Utf8 [BibleDatabase]
   + Utf8 [Code]
@@ -101291,17 +101464,32 @@ Constant Pool (count = 44):
   + Utf8 [a]
   + Utf8 [android/database/sqlite/SQLiteDatabase]
   + Utf8 [android/database/sqlite/SQLiteOpenHelper]
+  + Utf8 [b]
+  + Utf8 [c]
   + Utf8 [d]
+  + Utf8 [e]
   + Utf8 [execSQL]
+  + Utf8 [g]
   + Utf8 [h]
+  + Utf8 [hasNext]
   + Utf8 [hu/droidium/bibliapp/b/a]
   + Utf8 [hu/droidium/bibliapp/b/b]
+  + Utf8 [hu/droidium/bibliapp/b/c]
   + Utf8 [hu/droidium/bibliapp/b/d]
   + Utf8 [hu/droidium/bibliapp/b/e]
   + Utf8 [hu/droidium/bibliapp/b/f]
+  + Utf8 [i]
+  + Utf8 [iterator]
+  + Utf8 [java/lang/String]
+  + Utf8 [java/util/Iterator]
+  + Utf8 [java/util/List]
+  + Utf8 [next]
   + Utf8 [onCreate]
   + Utf8 [onDowngrade]
   + Utf8 [onUpgrade]
+  + Utf8 [raw]
+  + Utf8 [startsWith]
+  + Utf8 [substring]
 
 Fields (count = 0):
 
@@ -101316,8 +101504,8 @@ Methods (count = 4):
       [2] ldc #1
         + String [BibleDatabase]
       [4] aconst_null
-      [5] iconst_2
-      [6] invokespecial #10
+      [5] iconst_4
+      [6] invokespecial #15
         + Methodref [android/database/sqlite/SQLiteOpenHelper.<init> (Landroid/content/Context;Ljava/lang/String;Landroid/database/sqlite/SQLiteDatabase$CursorFactory;I)V]
       [9] return
       Code attribute exceptions (count = 0):
@@ -101328,24 +101516,24 @@ Methods (count = 4):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 29, locals = 2, stack = 2):
       [0] aload_1 v1
-      [1] invokestatic #11
+      [1] invokestatic #22
         + Methodref [hu/droidium/bibliapp/b/b.h ()Ljava/lang/String;]
-      [4] invokevirtual #9
+      [4] invokevirtual #14
         + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
       [7] aload_1 v1
-      [8] invokestatic #12
+      [8] invokestatic #27
         + Methodref [hu/droidium/bibliapp/b/d.d ()Ljava/lang/String;]
-      [11] invokevirtual #9
+      [11] invokevirtual #14
         + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
       [14] aload_1 v1
-      [15] invokestatic #13
+      [15] invokestatic #28
         + Methodref [hu/droidium/bibliapp/b/e.d ()Ljava/lang/String;]
-      [18] invokevirtual #9
+      [18] invokevirtual #14
         + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
       [21] aload_1 v1
-      [22] invokestatic #14
+      [22] invokestatic #29
         + Methodref [hu/droidium/bibliapp/b/f.a ()Ljava/lang/String;]
-      [25] invokevirtual #9
+      [25] invokevirtual #14
         + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
       [28] return
       Code attribute exceptions (count = 0):
@@ -101354,30 +101542,121 @@ Methods (count = 4):
     Access flags: 0x1
       = public void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int)
     Class member attributes (count = 1):
-    + Code attribute instructions (code length = 27, locals = 4, stack = 2):
+    + Code attribute instructions (code length = 174, locals = 10, stack = 7):
       [0] iload_2 v2
       [1] iconst_2
       [2] ificmpge +24 (target=26)
       [5] aload_1 v1
-      [6] invokestatic #12
+      [6] invokestatic #27
         + Methodref [hu/droidium/bibliapp/b/d.d ()Ljava/lang/String;]
-      [9] invokevirtual #9
+      [9] invokevirtual #14
         + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
       [12] aload_1 v1
-      [13] invokestatic #13
+      [13] invokestatic #28
         + Methodref [hu/droidium/bibliapp/b/e.d ()Ljava/lang/String;]
-      [16] invokevirtual #9
+      [16] invokevirtual #14
         + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
       [19] aload_1 v1
-      [20] invokestatic #14
+      [20] invokestatic #29
         + Methodref [hu/droidium/bibliapp/b/f.a ()Ljava/lang/String;]
-      [23] invokevirtual #9
+      [23] invokevirtual #14
         + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
-      [26] return
+      [26] iload_2 v2
+      [27] iconst_4
+      [28] ificmpge +145 (target=173)
+      [31] new #7
+        + Class [hu/droidium/bibliapp/b/c]
+      [34] dup
+      [35] aload_1 v1
+      [36] invokespecial #24
+        + Methodref [hu/droidium/bibliapp/b/c.<init> (Landroid/database/sqlite/SQLiteDatabase;)V]
+      [39] astore v4
+      [41] aload v4
+      [43] aconst_null
+      [44] iconst_0
+      [45] invokevirtual #26
+        + Methodref [hu/droidium/bibliapp/b/c.a (Ljava/lang/String;Z)Ljava/util/List;]
+      [48] astore v5
+      [50] aload_1 v1
+      [51] invokestatic #23
+        + Methodref [hu/droidium/bibliapp/b/b.i ()Ljava/lang/String;]
+      [54] invokevirtual #14
+        + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
+      [57] aload_1 v1
+      [58] invokestatic #22
+        + Methodref [hu/droidium/bibliapp/b/b.h ()Ljava/lang/String;]
+      [61] invokevirtual #14
+        + Methodref [android/database/sqlite/SQLiteDatabase.execSQL (Ljava/lang/String;)V]
+      [64] aload v5
+      [66] invokeinterface #34
+        + InterfaceMethodref [java/util/List.iterator ()Ljava/util/Iterator;]
+      [71] astore v7
+      [73] goto +81 (target=154)
+      [76] aload v7
+      [78] invokeinterface #33
+        + InterfaceMethodref [java/util/Iterator.next ()Ljava/lang/Object;]
+      [83] checkcast #6
+        + Class [hu/droidium/bibliapp/b/b]
+      [86] astore v6
+      [88] aload v6
+      [90] invokevirtual #18
+        + Methodref [hu/droidium/bibliapp/b/b.c ()Ljava/lang/String;]
+      [93] astore v8
+      [95] aload v8
+      [97] ldc #2
+        + String [raw]
+      [99] invokevirtual #30
+        + Methodref [java/lang/String.startsWith (Ljava/lang/String;)Z]
+      [102] ifeq +13 (target=115)
+      [105] aload v8
+      [107] iconst_4
+      [108] bipush 6
+      [110] invokevirtual #31
+        + Methodref [java/lang/String.substring (II)Ljava/lang/String;]
+      [113] astore v8
+      [115] new #6
+        + Class [hu/droidium/bibliapp/b/b]
+      [118] dup
+      [119] aload v6
+      [121] invokevirtual #17
+        + Methodref [hu/droidium/bibliapp/b/b.b ()Ljava/lang/String;]
+      [124] aload v8
+      [126] aload v6
+      [128] invokevirtual #19
+        + Methodref [hu/droidium/bibliapp/b/b.d ()I]
+      [131] aload v6
+      [133] invokevirtual #20
+        + Methodref [hu/droidium/bibliapp/b/b.e ()I]
+      [136] aload v6
+      [138] invokevirtual #21
+        + Methodref [hu/droidium/bibliapp/b/b.g ()Ljava/lang/String;]
+      [141] invokespecial #16
+        + Methodref [hu/droidium/bibliapp/b/b.<init> (Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;)V]
+      [144] astore v9
+      [146] aload v4
+      [148] aload v9
+      [150] invokevirtual #25
+        + Methodref [hu/droidium/bibliapp/b/c.a (Lhu/droidium/bibliapp/b/b;)Lhu/droidium/bibliapp/b/b;]
+      [153] pop
+      [154] aload v7
+      [156] invokeinterface #32
+        + InterfaceMethodref [java/util/Iterator.hasNext ()Z]
+      [161] ifne -85 (target=76)
+      [164] aload v4
+      [166] aconst_null
+      [167] iconst_0
+      [168] invokevirtual #26
+        + Methodref [hu/droidium/bibliapp/b/c.a (Ljava/lang/String;Z)Ljava/util/List;]
+      [171] astore v5
+      [173] return
       Code attribute exceptions (count = 0):
       Code attribute attributes (attribute count = 1):
-      + Stack map table attribute (count = 1):
+      + Stack map table attribute (count = 5):
         - [26] Var: ..., Stack: (empty)
+        - [76] Var: [a:hu/droidium/bibliapp/b/a][a:android/database/sqlite/SQLiteDatabase][i][i][a:hu/droidium/bibliapp/b/c][a:java/util/List][T][a:java/util/Iterator], Stack: 
+        - [115] Var: [a:hu/droidium/bibliapp/b/a][a:android/database/sqlite/SQLiteDatabase][i][i][a:hu/droidium/bibliapp/b/c][a:java/util/List][a:hu/droidium/bibliapp/b/b][a:java/util/Iterator][a:java/lang/String], Stack: 
+        - [154] Var: [a:hu/droidium/bibliapp/b/a][a:android/database/sqlite/SQLiteDatabase][i][i][a:hu/droidium/bibliapp/b/c][a:java/util/List][T][a:java/util/Iterator], Stack: 
+        - [173] Var: [a:hu/droidium/bibliapp/b/a][a:android/database/sqlite/SQLiteDatabase][i][i], Stack: 
   + Method:       onDowngrade(Landroid/database/sqlite/SQLiteDatabase;II)V
     Access flags: 0x1
       = public void onDowngrade(android.database.sqlite.SQLiteDatabase,int,int)
@@ -101400,9 +101679,10 @@ _____________________________________________________________________
 Interfaces (count = 1):
   + Class [android/provider/BaseColumns]
 
-Constant Pool (count = 116):
+Constant Pool (count = 119):
   + String [CREATE TABLE ]
-  + String [_id INTEGER_PRIMARY_KEY,]
+  + String [DROP TABLE IF EXISTS bookmark]
+  + String [_id INTEGER PRIMARY KEY,]
   + String [bookId TEXT,]
   + String [bookmark (]
   + String [chapterNumber INTEGER,]
@@ -101477,12 +101757,13 @@ Constant Pool (count = 116):
   + Utf8 [<init>]
   + Utf8 [CREATE TABLE ]
   + Utf8 [Code]
+  + Utf8 [DROP TABLE IF EXISTS bookmark]
   + Utf8 [I]
   + Utf8 [J]
   + Utf8 [Ljava/lang/String;]
   + Utf8 [Ljava/util/Date;]
   + Utf8 [StackMapTable]
-  + Utf8 [_id INTEGER_PRIMARY_KEY,]
+  + Utf8 [_id INTEGER PRIMARY KEY,]
   + Utf8 [a]
   + Utf8 [android/provider/BaseColumns]
   + Utf8 [append]
@@ -101499,6 +101780,7 @@ Constant Pool (count = 116):
   + Utf8 [getDefault]
   + Utf8 [h]
   + Utf8 [hu/droidium/bibliapp/b/b]
+  + Utf8 [i]
   + Utf8 [java/lang/NullPointerException]
   + Utf8 [java/lang/Object]
   + Utf8 [java/lang/String]
@@ -101539,26 +101821,26 @@ Fields (count = 7):
     Access flags: 0x2
       = private java.lang.String g
 
-Methods (count = 12):
+Methods (count = 13):
   - Method:       <init>(Ljava/lang/String;Ljava/lang/String;IILjava/lang/String;)V
     Access flags: 0x1
       = public b(java.lang.String,java.lang.String,int,int,java.lang.String)
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 22, locals = 6, stack = 10):
       [0] aload_0 v0
-      [1] ldc2_w #21
+      [1] ldc2_w #22
         + Long [-1]
       [4] aload_1 v1
       [5] aload_2 v2
       [6] iload_3 v3
       [7] iload v4
       [9] aload v5
-      [11] new #19
+      [11] new #20
         + Class [java/util/Date]
       [14] dup
-      [15] invokespecial #41
+      [15] invokespecial #42
         + Methodref [java/util/Date.<init> ()V]
-      [18] invokespecial #30
+      [18] invokespecial #31
         + Methodref [hu/droidium/bibliapp/b/b.<init> (JLjava/lang/String;Ljava/lang/String;IILjava/lang/String;Ljava/util/Date;)V]
       [21] return
       Code attribute exceptions (count = 0):
@@ -101576,9 +101858,9 @@ Methods (count = 12):
       [7] iload v6
       [9] aload v7
       [11] aload v8
-      [13] invokestatic #31
+      [13] invokestatic #32
         + Methodref [hu/droidium/bibliapp/b/b.a (Ljava/lang/String;)Ljava/util/Date;]
-      [16] invokespecial #30
+      [16] invokespecial #31
         + Methodref [hu/droidium/bibliapp/b/b.<init> (JLjava/lang/String;Ljava/lang/String;IILjava/lang/String;Ljava/util/Date;)V]
       [19] return
       Code attribute exceptions (count = 0):
@@ -101588,37 +101870,37 @@ Methods (count = 12):
       = private static java.util.Date a(java.lang.String)
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 43, locals = 2, stack = 4):
-      [0] new #18
+      [0] new #19
         + Class [java/text/SimpleDateFormat]
       [3] dup
-      [4] ldc #10
+      [4] ldc #11
         + String [yyyy-MM-dd HH:mm:ss]
-      [6] invokestatic #42
+      [6] invokestatic #43
         + Methodref [java/util/Locale.getDefault ()Ljava/util/Locale;]
-      [9] invokespecial #39
+      [9] invokespecial #40
         + Methodref [java/text/SimpleDateFormat.<init> (Ljava/lang/String;Ljava/util/Locale;)V]
       [12] aload_0 v0
-      [13] invokevirtual #40
+      [13] invokevirtual #41
         + Methodref [java/text/SimpleDateFormat.parse (Ljava/lang/String;)Ljava/util/Date;]
       [16] areturn
       [17] astore_1 v1
       [18] aload_1 v1
-      [19] invokevirtual #38
+      [19] invokevirtual #39
         + Methodref [java/text/ParseException.printStackTrace ()V]
-      [22] new #19
+      [22] new #20
         + Class [java/util/Date]
       [25] dup
-      [26] invokespecial #41
+      [26] invokespecial #42
         + Methodref [java/util/Date.<init> ()V]
       [29] areturn
       [30] astore_1 v1
       [31] aload_1 v1
-      [32] invokevirtual #32
+      [32] invokevirtual #33
         + Methodref [java/lang/NullPointerException.printStackTrace ()V]
-      [35] new #19
+      [35] new #20
         + Class [java/util/Date]
       [38] dup
-      [39] invokespecial #41
+      [39] invokespecial #42
         + Methodref [java/util/Date.<init> ()V]
       [42] areturn
       Code attribute exceptions (count = 2):
@@ -101636,35 +101918,35 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 45, locals = 9, stack = 3):
       [0] aload_0 v0
-      [1] invokespecial #33
+      [1] invokespecial #34
         + Methodref [java/lang/Object.<init> ()V]
       [4] aload_0 v0
       [5] lload_1 v1
-      [6] putfield #23
+      [6] putfield #24
         + Fieldref [hu/droidium/bibliapp/b/b.a J]
       [9] aload_0 v0
       [10] aload_3 v3
-      [11] putfield #24
+      [11] putfield #25
         + Fieldref [hu/droidium/bibliapp/b/b.b Ljava/lang/String;]
       [14] aload_0 v0
       [15] aload v4
-      [17] putfield #25
+      [17] putfield #26
         + Fieldref [hu/droidium/bibliapp/b/b.c Ljava/lang/String;]
       [20] aload_0 v0
       [21] iload v5
-      [23] putfield #26
+      [23] putfield #27
         + Fieldref [hu/droidium/bibliapp/b/b.d I]
       [26] aload_0 v0
       [27] iload v6
-      [29] putfield #27
+      [29] putfield #28
         + Fieldref [hu/droidium/bibliapp/b/b.e I]
       [32] aload_0 v0
       [33] aload v7
-      [35] putfield #29
+      [35] putfield #30
         + Fieldref [hu/droidium/bibliapp/b/b.g Ljava/lang/String;]
       [38] aload_0 v0
       [39] aload v8
-      [41] putfield #28
+      [41] putfield #29
         + Fieldref [hu/droidium/bibliapp/b/b.f Ljava/util/Date;]
       [44] return
       Code attribute exceptions (count = 0):
@@ -101675,7 +101957,7 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 2):
       [0] aload_0 v0
-      [1] getfield #23
+      [1] getfield #24
         + Fieldref [hu/droidium/bibliapp/b/b.a J]
       [4] lreturn
       Code attribute exceptions (count = 0):
@@ -101686,7 +101968,7 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] getfield #24
+      [1] getfield #25
         + Fieldref [hu/droidium/bibliapp/b/b.b Ljava/lang/String;]
       [4] areturn
       Code attribute exceptions (count = 0):
@@ -101697,7 +101979,7 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] getfield #25
+      [1] getfield #26
         + Fieldref [hu/droidium/bibliapp/b/b.c Ljava/lang/String;]
       [4] areturn
       Code attribute exceptions (count = 0):
@@ -101708,7 +101990,7 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] getfield #26
+      [1] getfield #27
         + Fieldref [hu/droidium/bibliapp/b/b.d I]
       [4] ireturn
       Code attribute exceptions (count = 0):
@@ -101719,7 +102001,7 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] getfield #27
+      [1] getfield #28
         + Fieldref [hu/droidium/bibliapp/b/b.e I]
       [4] ireturn
       Code attribute exceptions (count = 0):
@@ -101730,7 +102012,7 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] getfield #28
+      [1] getfield #29
         + Fieldref [hu/droidium/bibliapp/b/b.f Ljava/util/Date;]
       [4] areturn
       Code attribute exceptions (count = 0):
@@ -101741,7 +102023,7 @@ Methods (count = 12):
     Class member attributes (count = 1):
     + Code attribute instructions (code length = 5, locals = 1, stack = 1):
       [0] aload_0 v0
-      [1] getfield #29
+      [1] getfield #30
         + Fieldref [hu/droidium/bibliapp/b/b.g Ljava/lang/String;]
       [4] areturn
       Code attribute exceptions (count = 0):
@@ -101754,128 +102036,138 @@ Methods (count = 12):
       [0] ldc #1
         + String [CREATE TABLE ]
       [2] astore_0 v0
-      [3] new #16
+      [3] new #17
         + Class [java/lang/StringBuilder]
       [6] dup
       [7] aload_0 v0
-      [8] invokestatic #34
+      [8] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [11] invokespecial #35
+      [11] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [14] ldc #4
+      [14] ldc #5
         + String [bookmark (]
-      [16] invokevirtual #36
+      [16] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [19] invokevirtual #37
+      [19] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [22] astore_0 v0
-      [23] new #16
+      [23] new #17
         + Class [java/lang/StringBuilder]
       [26] dup
       [27] aload_0 v0
-      [28] invokestatic #34
+      [28] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [31] invokespecial #35
+      [31] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [34] ldc #2
-        + String [_id INTEGER_PRIMARY_KEY,]
-      [36] invokevirtual #36
+      [34] ldc #3
+        + String [_id INTEGER PRIMARY KEY,]
+      [36] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [39] invokevirtual #37
+      [39] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [42] astore_0 v0
-      [43] new #16
+      [43] new #17
         + Class [java/lang/StringBuilder]
       [46] dup
       [47] aload_0 v0
-      [48] invokestatic #34
+      [48] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [51] invokespecial #35
+      [51] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [54] ldc #8
+      [54] ldc #9
         + String [note TEXT,]
-      [56] invokevirtual #36
+      [56] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [59] invokevirtual #37
+      [59] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [62] astore_0 v0
-      [63] new #16
+      [63] new #17
         + Class [java/lang/StringBuilder]
       [66] dup
       [67] aload_0 v0
-      [68] invokestatic #34
+      [68] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [71] invokespecial #35
+      [71] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [74] ldc #7
+      [74] ldc #8
         + String [lastUpdate INTEGER,]
-      [76] invokevirtual #36
+      [76] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [79] invokevirtual #37
+      [79] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [82] astore_0 v0
-      [83] new #16
+      [83] new #17
         + Class [java/lang/StringBuilder]
       [86] dup
       [87] aload_0 v0
-      [88] invokestatic #34
+      [88] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [91] invokespecial #35
+      [91] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [94] ldc #6
+      [94] ldc #7
         + String [color TEXT,]
-      [96] invokevirtual #36
+      [96] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [99] invokevirtual #37
+      [99] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [102] astore_0 v0
-      [103] new #16
+      [103] new #17
         + Class [java/lang/StringBuilder]
       [106] dup
       [107] aload_0 v0
-      [108] invokestatic #34
+      [108] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [111] invokespecial #35
+      [111] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [114] ldc #3
+      [114] ldc #4
         + String [bookId TEXT,]
-      [116] invokevirtual #36
+      [116] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [119] invokevirtual #37
+      [119] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [122] astore_0 v0
-      [123] new #16
+      [123] new #17
         + Class [java/lang/StringBuilder]
       [126] dup
       [127] aload_0 v0
-      [128] invokestatic #34
+      [128] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [131] invokespecial #35
+      [131] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [134] ldc #5
+      [134] ldc #6
         + String [chapterNumber INTEGER,]
-      [136] invokevirtual #36
+      [136] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [139] invokevirtual #37
+      [139] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [142] astore_0 v0
-      [143] new #16
+      [143] new #17
         + Class [java/lang/StringBuilder]
       [146] dup
       [147] aload_0 v0
-      [148] invokestatic #34
+      [148] invokestatic #35
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [151] invokespecial #35
+      [151] invokespecial #36
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
-      [154] ldc #9
+      [154] ldc #10
         + String [versNumber INTEGER)]
-      [156] invokevirtual #36
+      [156] invokevirtual #37
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [159] invokevirtual #37
+      [159] invokevirtual #38
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [162] astore_0 v0
       [163] aload_0 v0
       [164] areturn
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 0):
+  + Method:       i()Ljava/lang/String;
+    Access flags: 0x9
+      = public static java.lang.String i()
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 3, locals = 0, stack = 1):
+      [0] ldc #2
+        + String [DROP TABLE IF EXISTS bookmark]
+      [2] areturn
       Code attribute exceptions (count = 0):
       Code attribute attributes (attribute count = 0):
 
@@ -101894,7 +102186,7 @@ Interfaces (count = 3):
   + Class [hu/droidium/bibliapp/a/g]
   + Class [hu/droidium/bibliapp/a/h]
 
-Constant Pool (count = 347):
+Constant Pool (count = 345):
   + String [ ]
   + String [ASC]
   + String [DESC]
@@ -101904,7 +102196,7 @@ Constant Pool (count = 347):
   + String [SELECT COUNT(*) as tagCount FROM tag WHERE tagId =?;]
   + String [SELECT COUNT(*) as tagCount FROM tag;]
   + String [_id]
-  + String [_id =  ?]
+  + String [_id= ?]
   + String [bookId]
   + String [bookId LIKE ? AND chapterNumber = ?]
   + String [bookId=? AND chapterNumber=? AND versNumber=? AND tagId=?]
@@ -101954,8 +102246,7 @@ Constant Pool (count = 347):
   + Class [java/util/Locale]
   + Long [-1]
   + Long [1000]
-  + Fieldref [hu/droidium/bibliapp/b/c.a Lhu/droidium/bibliapp/b/a;]
-  + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+  + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
   + Methodref [android/content/ContentValues.<init> ()V]
   + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/Integer;)V]
   + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/Long;)V]
@@ -102033,14 +102324,13 @@ Constant Pool (count = 347):
   + NameAndType [a ()Ljava/lang/String;]
   + NameAndType [a (Landroid/content/Context;)V]
   + NameAndType [a (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z]
-  + NameAndType [a Lhu/droidium/bibliapp/b/a;]
+  + NameAndType [a Landroid/database/sqlite/SQLiteDatabase;]
   + NameAndType [add (Ljava/lang/Object;)Z]
   + NameAndType [append (I)Ljava/lang/StringBuilder;]
   + NameAndType [append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
   + NameAndType [b ()Ljava/lang/String;]
   + NameAndType [b (Landroid/content/Context;)Ljava/util/List;]
   + NameAndType [b (Ljava/lang/String;II)Ljava/util/List;]
-  + NameAndType [b Landroid/database/sqlite/SQLiteDatabase;]
   + NameAndType [c ()Ljava/lang/String;]
   + NameAndType [commit ()Z]
   + NameAndType [currentTimeMillis ()J]
@@ -102106,6 +102396,7 @@ Constant Pool (count = 347):
   + Utf8 [(JLjava/lang/String;Ljava/lang/String;IILjava/lang/String;Ljava/util/Date;)V]
   + Utf8 [(Landroid/content/Context;)Ljava/util/List;]
   + Utf8 [(Landroid/content/Context;)V]
+  + Utf8 [(Landroid/database/sqlite/SQLiteDatabase;)V]
   + Utf8 [(Lhu/droidium/bibliapp/b/b;)Lhu/droidium/bibliapp/b/b;]
   + Utf8 [(Ljava/lang/Object;)Ljava/lang/String;]
   + Utf8 [(Ljava/lang/Object;)Z]
@@ -102148,7 +102439,6 @@ Constant Pool (count = 347):
   + Utf8 [Database version key]
   + Utf8 [Database version store]
   + Utf8 [Landroid/database/sqlite/SQLiteDatabase;]
-  + Utf8 [Lhu/droidium/bibliapp/b/a;]
   + Utf8 [SELECT * FROM tagMeta meta INNER JOIN tag tags ON meta.tagId=tags.tagId WHERE tags.bookId =? AND  tags.chapterNumber=? AND  tags.versNumber=?;]
   + Utf8 [SELECT COUNT(*) as tagCount FROM tag WHERE tagId =?;]
   + Utf8 [SELECT COUNT(*) as tagCount FROM tag;]
@@ -102156,7 +102446,7 @@ Constant Pool (count = 347):
   + Utf8 [StackMapTable]
   + Utf8 [[Ljava/lang/String;]
   + Utf8 [_id]
-  + Utf8 [_id =  ?]
+  + Utf8 [_id= ?]
   + Utf8 [a]
   + Utf8 [add]
   + Utf8 [android/content/ContentValues]
@@ -102240,45 +102530,53 @@ Constant Pool (count = 347):
   + Utf8 [versNumber]
   + Utf8 [yyyy-MM-dd HH:mm:ss]
 
-Fields (count = 2):
-  + Field:        a Lhu/droidium/bibliapp/b/a;
-    Access flags: 0x0
-      = hu.droidium.bibliapp.b.a a
-  + Field:        b Landroid/database/sqlite/SQLiteDatabase;
+Fields (count = 1):
+  + Field:        a Landroid/database/sqlite/SQLiteDatabase;
     Access flags: 0x2
-      = private android.database.sqlite.SQLiteDatabase b
+      = private android.database.sqlite.SQLiteDatabase a
 
-Methods (count = 15):
+Methods (count = 16):
   - Method:       <init>(Landroid/content/Context;)V
     Access flags: 0x1
       = public c(android.content.Context)
     Class member attributes (count = 1):
-    + Code attribute instructions (code length = 33, locals = 2, stack = 4):
+    + Code attribute instructions (code length = 27, locals = 3, stack = 3):
       [0] aload_0 v0
-      [1] invokespecial #99
+      [1] invokespecial #98
+        + Methodref [java/lang/Object.<init> ()V]
+      [4] new #41
+        + Class [hu/droidium/bibliapp/b/a]
+      [7] dup
+      [8] aload_1 v1
+      [9] invokespecial #77
+        + Methodref [hu/droidium/bibliapp/b/a.<init> (Landroid/content/Context;)V]
+      [12] astore_2 v2
+      [13] aload_0 v0
+      [14] aload_2 v2
+      [15] invokevirtual #78
+        + Methodref [hu/droidium/bibliapp/b/a.getWritableDatabase ()Landroid/database/sqlite/SQLiteDatabase;]
+      [18] putfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
+      [21] aload_0 v0
+      [22] aload_1 v1
+      [23] invokespecial #88
+        + Methodref [hu/droidium/bibliapp/b/c.a (Landroid/content/Context;)V]
+      [26] return
+      Code attribute exceptions (count = 0):
+      Code attribute attributes (attribute count = 0):
+  - Method:       <init>(Landroid/database/sqlite/SQLiteDatabase;)V
+    Access flags: 0x1
+      = public c(android.database.sqlite.SQLiteDatabase)
+    Class member attributes (count = 1):
+    + Code attribute instructions (code length = 10, locals = 2, stack = 2):
+      [0] aload_0 v0
+      [1] invokespecial #98
         + Methodref [java/lang/Object.<init> ()V]
       [4] aload_0 v0
-      [5] new #41
-        + Class [hu/droidium/bibliapp/b/a]
-      [8] dup
-      [9] aload_1 v1
-      [10] invokespecial #78
-        + Methodref [hu/droidium/bibliapp/b/a.<init> (Landroid/content/Context;)V]
-      [13] putfield #62
-        + Fieldref [hu/droidium/bibliapp/b/c.a Lhu/droidium/bibliapp/b/a;]
-      [16] aload_0 v0
-      [17] aload_0 v0
-      [18] getfield #62
-        + Fieldref [hu/droidium/bibliapp/b/c.a Lhu/droidium/bibliapp/b/a;]
-      [21] invokevirtual #79
-        + Methodref [hu/droidium/bibliapp/b/a.getWritableDatabase ()Landroid/database/sqlite/SQLiteDatabase;]
-      [24] putfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
-      [27] aload_0 v0
-      [28] aload_1 v1
-      [29] invokespecial #89
-        + Methodref [hu/droidium/bibliapp/b/c.a (Landroid/content/Context;)V]
-      [32] return
+      [5] aload_1 v1
+      [6] putfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
+      [9] return
       Code attribute exceptions (count = 0):
       Code attribute attributes (attribute count = 0):
   + Method:       a(Lhu/droidium/bibliapp/b/b;)Lhu/droidium/bibliapp/b/b;
@@ -102289,44 +102587,44 @@ Methods (count = 15):
       [0] new #31
         + Class [android/content/ContentValues]
       [3] dup
-      [4] invokespecial #64
+      [4] invokespecial #63
         + Methodref [android/content/ContentValues.<init> ()V]
       [7] astore_2 v2
       [8] aload_2 v2
       [9] ldc #19
         + String [note]
       [11] aload_1 v1
-      [12] invokevirtual #83
+      [12] invokevirtual #82
         + Methodref [hu/droidium/bibliapp/b/b.b ()Ljava/lang/String;]
-      [15] invokevirtual #67
+      [15] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [18] aload_2 v2
       [19] ldc #11
         + String [bookId]
       [21] aload_1 v1
-      [22] invokevirtual #84
+      [22] invokevirtual #83
         + Methodref [hu/droidium/bibliapp/b/b.c ()Ljava/lang/String;]
-      [25] invokevirtual #67
+      [25] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [28] aload_2 v2
       [29] ldc #15
         + String [chapterNumber]
       [31] aload_1 v1
-      [32] invokevirtual #85
+      [32] invokevirtual #84
         + Methodref [hu/droidium/bibliapp/b/b.d ()I]
-      [35] invokestatic #97
+      [35] invokestatic #96
         + Methodref [java/lang/Integer.valueOf (I)Ljava/lang/Integer;]
-      [38] invokevirtual #65
+      [38] invokevirtual #64
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/Integer;)V]
       [41] aload_2 v2
       [42] ldc #28
         + String [versNumber]
       [44] aload_1 v1
-      [45] invokevirtual #86
+      [45] invokevirtual #85
         + Methodref [hu/droidium/bibliapp/b/b.e ()I]
-      [48] invokestatic #97
+      [48] invokestatic #96
         + Methodref [java/lang/Integer.valueOf (I)Ljava/lang/Integer;]
-      [51] invokevirtual #65
+      [51] invokevirtual #64
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/Integer;)V]
       [54] aload_2 v2
       [55] ldc #17
@@ -102336,40 +102634,40 @@ Methods (count = 15):
       [60] dup
       [61] ldc #29
         + String [yyyy-MM-dd HH:mm:ss]
-      [63] invokestatic #114
+      [63] invokestatic #113
         + Methodref [java/util/Locale.getDefault ()Ljava/util/Locale;]
-      [66] invokespecial #109
+      [66] invokespecial #108
         + Methodref [java/text/SimpleDateFormat.<init> (Ljava/lang/String;Ljava/util/Locale;)V]
       [69] aload_1 v1
-      [70] invokevirtual #87
+      [70] invokevirtual #86
         + Methodref [hu/droidium/bibliapp/b/b.f ()Ljava/util/Date;]
-      [73] invokevirtual #110
+      [73] invokevirtual #109
         + Methodref [java/text/SimpleDateFormat.format (Ljava/util/Date;)Ljava/lang/String;]
-      [76] invokevirtual #67
+      [76] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [79] aload_2 v2
       [80] ldc #16
         + String [color]
       [82] aload_1 v1
-      [83] invokevirtual #88
+      [83] invokevirtual #87
         + Methodref [hu/droidium/bibliapp/b/b.g ()Ljava/lang/String;]
-      [86] invokevirtual #67
+      [86] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [89] aload_1 v1
-      [90] invokevirtual #82
+      [90] invokevirtual #81
         + Methodref [hu/droidium/bibliapp/b/b.a ()J]
       [93] ldc2_w #58
         + Long [-1]
       [96] lcmp
       [97] ifne +51 (target=148)
       [100] aload_0 v0
-      [101] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [101] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [104] ldc #14
         + String [bookmark]
       [106] aconst_null
       [107] aload_2 v2
-      [108] invokevirtual #71
+      [108] invokevirtual #70
         + Methodref [android/database/sqlite/SQLiteDatabase.insert (Ljava/lang/String;Ljava/lang/String;Landroid/content/ContentValues;)J]
       [111] lstore_3 v3
       [112] new #42
@@ -102377,30 +102675,30 @@ Methods (count = 15):
       [115] dup
       [116] lload_3 v3
       [117] aload_1 v1
-      [118] invokevirtual #83
+      [118] invokevirtual #82
         + Methodref [hu/droidium/bibliapp/b/b.b ()Ljava/lang/String;]
       [121] aload_1 v1
-      [122] invokevirtual #84
+      [122] invokevirtual #83
         + Methodref [hu/droidium/bibliapp/b/b.c ()Ljava/lang/String;]
       [125] aload_1 v1
-      [126] invokevirtual #85
+      [126] invokevirtual #84
         + Methodref [hu/droidium/bibliapp/b/b.d ()I]
       [129] aload_1 v1
-      [130] invokevirtual #86
+      [130] invokevirtual #85
         + Methodref [hu/droidium/bibliapp/b/b.e ()I]
       [133] aload_1 v1
-      [134] invokevirtual #88
+      [134] invokevirtual #87
         + Methodref [hu/droidium/bibliapp/b/b.g ()Ljava/lang/String;]
       [137] new #54
         + Class [java/util/Date]
       [140] dup
-      [141] invokespecial #113
+      [141] invokespecial #112
         + Methodref [java/util/Date.<init> ()V]
-      [144] invokespecial #81
+      [144] invokespecial #80
         + Methodref [hu/droidium/bibliapp/b/b.<init> (JLjava/lang/String;Ljava/lang/String;IILjava/lang/String;Ljava/util/Date;)V]
       [147] areturn
       [148] ldc #10
-        + String [_id =  ?]
+        + String [_id= ?]
       [150] astore_3 v3
       [151] iconst_1
       [152] anewarray #49
@@ -102408,21 +102706,21 @@ Methods (count = 15):
       [155] dup
       [156] iconst_0
       [157] aload_1 v1
-      [158] invokevirtual #82
+      [158] invokevirtual #81
         + Methodref [hu/droidium/bibliapp/b/b.a ()J]
-      [161] invokestatic #101
+      [161] invokestatic #100
         + Methodref [java/lang/String.valueOf (J)Ljava/lang/String;]
       [164] aastore
       [165] astore v4
       [167] aload_0 v0
-      [168] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [168] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [171] ldc #14
         + String [bookmark]
       [173] aload_2 v2
       [174] aload_3 v3
       [175] aload v4
-      [177] invokevirtual #76
+      [177] invokevirtual #75
         + Methodref [android/database/sqlite/SQLiteDatabase.update (Ljava/lang/String;Landroid/content/ContentValues;Ljava/lang/String;[Ljava/lang/String;)I]
       [180] istore v5
       [182] iload v5
@@ -102494,13 +102792,13 @@ Methods (count = 15):
       [54] dup
       [55] iconst_1
       [56] iload_2 v2
-      [57] invokestatic #100
+      [57] invokestatic #99
         + Methodref [java/lang/String.valueOf (I)Ljava/lang/String;]
       [60] aastore
       [61] astore v5
       [63] aload_0 v0
-      [64] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [64] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [67] ldc #14
         + String [bookmark]
       [69] aload_3 v3
@@ -102509,17 +102807,17 @@ Methods (count = 15):
       [74] aconst_null
       [75] aconst_null
       [76] aconst_null
-      [77] invokevirtual #72
+      [77] invokevirtual #71
         + Methodref [android/database/sqlite/SQLiteDatabase.query (Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Landroid/database/Cursor;]
       [80] astore v6
       [82] new #53
         + Class [java/util/ArrayList]
       [85] dup
-      [86] invokespecial #111
+      [86] invokespecial #110
         + Methodref [java/util/ArrayList.<init> ()V]
       [89] astore v7
       [91] aload v6
-      [93] invokeinterface #123
+      [93] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [98] istore v8
       [100] goto +129 (target=229)
@@ -102527,45 +102825,45 @@ Methods (count = 15):
       [105] aload v6
       [107] ldc #9
         + String [_id]
-      [109] invokeinterface #119
+      [109] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [114] invokeinterface #121
+      [114] invokeinterface #120
         + InterfaceMethodref [android/database/Cursor.getLong (I)J]
       [119] lstore v9
       [121] aload v6
       [123] aload v6
       [125] ldc #19
         + String [note]
-      [127] invokeinterface #119
+      [127] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [132] invokeinterface #122
+      [132] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [137] astore v11
       [139] aload v6
       [141] aload v6
       [143] ldc #28
         + String [versNumber]
-      [145] invokeinterface #119
+      [145] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [150] invokeinterface #120
+      [150] invokeinterface #119
         + InterfaceMethodref [android/database/Cursor.getInt (I)I]
       [155] istore v12
       [157] aload v6
       [159] aload v6
       [161] ldc #16
         + String [color]
-      [163] invokeinterface #119
+      [163] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [168] invokeinterface #122
+      [168] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [173] astore v13
       [175] aload v6
       [177] aload v6
       [179] ldc #17
         + String [lastUpdate]
-      [181] invokeinterface #119
+      [181] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [186] invokeinterface #122
+      [186] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [191] astore v14
       [193] aload v7
@@ -102579,13 +102877,13 @@ Methods (count = 15):
       [205] iload v12
       [207] aload v13
       [209] aload v14
-      [211] invokespecial #80
+      [211] invokespecial #79
         + Methodref [hu/droidium/bibliapp/b/b.<init> (JLjava/lang/String;Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V]
-      [214] invokeinterface #127
+      [214] invokeinterface #126
         + InterfaceMethodref [java/util/List.add (Ljava/lang/Object;)Z]
       [219] pop
       [220] aload v6
-      [222] invokeinterface #124
+      [222] invokeinterface #123
         + InterfaceMethodref [android/database/Cursor.moveToNext ()Z]
       [227] istore v8
       [229] iload v8
@@ -102652,13 +102950,13 @@ Methods (count = 15):
         + Class [java/lang/StringBuilder]
       [53] dup
       [54] aload_1 v1
-      [55] invokestatic #102
+      [55] invokestatic #101
         + Methodref [java/lang/String.valueOf (Ljava/lang/Object;)Ljava/lang/String;]
-      [58] invokespecial #104
+      [58] invokespecial #103
         + Methodref [java/lang/StringBuilder.<init> (Ljava/lang/String;)V]
       [61] ldc #1
         + String [ ]
-      [63] invokevirtual #106
+      [63] invokevirtual #105
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
       [66] iload_2 v2
       [67] ifeq +8 (target=75)
@@ -102667,14 +102965,14 @@ Methods (count = 15):
       [72] goto +5 (target=77)
       [75] ldc #2
         + String [ASC]
-      [77] invokevirtual #106
+      [77] invokevirtual #105
         + Methodref [java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;]
-      [80] invokevirtual #107
+      [80] invokevirtual #106
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [83] astore v4
       [85] aload_0 v0
-      [86] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [86] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [89] ldc #14
         + String [bookmark]
       [91] aload_3 v3
@@ -102683,17 +102981,17 @@ Methods (count = 15):
       [94] aconst_null
       [95] aconst_null
       [96] aload v4
-      [98] invokevirtual #72
+      [98] invokevirtual #71
         + Methodref [android/database/sqlite/SQLiteDatabase.query (Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Landroid/database/Cursor;]
       [101] astore v5
       [103] new #53
         + Class [java/util/ArrayList]
       [106] dup
-      [107] invokespecial #111
+      [107] invokespecial #110
         + Methodref [java/util/ArrayList.<init> ()V]
       [110] astore v6
       [112] aload v5
-      [114] invokeinterface #123
+      [114] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [119] istore v7
       [121] goto +167 (target=288)
@@ -102701,63 +102999,63 @@ Methods (count = 15):
       [126] aload v5
       [128] ldc #9
         + String [_id]
-      [130] invokeinterface #119
+      [130] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [135] invokeinterface #121
+      [135] invokeinterface #120
         + InterfaceMethodref [android/database/Cursor.getLong (I)J]
       [140] lstore v8
       [142] aload v5
       [144] aload v5
       [146] ldc #19
         + String [note]
-      [148] invokeinterface #119
+      [148] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [153] invokeinterface #122
+      [153] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [158] astore v10
       [160] aload v5
       [162] aload v5
       [164] ldc #11
         + String [bookId]
-      [166] invokeinterface #119
+      [166] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [171] invokeinterface #122
+      [171] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [176] astore v11
       [178] aload v5
       [180] aload v5
       [182] ldc #15
         + String [chapterNumber]
-      [184] invokeinterface #119
+      [184] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [189] invokeinterface #120
+      [189] invokeinterface #119
         + InterfaceMethodref [android/database/Cursor.getInt (I)I]
       [194] istore v12
       [196] aload v5
       [198] aload v5
       [200] ldc #28
         + String [versNumber]
-      [202] invokeinterface #119
+      [202] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [207] invokeinterface #120
+      [207] invokeinterface #119
         + InterfaceMethodref [android/database/Cursor.getInt (I)I]
       [212] istore v13
       [214] aload v5
       [216] aload v5
       [218] ldc #16
         + String [color]
-      [220] invokeinterface #119
+      [220] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [225] invokeinterface #122
+      [225] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [230] astore v14
       [232] aload v5
       [234] aload v5
       [236] ldc #17
         + String [lastUpdate]
-      [238] invokeinterface #119
+      [238] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [243] invokeinterface #122
+      [243] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [248] astore v15
       [250] aload v6
@@ -102771,13 +103069,13 @@ Methods (count = 15):
       [264] iload v13
       [266] aload v14
       [268] aload v15
-      [270] invokespecial #80
+      [270] invokespecial #79
         + Methodref [hu/droidium/bibliapp/b/b.<init> (JLjava/lang/String;Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V]
-      [273] invokeinterface #127
+      [273] invokeinterface #126
         + InterfaceMethodref [java/util/List.add (Ljava/lang/Object;)Z]
       [278] pop
       [279] aload v5
-      [281] invokeinterface #124
+      [281] invokeinterface #123
         + InterfaceMethodref [android/database/Cursor.moveToNext ()Z]
       [286] istore v7
       [288] iload v7
@@ -102819,8 +103117,8 @@ Methods (count = 15):
       [18] aastore
       [19] astore_1 v1
       [20] aload_0 v0
-      [21] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [21] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [24] ldc #24
         + String [tagMeta]
       [26] aload_1 v1
@@ -102829,17 +103127,17 @@ Methods (count = 15):
       [29] aconst_null
       [30] aconst_null
       [31] aconst_null
-      [32] invokevirtual #72
+      [32] invokevirtual #71
         + Methodref [android/database/sqlite/SQLiteDatabase.query (Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Landroid/database/Cursor;]
       [35] astore_2 v2
       [36] new #53
         + Class [java/util/ArrayList]
       [39] dup
-      [40] invokespecial #111
+      [40] invokespecial #110
         + Methodref [java/util/ArrayList.<init> ()V]
       [43] astore_3 v3
       [44] aload_2 v2
-      [45] invokeinterface #123
+      [45] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [50] istore v4
       [52] goto +79 (target=131)
@@ -102847,27 +103145,27 @@ Methods (count = 15):
       [56] aload_2 v2
       [57] ldc #22
         + String [tagId]
-      [59] invokeinterface #119
+      [59] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [64] invokeinterface #122
+      [64] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [69] astore v5
       [71] aload_2 v2
       [72] aload_2 v2
       [73] ldc #25
         + String [tagName]
-      [75] invokeinterface #119
+      [75] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [80] invokeinterface #122
+      [80] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [85] astore v6
       [87] aload_2 v2
       [88] aload_2 v2
       [89] ldc #16
         + String [color]
-      [91] invokeinterface #119
+      [91] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [96] invokeinterface #122
+      [96] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [101] astore v7
       [103] aload_3 v3
@@ -102877,13 +103175,13 @@ Methods (count = 15):
       [108] aload v5
       [110] aload v6
       [112] aload v7
-      [114] invokespecial #93
+      [114] invokespecial #92
         + Methodref [hu/droidium/bibliapp/b/e.<init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V]
-      [117] invokeinterface #127
+      [117] invokeinterface #126
         + InterfaceMethodref [java/util/List.add (Ljava/lang/Object;)Z]
       [122] pop
       [123] aload_2 v2
-      [124] invokeinterface #124
+      [124] invokeinterface #123
         + InterfaceMethodref [android/database/Cursor.moveToNext ()Z]
       [129] istore v4
       [131] iload v4
@@ -102933,8 +103231,8 @@ Methods (count = 15):
       [30] aastore
       [31] astore v4
       [33] aload_0 v0
-      [34] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [34] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [37] ldc #24
         + String [tagMeta]
       [39] aload_2 v2
@@ -102943,31 +103241,31 @@ Methods (count = 15):
       [43] aconst_null
       [44] aconst_null
       [45] aconst_null
-      [46] invokevirtual #72
+      [46] invokevirtual #71
         + Methodref [android/database/sqlite/SQLiteDatabase.query (Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Landroid/database/Cursor;]
       [49] astore v5
       [51] aconst_null
       [52] astore v6
       [54] aload v5
-      [56] invokeinterface #123
+      [56] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [61] ifeq +53 (target=114)
       [64] aload v5
       [66] aload v5
       [68] ldc #25
         + String [tagName]
-      [70] invokeinterface #119
+      [70] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [75] invokeinterface #122
+      [75] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [80] astore v7
       [82] aload v5
       [84] aload v5
       [86] ldc #16
         + String [color]
-      [88] invokeinterface #119
+      [88] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [93] invokeinterface #122
+      [93] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [98] astore v8
       [100] new #45
@@ -102976,7 +103274,7 @@ Methods (count = 15):
       [104] aload_1 v1
       [105] aload v7
       [107] aload v8
-      [109] invokespecial #93
+      [109] invokespecial #92
         + Methodref [hu/droidium/bibliapp/b/e.<init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V]
       [112] astore v6
       [114] aload v6
@@ -102993,7 +103291,7 @@ Methods (count = 15):
       [0] new #53
         + Class [java/util/ArrayList]
       [3] dup
-      [4] invokespecial #111
+      [4] invokespecial #110
         + Methodref [java/util/ArrayList.<init> ()V]
       [7] astore v4
       [9] ldc #6
@@ -103009,27 +103307,27 @@ Methods (count = 15):
       [21] dup
       [22] iconst_1
       [23] iload_2 v2
-      [24] invokestatic #100
+      [24] invokestatic #99
         + Methodref [java/lang/String.valueOf (I)Ljava/lang/String;]
       [27] aastore
       [28] dup
       [29] iconst_2
       [30] iload_3 v3
-      [31] invokestatic #100
+      [31] invokestatic #99
         + Methodref [java/lang/String.valueOf (I)Ljava/lang/String;]
       [34] aastore
       [35] astore v6
       [37] aload_0 v0
-      [38] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [38] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [41] ldc #6
         + String [SELECT * FROM tagMeta meta INNER JOIN tag tags ON meta.tagId=tags.tagId WHERE tags.bookId =? AND  tags.chapterNumber=? AND  tags.versNumber=?;]
       [43] aload v6
-      [45] invokevirtual #74
+      [45] invokevirtual #73
         + Methodref [android/database/sqlite/SQLiteDatabase.rawQuery (Ljava/lang/String;[Ljava/lang/String;)Landroid/database/Cursor;]
       [48] astore v7
       [50] aload v7
-      [52] invokeinterface #123
+      [52] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [57] istore v8
       [59] goto +85 (target=144)
@@ -103037,27 +103335,27 @@ Methods (count = 15):
       [64] aload v7
       [66] ldc #22
         + String [tagId]
-      [68] invokeinterface #119
+      [68] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [73] invokeinterface #122
+      [73] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [78] astore v9
       [80] aload v7
       [82] aload v7
       [84] ldc #25
         + String [tagName]
-      [86] invokeinterface #119
+      [86] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [91] invokeinterface #122
+      [91] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [96] astore v10
       [98] aload v7
       [100] aload v7
       [102] ldc #16
         + String [color]
-      [104] invokeinterface #119
+      [104] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [109] invokeinterface #122
+      [109] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [114] astore v11
       [116] aload v4
@@ -103067,13 +103365,13 @@ Methods (count = 15):
       [122] aload v9
       [124] aload v10
       [126] aload v11
-      [128] invokespecial #93
+      [128] invokespecial #92
         + Methodref [hu/droidium/bibliapp/b/e.<init> (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V]
-      [131] invokevirtual #112
+      [131] invokevirtual #111
         + Methodref [java/util/ArrayList.add (Ljava/lang/Object;)Z]
       [134] pop
       [135] aload v7
-      [137] invokeinterface #124
+      [137] invokeinterface #123
         + InterfaceMethodref [android/database/Cursor.moveToNext ()Z]
       [142] istore v8
       [144] iload v8
@@ -103096,35 +103394,35 @@ Methods (count = 15):
       [1] aload_1 v1
       [2] iload_2 v2
       [3] iload_3 v3
-      [4] invokevirtual #91
+      [4] invokevirtual #90
         + Methodref [hu/droidium/bibliapp/b/c.b (Ljava/lang/String;II)Ljava/util/List;]
       [7] astore v4
       [9] new #53
         + Class [java/util/ArrayList]
       [12] dup
-      [13] invokespecial #111
+      [13] invokespecial #110
         + Methodref [java/util/ArrayList.<init> ()V]
       [16] astore v5
       [18] aload v4
-      [20] invokeinterface #128
+      [20] invokeinterface #127
         + InterfaceMethodref [java/util/List.iterator ()Ljava/util/Iterator;]
       [25] astore v7
       [27] goto +26 (target=53)
       [30] aload v7
-      [32] invokeinterface #126
+      [32] invokeinterface #125
         + InterfaceMethodref [java/util/Iterator.next ()Ljava/lang/Object;]
       [37] checkcast #45
         + Class [hu/droidium/bibliapp/b/e]
       [40] astore v6
       [42] aload v5
       [44] aload v6
-      [46] invokevirtual #96
+      [46] invokevirtual #95
         + Methodref [hu/droidium/bibliapp/b/e.c ()Ljava/lang/String;]
-      [49] invokevirtual #112
+      [49] invokevirtual #111
         + Methodref [java/util/ArrayList.add (Ljava/lang/Object;)Z]
       [52] pop
       [53] aload v7
-      [55] invokeinterface #125
+      [55] invokeinterface #124
         + InterfaceMethodref [java/util/Iterator.hasNext ()Z]
       [60] ifne -30 (target=30)
       [63] aload v5
@@ -103153,12 +103451,12 @@ Methods (count = 15):
       [10] new #50
         + Class [java/lang/StringBuilder]
       [13] dup
-      [14] invokespecial #103
+      [14] invokespecial #102
         + Methodref [java/lang/StringBuilder.<init> ()V]
       [17] iload_3 v3
-      [18] invokevirtual #105
+      [18] invokevirtual #104
         + Methodref [java/lang/StringBuilder.append (I)Ljava/lang/StringBuilder;]
-      [21] invokevirtual #107
+      [21] invokevirtual #106
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [24] aastore
       [25] dup
@@ -103166,12 +103464,12 @@ Methods (count = 15):
       [27] new #50
         + Class [java/lang/StringBuilder]
       [30] dup
-      [31] invokespecial #103
+      [31] invokespecial #102
         + Methodref [java/lang/StringBuilder.<init> ()V]
       [34] iload v4
-      [36] invokevirtual #105
+      [36] invokevirtual #104
         + Methodref [java/lang/StringBuilder.append (I)Ljava/lang/StringBuilder;]
-      [39] invokevirtual #107
+      [39] invokevirtual #106
         + Methodref [java/lang/StringBuilder.toString ()Ljava/lang/String;]
       [42] aastore
       [43] dup
@@ -103180,14 +103478,14 @@ Methods (count = 15):
       [46] aastore
       [47] astore v5
       [49] aload_0 v0
-      [50] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [50] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [53] ldc #20
         + String [tag]
       [55] ldc #13
         + String [bookId=? AND chapterNumber=? AND versNumber=? AND tagId=?]
       [57] aload v5
-      [59] invokevirtual #69
+      [59] invokevirtual #68
         + Methodref [android/database/sqlite/SQLiteDatabase.delete (Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)I]
       [62] istore v6
       [64] iload v6
@@ -103208,57 +103506,57 @@ Methods (count = 15):
       [0] new #31
         + Class [android/content/ContentValues]
       [3] dup
-      [4] invokespecial #64
+      [4] invokespecial #63
         + Methodref [android/content/ContentValues.<init> ()V]
       [7] astore v5
       [9] aload v5
       [11] ldc #22
         + String [tagId]
       [13] aload_1 v1
-      [14] invokevirtual #67
+      [14] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [17] aload v5
       [19] ldc #11
         + String [bookId]
       [21] aload_2 v2
-      [22] invokevirtual #67
+      [22] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [25] aload v5
       [27] ldc #15
         + String [chapterNumber]
       [29] iload_3 v3
-      [30] invokestatic #97
+      [30] invokestatic #96
         + Methodref [java/lang/Integer.valueOf (I)Ljava/lang/Integer;]
-      [33] invokevirtual #65
+      [33] invokevirtual #64
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/Integer;)V]
       [36] aload v5
       [38] ldc #28
         + String [versNumber]
       [40] iload v4
-      [42] invokestatic #97
+      [42] invokestatic #96
         + Methodref [java/lang/Integer.valueOf (I)Ljava/lang/Integer;]
-      [45] invokevirtual #65
+      [45] invokevirtual #64
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/Integer;)V]
       [48] aload v5
       [50] ldc #26
         + String [updated]
-      [52] invokestatic #108
+      [52] invokestatic #107
         + Methodref [java/lang/System.currentTimeMillis ()J]
       [55] ldc2_w #60
         + Long [1000]
       [58] ldiv
-      [59] invokestatic #98
+      [59] invokestatic #97
         + Methodref [java/lang/Long.valueOf (J)Ljava/lang/Long;]
-      [62] invokevirtual #66
+      [62] invokevirtual #65
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/Long;)V]
       [65] aload_0 v0
-      [66] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [66] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [69] ldc #20
         + String [tag]
       [71] aconst_null
       [72] aload v5
-      [74] invokevirtual #75
+      [74] invokevirtual #74
         + Methodref [android/database/sqlite/SQLiteDatabase.replace (Ljava/lang/String;Ljava/lang/String;Landroid/content/ContentValues;)J]
       [77] lstore v6
       [79] lload v6
@@ -103281,35 +103579,35 @@ Methods (count = 15):
       [0] new #31
         + Class [android/content/ContentValues]
       [3] dup
-      [4] invokespecial #64
+      [4] invokespecial #63
         + Methodref [android/content/ContentValues.<init> ()V]
       [7] astore v4
       [9] aload v4
       [11] ldc #22
         + String [tagId]
       [13] aload_1 v1
-      [14] invokevirtual #67
+      [14] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [17] aload v4
       [19] ldc #25
         + String [tagName]
       [21] aload_2 v2
-      [22] invokevirtual #67
+      [22] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [25] aload v4
       [27] ldc #16
         + String [color]
       [29] aload_3 v3
-      [30] invokevirtual #67
+      [30] invokevirtual #66
         + Methodref [android/content/ContentValues.put (Ljava/lang/String;Ljava/lang/String;)V]
       [33] aload_0 v0
-      [34] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [34] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [37] ldc #24
         + String [tagMeta]
       [39] aconst_null
       [40] aload v4
-      [42] invokevirtual #75
+      [42] invokevirtual #74
         + Methodref [android/database/sqlite/SQLiteDatabase.replace (Ljava/lang/String;Ljava/lang/String;Landroid/content/ContentValues;)J]
       [45] lstore v5
       [47] lload v5
@@ -103333,66 +103631,66 @@ Methods (count = 15):
       [1] ldc #5
         + String [Database version store]
       [3] iconst_0
-      [4] invokevirtual #68
+      [4] invokevirtual #67
         + Methodref [android/content/Context.getSharedPreferences (Ljava/lang/String;I)Landroid/content/SharedPreferences;]
       [7] astore_2 v2
       [8] aload_2 v2
       [9] ldc #4
         + String [Database version key]
       [11] iconst_m1
-      [12] invokeinterface #116
+      [12] invokeinterface #115
         + InterfaceMethodref [android/content/SharedPreferences.getInt (Ljava/lang/String;I)I]
       [17] aload_0 v0
-      [18] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
-      [21] invokevirtual #70
+      [18] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
+      [21] invokevirtual #69
         + Methodref [android/database/sqlite/SQLiteDatabase.getVersion ()I]
       [24] ificmpeq +87 (target=111)
       [27] aload_1 v1
-      [28] invokestatic #77
+      [28] invokestatic #76
         + Methodref [hu/droidium/bibliapp/a/b.b (Landroid/content/Context;)Ljava/util/List;]
       [31] astore_3 v3
       [32] aload_3 v3
-      [33] invokeinterface #128
+      [33] invokeinterface #127
         + InterfaceMethodref [java/util/List.iterator ()Ljava/util/Iterator;]
       [38] astore v5
       [40] goto +35 (target=75)
       [43] aload v5
-      [45] invokeinterface #126
+      [45] invokeinterface #125
         + InterfaceMethodref [java/util/Iterator.next ()Ljava/lang/Object;]
       [50] checkcast #45
         + Class [hu/droidium/bibliapp/b/e]
       [53] astore v4
       [55] aload_0 v0
       [56] aload v4
-      [58] invokevirtual #94
+      [58] invokevirtual #93
         + Methodref [hu/droidium/bibliapp/b/e.a ()Ljava/lang/String;]
       [61] aload v4
-      [63] invokevirtual #95
+      [63] invokevirtual #94
         + Methodref [hu/droidium/bibliapp/b/e.b ()Ljava/lang/String;]
       [66] aload v4
-      [68] invokevirtual #96
+      [68] invokevirtual #95
         + Methodref [hu/droidium/bibliapp/b/e.c ()Ljava/lang/String;]
-      [71] invokevirtual #90
+      [71] invokevirtual #89
         + Methodref [hu/droidium/bibliapp/b/c.a (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z]
       [74] pop
       [75] aload v5
-      [77] invokeinterface #125
+      [77] invokeinterface #124
         + InterfaceMethodref [java/util/Iterator.hasNext ()Z]
       [82] ifne -39 (target=43)
       [85] aload_2 v2
-      [86] invokeinterface #115
+      [86] invokeinterface #114
         + InterfaceMethodref [android/content/SharedPreferences.edit ()Landroid/content/SharedPreferences$Editor;]
       [91] ldc #4
         + String [Database version key]
       [93] aload_0 v0
-      [94] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
-      [97] invokevirtual #70
+      [94] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
+      [97] invokevirtual #69
         + Methodref [android/database/sqlite/SQLiteDatabase.getVersion ()I]
-      [100] invokeinterface #118
+      [100] invokeinterface #117
         + InterfaceMethodref [android/content/SharedPreferences$Editor.putInt (Ljava/lang/String;I)Landroid/content/SharedPreferences$Editor;]
-      [105] invokeinterface #117
+      [105] invokeinterface #116
         + InterfaceMethodref [android/content/SharedPreferences$Editor.commit ()Z]
       [110] pop
       [111] return
@@ -103410,7 +103708,7 @@ Methods (count = 15):
       [0] new #53
         + Class [java/util/ArrayList]
       [3] dup
-      [4] invokespecial #111
+      [4] invokespecial #110
         + Methodref [java/util/ArrayList.<init> ()V]
       [7] astore_2 v2
       [8] iconst_5
@@ -103457,8 +103755,8 @@ Methods (count = 15):
         + String [updated desc]
       [54] astore v6
       [56] aload_0 v0
-      [57] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [57] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [60] iconst_1
       [61] ldc #20
         + String [tag]
@@ -103470,11 +103768,11 @@ Methods (count = 15):
       [70] aload v6
       [72] aconst_null
       [73] aconst_null
-      [74] invokevirtual #73
+      [74] invokevirtual #72
         + Methodref [android/database/sqlite/SQLiteDatabase.query (ZLjava/lang/String;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/os/CancellationSignal;)Landroid/database/Cursor;]
       [77] astore v7
       [79] aload v7
-      [81] invokeinterface #123
+      [81] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [86] istore v8
       [88] goto +124 (target=212)
@@ -103482,45 +103780,45 @@ Methods (count = 15):
       [93] aload v7
       [95] ldc #22
         + String [tagId]
-      [97] invokeinterface #119
+      [97] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [102] invokeinterface #122
+      [102] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [107] astore v9
       [109] aload v7
       [111] aload v7
       [113] ldc #11
         + String [bookId]
-      [115] invokeinterface #119
+      [115] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [120] invokeinterface #122
+      [120] invokeinterface #121
         + InterfaceMethodref [android/database/Cursor.getString (I)Ljava/lang/String;]
       [125] astore v10
       [127] aload v7
       [129] aload v7
       [131] ldc #15
         + String [chapterNumber]
-      [133] invokeinterface #119
+      [133] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [138] invokeinterface #120
+      [138] invokeinterface #119
         + InterfaceMethodref [android/database/Cursor.getInt (I)I]
       [143] istore v11
       [145] aload v7
       [147] aload v7
       [149] ldc #28
         + String [versNumber]
-      [151] invokeinterface #119
+      [151] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [156] invokeinterface #120
+      [156] invokeinterface #119
         + InterfaceMethodref [android/database/Cursor.getInt (I)I]
       [161] istore v12
       [163] aload v7
       [165] aload v7
       [167] ldc #26
         + String [updated]
-      [169] invokeinterface #119
+      [169] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [174] invokeinterface #121
+      [174] invokeinterface #120
         + InterfaceMethodref [android/database/Cursor.getLong (I)J]
       [179] lstore v13
       [181] aload_2 v2
@@ -103532,13 +103830,13 @@ Methods (count = 15):
       [190] iload v11
       [192] iload v12
       [194] lload v13
-      [196] invokespecial #92
+      [196] invokespecial #91
         + Methodref [hu/droidium/bibliapp/b/d.<init> (Ljava/lang/String;Ljava/lang/String;IIJ)V]
-      [199] invokevirtual #112
+      [199] invokevirtual #111
         + Methodref [java/util/ArrayList.add (Ljava/lang/Object;)Z]
       [202] pop
       [203] aload v7
-      [205] invokeinterface #124
+      [205] invokeinterface #123
         + InterfaceMethodref [android/database/Cursor.moveToNext ()Z]
       [210] istore v8
       [212] iload v8
@@ -103561,25 +103859,25 @@ Methods (count = 15):
         + String [SELECT COUNT(*) as tagCount FROM tag;]
       [2] astore_1 v1
       [3] aload_0 v0
-      [4] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [4] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [7] ldc #8
         + String [SELECT COUNT(*) as tagCount FROM tag;]
       [9] aconst_null
-      [10] invokevirtual #74
+      [10] invokevirtual #73
         + Methodref [android/database/sqlite/SQLiteDatabase.rawQuery (Ljava/lang/String;[Ljava/lang/String;)Landroid/database/Cursor;]
       [13] astore_2 v2
       [14] aload_2 v2
-      [15] invokeinterface #123
+      [15] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [20] ifeq +18 (target=38)
       [23] aload_2 v2
       [24] aload_2 v2
       [25] ldc #21
         + String [tagCount]
-      [27] invokeinterface #119
+      [27] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [32] invokeinterface #120
+      [32] invokeinterface #119
         + InterfaceMethodref [android/database/Cursor.getInt (I)I]
       [37] ireturn
       [38] iconst_0
@@ -103605,25 +103903,25 @@ Methods (count = 15):
       [10] aastore
       [11] astore_3 v3
       [12] aload_0 v0
-      [13] getfield #63
-        + Fieldref [hu/droidium/bibliapp/b/c.b Landroid/database/sqlite/SQLiteDatabase;]
+      [13] getfield #62
+        + Fieldref [hu/droidium/bibliapp/b/c.a Landroid/database/sqlite/SQLiteDatabase;]
       [16] ldc #7
         + String [SELECT COUNT(*) as tagCount FROM tag WHERE tagId =?;]
       [18] aload_3 v3
-      [19] invokevirtual #74
+      [19] invokevirtual #73
         + Methodref [android/database/sqlite/SQLiteDatabase.rawQuery (Ljava/lang/String;[Ljava/lang/String;)Landroid/database/Cursor;]
       [22] astore v4
       [24] aload v4
-      [26] invokeinterface #123
+      [26] invokeinterface #122
         + InterfaceMethodref [android/database/Cursor.moveToFirst ()Z]
       [31] ifeq +20 (target=51)
       [34] aload v4
       [36] aload v4
       [38] ldc #21
         + String [tagCount]
-      [40] invokeinterface #119
+      [40] invokeinterface #118
         + InterfaceMethodref [android/database/Cursor.getColumnIndex (Ljava/lang/String;)I]
-      [45] invokeinterface #120
+      [45] invokeinterface #119
         + InterfaceMethodref [android/database/Cursor.getInt (I)I]
       [50] ireturn
       [51] iconst_0

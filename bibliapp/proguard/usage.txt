@@ -996,7 +996,7 @@ com.facebook.Settings:
     118:121:public static final void removeLoggingBehavior(com.facebook.LoggingBehavior)
     130:133:public static final void clearLoggingBehaviors()
     180:184:public static void setExecutor(java.util.concurrent.Executor)
-    205:209:public static void setFacebookDomain(java.lang.String)
+    208:209:public static void setFacebookDomain(java.lang.String)
     247:248:public static void publishInstallAsync(android.content.Context,java.lang.String)
     263:280:public static void publishInstallAsync(android.content.Context,java.lang.String,com.facebook.Request$Callback)
     318:319:public static boolean publishInstallAndWait(android.content.Context,java.lang.String)
@@ -1586,14 +1586,13 @@ hu.droidium.bibliapp.database.Bookmark:
     public static final java.lang.String COLUMN_NAME_VERS
     public static final long NEW_ID
     public static final java.lang.String DEFAULT_COLOR
-    101:101:public static java.lang.String getDeleteTableText()
 hu.droidium.bibliapp.database.DatabaseManager:
     public static final java.lang.String DATE_FORMAT
     private static final java.lang.String VERSION_STORE
     private static final java.lang.String VERSION_KEY
-    138:141:public void deleteBookmark(hu.droidium.bibliapp.database.Bookmark)
-    198:219:public boolean addTranslation(hu.droidium.bibliapp.database.Translation)
-    225:249:public java.lang.String getTranslation(java.lang.String,java.lang.String)
+    141:144:public void deleteBookmark(hu.droidium.bibliapp.database.Bookmark)
+    201:222:public boolean addTranslation(hu.droidium.bibliapp.database.Translation)
+    228:252:public java.lang.String getTranslation(java.lang.String,java.lang.String)
 hu.droidium.bibliapp.database.Tag:
     public static final java.lang.String TABLE_NAME
     public static final java.lang.String COLUMN_NAME_TAG_ID

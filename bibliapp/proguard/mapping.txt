@@ -2675,9 +2675,9 @@ hu.droidium.bibliapp.database.Bookmark -> hu.droidium.bibliapp.b.b:
     java.util.Date getLastUpdate() -> f
     java.lang.String getColor() -> g
     java.lang.String getCreateTableText() -> h
+    java.lang.String getDeleteTableText() -> i
 hu.droidium.bibliapp.database.DatabaseManager -> hu.droidium.bibliapp.b.c:
-    hu.droidium.bibliapp.database.BibleDbHelper dbHelper -> a
-    android.database.sqlite.SQLiteDatabase db -> b
+    android.database.sqlite.SQLiteDatabase db -> a
     hu.droidium.bibliapp.database.Bookmark saveBookmark(hu.droidium.bibliapp.database.Bookmark) -> a
     java.util.List getBookmarksForChapter(java.lang.String,int) -> a
     java.util.List getAllBookmarks(java.lang.String,boolean) -> a
