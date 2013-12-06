@@ -4,9 +4,11 @@ import java.util.HashMap;
 import java.util.Vector;
 
 import android.content.Context;
+import android.util.Log;
 
 public class AssetBibleDataAdapter implements BibleDataAdapter {
 	
+	private static final String TAG = AssetBibleDataAdapter.class.getName();
 	private Context context;
 	private Vector<String[]> assets;
 	private Vector<String> bookIds;
@@ -60,10 +62,10 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 
 	@Override
 	public String getVerseLine(String bookId, int chapterIndex, int verseIndex) {
+		Log.e("AssetBibleDataAdapter", bookId);
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
 		}
 		return lastAccessedBook.getChapter(chapterIndex).getVerse(verseIndex).getLine();
 	}
-
 }

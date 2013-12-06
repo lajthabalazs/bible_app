@@ -1,12 +1,15 @@
 package hu.droidium.bibliapp.database;
 
+import java.util.List;
+
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 public class BibleDbHelper extends SQLiteOpenHelper {
 
-	private static final int DATABASE_VERSION = 2;
+	private static final int DATABASE_VERSION = 3;
 	private static final String DATABASE_NAME = "BibleDatabase";
 
 	public BibleDbHelper(Context context) {
@@ -28,6 +31,22 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 			db.execSQL(Tag.getCreateTableText());
 			db.execSQL(TagMeta.getCreateTableText());
 			db.execSQL(Translation.getCreateTableText());
+		} 
+		if (oldVersion < 3) {
+			Log.e("BibleDbHelper", "Database updating from version " + oldVersion);
+			// Change bookmark's book id's from row/xy.txt to xy
+			DatabaseManager databaseManager = new DatabaseManager(db);
+			List<Bookmark> bookmarks = databaseManager.getAllBookmarks(null, false);
+			for (Bookmark bookmark : bookmarks) {
+				String book = bookmark.getBookId();
+				if (book.startsWith("raw")) {
+					book = book.substring(4,6);
+					Bookmark newBookmark = new Bookmark(bookmark.getNote(), book, bookmark.getChapter(), bookmark.getVers(), bookmark.getColor());
+					databaseManager.saveBookmark(newBookmark);
+				}
+			}
+			
+
 		}
 	}
 	

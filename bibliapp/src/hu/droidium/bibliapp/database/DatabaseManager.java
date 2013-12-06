@@ -20,17 +20,20 @@ import android.database.sqlite.SQLiteDatabase;
 public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Translator {
 	
 	public static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
-	BibleDbHelper dbHelper;
 	private SQLiteDatabase db;
 	private static final String VERSION_STORE = "Database version store";
 	private static final String VERSION_KEY = "Database version key";
 	
 	public DatabaseManager(Context context) {
-		dbHelper = new BibleDbHelper(context);
+		BibleDbHelper dbHelper = new BibleDbHelper(context);
 		db = dbHelper.getWritableDatabase();
 		loadTagMetaFromAssets(context);
 	}
-	
+
+	public DatabaseManager(SQLiteDatabase db) {
+		this.db = db;
+	}
+
 	@Override
 	public Bookmark saveBookmark(Bookmark bookmark) {
 		ContentValues values = new ContentValues();
