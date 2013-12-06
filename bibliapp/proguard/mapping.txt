@@ -1,0 +1,2799 @@
+android.support.v4.app.ActivityCompatHoneycomb -> android.support.v4.app.a:
+    void invalidateOptionsMenu(android.app.Activity) -> a
+android.support.v4.app.BackStackRecord -> android.support.v4.app.b:
+    android.support.v4.app.FragmentManagerImpl mManager -> a
+    android.support.v4.app.BackStackRecord$Op mHead -> b
+    android.support.v4.app.BackStackRecord$Op mTail -> c
+    int mNumOp -> d
+    int mEnterAnim -> e
+    int mExitAnim -> f
+    int mPopEnterAnim -> g
+    int mPopExitAnim -> h
+    int mTransition -> i
+    int mTransitionStyle -> j
+    boolean mAddToBackStack -> k
+    boolean mAllowAddToBackStack -> l
+    java.lang.String mName -> m
+    boolean mCommitted -> n
+    int mIndex -> o
+    int mBreadCrumbTitleRes -> p
+    java.lang.CharSequence mBreadCrumbTitleText -> q
+    int mBreadCrumbShortTitleRes -> r
+    java.lang.CharSequence mBreadCrumbShortTitleText -> s
+    void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> a
+    void addOp(android.support.v4.app.BackStackRecord$Op) -> a
+    void bumpBackStackNesting(int) -> a
+    void run() -> run
+    void popFromBackStack(boolean) -> a
+    java.lang.String getName() -> a
+android.support.v4.app.BackStackRecord$Op -> android.support.v4.app.c:
+    android.support.v4.app.BackStackRecord$Op next -> a
+    android.support.v4.app.BackStackRecord$Op prev -> b
+    int cmd -> c
+    android.support.v4.app.Fragment fragment -> d
+    int enterAnim -> e
+    int exitAnim -> f
+    int popEnterAnim -> g
+    int popExitAnim -> h
+    java.util.ArrayList removed -> i
+android.support.v4.app.BackStackState -> android.support.v4.app.BackStackState:
+    int[] mOps -> a
+    int mTransition -> b
+    int mTransitionStyle -> c
+    java.lang.String mName -> d
+    int mIndex -> e
+    int mBreadCrumbTitleRes -> f
+    java.lang.CharSequence mBreadCrumbTitleText -> g
+    int mBreadCrumbShortTitleRes -> h
+    java.lang.CharSequence mBreadCrumbShortTitleText -> i
+    android.os.Parcelable$Creator CREATOR -> CREATOR
+    android.support.v4.app.BackStackRecord instantiate(android.support.v4.app.FragmentManagerImpl) -> a
+    int describeContents() -> describeContents
+    void writeToParcel(android.os.Parcel,int) -> writeToParcel
+android.support.v4.app.BackStackState$1 -> android.support.v4.app.d:
+    android.support.v4.app.BackStackState createFromParcel(android.os.Parcel) -> a
+    android.support.v4.app.BackStackState[] newArray(int) -> a
+    java.lang.Object[] newArray(int) -> newArray
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+android.support.v4.app.Fragment -> android.support.v4.app.Fragment:
+    java.util.HashMap sClassMap -> N
+    int mState -> a
+    android.view.View mAnimatingAway -> b
+    int mStateAfterAnimating -> c
+    android.os.Bundle mSavedFragmentState -> d
+    android.util.SparseArray mSavedViewState -> e
+    int mIndex -> f
+    java.lang.String mWho -> g
+    android.os.Bundle mArguments -> h
+    android.support.v4.app.Fragment mTarget -> i
+    int mTargetIndex -> j
+    int mTargetRequestCode -> k
+    boolean mAdded -> l
+    boolean mRemoving -> m
+    boolean mResumed -> n
+    boolean mFromLayout -> o
+    boolean mInLayout -> p
+    boolean mRestored -> q
+    int mBackStackNesting -> r
+    android.support.v4.app.FragmentManagerImpl mFragmentManager -> s
+    android.support.v4.app.FragmentActivity mActivity -> t
+    int mFragmentId -> u
+    int mContainerId -> v
+    java.lang.String mTag -> w
+    boolean mHidden -> x
+    boolean mDetached -> y
+    boolean mRetainInstance -> z
+    boolean mRetaining -> A
+    boolean mHasMenu -> B
+    boolean mMenuVisible -> C
+    boolean mCalled -> D
+    int mNextAnim -> E
+    android.view.ViewGroup mContainer -> F
+    android.view.View mView -> G
+    android.view.View mInnerView -> H
+    boolean mDeferStart -> I
+    boolean mUserVisibleHint -> J
+    android.support.v4.app.LoaderManagerImpl mLoaderManager -> K
+    boolean mLoadersStarted -> L
+    boolean mCheckedForLoaderManager -> M
+    android.support.v4.app.Fragment instantiate(android.content.Context,java.lang.String) -> a
+    android.support.v4.app.Fragment instantiate(android.content.Context,java.lang.String,android.os.Bundle) -> a
+    void restoreViewState() -> a
+    void setIndex(int) -> a
+    boolean isInBackStack() -> b
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    java.lang.String toString() -> toString
+    android.support.v4.app.FragmentActivity getActivity() -> c
+    void onHiddenChanged(boolean) -> a
+    void startActivityForResult(android.content.Intent,int) -> a
+    void onActivityResult(int,int,android.content.Intent) -> a
+    android.view.LayoutInflater getLayoutInflater(android.os.Bundle) -> a
+    void onInflate(android.app.Activity,android.util.AttributeSet,android.os.Bundle) -> a
+    void onAttach(android.app.Activity) -> a
+    android.view.animation.Animation onCreateAnimation(int,boolean,int) -> a
+    void onCreate(android.os.Bundle) -> b
+    android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle) -> a
+    void onViewCreated(android.view.View,android.os.Bundle) -> a
+    void onActivityCreated(android.os.Bundle) -> c
+    void onStart() -> d
+    void onResume() -> e
+    void onSaveInstanceState(android.os.Bundle) -> d
+    void onConfigurationChanged(android.content.res.Configuration) -> onConfigurationChanged
+    void onPause() -> f
+    void onStop() -> g
+    void onLowMemory() -> onLowMemory
+    void onDestroyView() -> h
+    void onDestroy() -> i
+    void initState() -> j
+    void onDetach() -> k
+    void onCreateOptionsMenu(android.view.Menu,android.view.MenuInflater) -> a
+    void onPrepareOptionsMenu(android.view.Menu) -> a
+    void onDestroyOptionsMenu() -> l
+    boolean onOptionsItemSelected(android.view.MenuItem) -> a
+    void onOptionsMenuClosed(android.view.Menu) -> b
+    void onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo) -> onCreateContextMenu
+    boolean onContextItemSelected(android.view.MenuItem) -> b
+    void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> a
+    void performStart() -> m
+    void performStop() -> n
+    void performReallyStop() -> o
+    void performDestroyView() -> p
+android.support.v4.app.Fragment$InstantiationException -> android.support.v4.app.e:
+android.support.v4.app.Fragment$SavedState -> android.support.v4.app.Fragment$SavedState:
+    android.os.Bundle mState -> a
+    android.os.Parcelable$Creator CREATOR -> CREATOR
+    int describeContents() -> describeContents
+    void writeToParcel(android.os.Parcel,int) -> writeToParcel
+android.support.v4.app.Fragment$SavedState$1 -> android.support.v4.app.f:
+    android.support.v4.app.Fragment$SavedState createFromParcel(android.os.Parcel) -> a
+    android.support.v4.app.Fragment$SavedState[] newArray(int) -> a
+    java.lang.Object[] newArray(int) -> newArray
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+android.support.v4.app.FragmentActivity -> android.support.v4.app.g:
+    android.os.Handler mHandler -> a
+    android.support.v4.app.FragmentManagerImpl mFragments -> b
+    boolean mCreated -> c
+    boolean mResumed -> d
+    boolean mStopped -> e
+    boolean mReallyStopped -> f
+    boolean mRetaining -> g
+    boolean mOptionsMenuInvalidated -> h
+    boolean mCheckedForLoaderManager -> i
+    boolean mLoadersStarted -> j
+    android.support.v4.util.SparseArrayCompat mAllLoaderManagers -> k
+    android.support.v4.app.LoaderManagerImpl mLoaderManager -> l
+    void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    void onBackPressed() -> onBackPressed
+    void onConfigurationChanged(android.content.res.Configuration) -> onConfigurationChanged
+    void onCreate(android.os.Bundle) -> onCreate
+    boolean onCreatePanelMenu(int,android.view.Menu) -> onCreatePanelMenu
+    android.view.View onCreateView(java.lang.String,android.content.Context,android.util.AttributeSet) -> onCreateView
+    void onDestroy() -> onDestroy
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    void onLowMemory() -> onLowMemory
+    boolean onMenuItemSelected(int,android.view.MenuItem) -> onMenuItemSelected
+    void onPanelClosed(int,android.view.Menu) -> onPanelClosed
+    void onPause() -> onPause
+    void onResume() -> onResume
+    void onPostResume() -> onPostResume
+    void onResumeFragments() -> a
+    boolean onPreparePanel(int,android.view.View,android.view.Menu) -> onPreparePanel
+    java.lang.Object onRetainNonConfigurationInstance() -> onRetainNonConfigurationInstance
+    void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
+    void onStart() -> onStart
+    void onStop() -> onStop
+    java.lang.Object onRetainCustomNonConfigurationInstance() -> b
+    void supportInvalidateOptionsMenu() -> c
+    void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> dump
+    void doReallyStop(boolean) -> a
+    void onReallyStop() -> d
+    void onAttachFragment(android.support.v4.app.Fragment) -> a
+    void startActivityForResult(android.content.Intent,int) -> startActivityForResult
+    void startActivityFromFragment(android.support.v4.app.Fragment,android.content.Intent,int) -> a
+    void invalidateSupportFragmentIndex(int) -> a
+    android.support.v4.app.LoaderManagerImpl getLoaderManager(int,boolean,boolean) -> a
+android.support.v4.app.FragmentActivity$FragmentTag -> android.support.v4.app.h:
+    int[] Fragment -> a
+android.support.v4.app.FragmentActivity$NonConfigurationInstances -> android.support.v4.app.i:
+    java.lang.Object activity -> a
+    java.lang.Object custom -> b
+    java.util.HashMap children -> c
+    java.util.ArrayList fragments -> d
+    android.support.v4.util.SparseArrayCompat loaders -> e
+android.support.v4.app.FragmentManager -> android.support.v4.app.j:
+android.support.v4.app.FragmentManager$OnBackStackChangedListener -> android.support.v4.app.k:
+    void onBackStackChanged() -> a
+android.support.v4.app.FragmentManagerImpl -> android.support.v4.app.l:
+    boolean DEBUG -> a
+    boolean HONEYCOMB -> b
+    java.util.ArrayList mPendingActions -> c
+    java.lang.Runnable[] mTmpActions -> d
+    boolean mExecutingActions -> e
+    java.util.ArrayList mActive -> f
+    java.util.ArrayList mAdded -> g
+    java.util.ArrayList mAvailIndices -> h
+    java.util.ArrayList mBackStack -> i
+    java.util.ArrayList mCreatedMenus -> j
+    java.util.ArrayList mBackStackIndices -> k
+    java.util.ArrayList mAvailBackStackIndices -> l
+    java.util.ArrayList mBackStackChangeListeners -> m
+    int mCurState -> n
+    android.support.v4.app.FragmentActivity mActivity -> o
+    boolean mNeedMenuInvalidate -> p
+    boolean mStateSaved -> q
+    boolean mDestroyed -> r
+    java.lang.String mNoTransactionsBecause -> s
+    boolean mHavePendingDeferredStart -> t
+    android.os.Bundle mStateBundle -> u
+    android.util.SparseArray mStateArray -> v
+    java.lang.Runnable mExecCommit -> w
+    android.view.animation.Interpolator DECELERATE_QUINT -> x
+    android.view.animation.Interpolator DECELERATE_CUBIC -> y
+    android.view.animation.Interpolator ACCELERATE_QUINT -> z
+    android.view.animation.Interpolator ACCELERATE_CUBIC -> A
+    boolean executePendingTransactions() -> a
+    boolean popBackStackImmediate() -> b
+    void putFragment(android.os.Bundle,java.lang.String,android.support.v4.app.Fragment) -> a
+    android.support.v4.app.Fragment getFragment(android.os.Bundle,java.lang.String) -> a
+    java.lang.String toString() -> toString
+    void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> a
+    android.view.animation.Animation makeOpenCloseAnimation(android.content.Context,float,float,float,float) -> a
+    android.view.animation.Animation makeFadeAnimation(android.content.Context,float,float) -> a
+    android.view.animation.Animation loadAnimation(android.support.v4.app.Fragment,int,boolean,int) -> a
+    void performPendingDeferredStart(android.support.v4.app.Fragment) -> a
+    void moveToState(android.support.v4.app.Fragment,int,int,int,boolean) -> a
+    void moveToState(android.support.v4.app.Fragment) -> b
+    void moveToState(int,boolean) -> a
+    void moveToState(int,int,int,boolean) -> a
+    void startPendingDeferredFragments() -> c
+    void makeActive(android.support.v4.app.Fragment) -> c
+    void makeInactive(android.support.v4.app.Fragment) -> d
+    void addFragment(android.support.v4.app.Fragment,boolean) -> a
+    void removeFragment(android.support.v4.app.Fragment,int,int) -> a
+    void hideFragment(android.support.v4.app.Fragment,int,int) -> b
+    void showFragment(android.support.v4.app.Fragment,int,int) -> c
+    void detachFragment(android.support.v4.app.Fragment,int,int) -> d
+    void attachFragment(android.support.v4.app.Fragment,int,int) -> e
+    android.support.v4.app.Fragment findFragmentById(int) -> a
+    android.support.v4.app.Fragment findFragmentByTag(java.lang.String) -> a
+    void checkStateLoss() -> r
+    void setBackStackIndex(int,android.support.v4.app.BackStackRecord) -> a
+    void freeBackStackIndex(int) -> b
+    boolean execPendingActions() -> d
+    void reportBackStackChanged() -> e
+    void addBackStackState(android.support.v4.app.BackStackRecord) -> a
+    boolean popBackStackState(android.os.Handler,java.lang.String,int,int) -> a
+    java.util.ArrayList retainNonConfig() -> f
+    void saveFragmentViewState(android.support.v4.app.Fragment) -> e
+    android.os.Bundle saveFragmentBasicState(android.support.v4.app.Fragment) -> f
+    android.os.Parcelable saveAllState() -> g
+    void restoreAllState(android.os.Parcelable,java.util.ArrayList) -> a
+    void attachActivity(android.support.v4.app.FragmentActivity) -> a
+    void noteStateNotSaved() -> h
+    void dispatchCreate() -> i
+    void dispatchActivityCreated() -> j
+    void dispatchStart() -> k
+    void dispatchResume() -> l
+    void dispatchPause() -> m
+    void dispatchStop() -> n
+    void dispatchReallyStop() -> o
+    void dispatchDestroy() -> p
+    void dispatchConfigurationChanged(android.content.res.Configuration) -> a
+    void dispatchLowMemory() -> q
+    boolean dispatchCreateOptionsMenu(android.view.Menu,android.view.MenuInflater) -> a
+    boolean dispatchPrepareOptionsMenu(android.view.Menu) -> a
+    boolean dispatchOptionsItemSelected(android.view.MenuItem) -> a
+    boolean dispatchContextItemSelected(android.view.MenuItem) -> b
+    void dispatchOptionsMenuClosed(android.view.Menu) -> b
+    int reverseTransit(int) -> c
+    int transitToStyleIndex(int,boolean) -> b
+android.support.v4.app.FragmentManagerImpl$5 -> android.support.v4.app.m:
+    android.support.v4.app.Fragment val$fragment -> a
+    android.support.v4.app.FragmentManagerImpl this$0 -> b
+    void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
+    void onAnimationRepeat(android.view.animation.Animation) -> onAnimationRepeat
+    void onAnimationStart(android.view.animation.Animation) -> onAnimationStart
+android.support.v4.app.FragmentManagerState -> android.support.v4.app.FragmentManagerState:
+    android.support.v4.app.FragmentState[] mActive -> a
+    int[] mAdded -> b
+    android.support.v4.app.BackStackState[] mBackStack -> c
+    android.os.Parcelable$Creator CREATOR -> CREATOR
+    int describeContents() -> describeContents
+    void writeToParcel(android.os.Parcel,int) -> writeToParcel
+android.support.v4.app.FragmentManagerState$1 -> android.support.v4.app.n:
+    android.support.v4.app.FragmentManagerState createFromParcel(android.os.Parcel) -> a
+    android.support.v4.app.FragmentManagerState[] newArray(int) -> a
+    java.lang.Object[] newArray(int) -> newArray
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+android.support.v4.app.FragmentState -> android.support.v4.app.FragmentState:
+    java.lang.String mClassName -> a
+    int mIndex -> b
+    boolean mFromLayout -> c
+    int mFragmentId -> d
+    int mContainerId -> e
+    java.lang.String mTag -> f
+    boolean mRetainInstance -> g
+    boolean mDetached -> h
+    android.os.Bundle mArguments -> i
+    android.os.Bundle mSavedFragmentState -> j
+    android.support.v4.app.Fragment mInstance -> k
+    android.os.Parcelable$Creator CREATOR -> CREATOR
+    android.support.v4.app.Fragment instantiate(android.support.v4.app.FragmentActivity) -> a
+    int describeContents() -> describeContents
+    void writeToParcel(android.os.Parcel,int) -> writeToParcel
+android.support.v4.app.FragmentState$1 -> android.support.v4.app.o:
+    android.support.v4.app.FragmentState createFromParcel(android.os.Parcel) -> a
+    android.support.v4.app.FragmentState[] newArray(int) -> a
+    java.lang.Object[] newArray(int) -> newArray
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+android.support.v4.app.FragmentTransaction -> android.support.v4.app.p:
+android.support.v4.app.LoaderManager -> android.support.v4.app.q:
+    boolean hasRunningLoaders() -> a
+android.support.v4.app.LoaderManager$LoaderCallbacks -> android.support.v4.app.r:
+    android.support.v4.content.Loader onCreateLoader(int,android.os.Bundle) -> a
+    void onLoadFinished(android.support.v4.content.Loader,java.lang.Object) -> a
+    void onLoaderReset(android.support.v4.content.Loader) -> a
+android.support.v4.app.LoaderManagerImpl -> android.support.v4.app.s:
+    boolean DEBUG -> a
+    android.support.v4.util.SparseArrayCompat mLoaders -> b
+    android.support.v4.util.SparseArrayCompat mInactiveLoaders -> c
+    android.support.v4.app.FragmentActivity mActivity -> d
+    boolean mStarted -> e
+    boolean mRetaining -> f
+    void updateActivity(android.support.v4.app.FragmentActivity) -> a
+    void doStart() -> b
+    void doStop() -> c
+    void doRetain() -> d
+    void finishRetain() -> e
+    void doReportNextStart() -> f
+    void doReportStart() -> g
+    void doDestroy() -> h
+    java.lang.String toString() -> toString
+    void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> a
+    boolean hasRunningLoaders() -> a
+android.support.v4.app.LoaderManagerImpl$LoaderInfo -> android.support.v4.app.t:
+    int mId -> a
+    android.os.Bundle mArgs -> b
+    android.support.v4.app.LoaderManager$LoaderCallbacks mCallbacks -> c
+    android.support.v4.content.Loader mLoader -> d
+    boolean mHaveData -> e
+    boolean mDeliveredData -> f
+    java.lang.Object mData -> g
+    boolean mStarted -> h
+    boolean mRetaining -> i
+    boolean mRetainingStarted -> j
+    boolean mReportNextStart -> k
+    boolean mDestroyed -> l
+    boolean mListenerRegistered -> m
+    android.support.v4.app.LoaderManagerImpl$LoaderInfo mPendingLoader -> n
+    android.support.v4.app.LoaderManagerImpl this$0 -> o
+    void start() -> a
+    void retain() -> b
+    void finishRetain() -> c
+    void reportStart() -> d
+    void stop() -> e
+    void destroy() -> f
+    void callOnLoadFinished(android.support.v4.content.Loader,java.lang.Object) -> a
+    java.lang.String toString() -> toString
+    void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> a
+android.support.v4.app.NoSaveStateFrameLayout -> android.support.v4.app.u:
+    android.view.ViewGroup wrap(android.view.View) -> a
+    void dispatchSaveInstanceState(android.util.SparseArray) -> dispatchSaveInstanceState
+    void dispatchRestoreInstanceState(android.util.SparseArray) -> dispatchRestoreInstanceState
+android.support.v4.app.SuperNotCalledException -> android.support.v4.app.v:
+android.support.v4.content.Loader -> android.support.v4.a.a:
+    int mId -> a
+    android.support.v4.content.Loader$OnLoadCompleteListener mListener -> b
+    boolean mStarted -> c
+    boolean mAbandoned -> d
+    boolean mReset -> e
+    boolean mContentChanged -> f
+    void registerListener(int,android.support.v4.content.Loader$OnLoadCompleteListener) -> a
+    void unregisterListener(android.support.v4.content.Loader$OnLoadCompleteListener) -> a
+    void startLoading() -> a
+    void onStartLoading() -> b
+    void stopLoading() -> c
+    void onStopLoading() -> d
+    void reset() -> e
+    void onReset() -> f
+    java.lang.String dataToString(java.lang.Object) -> a
+    java.lang.String toString() -> toString
+    void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> a
+android.support.v4.content.Loader$OnLoadCompleteListener -> android.support.v4.a.b:
+android.support.v4.content.LocalBroadcastManager -> android.support.v4.a.c:
+    android.content.Context mAppContext -> a
+    java.util.HashMap mReceivers -> b
+    java.util.HashMap mActions -> c
+    java.util.ArrayList mPendingBroadcasts -> d
+    android.os.Handler mHandler -> e
+    java.lang.Object mLock -> f
+    android.support.v4.content.LocalBroadcastManager mInstance -> g
+    android.support.v4.content.LocalBroadcastManager getInstance(android.content.Context) -> a
+    void registerReceiver(android.content.BroadcastReceiver,android.content.IntentFilter) -> a
+    void unregisterReceiver(android.content.BroadcastReceiver) -> a
+    boolean sendBroadcast(android.content.Intent) -> a
+    void executePendingBroadcasts() -> a
+    void access$000(android.support.v4.content.LocalBroadcastManager) -> a
+android.support.v4.content.LocalBroadcastManager$1 -> android.support.v4.a.d:
+    android.support.v4.content.LocalBroadcastManager this$0 -> a
+    void handleMessage(android.os.Message) -> handleMessage
+android.support.v4.content.LocalBroadcastManager$BroadcastRecord -> android.support.v4.a.e:
+    android.content.Intent intent -> a
+    java.util.ArrayList receivers -> b
+android.support.v4.content.LocalBroadcastManager$ReceiverRecord -> android.support.v4.a.f:
+    android.content.IntentFilter filter -> a
+    android.content.BroadcastReceiver receiver -> b
+    boolean broadcasting -> c
+    java.lang.String toString() -> toString
+android.support.v4.os.ParcelableCompat -> android.support.v4.b.a:
+    android.os.Parcelable$Creator newCreator(android.support.v4.os.ParcelableCompatCreatorCallbacks) -> a
+android.support.v4.os.ParcelableCompat$CompatCreator -> android.support.v4.b.b:
+    android.support.v4.os.ParcelableCompatCreatorCallbacks mCallbacks -> a
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+    java.lang.Object[] newArray(int) -> newArray
+android.support.v4.os.ParcelableCompatCreatorCallbacks -> android.support.v4.b.c:
+    java.lang.Object createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> a
+    java.lang.Object[] newArray(int) -> a
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2 -> android.support.v4.b.d:
+    android.support.v4.os.ParcelableCompatCreatorCallbacks mCallbacks -> a
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+    java.lang.Object createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> createFromParcel
+    java.lang.Object[] newArray(int) -> newArray
+android.support.v4.os.ParcelableCompatCreatorHoneycombMR2Stub -> android.support.v4.b.e:
+    android.os.Parcelable$Creator instantiate(android.support.v4.os.ParcelableCompatCreatorCallbacks) -> a
+android.support.v4.util.DebugUtils -> android.support.v4.c.a:
+    void buildShortClassTag(java.lang.Object,java.lang.StringBuilder) -> a
+android.support.v4.util.LogWriter -> android.support.v4.c.b:
+    java.lang.String mTag -> a
+    java.lang.StringBuilder mBuilder -> b
+    void close() -> close
+    void flush() -> flush
+    void write(char[],int,int) -> write
+    void flushBuilder() -> a
+android.support.v4.util.SparseArrayCompat -> android.support.v4.c.c:
+    java.lang.Object DELETED -> a
+    boolean mGarbage -> b
+    int[] mKeys -> c
+    java.lang.Object[] mValues -> d
+    int mSize -> e
+    java.lang.Object get(int) -> a
+    java.lang.Object get(int,java.lang.Object) -> a
+    void delete(int) -> b
+    void remove(int) -> c
+    void removeAt(int) -> d
+    void gc() -> c
+    void put(int,java.lang.Object) -> b
+    int size() -> a
+    int keyAt(int) -> e
+    java.lang.Object valueAt(int) -> f
+    void clear() -> b
+    int binarySearch(int[],int,int,int) -> a
+    int idealByteArraySize(int) -> g
+    int idealIntArraySize(int) -> h
+android.support.v4.view.KeyEventCompat -> android.support.v4.view.a:
+    android.support.v4.view.KeyEventCompat$KeyEventVersionImpl IMPL -> a
+    boolean hasModifiers(android.view.KeyEvent,int) -> a
+    boolean hasNoModifiers(android.view.KeyEvent) -> a
+android.support.v4.view.KeyEventCompat$BaseKeyEventVersionImpl -> android.support.v4.view.b:
+    int metaStateFilterDirectionalModifiers(int,int,int,int,int) -> a
+    int normalizeMetaState(int) -> a
+    boolean metaStateHasModifiers(int,int) -> a
+    boolean metaStateHasNoModifiers(int) -> b
+android.support.v4.view.KeyEventCompat$HoneycombKeyEventVersionImpl -> android.support.v4.view.c:
+    boolean metaStateHasModifiers(int,int) -> a
+    boolean metaStateHasNoModifiers(int) -> b
+android.support.v4.view.KeyEventCompat$KeyEventVersionImpl -> android.support.v4.view.d:
+    boolean metaStateHasModifiers(int,int) -> a
+    boolean metaStateHasNoModifiers(int) -> b
+android.support.v4.view.KeyEventCompatHoneycomb -> android.support.v4.view.e:
+    boolean metaStateHasModifiers(int,int) -> a
+    boolean metaStateHasNoModifiers(int) -> a
+android.support.v4.view.MotionEventCompat -> android.support.v4.view.f:
+    android.support.v4.view.MotionEventCompat$MotionEventVersionImpl IMPL -> a
+    int getActionIndex(android.view.MotionEvent) -> a
+    int findPointerIndex(android.view.MotionEvent,int) -> a
+    int getPointerId(android.view.MotionEvent,int) -> b
+    float getX(android.view.MotionEvent,int) -> c
+    float getY(android.view.MotionEvent,int) -> d
+android.support.v4.view.MotionEventCompat$BaseMotionEventVersionImpl -> android.support.v4.view.g:
+    int findPointerIndex(android.view.MotionEvent,int) -> a
+    int getPointerId(android.view.MotionEvent,int) -> b
+    float getX(android.view.MotionEvent,int) -> c
+    float getY(android.view.MotionEvent,int) -> d
+android.support.v4.view.MotionEventCompat$EclairMotionEventVersionImpl -> android.support.v4.view.h:
+    int findPointerIndex(android.view.MotionEvent,int) -> a
+    int getPointerId(android.view.MotionEvent,int) -> b
+    float getX(android.view.MotionEvent,int) -> c
+    float getY(android.view.MotionEvent,int) -> d
+android.support.v4.view.MotionEventCompat$MotionEventVersionImpl -> android.support.v4.view.i:
+    int findPointerIndex(android.view.MotionEvent,int) -> a
+    int getPointerId(android.view.MotionEvent,int) -> b
+    float getX(android.view.MotionEvent,int) -> c
+    float getY(android.view.MotionEvent,int) -> d
+android.support.v4.view.MotionEventCompatEclair -> android.support.v4.view.j:
+    int findPointerIndex(android.view.MotionEvent,int) -> a
+    int getPointerId(android.view.MotionEvent,int) -> b
+    float getX(android.view.MotionEvent,int) -> c
+    float getY(android.view.MotionEvent,int) -> d
+android.support.v4.view.PagerAdapter -> android.support.v4.view.k:
+    android.database.DataSetObservable mObservable -> a
+    int getCount() -> a
+    void startUpdate(android.view.ViewGroup) -> a
+    java.lang.Object instantiateItem(android.view.ViewGroup,int) -> a
+    void destroyItem(android.view.ViewGroup,int,java.lang.Object) -> a
+    void setPrimaryItem(android.view.ViewGroup,int,java.lang.Object) -> b
+    void finishUpdate(android.view.ViewGroup) -> b
+    void startUpdate(android.view.View) -> a
+    java.lang.Object instantiateItem(android.view.View,int) -> a
+    void destroyItem(android.view.View,int,java.lang.Object) -> a
+    void setPrimaryItem(android.view.View,int,java.lang.Object) -> b
+    void finishUpdate(android.view.View) -> b
+    boolean isViewFromObject(android.view.View,java.lang.Object) -> a
+    android.os.Parcelable saveState() -> b
+    void restoreState(android.os.Parcelable,java.lang.ClassLoader) -> a
+    int getItemPosition(java.lang.Object) -> a
+    void registerDataSetObserver(android.database.DataSetObserver) -> a
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> b
+    float getPageWidth(int) -> a
+android.support.v4.view.VelocityTrackerCompat -> android.support.v4.view.l:
+    android.support.v4.view.VelocityTrackerCompat$VelocityTrackerVersionImpl IMPL -> a
+    float getXVelocity(android.view.VelocityTracker,int) -> a
+android.support.v4.view.VelocityTrackerCompat$BaseVelocityTrackerVersionImpl -> android.support.v4.view.m:
+    float getXVelocity(android.view.VelocityTracker,int) -> a
+android.support.v4.view.VelocityTrackerCompat$HoneycombVelocityTrackerVersionImpl -> android.support.v4.view.n:
+    float getXVelocity(android.view.VelocityTracker,int) -> a
+android.support.v4.view.VelocityTrackerCompat$VelocityTrackerVersionImpl -> android.support.v4.view.o:
+    float getXVelocity(android.view.VelocityTracker,int) -> a
+android.support.v4.view.VelocityTrackerCompatHoneycomb -> android.support.v4.view.p:
+    float getXVelocity(android.view.VelocityTracker,int) -> a
+android.support.v4.view.ViewCompat -> android.support.v4.view.q:
+    android.support.v4.view.ViewCompat$ViewCompatImpl IMPL -> a
+    boolean canScrollHorizontally(android.view.View,int) -> a
+    int getOverScrollMode(android.view.View) -> a
+    void postInvalidateOnAnimation(android.view.View) -> b
+android.support.v4.view.ViewCompat$BaseViewCompatImpl -> android.support.v4.view.r:
+    boolean canScrollHorizontally(android.view.View,int) -> a
+    int getOverScrollMode(android.view.View) -> a
+    void postInvalidateOnAnimation(android.view.View) -> b
+    long getFrameTime() -> a
+android.support.v4.view.ViewCompat$GBViewCompatImpl -> android.support.v4.view.s:
+    int getOverScrollMode(android.view.View) -> a
+android.support.v4.view.ViewCompat$HCViewCompatImpl -> android.support.v4.view.t:
+    long getFrameTime() -> a
+android.support.v4.view.ViewCompat$ICSViewCompatImpl -> android.support.v4.view.u:
+    boolean canScrollHorizontally(android.view.View,int) -> a
+android.support.v4.view.ViewCompat$JBViewCompatImpl -> android.support.v4.view.v:
+    void postInvalidateOnAnimation(android.view.View) -> b
+android.support.v4.view.ViewCompat$ViewCompatImpl -> android.support.v4.view.w:
+    boolean canScrollHorizontally(android.view.View,int) -> a
+    int getOverScrollMode(android.view.View) -> a
+    void postInvalidateOnAnimation(android.view.View) -> b
+android.support.v4.view.ViewCompatGingerbread -> android.support.v4.view.x:
+    int getOverScrollMode(android.view.View) -> a
+android.support.v4.view.ViewCompatHC -> android.support.v4.view.y:
+    long getFrameTime() -> a
+android.support.v4.view.ViewCompatICS -> android.support.v4.view.z:
+    boolean canScrollHorizontally(android.view.View,int) -> a
+android.support.v4.view.ViewCompatJB -> android.support.v4.view.aa:
+    void postInvalidateOnAnimation(android.view.View) -> a
+android.support.v4.view.ViewPager -> android.support.v4.view.ViewPager:
+    int[] LAYOUT_ATTRS -> a
+    java.util.Comparator COMPARATOR -> b
+    android.view.animation.Interpolator sInterpolator -> c
+    java.util.ArrayList mItems -> d
+    android.support.v4.view.ViewPager$ItemInfo mTempItem -> e
+    android.graphics.Rect mTempRect -> f
+    android.support.v4.view.PagerAdapter mAdapter -> g
+    int mCurItem -> h
+    int mRestoredCurItem -> i
+    android.os.Parcelable mRestoredAdapterState -> j
+    java.lang.ClassLoader mRestoredClassLoader -> k
+    android.widget.Scroller mScroller -> l
+    android.support.v4.view.ViewPager$PagerObserver mObserver -> m
+    int mPageMargin -> n
+    android.graphics.drawable.Drawable mMarginDrawable -> o
+    int mTopPageBounds -> p
+    int mBottomPageBounds -> q
+    float mFirstOffset -> r
+    float mLastOffset -> s
+    int mChildWidthMeasureSpec -> t
+    int mChildHeightMeasureSpec -> u
+    boolean mInLayout -> v
+    boolean mScrollingCacheEnabled -> w
+    boolean mPopulatePending -> x
+    int mOffscreenPageLimit -> y
+    boolean mIsBeingDragged -> z
+    boolean mIsUnableToDrag -> A
+    int mDefaultGutterSize -> B
+    int mGutterSize -> C
+    int mTouchSlop -> D
+    float mInitialMotionX -> E
+    float mLastMotionX -> F
+    float mLastMotionY -> G
+    int mActivePointerId -> H
+    android.view.VelocityTracker mVelocityTracker -> I
+    int mMinimumVelocity -> J
+    int mMaximumVelocity -> K
+    int mFlingDistance -> L
+    int mCloseEnough -> M
+    boolean mFakeDragging -> N
+    android.support.v4.widget.EdgeEffectCompat mLeftEdge -> O
+    android.support.v4.widget.EdgeEffectCompat mRightEdge -> P
+    boolean mFirstLayout -> Q
+    boolean mNeedCalculatePageOffsets -> R
+    boolean mCalledSuper -> S
+    int mDecorChildCount -> T
+    android.support.v4.view.ViewPager$OnPageChangeListener mOnPageChangeListener -> U
+    android.support.v4.view.ViewPager$OnPageChangeListener mInternalPageChangeListener -> V
+    android.support.v4.view.ViewPager$OnAdapterChangeListener mAdapterChangeListener -> W
+    int mScrollState -> Z
+    void setScrollState(int) -> setScrollState
+    void setAdapter(android.support.v4.view.PagerAdapter) -> setAdapter
+    void removeNonDecorViews() -> f
+    android.support.v4.view.PagerAdapter getAdapter() -> getAdapter
+    void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener) -> setOnAdapterChangeListener
+    void setCurrentItem(int) -> setCurrentItem
+    void setCurrentItem(int,boolean) -> a
+    int getCurrentItem() -> getCurrentItem
+    void setCurrentItemInternal(int,boolean,boolean) -> a
+    void setCurrentItemInternal(int,boolean,boolean,int) -> a
+    void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener) -> setOnPageChangeListener
+    int getOffscreenPageLimit() -> getOffscreenPageLimit
+    void setOffscreenPageLimit(int) -> setOffscreenPageLimit
+    void setPageMargin(int) -> setPageMargin
+    int getPageMargin() -> getPageMargin
+    void setPageMarginDrawable(android.graphics.drawable.Drawable) -> setPageMarginDrawable
+    void setPageMarginDrawable(int) -> setPageMarginDrawable
+    boolean verifyDrawable(android.graphics.drawable.Drawable) -> verifyDrawable
+    void drawableStateChanged() -> drawableStateChanged
+    float distanceInfluenceForSnapDuration(float) -> a
+    void smoothScrollTo(int,int,int) -> a
+    android.support.v4.view.ViewPager$ItemInfo addNewItem(int,int) -> a
+    void dataSetChanged() -> a
+    void populate() -> b
+    void populate(int) -> a
+    void calculatePageOffsets(android.support.v4.view.ViewPager$ItemInfo,int,android.support.v4.view.ViewPager$ItemInfo) -> a
+    android.os.Parcelable onSaveInstanceState() -> onSaveInstanceState
+    void onRestoreInstanceState(android.os.Parcelable) -> onRestoreInstanceState
+    void addView(android.view.View,int,android.view.ViewGroup$LayoutParams) -> addView
+    android.support.v4.view.ViewPager$ItemInfo infoForChild(android.view.View) -> a
+    android.support.v4.view.ViewPager$ItemInfo infoForAnyChild(android.view.View) -> b
+    android.support.v4.view.ViewPager$ItemInfo infoForPosition(int) -> b
+    void onAttachedToWindow() -> onAttachedToWindow
+    void onMeasure(int,int) -> onMeasure
+    void onSizeChanged(int,int,int,int) -> onSizeChanged
+    void recomputeScrollPosition(int,int,int,int) -> a
+    void onLayout(boolean,int,int,int,int) -> onLayout
+    void computeScroll() -> computeScroll
+    boolean pageScrolled(int) -> d
+    void onPageScrolled(int,float,int) -> a
+    void completeScroll() -> g
+    boolean isGutterDrag(float,float) -> a
+    boolean onInterceptTouchEvent(android.view.MotionEvent) -> onInterceptTouchEvent
+    boolean onTouchEvent(android.view.MotionEvent) -> onTouchEvent
+    boolean performDrag(float) -> b
+    android.support.v4.view.ViewPager$ItemInfo infoForCurrentScrollPosition() -> h
+    int determineTargetPage(int,float,int,int) -> a
+    void draw(android.graphics.Canvas) -> draw
+    void onDraw(android.graphics.Canvas) -> onDraw
+    void onSecondaryPointerUp(android.view.MotionEvent) -> a
+    void endDrag() -> i
+    void setScrollingCacheEnabled(boolean) -> setScrollingCacheEnabled
+    boolean canScroll(android.view.View,boolean,int,int,int) -> a
+    boolean dispatchKeyEvent(android.view.KeyEvent) -> dispatchKeyEvent
+    boolean executeKeyEvent(android.view.KeyEvent) -> a
+    boolean arrowScroll(int) -> c
+    android.graphics.Rect getChildRectInPagerCoordinates(android.graphics.Rect,android.view.View) -> a
+    boolean pageLeft() -> c
+    boolean pageRight() -> d
+    void addFocusables(java.util.ArrayList,int,int) -> addFocusables
+    void addTouchables(java.util.ArrayList) -> addTouchables
+    boolean onRequestFocusInDescendants(int,android.graphics.Rect) -> onRequestFocusInDescendants
+    boolean dispatchPopulateAccessibilityEvent(android.view.accessibility.AccessibilityEvent) -> dispatchPopulateAccessibilityEvent
+    android.view.ViewGroup$LayoutParams generateDefaultLayoutParams() -> generateDefaultLayoutParams
+    android.view.ViewGroup$LayoutParams generateLayoutParams(android.view.ViewGroup$LayoutParams) -> generateLayoutParams
+    boolean checkLayoutParams(android.view.ViewGroup$LayoutParams) -> checkLayoutParams
+    android.view.ViewGroup$LayoutParams generateLayoutParams(android.util.AttributeSet) -> generateLayoutParams
+    int[] access$300() -> e
+android.support.v4.view.ViewPager$1 -> android.support.v4.view.ab:
+    int compare(android.support.v4.view.ViewPager$ItemInfo,android.support.v4.view.ViewPager$ItemInfo) -> a
+    int compare(java.lang.Object,java.lang.Object) -> compare
+android.support.v4.view.ViewPager$2 -> android.support.v4.view.ac:
+    float getInterpolation(float) -> getInterpolation
+android.support.v4.view.ViewPager$Decor -> android.support.v4.view.ad:
+android.support.v4.view.ViewPager$ItemInfo -> android.support.v4.view.ae:
+    java.lang.Object object -> a
+    int position -> b
+    boolean scrolling -> c
+    float widthFactor -> d
+    float offset -> e
+android.support.v4.view.ViewPager$LayoutParams -> android.support.v4.view.af:
+    boolean isDecor -> a
+    int gravity -> b
+    float widthFactor -> c
+    boolean needsMeasure -> d
+android.support.v4.view.ViewPager$OnAdapterChangeListener -> android.support.v4.view.ag:
+    void onAdapterChanged(android.support.v4.view.PagerAdapter,android.support.v4.view.PagerAdapter) -> a
+android.support.v4.view.ViewPager$OnPageChangeListener -> android.support.v4.view.ah:
+    void onPageScrolled(int,float,int) -> a
+    void onPageSelected(int) -> a
+    void onPageScrollStateChanged(int) -> b
+android.support.v4.view.ViewPager$PagerObserver -> android.support.v4.view.ai:
+    android.support.v4.view.ViewPager this$0 -> a
+    void onChanged() -> onChanged
+    void onInvalidated() -> onInvalidated
+android.support.v4.view.ViewPager$SavedState -> android.support.v4.view.ViewPager$SavedState:
+    int position -> a
+    android.os.Parcelable adapterState -> b
+    java.lang.ClassLoader loader -> c
+    android.os.Parcelable$Creator CREATOR -> CREATOR
+    void writeToParcel(android.os.Parcel,int) -> writeToParcel
+    java.lang.String toString() -> toString
+android.support.v4.view.ViewPager$SavedState$1 -> android.support.v4.view.aj:
+    android.support.v4.view.ViewPager$SavedState createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> b
+    android.support.v4.view.ViewPager$SavedState[] newArray(int) -> b
+    java.lang.Object[] newArray(int) -> a
+    java.lang.Object createFromParcel(android.os.Parcel,java.lang.ClassLoader) -> a
+android.support.v4.widget.EdgeEffectCompat -> android.support.v4.d.a:
+    java.lang.Object mEdgeEffect -> a
+    android.support.v4.widget.EdgeEffectCompat$EdgeEffectImpl IMPL -> b
+    void setSize(int,int) -> a
+    boolean isFinished() -> a
+    void finish() -> b
+    boolean onPull(float) -> a
+    boolean onRelease() -> c
+    boolean draw(android.graphics.Canvas) -> a
+android.support.v4.widget.EdgeEffectCompat$BaseEdgeEffectImpl -> android.support.v4.d.b:
+    void setSize(java.lang.Object,int,int) -> a
+    boolean isFinished(java.lang.Object) -> a
+    void finish(java.lang.Object) -> b
+    boolean onPull(java.lang.Object,float) -> a
+    boolean onRelease(java.lang.Object) -> c
+    boolean draw(java.lang.Object,android.graphics.Canvas) -> a
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectIcsImpl -> android.support.v4.d.c:
+    void setSize(java.lang.Object,int,int) -> a
+    boolean isFinished(java.lang.Object) -> a
+    void finish(java.lang.Object) -> b
+    boolean onPull(java.lang.Object,float) -> a
+    boolean onRelease(java.lang.Object) -> c
+    boolean draw(java.lang.Object,android.graphics.Canvas) -> a
+android.support.v4.widget.EdgeEffectCompat$EdgeEffectImpl -> android.support.v4.d.d:
+    void setSize(java.lang.Object,int,int) -> a
+    boolean isFinished(java.lang.Object) -> a
+    void finish(java.lang.Object) -> b
+    boolean onPull(java.lang.Object,float) -> a
+    boolean onRelease(java.lang.Object) -> c
+    boolean draw(java.lang.Object,android.graphics.Canvas) -> a
+android.support.v4.widget.EdgeEffectCompatIcs -> android.support.v4.d.e:
+    void setSize(java.lang.Object,int,int) -> a
+    boolean isFinished(java.lang.Object) -> a
+    void finish(java.lang.Object) -> b
+    boolean onPull(java.lang.Object,float) -> a
+    boolean onRelease(java.lang.Object) -> c
+    boolean draw(java.lang.Object,android.graphics.Canvas) -> a
+com.facebook.AccessToken -> com.facebook.a:
+    java.util.Date MIN_DATE -> b
+    java.util.Date MAX_DATE -> c
+    java.util.Date DEFAULT_EXPIRATION_TIME -> d
+    java.util.Date DEFAULT_LAST_REFRESH_TIME -> e
+    com.facebook.AccessTokenSource DEFAULT_ACCESS_TOKEN_SOURCE -> f
+    java.util.Date ALREADY_EXPIRED_EXPIRATION_TIME -> g
+    java.util.Date expires -> h
+    java.util.List permissions -> i
+    java.lang.String token -> j
+    com.facebook.AccessTokenSource source -> k
+    java.util.Date lastRefresh -> l
+    boolean $assertionsDisabled -> a
+    java.lang.String getToken() -> a
+    java.util.Date getExpires() -> b
+    java.util.List getPermissions() -> c
+    com.facebook.AccessTokenSource getSource() -> d
+    java.util.Date getLastRefresh() -> e
+    java.lang.String toString() -> toString
+    com.facebook.AccessToken createEmptyToken(java.util.List) -> a
+    com.facebook.AccessToken createFromNativeLogin(android.os.Bundle,com.facebook.AccessTokenSource) -> a
+    com.facebook.AccessToken createFromWebBundle(java.util.List,android.os.Bundle,com.facebook.AccessTokenSource) -> a
+    com.facebook.AccessToken createFromRefresh(com.facebook.AccessToken,android.os.Bundle) -> a
+    com.facebook.AccessToken createFromTokenWithRefreshedPermissions(com.facebook.AccessToken,java.util.List) -> a
+    com.facebook.AccessToken createNew(java.util.List,java.lang.String,java.util.Date,com.facebook.AccessTokenSource) -> a
+    com.facebook.AccessToken createFromCache(android.os.Bundle) -> a
+    android.os.Bundle toCacheBundle() -> f
+    boolean isInvalid() -> g
+    java.lang.String tokenToString() -> h
+    void appendPermissions(java.lang.StringBuilder) -> a
+    java.util.Date getBundleLongAsDate(android.os.Bundle,java.lang.String,java.util.Date) -> a
+com.facebook.AccessTokenSource -> com.facebook.b:
+    com.facebook.AccessTokenSource NONE -> a
+    com.facebook.AccessTokenSource FACEBOOK_APPLICATION_WEB -> b
+    com.facebook.AccessTokenSource FACEBOOK_APPLICATION_NATIVE -> c
+    com.facebook.AccessTokenSource FACEBOOK_APPLICATION_SERVICE -> d
+    com.facebook.AccessTokenSource WEB_VIEW -> e
+    com.facebook.AccessTokenSource TEST_USER -> f
+    com.facebook.AccessTokenSource CLIENT_TOKEN -> g
+    boolean canExtendToken -> h
+    com.facebook.AccessTokenSource[] ENUM$VALUES -> i
+    boolean canExtendToken() -> a
+    com.facebook.AccessTokenSource[] values() -> values
+    com.facebook.AccessTokenSource valueOf(java.lang.String) -> valueOf
+com.facebook.AppEventsLogger -> com.facebook.c:
+    java.lang.String TAG -> a
+    android.content.Context context -> b
+    com.facebook.AppEventsLogger$AccessTokenAppIdPair accessTokenAppId -> c
+    java.util.Map stateMap -> d
+    java.util.Timer flushTimer -> e
+    java.util.Timer supportsAttributionRecheckTimer -> f
+    com.facebook.AppEventsLogger$FlushBehavior flushBehavior -> g
+    boolean requestInFlight -> h
+    android.content.Context applicationContext -> i
+    java.lang.Object staticLock -> j
+    boolean getLimitEventUsage(android.content.Context) -> a
+    com.facebook.AppEventsLogger newLogger(android.content.Context) -> b
+    com.facebook.AppEventsLogger newLogger(android.content.Context,java.lang.String) -> a
+    com.facebook.AppEventsLogger$FlushBehavior getFlushBehavior() -> a
+    void logSdkEvent(java.lang.String,java.lang.Double,android.os.Bundle) -> a
+    java.lang.String getApplicationId() -> b
+    void initializeTimersIfNeeded() -> f
+    void logEvent(java.lang.String,java.lang.Double,android.os.Bundle,boolean) -> a
+    void logEvent(android.content.Context,com.facebook.AppEventsLogger$AppEvent,com.facebook.AppEventsLogger$AccessTokenAppIdPair) -> a
+    void flushIfNecessary() -> g
+    int getAccumulatedEventCount() -> h
+    com.facebook.AppEventsLogger$SessionEventsState getSessionEventsState(android.content.Context,com.facebook.AppEventsLogger$AccessTokenAppIdPair) -> a
+    com.facebook.AppEventsLogger$SessionEventsState getSessionEventsState(com.facebook.AppEventsLogger$AccessTokenAppIdPair) -> a
+    void flush(com.facebook.AppEventsLogger$FlushReason) -> b
+    void flushAndWait(com.facebook.AppEventsLogger$FlushReason) -> c
+    com.facebook.AppEventsLogger$FlushStatistics buildAndExecuteRequests(com.facebook.AppEventsLogger$FlushReason,java.util.Set) -> a
+    com.facebook.Request buildRequestForSession(com.facebook.AppEventsLogger$AccessTokenAppIdPair,com.facebook.AppEventsLogger$SessionEventsState,boolean,com.facebook.AppEventsLogger$FlushStatistics) -> a
+    void handleResponse(com.facebook.AppEventsLogger$AccessTokenAppIdPair,com.facebook.Request,com.facebook.Response,com.facebook.AppEventsLogger$SessionEventsState,com.facebook.AppEventsLogger$FlushStatistics) -> b
+    int accumulatePersistedEvents() -> i
+    java.lang.String access$0() -> c
+    void access$1(com.facebook.AppEventsLogger$FlushReason) -> a
+    java.lang.Object access$2() -> d
+    java.util.Map access$3() -> e
+    void access$4(com.facebook.AppEventsLogger$AccessTokenAppIdPair,com.facebook.Request,com.facebook.Response,com.facebook.AppEventsLogger$SessionEventsState,com.facebook.AppEventsLogger$FlushStatistics) -> a
+com.facebook.AppEventsLogger$1 -> com.facebook.d:
+    void run() -> run
+com.facebook.AppEventsLogger$2 -> com.facebook.e:
+    void run() -> run
+com.facebook.AppEventsLogger$3 -> com.facebook.f:
+    com.facebook.AppEventsLogger$FlushReason val$reason -> a
+    void run() -> run
+com.facebook.AppEventsLogger$4 -> com.facebook.g:
+    com.facebook.AppEventsLogger$AccessTokenAppIdPair val$accessTokenAppId -> a
+    com.facebook.Request val$postRequest -> b
+    com.facebook.AppEventsLogger$SessionEventsState val$sessionEventsState -> c
+    com.facebook.AppEventsLogger$FlushStatistics val$flushState -> d
+    void onCompleted(com.facebook.Response) -> a
+com.facebook.AppEventsLogger$AccessTokenAppIdPair -> com.facebook.h:
+    java.lang.String accessToken -> a
+    java.lang.String applicationId -> b
+    java.lang.String getAccessToken() -> a
+    java.lang.String getApplicationId() -> b
+    int hashCode() -> hashCode
+    boolean equals(java.lang.Object) -> equals
+com.facebook.AppEventsLogger$AppEvent -> com.facebook.i:
+    org.json.JSONObject jsonObject -> a
+    boolean isImplicit -> b
+    java.util.HashSet validatedIdentifiers -> c
+    boolean getIsImplicit() -> a
+    org.json.JSONObject getJSONObject() -> b
+    void validateIdentifier(java.lang.String) -> a
+    java.lang.String toString() -> toString
+com.facebook.AppEventsLogger$FlushBehavior -> com.facebook.j:
+    com.facebook.AppEventsLogger$FlushBehavior AUTO -> a
+    com.facebook.AppEventsLogger$FlushBehavior EXPLICIT_ONLY -> b
+    com.facebook.AppEventsLogger$FlushBehavior[] ENUM$VALUES -> c
+    com.facebook.AppEventsLogger$FlushBehavior[] values() -> values
+    com.facebook.AppEventsLogger$FlushBehavior valueOf(java.lang.String) -> valueOf
+com.facebook.AppEventsLogger$FlushReason -> com.facebook.k:
+    com.facebook.AppEventsLogger$FlushReason EXPLICIT -> a
+    com.facebook.AppEventsLogger$FlushReason TIMER -> b
+    com.facebook.AppEventsLogger$FlushReason SESSION_CHANGE -> c
+    com.facebook.AppEventsLogger$FlushReason PERSISTED_EVENTS -> d
+    com.facebook.AppEventsLogger$FlushReason EVENT_THRESHOLD -> e
+    com.facebook.AppEventsLogger$FlushReason EAGER_FLUSHING_EVENT -> f
+    com.facebook.AppEventsLogger$FlushReason[] ENUM$VALUES -> g
+    com.facebook.AppEventsLogger$FlushReason[] values() -> values
+    com.facebook.AppEventsLogger$FlushReason valueOf(java.lang.String) -> valueOf
+com.facebook.AppEventsLogger$FlushResult -> com.facebook.l:
+    com.facebook.AppEventsLogger$FlushResult SUCCESS -> a
+    com.facebook.AppEventsLogger$FlushResult SERVER_ERROR -> b
+    com.facebook.AppEventsLogger$FlushResult NO_CONNECTIVITY -> c
+    com.facebook.AppEventsLogger$FlushResult UNKNOWN_ERROR -> d
+    com.facebook.AppEventsLogger$FlushResult[] ENUM$VALUES -> e
+    com.facebook.AppEventsLogger$FlushResult[] values() -> values
+    com.facebook.AppEventsLogger$FlushResult valueOf(java.lang.String) -> valueOf
+com.facebook.AppEventsLogger$FlushStatistics -> com.facebook.m:
+    int numEvents -> a
+    com.facebook.AppEventsLogger$FlushResult result -> b
+com.facebook.AppEventsLogger$PersistedEvents -> com.facebook.n:
+    java.lang.Object staticLock -> a
+    android.content.Context context -> b
+    java.util.HashMap persistedEvents -> c
+    com.facebook.AppEventsLogger$PersistedEvents readAndClearStore(android.content.Context) -> a
+    void persistEvents(android.content.Context,com.facebook.AppEventsLogger$AccessTokenAppIdPair,com.facebook.AppEventsLogger$SessionEventsState) -> a
+    void persistEvents(android.content.Context,java.util.Map) -> a
+    java.util.Set keySet() -> a
+    java.util.List getEvents(com.facebook.AppEventsLogger$AccessTokenAppIdPair) -> a
+    void write() -> b
+    void readAndClearStore() -> c
+    void addEvents(com.facebook.AppEventsLogger$AccessTokenAppIdPair,java.util.List) -> a
+com.facebook.AppEventsLogger$SessionEventsState -> com.facebook.o:
+    java.util.List accumulatedEvents -> a
+    java.util.List inFlightEvents -> b
+    int numSkippedEventsDueToFullBuffer -> c
+    java.lang.String attributionId -> d
+    java.lang.String packageName -> e
+    int MAX_ACCUMULATED_LOG_EVENTS -> f
+    void addEvent(com.facebook.AppEventsLogger$AppEvent) -> a
+    int getAccumulatedEventCount() -> a
+    void clearInFlightAndStats(boolean) -> a
+    int populateRequest(com.facebook.Request,boolean,boolean,boolean) -> a
+    java.util.List getEventsToPersist() -> b
+    void accumulatePersistedEvents(java.util.List) -> a
+    void populateRequest(com.facebook.Request,int,org.json.JSONArray,boolean,boolean) -> a
+    byte[] getStringAsByteArray(java.lang.String) -> a
+com.facebook.AuthorizationClient -> com.facebook.p:
+    java.util.List handlersToTry -> a
+    com.facebook.AuthorizationClient$AuthHandler currentHandler -> b
+    android.content.Context context -> c
+    com.facebook.AuthorizationClient$StartActivityDelegate startActivityDelegate -> d
+    com.facebook.AuthorizationClient$OnCompletedListener onCompletedListener -> e
+    com.facebook.AuthorizationClient$BackgroundProcessingListener backgroundProcessingListener -> f
+    boolean checkedInternetPermission -> g
+    com.facebook.AuthorizationClient$AuthorizationRequest pendingRequest -> h
+    java.util.Map loggingExtras -> i
+    com.facebook.AppEventsLogger appEventsLogger -> j
+    void setContext(android.content.Context) -> a
+    void setContext(android.app.Activity) -> a
+    void startOrContinueAuth(com.facebook.AuthorizationClient$AuthorizationRequest) -> a
+    void authorize(com.facebook.AuthorizationClient$AuthorizationRequest) -> b
+    void continueAuth() -> a
+    boolean getInProgress() -> b
+    void cancelCurrentHandler() -> c
+    boolean onActivityResult(int,int,android.content.Intent) -> a
+    java.util.List getHandlerTypes(com.facebook.AuthorizationClient$AuthorizationRequest) -> c
+    boolean checkInternetPermission() -> d
+    void tryNextHandler() -> e
+    void completeWithFailure() -> i
+    void addLoggingExtra(java.lang.String,java.lang.String,boolean) -> a
+    boolean tryCurrentHandler() -> f
+    void completeAndValidate(com.facebook.AuthorizationClient$Result) -> a
+    void complete(com.facebook.AuthorizationClient$Result) -> b
+    void setOnCompletedListener(com.facebook.AuthorizationClient$OnCompletedListener) -> a
+    void setBackgroundProcessingListener(com.facebook.AuthorizationClient$BackgroundProcessingListener) -> a
+    com.facebook.AuthorizationClient$StartActivityDelegate getStartActivityDelegate() -> g
+    int checkPermission(java.lang.String) -> a
+    void validateSameFbidAndFinish(com.facebook.AuthorizationClient$Result) -> c
+    com.facebook.RequestBatch createReauthValidationBatch(com.facebook.AuthorizationClient$Result) -> d
+    com.facebook.Request createGetPermissionsRequest(java.lang.String) -> b
+    com.facebook.Request createGetProfileIdRequest(java.lang.String) -> c
+    void notifyOnCompleteListener(com.facebook.AuthorizationClient$Result) -> e
+    void notifyBackgroundProcessingStart() -> j
+    void notifyBackgroundProcessingStop() -> k
+    void logAuthorizationMethodStart(java.lang.String) -> e
+    void logAuthorizationMethodComplete(java.lang.String,com.facebook.AuthorizationClient$Result,java.util.Map) -> a
+    void logAuthorizationMethodComplete(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Map) -> a
+    android.os.Bundle newAuthorizationLoggingBundle(java.lang.String) -> d
+    java.lang.String getE2E() -> l
+    void logWebLoginCompleted(java.lang.String,java.lang.String) -> a
+    java.lang.String access$0() -> h
+    void access$1(com.facebook.AuthorizationClient,java.lang.String,java.lang.String) -> a
+    void access$2(com.facebook.AuthorizationClient) -> a
+    void access$3(com.facebook.AuthorizationClient) -> b
+com.facebook.AuthorizationClient$1 -> com.facebook.q:
+    com.facebook.AuthorizationClient this$0 -> a
+    android.app.Activity val$activity -> b
+    void startActivityForResult(android.content.Intent,int) -> a
+    android.app.Activity getActivityContext() -> a
+com.facebook.AuthorizationClient$2 -> com.facebook.r:
+    com.facebook.AuthorizationClient this$0 -> a
+    void startActivityForResult(android.content.Intent,int) -> a
+    android.app.Activity getActivityContext() -> a
+com.facebook.AuthorizationClient$3 -> com.facebook.s:
+    com.facebook.AuthorizationClient this$0 -> a
+    java.util.ArrayList val$fbids -> b
+    void onCompleted(com.facebook.Response) -> a
+com.facebook.AuthorizationClient$4 -> com.facebook.t:
+    com.facebook.AuthorizationClient this$0 -> a
+    java.util.ArrayList val$tokenPermissions -> b
+    void onCompleted(com.facebook.Response) -> a
+com.facebook.AuthorizationClient$5 -> com.facebook.u:
+    com.facebook.AuthorizationClient this$0 -> a
+    java.util.ArrayList val$fbids -> b
+    com.facebook.AuthorizationClient$Result val$pendingResult -> c
+    java.util.ArrayList val$tokenPermissions -> d
+    void onBatchCompleted(com.facebook.RequestBatch) -> a
+com.facebook.AuthorizationClient$AuthDialogBuilder -> com.facebook.v:
+    java.lang.String e2e -> a
+    com.facebook.AuthorizationClient$AuthDialogBuilder setE2E(java.lang.String) -> a
+    com.facebook.widget.WebDialog build() -> a
+com.facebook.AuthorizationClient$AuthHandler -> com.facebook.w:
+    java.util.Map methodLoggingExtras -> a
+    com.facebook.AuthorizationClient this$0 -> b
+    boolean tryAuthorize(com.facebook.AuthorizationClient$AuthorizationRequest) -> a
+    java.lang.String getNameForLogging() -> a
+    boolean onActivityResult(int,int,android.content.Intent) -> a
+    boolean needsRestart() -> b
+    boolean needsInternetPermission() -> c
+    void cancel() -> d
+    void addLoggingExtra(java.lang.String,java.lang.String) -> a
+com.facebook.AuthorizationClient$AuthorizationRequest -> com.facebook.x:
+    com.facebook.AuthorizationClient$StartActivityDelegate startActivityDelegate -> a
+    com.facebook.SessionLoginBehavior loginBehavior -> b
+    int requestCode -> c
+    boolean isLegacy -> d
+    java.util.List permissions -> e
+    com.facebook.SessionDefaultAudience defaultAudience -> f
+    java.lang.String applicationId -> g
+    java.lang.String previousAccessToken -> h
+    java.lang.String authId -> i
+    com.facebook.AuthorizationClient$StartActivityDelegate getStartActivityDelegate() -> a
+    java.util.List getPermissions() -> b
+    void setPermissions(java.util.List) -> a
+    com.facebook.SessionLoginBehavior getLoginBehavior() -> c
+    int getRequestCode() -> d
+    com.facebook.SessionDefaultAudience getDefaultAudience() -> e
+    java.lang.String getApplicationId() -> f
+    boolean isLegacy() -> g
+    java.lang.String getPreviousAccessToken() -> h
+    boolean needsNewTokenValidation() -> i
+    java.lang.String getAuthId() -> j
+com.facebook.AuthorizationClient$BackgroundProcessingListener -> com.facebook.y:
+    void onBackgroundProcessingStarted() -> a
+    void onBackgroundProcessingStopped() -> b
+com.facebook.AuthorizationClient$GetTokenAuthHandler -> com.facebook.z:
+    com.facebook.GetTokenClient getTokenClient -> d
+    com.facebook.AuthorizationClient this$0 -> c
+    java.lang.String getNameForLogging() -> a
+    void cancel() -> d
+    boolean tryAuthorize(com.facebook.AuthorizationClient$AuthorizationRequest) -> a
+    void getTokenCompleted(com.facebook.AuthorizationClient$AuthorizationRequest,android.os.Bundle) -> a
+com.facebook.AuthorizationClient$GetTokenAuthHandler$1 -> com.facebook.aa:
+    com.facebook.AuthorizationClient$GetTokenAuthHandler this$1 -> a
+    com.facebook.AuthorizationClient$AuthorizationRequest val$request -> b
+    void completed(android.os.Bundle) -> a
+com.facebook.AuthorizationClient$KatanaAuthHandler -> com.facebook.ab:
+    com.facebook.AuthorizationClient this$0 -> c
+    boolean tryIntent(android.content.Intent,int) -> a
+com.facebook.AuthorizationClient$KatanaLoginDialogAuthHandler -> com.facebook.ac:
+    java.lang.String applicationId -> e
+    java.lang.String callId -> f
+    com.facebook.AuthorizationClient this$0 -> d
+    java.lang.String getNameForLogging() -> a
+    boolean tryAuthorize(com.facebook.AuthorizationClient$AuthorizationRequest) -> a
+    boolean onActivityResult(int,int,android.content.Intent) -> a
+    com.facebook.AuthorizationClient$Result handleResultOk(android.content.Intent) -> a
+    com.facebook.AuthorizationClient$Result createCancelOrErrorResult(com.facebook.AuthorizationClient$AuthorizationRequest,android.content.Intent) -> a
+    void logEvent(java.lang.String,java.lang.String,java.lang.String) -> a
+com.facebook.AuthorizationClient$KatanaProxyAuthHandler -> com.facebook.ad:
+    java.lang.String applicationId -> e
+    com.facebook.AuthorizationClient this$0 -> d
+    java.lang.String getNameForLogging() -> a
+    boolean tryAuthorize(com.facebook.AuthorizationClient$AuthorizationRequest) -> a
+    boolean onActivityResult(int,int,android.content.Intent) -> a
+    com.facebook.AuthorizationClient$Result handleResultOk(android.content.Intent) -> a
+com.facebook.AuthorizationClient$OnCompletedListener -> com.facebook.ae:
+    void onCompleted(com.facebook.AuthorizationClient$Result) -> a
+com.facebook.AuthorizationClient$Result -> com.facebook.af:
+    com.facebook.AuthorizationClient$Result$Code code -> a
+    com.facebook.AccessToken token -> b
+    java.lang.String errorMessage -> c
+    java.lang.String errorCode -> d
+    com.facebook.AuthorizationClient$AuthorizationRequest request -> e
+    java.util.Map loggingExtras -> f
+    com.facebook.AuthorizationClient$Result createTokenResult(com.facebook.AuthorizationClient$AuthorizationRequest,com.facebook.AccessToken) -> a
+    com.facebook.AuthorizationClient$Result createCancelResult(com.facebook.AuthorizationClient$AuthorizationRequest,java.lang.String) -> a
+    com.facebook.AuthorizationClient$Result createErrorResult(com.facebook.AuthorizationClient$AuthorizationRequest,java.lang.String,java.lang.String) -> a
+    com.facebook.AuthorizationClient$Result createErrorResult(com.facebook.AuthorizationClient$AuthorizationRequest,java.lang.String,java.lang.String,java.lang.String) -> a
+com.facebook.AuthorizationClient$Result$Code -> com.facebook.ag:
+    com.facebook.AuthorizationClient$Result$Code SUCCESS -> a
+    com.facebook.AuthorizationClient$Result$Code CANCEL -> b
+    com.facebook.AuthorizationClient$Result$Code ERROR -> c
+    java.lang.String loggingValue -> d
+    com.facebook.AuthorizationClient$Result$Code[] ENUM$VALUES -> e
+    java.lang.String getLoggingValue() -> a
+    com.facebook.AuthorizationClient$Result$Code[] values() -> values
+    com.facebook.AuthorizationClient$Result$Code valueOf(java.lang.String) -> valueOf
+com.facebook.AuthorizationClient$StartActivityDelegate -> com.facebook.ah:
+    void startActivityForResult(android.content.Intent,int) -> a
+    android.app.Activity getActivityContext() -> a
+com.facebook.AuthorizationClient$WebViewAuthHandler -> com.facebook.ai:
+    com.facebook.widget.WebDialog loginDialog -> d
+    java.lang.String applicationId -> e
+    java.lang.String e2e -> f
+    com.facebook.AuthorizationClient this$0 -> c
+    java.lang.String getNameForLogging() -> a
+    boolean needsRestart() -> b
+    boolean needsInternetPermission() -> c
+    void cancel() -> d
+    boolean tryAuthorize(com.facebook.AuthorizationClient$AuthorizationRequest) -> a
+    void onWebDialogComplete(com.facebook.AuthorizationClient$AuthorizationRequest,android.os.Bundle,com.facebook.FacebookException) -> a
+    void saveCookieToken(java.lang.String) -> a
+    java.lang.String loadCookieToken() -> e
+com.facebook.AuthorizationClient$WebViewAuthHandler$1 -> com.facebook.aj:
+    com.facebook.AuthorizationClient$WebViewAuthHandler this$1 -> a
+    com.facebook.AuthorizationClient$AuthorizationRequest val$request -> b
+    void onComplete(android.os.Bundle,com.facebook.FacebookException) -> a
+com.facebook.FacebookAuthorizationException -> com.facebook.ak:
+com.facebook.FacebookDialogException -> com.facebook.al:
+    int errorCode -> a
+    java.lang.String failingUrl -> b
+com.facebook.FacebookException -> com.facebook.am:
+com.facebook.FacebookGraphObjectException -> com.facebook.an:
+com.facebook.FacebookOperationCanceledException -> com.facebook.ao:
+com.facebook.FacebookRequestError -> com.facebook.ap:
+    com.facebook.FacebookRequestError$Range EC_RANGE_PERMISSION -> a
+    com.facebook.FacebookRequestError$Range HTTP_RANGE_SUCCESS -> b
+    com.facebook.FacebookRequestError$Range HTTP_RANGE_CLIENT_ERROR -> c
+    com.facebook.FacebookRequestError$Range HTTP_RANGE_SERVER_ERROR -> d
+    int userActionMessageId -> e
+    boolean shouldNotifyUser -> f
+    com.facebook.FacebookRequestError$Category category -> g
+    int requestStatusCode -> h
+    int errorCode -> i
+    int subErrorCode -> j
+    java.lang.String errorType -> k
+    java.lang.String errorMessage -> l
+    org.json.JSONObject requestResult -> m
+    org.json.JSONObject requestResultBody -> n
+    java.lang.Object batchRequestResult -> o
+    java.net.HttpURLConnection connection -> p
+    com.facebook.FacebookException exception -> q
+    int getRequestStatusCode() -> a
+    int getErrorCode() -> b
+    java.lang.String getErrorType() -> c
+    java.lang.String getErrorMessage() -> d
+    com.facebook.FacebookException getException() -> e
+    java.lang.String toString() -> toString
+    com.facebook.FacebookRequestError checkResponseAndCreateError(org.json.JSONObject,java.lang.Object,java.net.HttpURLConnection) -> a
+com.facebook.FacebookRequestError$Category -> com.facebook.aq:
+    com.facebook.FacebookRequestError$Category AUTHENTICATION_RETRY -> a
+    com.facebook.FacebookRequestError$Category AUTHENTICATION_REOPEN_SESSION -> b
+    com.facebook.FacebookRequestError$Category PERMISSION -> c
+    com.facebook.FacebookRequestError$Category SERVER -> d
+    com.facebook.FacebookRequestError$Category THROTTLING -> e
+    com.facebook.FacebookRequestError$Category OTHER -> f
+    com.facebook.FacebookRequestError$Category BAD_REQUEST -> g
+    com.facebook.FacebookRequestError$Category CLIENT -> h
+    com.facebook.FacebookRequestError$Category[] ENUM$VALUES -> i
+    com.facebook.FacebookRequestError$Category[] values() -> values
+    com.facebook.FacebookRequestError$Category valueOf(java.lang.String) -> valueOf
+com.facebook.FacebookRequestError$Range -> com.facebook.ar:
+    int start -> a
+    int end -> b
+    boolean contains(int) -> a
+com.facebook.FacebookServiceException -> com.facebook.as:
+    com.facebook.FacebookRequestError error -> a
+    com.facebook.FacebookRequestError getRequestError() -> a
+    java.lang.String toString() -> toString
+com.facebook.GetTokenClient -> com.facebook.at:
+    void populateRequestBundle(android.os.Bundle) -> a
+com.facebook.HttpMethod -> com.facebook.au:
+    com.facebook.HttpMethod GET -> a
+    com.facebook.HttpMethod POST -> b
+    com.facebook.HttpMethod DELETE -> c
+    com.facebook.HttpMethod[] ENUM$VALUES -> d
+    com.facebook.HttpMethod[] values() -> values
+    com.facebook.HttpMethod valueOf(java.lang.String) -> valueOf
+com.facebook.LoggingBehavior -> com.facebook.av:
+    com.facebook.LoggingBehavior REQUESTS -> a
+    com.facebook.LoggingBehavior INCLUDE_ACCESS_TOKENS -> b
+    com.facebook.LoggingBehavior INCLUDE_RAW_RESPONSES -> c
+    com.facebook.LoggingBehavior CACHE -> d
+    com.facebook.LoggingBehavior APP_EVENTS -> e
+    com.facebook.LoggingBehavior DEVELOPER_ERRORS -> f
+    com.facebook.LoggingBehavior INSIGHTS -> g
+    com.facebook.LoggingBehavior[] ENUM$VALUES -> h
+    com.facebook.LoggingBehavior[] values() -> values
+    com.facebook.LoggingBehavior valueOf(java.lang.String) -> valueOf
+com.facebook.LoginActivity -> com.facebook.LoginActivity:
+    java.lang.String TAG -> a
+    java.lang.String callingPackage -> b
+    com.facebook.AuthorizationClient authorizationClient -> c
+    com.facebook.AuthorizationClient$AuthorizationRequest request -> d
+    void onCreate(android.os.Bundle) -> onCreate
+    void onAuthClientCompleted(com.facebook.AuthorizationClient$Result) -> a
+    void onResume() -> onResume
+    void onPause() -> onPause
+    void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
+    void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    android.os.Bundle populateIntentExtras(com.facebook.AuthorizationClient$AuthorizationRequest) -> a
+    void access$0(com.facebook.LoginActivity,com.facebook.AuthorizationClient$Result) -> a
+com.facebook.LoginActivity$1 -> com.facebook.aw:
+    com.facebook.LoginActivity this$0 -> a
+    void onCompleted(com.facebook.AuthorizationClient$Result) -> a
+com.facebook.LoginActivity$2 -> com.facebook.ax:
+    com.facebook.LoginActivity this$0 -> a
+    void onBackgroundProcessingStarted() -> a
+    void onBackgroundProcessingStopped() -> b
+com.facebook.NativeAppCallAttachmentStore -> com.facebook.ay:
+    java.lang.String TAG -> a
+    java.io.File attachmentsDirectory -> b
+    void cleanupAttachmentsForCall(android.content.Context,java.util.UUID) -> a
+    java.io.File getAttachmentsDirectoryForCall(java.util.UUID,boolean) -> a
+com.facebook.Request -> com.facebook.Request:
+    java.lang.String defaultBatchApplicationId -> a
+    com.facebook.Session session -> b
+    com.facebook.HttpMethod httpMethod -> c
+    java.lang.String graphPath -> d
+    com.facebook.model.GraphObject graphObject -> e
+    java.lang.String restMethod -> f
+    java.lang.String batchEntryName -> g
+    java.lang.String batchEntryDependsOn -> h
+    boolean batchEntryOmitResultOnSuccess -> i
+    android.os.Bundle parameters -> j
+    com.facebook.Request$Callback callback -> k
+    java.lang.String overriddenURL -> l
+    java.lang.Object tag -> m
+    java.lang.String userAgent -> n
+    com.facebook.Request newPostRequest(com.facebook.Session,java.lang.String,com.facebook.model.GraphObject,com.facebook.Request$Callback) -> a
+    com.facebook.Request newMeRequest(com.facebook.Session,com.facebook.Request$GraphUserCallback) -> a
+    com.facebook.Request newGraphPathRequest(com.facebook.Session,java.lang.String,com.facebook.Request$Callback) -> a
+    com.facebook.model.GraphObject getGraphObject() -> a
+    void setGraphObject(com.facebook.model.GraphObject) -> a
+    void setHttpMethod(com.facebook.HttpMethod) -> a
+    android.os.Bundle getParameters() -> b
+    void setParameters(android.os.Bundle) -> a
+    com.facebook.Session getSession() -> c
+    void setCallback(com.facebook.Request$Callback) -> a
+    void setTag(java.lang.Object) -> a
+    java.lang.Object getTag() -> d
+    com.facebook.RequestAsyncTask executeMeRequestAsync(com.facebook.Session,com.facebook.Request$GraphUserCallback) -> b
+    com.facebook.Response executeAndWait() -> e
+    com.facebook.RequestAsyncTask executeAsync() -> f
+    java.net.HttpURLConnection toHttpConnection(com.facebook.RequestBatch) -> a
+    com.facebook.Response executeAndWait(com.facebook.Request) -> a
+    java.util.List executeBatchAndWait(com.facebook.Request[]) -> a
+    java.util.List executeBatchAndWait(java.util.Collection) -> a
+    java.util.List executeBatchAndWait(com.facebook.RequestBatch) -> b
+    com.facebook.RequestAsyncTask executeBatchAsync(com.facebook.Request[]) -> b
+    com.facebook.RequestAsyncTask executeBatchAsync(java.util.Collection) -> b
+    com.facebook.RequestAsyncTask executeBatchAsync(com.facebook.RequestBatch) -> c
+    java.util.List executeConnectionAndWait(java.net.HttpURLConnection,com.facebook.RequestBatch) -> a
+    java.lang.String toString() -> toString
+    void runCallbacks(com.facebook.RequestBatch,java.util.List) -> a
+    java.net.HttpURLConnection createConnection(java.net.URL) -> a
+    void addCommonParameters() -> i
+    java.lang.String appendParametersToBaseUrl(java.lang.String) -> a
+    java.lang.String getUrlForBatchedRequest() -> g
+    java.lang.String getUrlForSingleRequest() -> h
+    void serializeToBatch(org.json.JSONArray,android.os.Bundle) -> a
+    void validate() -> j
+    void serializeToUrlConnection(com.facebook.RequestBatch,java.net.HttpURLConnection) -> a
+    void processGraphObject(com.facebook.model.GraphObject,java.lang.String,com.facebook.Request$KeyValueSerializer) -> a
+    void processGraphObjectProperty(java.lang.String,java.lang.Object,com.facebook.Request$KeyValueSerializer,boolean) -> a
+    void serializeParameters(android.os.Bundle,com.facebook.Request$Serializer) -> a
+    void serializeAttachments(android.os.Bundle,com.facebook.Request$Serializer) -> b
+    void serializeRequestsAsJSON(com.facebook.Request$Serializer,java.util.Collection,android.os.Bundle) -> a
+    java.lang.String getMimeContentType() -> k
+    java.lang.String getUserAgent() -> l
+    java.lang.String getBatchAppId(com.facebook.RequestBatch) -> d
+    boolean isSupportedAttachmentType(java.lang.Object) -> d
+    boolean isSupportedParameterType(java.lang.Object) -> e
+    java.lang.String parameterToString(java.lang.Object) -> f
+    boolean access$0(java.lang.Object) -> b
+    java.lang.String access$1(java.lang.Object) -> c
+com.facebook.Request$1 -> com.facebook.az:
+    com.facebook.Request$GraphUserCallback val$callback -> a
+    void onCompleted(com.facebook.Response) -> a
+com.facebook.Request$4 -> com.facebook.ba:
+    java.util.ArrayList val$callbacks -> a
+    com.facebook.RequestBatch val$requests -> b
+    void run() -> run
+com.facebook.Request$5 -> com.facebook.bb:
+    com.facebook.Request this$0 -> a
+    java.util.ArrayList val$keysAndValues -> b
+    void writeString(java.lang.String,java.lang.String) -> a
+com.facebook.Request$Callback -> com.facebook.bc:
+    void onCompleted(com.facebook.Response) -> a
+com.facebook.Request$GraphUserCallback -> com.facebook.bd:
+    void onCompleted(com.facebook.model.GraphUser,com.facebook.Response) -> a
+com.facebook.Request$KeyValueSerializer -> com.facebook.be:
+    void writeString(java.lang.String,java.lang.String) -> a
+com.facebook.Request$ParcelFileDescriptorWithMimeType -> com.facebook.Request$ParcelFileDescriptorWithMimeType:
+    java.lang.String mimeType -> a
+    android.os.ParcelFileDescriptor fileDescriptor -> b
+    android.os.Parcelable$Creator CREATOR -> CREATOR
+    java.lang.String getMimeType() -> a
+    android.os.ParcelFileDescriptor getFileDescriptor() -> b
+    int describeContents() -> describeContents
+    void writeToParcel(android.os.Parcel,int) -> writeToParcel
+com.facebook.Request$ParcelFileDescriptorWithMimeType$1 -> com.facebook.bf:
+    com.facebook.Request$ParcelFileDescriptorWithMimeType createFromParcel(android.os.Parcel) -> a
+    com.facebook.Request$ParcelFileDescriptorWithMimeType[] newArray(int) -> a
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+    java.lang.Object[] newArray(int) -> newArray
+com.facebook.Request$Serializer -> com.facebook.bg:
+    java.io.BufferedOutputStream outputStream -> a
+    com.facebook.internal.Logger logger -> b
+    boolean firstWrite -> c
+    void writeObject(java.lang.String,java.lang.Object) -> a
+    void writeString(java.lang.String,java.lang.String) -> a
+    void writeBitmap(java.lang.String,android.graphics.Bitmap) -> a
+    void writeBytes(java.lang.String,byte[]) -> a
+    void writeFile(java.lang.String,com.facebook.Request$ParcelFileDescriptorWithMimeType) -> a
+    void writeFile(java.lang.String,android.os.ParcelFileDescriptor,java.lang.String) -> a
+    void writeRecordBoundary() -> a
+    void writeContentDisposition(java.lang.String,java.lang.String,java.lang.String) -> a
+    void write(java.lang.String,java.lang.Object[]) -> a
+    void writeLine(java.lang.String,java.lang.Object[]) -> b
+com.facebook.RequestAsyncTask -> com.facebook.bh:
+    java.lang.String TAG -> a
+    java.lang.reflect.Method executeOnExecutorMethod -> b
+    java.net.HttpURLConnection connection -> c
+    com.facebook.RequestBatch requests -> d
+    java.lang.Exception exception -> e
+    java.lang.String toString() -> toString
+    void onPreExecute() -> onPreExecute
+    void onPostExecute(java.util.List) -> a
+    java.util.List doInBackground(java.lang.Void[]) -> a
+    com.facebook.RequestAsyncTask executeOnSettingsExecutor() -> a
+    void onPostExecute(java.lang.Object) -> onPostExecute
+    java.lang.Object doInBackground(java.lang.Object[]) -> doInBackground
+com.facebook.RequestBatch -> com.facebook.bi:
+    java.util.concurrent.atomic.AtomicInteger idGenerator -> a
+    android.os.Handler callbackHandler -> b
+    java.util.List requests -> c
+    int timeoutInMilliseconds -> d
+    java.lang.String id -> e
+    java.util.List callbacks -> f
+    java.lang.String batchApplicationId -> g
+    int getTimeout() -> a
+    void addCallback(com.facebook.RequestBatch$Callback) -> a
+    boolean add(com.facebook.Request) -> a
+    void add(int,com.facebook.Request) -> a
+    void clear() -> clear
+    com.facebook.Request get(int) -> a
+    com.facebook.Request remove(int) -> b
+    com.facebook.Request set(int,com.facebook.Request) -> b
+    int size() -> size
+    java.lang.String getId() -> b
+    android.os.Handler getCallbackHandler() -> c
+    void setCallbackHandler(android.os.Handler) -> a
+    java.util.List getRequests() -> d
+    java.util.List getCallbacks() -> e
+    java.lang.String getBatchApplicationId() -> f
+    void setBatchApplicationId(java.lang.String) -> a
+    java.util.List executeAndWait() -> g
+    com.facebook.RequestAsyncTask executeAsync() -> h
+    java.util.List executeAndWaitImpl() -> i
+    com.facebook.RequestAsyncTask executeAsyncImpl() -> j
+    java.lang.Object get(int) -> get
+    void add(int,java.lang.Object) -> add
+    boolean add(java.lang.Object) -> add
+    java.lang.Object set(int,java.lang.Object) -> set
+    java.lang.Object remove(int) -> remove
+com.facebook.RequestBatch$Callback -> com.facebook.bj:
+    void onBatchCompleted(com.facebook.RequestBatch) -> a
+com.facebook.Response -> com.facebook.bk:
+    java.net.HttpURLConnection connection -> b
+    com.facebook.model.GraphObject graphObject -> c
+    com.facebook.model.GraphObjectList graphObjectList -> d
+    boolean isFromCache -> e
+    com.facebook.FacebookRequestError error -> f
+    com.facebook.Request request -> g
+    com.facebook.internal.FileLruCache responseCache -> h
+    boolean $assertionsDisabled -> a
+    com.facebook.FacebookRequestError getError() -> a
+    com.facebook.model.GraphObject getGraphObject() -> b
+    com.facebook.model.GraphObject getGraphObjectAs(java.lang.Class) -> a
+    java.lang.String toString() -> toString
+    com.facebook.internal.FileLruCache getResponseCache() -> c
+    java.util.List fromHttpConnection(java.net.HttpURLConnection,com.facebook.RequestBatch) -> a
+    java.util.List createResponsesFromStream(java.io.InputStream,java.net.HttpURLConnection,com.facebook.RequestBatch,boolean) -> a
+    java.util.List createResponsesFromString(java.lang.String,java.net.HttpURLConnection,com.facebook.RequestBatch,boolean) -> a
+    java.util.List createResponsesFromObject(java.net.HttpURLConnection,java.util.List,java.lang.Object,boolean) -> a
+    com.facebook.Response createResponseFromObject(com.facebook.Request,java.net.HttpURLConnection,java.lang.Object,boolean,java.lang.Object) -> a
+    java.util.List constructErrorResponses(java.util.List,java.net.HttpURLConnection,com.facebook.FacebookException) -> a
+com.facebook.Session -> com.facebook.bl:
+    java.lang.String TAG -> a
+    java.lang.Object STATIC_LOCK -> b
+    com.facebook.Session activeSession -> c
+    android.content.Context staticContext -> d
+    java.util.Set OTHER_PUBLISH_PERMISSIONS -> e
+    java.lang.String applicationId -> f
+    com.facebook.SessionState state -> g
+    com.facebook.AccessToken tokenInfo -> h
+    java.util.Date lastAttemptedTokenExtendDate -> i
+    com.facebook.Session$AuthorizationRequest pendingAuthorizationRequest -> j
+    com.facebook.AuthorizationClient authorizationClient -> k
+    android.os.Bundle authorizationBundle -> l
+    java.util.List callbacks -> m
+    android.os.Handler handler -> n
+    com.facebook.Session$AutoPublishAsyncTask autoPublishAsyncTask -> o
+    java.lang.Object lock -> p
+    com.facebook.TokenCachingStrategy tokenCachingStrategy -> q
+    com.facebook.Session$TokenRefreshRequest currentTokenRefreshRequest -> r
+    com.facebook.AppEventsLogger appEventsLogger -> s
+    int[] $SWITCH_TABLE$com$facebook$SessionState -> t
+    boolean isOpened() -> a
+    com.facebook.SessionState getState() -> b
+    java.lang.String getApplicationId() -> c
+    java.lang.String getAccessToken() -> d
+    java.util.Date getExpirationDate() -> e
+    java.util.List getPermissions() -> f
+    void openForRead(com.facebook.Session$OpenRequest) -> a
+    void openForPublish(com.facebook.Session$OpenRequest) -> b
+    void requestNewPublishPermissions(com.facebook.Session$NewPermissionsRequest) -> a
+    boolean onActivityResult(android.app.Activity,int,int,android.content.Intent) -> a
+    void close() -> g
+    void closeAndClearTokenInformation() -> h
+    void addCallback(com.facebook.Session$StatusCallback) -> a
+    void removeCallback(com.facebook.Session$StatusCallback) -> b
+    java.lang.String toString() -> toString
+    void extendTokenCompleted(android.os.Bundle) -> a
+    void saveSession(com.facebook.Session,android.os.Bundle) -> a
+    com.facebook.Session restoreSession(android.content.Context,com.facebook.TokenCachingStrategy,com.facebook.Session$StatusCallback,android.os.Bundle) -> a
+    com.facebook.Session getActiveSession() -> i
+    void setActiveSession(com.facebook.Session) -> a
+    com.facebook.Session openActiveSessionFromCache(android.content.Context) -> a
+    com.facebook.Session openActiveSession(android.app.Activity,boolean,com.facebook.Session$StatusCallback) -> a
+    com.facebook.Session openActiveSession(android.content.Context,boolean,com.facebook.Session$OpenRequest) -> a
+    android.content.Context getStaticContext() -> j
+    void initializeStaticContext(android.content.Context) -> b
+    void authorize(com.facebook.Session$AuthorizationRequest) -> a
+    void open(com.facebook.Session$OpenRequest,com.facebook.internal.SessionAuthorizationType) -> a
+    void requestNewPermissions(com.facebook.Session$NewPermissionsRequest,com.facebook.internal.SessionAuthorizationType) -> a
+    void validateLoginBehavior(com.facebook.Session$AuthorizationRequest) -> b
+    void validatePermissions(com.facebook.Session$AuthorizationRequest,com.facebook.internal.SessionAuthorizationType) -> a
+    boolean isPublishPermission(java.lang.String) -> a
+    void handleAuthorizationResult(int,com.facebook.AuthorizationClient$Result) -> a
+    void logAuthorizationStart() -> q
+    void logAuthorizationComplete(com.facebook.AuthorizationClient$Result$Code,java.util.Map,java.lang.Exception) -> a
+    boolean tryLoginActivity(com.facebook.Session$AuthorizationRequest) -> c
+    boolean resolveIntent(android.content.Intent) -> a
+    android.content.Intent getLoginActivityIntent(com.facebook.Session$AuthorizationRequest) -> d
+    void tryLegacyAuth(com.facebook.Session$AuthorizationRequest) -> e
+    void finishAuthOrReauth(com.facebook.AccessToken,java.lang.Exception) -> a
+    void finishAuthorization(com.facebook.AccessToken,java.lang.Exception) -> b
+    void finishReauthorization(com.facebook.AccessToken,java.lang.Exception) -> c
+    void saveTokenToCache(com.facebook.AccessToken) -> a
+    void postStateChange(com.facebook.SessionState,com.facebook.SessionState,java.lang.Exception) -> a
+    void postActiveSessionAction(java.lang.String) -> b
+    void runWithHandlerOrExecutor(android.os.Handler,java.lang.Runnable) -> b
+    void extendAccessTokenIfNeeded() -> k
+    void extendAccessToken() -> l
+    boolean shouldExtendAccessToken() -> m
+    com.facebook.AppEventsLogger getAppEventsLogger() -> r
+    com.facebook.AccessToken getTokenInfo() -> n
+    void setLastAttemptedTokenExtendDate(java.util.Date) -> a
+    int hashCode() -> hashCode
+    boolean equals(java.lang.Object) -> equals
+    boolean areEqual(java.lang.Object,java.lang.Object) -> a
+    void autoPublishAsync() -> s
+    android.content.Context access$1() -> o
+    com.facebook.Session$TokenRefreshRequest access$2(com.facebook.Session) -> b
+    void access$3(com.facebook.Session,com.facebook.Session$TokenRefreshRequest) -> a
+    void access$4(com.facebook.Session,com.facebook.Session$AutoPublishAsyncTask) -> a
+    int[] $SWITCH_TABLE$com$facebook$SessionState() -> p
+    void access$6(com.facebook.Session,int,com.facebook.AuthorizationClient$Result) -> a
+    java.util.List access$7(com.facebook.Session) -> c
+    android.os.Handler access$8(com.facebook.Session) -> d
+    void access$9(android.os.Handler,java.lang.Runnable) -> a
+com.facebook.Session$1 -> com.facebook.bm:
+com.facebook.Session$2 -> com.facebook.bn:
+    com.facebook.Session this$0 -> a
+    void onCompleted(com.facebook.AuthorizationClient$Result) -> a
+com.facebook.Session$3 -> com.facebook.bo:
+    com.facebook.Session this$0 -> a
+    com.facebook.SessionState val$newState -> b
+    java.lang.Exception val$exception -> c
+    void run() -> run
+    com.facebook.Session access$0(com.facebook.Session$3) -> a
+com.facebook.Session$3$1 -> com.facebook.bp:
+    com.facebook.Session$3 this$1 -> a
+    com.facebook.Session$StatusCallback val$callback -> b
+    com.facebook.SessionState val$newState -> c
+    java.lang.Exception val$exception -> d
+    void run() -> run
+com.facebook.Session$AuthorizationRequest -> com.facebook.bq:
+    com.facebook.Session$StartActivityDelegate startActivityDelegate -> a
+    com.facebook.SessionLoginBehavior loginBehavior -> b
+    int requestCode -> c
+    com.facebook.Session$StatusCallback statusCallback -> d
+    boolean isLegacy -> e
+    java.util.List permissions -> f
+    com.facebook.SessionDefaultAudience defaultAudience -> g
+    java.lang.String applicationId -> h
+    java.lang.String validateSameFbidAsToken -> i
+    java.lang.String authId -> j
+    java.util.Map loggingExtras -> k
+    com.facebook.Session$AuthorizationRequest setCallback(com.facebook.Session$StatusCallback) -> a
+    com.facebook.Session$StatusCallback getCallback() -> a
+    com.facebook.Session$AuthorizationRequest setLoginBehavior(com.facebook.SessionLoginBehavior) -> a
+    com.facebook.SessionLoginBehavior getLoginBehavior() -> b
+    int getRequestCode() -> c
+    com.facebook.Session$AuthorizationRequest setPermissions(java.util.List) -> a
+    java.util.List getPermissions() -> d
+    com.facebook.Session$AuthorizationRequest setDefaultAudience(com.facebook.SessionDefaultAudience) -> a
+    com.facebook.Session$StartActivityDelegate getStartActivityDelegate() -> e
+    void setApplicationId(java.lang.String) -> a
+    void setValidateSameFbidAsToken(java.lang.String) -> b
+    java.lang.String getAuthId() -> f
+    com.facebook.AuthorizationClient$AuthorizationRequest getAuthorizationClientRequest() -> g
+    com.facebook.Session$StartActivityDelegate access$1(com.facebook.Session$AuthorizationRequest) -> a
+    java.util.Map access$2(com.facebook.Session$AuthorizationRequest) -> b
+    boolean access$3(com.facebook.Session$AuthorizationRequest) -> c
+    com.facebook.SessionLoginBehavior access$4(com.facebook.Session$AuthorizationRequest) -> d
+    int access$5(com.facebook.Session$AuthorizationRequest) -> e
+    java.util.List access$6(com.facebook.Session$AuthorizationRequest) -> f
+    com.facebook.SessionDefaultAudience access$7(com.facebook.Session$AuthorizationRequest) -> g
+com.facebook.Session$AuthorizationRequest$1 -> com.facebook.br:
+    com.facebook.Session$AuthorizationRequest this$1 -> a
+    android.app.Activity val$activity -> b
+    void startActivityForResult(android.content.Intent,int) -> a
+    android.app.Activity getActivityContext() -> a
+com.facebook.Session$AuthorizationRequest$2 -> com.facebook.bs:
+    com.facebook.Session$AuthorizationRequest this$1 -> a
+    android.support.v4.app.Fragment val$fragment -> b
+    void startActivityForResult(android.content.Intent,int) -> a
+    android.app.Activity getActivityContext() -> a
+com.facebook.Session$AuthorizationRequest$4 -> com.facebook.bt:
+    com.facebook.Session$AuthorizationRequest this$1 -> a
+    void startActivityForResult(android.content.Intent,int) -> a
+    android.app.Activity getActivityContext() -> a
+com.facebook.Session$AutoPublishAsyncTask -> com.facebook.bu:
+    java.lang.String mApplicationId -> b
+    android.content.Context mApplicationContext -> c
+    com.facebook.Session this$0 -> a
+    java.lang.Void doInBackground(java.lang.Void[]) -> a
+    void onPostExecute(java.lang.Void) -> a
+    void onPostExecute(java.lang.Object) -> onPostExecute
+    java.lang.Object doInBackground(java.lang.Object[]) -> doInBackground
+com.facebook.Session$Builder -> com.facebook.bv:
+    android.content.Context context -> a
+    java.lang.String applicationId -> b
+    com.facebook.TokenCachingStrategy tokenCachingStrategy -> c
+    com.facebook.Session$Builder setApplicationId(java.lang.String) -> a
+    com.facebook.Session build() -> a
+com.facebook.Session$NewPermissionsRequest -> com.facebook.bw:
+    com.facebook.Session$NewPermissionsRequest setCallback(com.facebook.Session$StatusCallback) -> b
+    com.facebook.Session$NewPermissionsRequest setLoginBehavior(com.facebook.SessionLoginBehavior) -> b
+    com.facebook.Session$NewPermissionsRequest setDefaultAudience(com.facebook.SessionDefaultAudience) -> b
+    com.facebook.Session$AuthorizationRequest setDefaultAudience(com.facebook.SessionDefaultAudience) -> a
+    com.facebook.Session$AuthorizationRequest setCallback(com.facebook.Session$StatusCallback) -> a
+    com.facebook.Session$AuthorizationRequest setLoginBehavior(com.facebook.SessionLoginBehavior) -> a
+com.facebook.Session$OpenRequest -> com.facebook.bx:
+    com.facebook.Session$OpenRequest setCallback(com.facebook.Session$StatusCallback) -> b
+    com.facebook.Session$OpenRequest setLoginBehavior(com.facebook.SessionLoginBehavior) -> b
+    com.facebook.Session$OpenRequest setPermissions(java.util.List) -> b
+    com.facebook.Session$OpenRequest setDefaultAudience(com.facebook.SessionDefaultAudience) -> b
+    com.facebook.Session$AuthorizationRequest setDefaultAudience(com.facebook.SessionDefaultAudience) -> a
+    com.facebook.Session$AuthorizationRequest setPermissions(java.util.List) -> a
+    com.facebook.Session$AuthorizationRequest setCallback(com.facebook.Session$StatusCallback) -> a
+    com.facebook.Session$AuthorizationRequest setLoginBehavior(com.facebook.SessionLoginBehavior) -> a
+com.facebook.Session$StartActivityDelegate -> com.facebook.by:
+    void startActivityForResult(android.content.Intent,int) -> a
+    android.app.Activity getActivityContext() -> a
+com.facebook.Session$StatusCallback -> com.facebook.bz:
+    void call(com.facebook.Session,com.facebook.SessionState,java.lang.Exception) -> a
+com.facebook.Session$TokenRefreshRequest -> com.facebook.ca:
+    android.os.Messenger messageReceiver -> a
+    android.os.Messenger messageSender -> b
+    com.facebook.Session this$0 -> c
+    void bind() -> a
+    void onServiceConnected(android.content.ComponentName,android.os.IBinder) -> onServiceConnected
+    void onServiceDisconnected(android.content.ComponentName) -> onServiceDisconnected
+    void cleanup() -> b
+    void refreshToken() -> c
+    void access$0(com.facebook.Session$TokenRefreshRequest) -> a
+com.facebook.Session$TokenRefreshRequestHandler -> com.facebook.cb:
+    java.lang.ref.WeakReference sessionWeakReference -> a
+    java.lang.ref.WeakReference refreshRequestWeakReference -> b
+    void handleMessage(android.os.Message) -> handleMessage
+com.facebook.SessionDefaultAudience -> com.facebook.cc:
+    com.facebook.SessionDefaultAudience NONE -> a
+    com.facebook.SessionDefaultAudience ONLY_ME -> b
+    com.facebook.SessionDefaultAudience FRIENDS -> c
+    com.facebook.SessionDefaultAudience EVERYONE -> d
+    java.lang.String nativeProtocolAudience -> e
+    com.facebook.SessionDefaultAudience[] ENUM$VALUES -> f
+    java.lang.String getNativeProtocolAudience() -> a
+    com.facebook.SessionDefaultAudience[] values() -> values
+    com.facebook.SessionDefaultAudience valueOf(java.lang.String) -> valueOf
+com.facebook.SessionLoginBehavior -> com.facebook.cd:
+    com.facebook.SessionLoginBehavior SSO_WITH_FALLBACK -> a
+    com.facebook.SessionLoginBehavior SSO_ONLY -> b
+    com.facebook.SessionLoginBehavior SUPPRESS_SSO -> c
+    boolean allowsKatanaAuth -> d
+    boolean allowsWebViewAuth -> e
+    com.facebook.SessionLoginBehavior[] ENUM$VALUES -> f
+    boolean allowsKatanaAuth() -> a
+    boolean allowsWebViewAuth() -> b
+    com.facebook.SessionLoginBehavior[] values() -> values
+    com.facebook.SessionLoginBehavior valueOf(java.lang.String) -> valueOf
+com.facebook.SessionState -> com.facebook.ce:
+    com.facebook.SessionState CREATED -> a
+    com.facebook.SessionState CREATED_TOKEN_LOADED -> b
+    com.facebook.SessionState OPENING -> c
+    com.facebook.SessionState OPENED -> d
+    com.facebook.SessionState OPENED_TOKEN_UPDATED -> e
+    com.facebook.SessionState CLOSED_LOGIN_FAILED -> f
+    com.facebook.SessionState CLOSED -> g
+    com.facebook.SessionState$Category category -> h
+    com.facebook.SessionState[] ENUM$VALUES -> i
+    boolean isOpened() -> a
+    boolean isClosed() -> b
+    com.facebook.SessionState[] values() -> values
+    com.facebook.SessionState valueOf(java.lang.String) -> valueOf
+com.facebook.SessionState$Category -> com.facebook.cf:
+    com.facebook.SessionState$Category CREATED_CATEGORY -> a
+    com.facebook.SessionState$Category OPENED_CATEGORY -> b
+    com.facebook.SessionState$Category CLOSED_CATEGORY -> c
+    com.facebook.SessionState$Category[] ENUM$VALUES -> d
+    com.facebook.SessionState$Category[] values() -> values
+    com.facebook.SessionState$Category valueOf(java.lang.String) -> valueOf
+com.facebook.Settings -> com.facebook.cg:
+    java.lang.String TAG -> a
+    java.util.HashSet loggingBehaviors -> b
+    java.util.concurrent.Executor executor -> c
+    boolean shouldAutoPublishInstall -> d
+    java.lang.String appVersion -> e
+    java.lang.String facebookDomain -> f
+    java.lang.Object LOCK -> g
+    android.net.Uri ATTRIBUTION_ID_CONTENT_URI -> h
+    java.util.concurrent.BlockingQueue DEFAULT_WORK_QUEUE -> i
+    java.util.concurrent.ThreadFactory DEFAULT_THREAD_FACTORY -> j
+    boolean isLoggingBehaviorEnabled(com.facebook.LoggingBehavior) -> a
+    java.util.concurrent.Executor getExecutor() -> a
+    java.lang.String getFacebookDomain() -> b
+    java.util.concurrent.Executor getAsyncTaskExecutor() -> e
+    void setShouldAutoPublishInstall(boolean) -> a
+    boolean getShouldAutoPublishInstall() -> c
+    com.facebook.Response publishInstallAndWaitForResponse(android.content.Context,java.lang.String,boolean) -> a
+    java.lang.String getAttributionId(android.content.ContentResolver) -> a
+    java.lang.String getAppVersion() -> d
+com.facebook.Settings$1 -> com.facebook.ch:
+    java.util.concurrent.atomic.AtomicInteger counter -> a
+    java.lang.Thread newThread(java.lang.Runnable) -> newThread
+com.facebook.SharedPreferencesTokenCachingStrategy -> com.facebook.ci:
+    java.lang.String TAG -> a
+    java.lang.String cacheKey -> b
+    android.content.SharedPreferences cache -> c
+    android.os.Bundle load() -> a
+    void save(android.os.Bundle) -> a
+    void clear() -> b
+    void serializeKey(java.lang.String,android.os.Bundle,android.content.SharedPreferences$Editor) -> a
+    void deserializeKey(java.lang.String,android.os.Bundle) -> a
+com.facebook.TokenCachingStrategy -> com.facebook.cj:
+    android.os.Bundle load() -> a
+    void save(android.os.Bundle) -> a
+    void clear() -> b
+    boolean hasTokenInformation(android.os.Bundle) -> b
+    com.facebook.AccessTokenSource getSource(android.os.Bundle) -> c
+    java.util.Date getDate(android.os.Bundle,java.lang.String) -> a
+    void putDate(android.os.Bundle,java.lang.String,java.util.Date) -> a
+com.facebook.UiLifecycleHelper -> com.facebook.ck:
+    android.app.Activity activity -> a
+    com.facebook.Session$StatusCallback callback -> b
+    android.content.BroadcastReceiver receiver -> c
+    android.support.v4.content.LocalBroadcastManager broadcastManager -> d
+    com.facebook.widget.FacebookDialog$PendingCall pendingFacebookDialogCall -> e
+    void onCreate(android.os.Bundle) -> a
+    void onActivityResult(int,int,android.content.Intent) -> a
+    void onActivityResult(int,int,android.content.Intent,com.facebook.widget.FacebookDialog$Callback) -> a
+    void onSaveInstanceState(android.os.Bundle) -> b
+    void onPause() -> a
+    void onDestroy() -> b
+    boolean handleFacebookDialogActivityResult(int,int,android.content.Intent,com.facebook.widget.FacebookDialog$Callback) -> b
+    void cancelPendingAppCall(com.facebook.widget.FacebookDialog$Callback) -> a
+    com.facebook.Session$StatusCallback access$0(com.facebook.UiLifecycleHelper) -> a
+com.facebook.UiLifecycleHelper$ActiveSessionBroadcastReceiver -> com.facebook.cl:
+    com.facebook.UiLifecycleHelper this$0 -> a
+    void onReceive(android.content.Context,android.content.Intent) -> onReceive
+com.facebook.android.R -> com.facebook.a.a:
+com.facebook.android.R$color -> com.facebook.a.b:
+    int com_facebook_blue -> com_facebook_blue
+    int com_facebook_loginview_text_color -> com_facebook_loginview_text_color
+    int com_facebook_picker_search_bar_background -> com_facebook_picker_search_bar_background
+    int com_facebook_picker_search_bar_text -> com_facebook_picker_search_bar_text
+    int com_facebook_usersettingsfragment_connected_shadow_color -> com_facebook_usersettingsfragment_connected_shadow_color
+    int com_facebook_usersettingsfragment_connected_text_color -> com_facebook_usersettingsfragment_connected_text_color
+    int com_facebook_usersettingsfragment_not_connected_text_color -> com_facebook_usersettingsfragment_not_connected_text_color
+com.facebook.android.R$dimen -> com.facebook.a.c:
+    int com_facebook_loginview_compound_drawable_padding -> com_facebook_loginview_compound_drawable_padding
+    int com_facebook_loginview_padding_bottom -> com_facebook_loginview_padding_bottom
+    int com_facebook_loginview_padding_left -> com_facebook_loginview_padding_left
+    int com_facebook_loginview_padding_right -> com_facebook_loginview_padding_right
+    int com_facebook_loginview_padding_top -> com_facebook_loginview_padding_top
+    int com_facebook_loginview_text_size -> com_facebook_loginview_text_size
+    int com_facebook_picker_divider_width -> com_facebook_picker_divider_width
+    int com_facebook_picker_place_image_size -> com_facebook_picker_place_image_size
+    int com_facebook_profilepictureview_preset_size_large -> com_facebook_profilepictureview_preset_size_large
+    int com_facebook_profilepictureview_preset_size_normal -> com_facebook_profilepictureview_preset_size_normal
+    int com_facebook_profilepictureview_preset_size_small -> com_facebook_profilepictureview_preset_size_small
+    int com_facebook_usersettingsfragment_profile_picture_height -> com_facebook_usersettingsfragment_profile_picture_height
+    int com_facebook_usersettingsfragment_profile_picture_width -> com_facebook_usersettingsfragment_profile_picture_width
+com.facebook.android.R$drawable -> com.facebook.a.d:
+    int com_facebook_button_blue -> com_facebook_button_blue
+    int com_facebook_button_blue_focused -> com_facebook_button_blue_focused
+    int com_facebook_button_blue_normal -> com_facebook_button_blue_normal
+    int com_facebook_button_blue_pressed -> com_facebook_button_blue_pressed
+    int com_facebook_button_check -> com_facebook_button_check
+    int com_facebook_button_check_off -> com_facebook_button_check_off
+    int com_facebook_button_check_on -> com_facebook_button_check_on
+    int com_facebook_button_grey_focused -> com_facebook_button_grey_focused
+    int com_facebook_button_grey_normal -> com_facebook_button_grey_normal
+    int com_facebook_button_grey_pressed -> com_facebook_button_grey_pressed
+    int com_facebook_close -> com_facebook_close
+    int com_facebook_inverse_icon -> com_facebook_inverse_icon
+    int com_facebook_list_divider -> com_facebook_list_divider
+    int com_facebook_list_section_header_background -> com_facebook_list_section_header_background
+    int com_facebook_loginbutton_silver -> com_facebook_loginbutton_silver
+    int com_facebook_logo -> com_facebook_logo
+    int com_facebook_picker_default_separator_color -> com_facebook_picker_default_separator_color
+    int com_facebook_picker_item_background -> com_facebook_picker_item_background
+    int com_facebook_picker_list_focused -> com_facebook_picker_list_focused
+    int com_facebook_picker_list_longpressed -> com_facebook_picker_list_longpressed
+    int com_facebook_picker_list_pressed -> com_facebook_picker_list_pressed
+    int com_facebook_picker_list_selector -> com_facebook_picker_list_selector
+    int com_facebook_picker_list_selector_background_transition -> com_facebook_picker_list_selector_background_transition
+    int com_facebook_picker_list_selector_disabled -> com_facebook_picker_list_selector_disabled
+    int com_facebook_picker_magnifier -> com_facebook_picker_magnifier
+    int com_facebook_picker_top_button -> com_facebook_picker_top_button
+    int com_facebook_place_default_icon -> com_facebook_place_default_icon
+    int com_facebook_profile_default_icon -> com_facebook_profile_default_icon
+    int com_facebook_profile_picture_blank_portrait -> com_facebook_profile_picture_blank_portrait
+    int com_facebook_profile_picture_blank_square -> com_facebook_profile_picture_blank_square
+    int com_facebook_top_background -> com_facebook_top_background
+    int com_facebook_top_button -> com_facebook_top_button
+    int com_facebook_usersettingsfragment_background_gradient -> com_facebook_usersettingsfragment_background_gradient
+com.facebook.android.R$id -> com.facebook.a.e:
+    int com_facebook_login_activity_progress_bar -> com_facebook_login_activity_progress_bar
+    int com_facebook_picker_activity_circle -> com_facebook_picker_activity_circle
+    int com_facebook_picker_checkbox -> com_facebook_picker_checkbox
+    int com_facebook_picker_checkbox_stub -> com_facebook_picker_checkbox_stub
+    int com_facebook_picker_divider -> com_facebook_picker_divider
+    int com_facebook_picker_done_button -> com_facebook_picker_done_button
+    int com_facebook_picker_image -> com_facebook_picker_image
+    int com_facebook_picker_list_section_header -> com_facebook_picker_list_section_header
+    int com_facebook_picker_list_view -> com_facebook_picker_list_view
+    int com_facebook_picker_profile_pic_stub -> com_facebook_picker_profile_pic_stub
+    int com_facebook_picker_row_activity_circle -> com_facebook_picker_row_activity_circle
+    int com_facebook_picker_search_text -> com_facebook_picker_search_text
+    int com_facebook_picker_title -> com_facebook_picker_title
+    int com_facebook_picker_title_bar -> com_facebook_picker_title_bar
+    int com_facebook_picker_title_bar_stub -> com_facebook_picker_title_bar_stub
+    int com_facebook_picker_top_bar -> com_facebook_picker_top_bar
+    int com_facebook_search_bar_view -> com_facebook_search_bar_view
+    int com_facebook_usersettingsfragment_login_button -> com_facebook_usersettingsfragment_login_button
+    int com_facebook_usersettingsfragment_logo_image -> com_facebook_usersettingsfragment_logo_image
+    int com_facebook_usersettingsfragment_profile_name -> com_facebook_usersettingsfragment_profile_name
+    int large -> large
+    int normal -> normal
+    int picker_subtitle -> picker_subtitle
+    int small -> small
+com.facebook.android.R$layout -> com.facebook.a.f:
+    int com_facebook_friendpickerfragment -> com_facebook_friendpickerfragment
+    int com_facebook_login_activity_layout -> com_facebook_login_activity_layout
+    int com_facebook_picker_activity_circle_row -> com_facebook_picker_activity_circle_row
+    int com_facebook_picker_checkbox -> com_facebook_picker_checkbox
+    int com_facebook_picker_image -> com_facebook_picker_image
+    int com_facebook_picker_list_row -> com_facebook_picker_list_row
+    int com_facebook_picker_list_section_header -> com_facebook_picker_list_section_header
+    int com_facebook_picker_search_box -> com_facebook_picker_search_box
+    int com_facebook_picker_title_bar -> com_facebook_picker_title_bar
+    int com_facebook_picker_title_bar_stub -> com_facebook_picker_title_bar_stub
+    int com_facebook_placepickerfragment -> com_facebook_placepickerfragment
+    int com_facebook_placepickerfragment_list_row -> com_facebook_placepickerfragment_list_row
+    int com_facebook_search_bar_layout -> com_facebook_search_bar_layout
+    int com_facebook_usersettingsfragment -> com_facebook_usersettingsfragment
+com.facebook.android.R$string -> com.facebook.a.g:
+    int com_facebook_choose_friends -> com_facebook_choose_friends
+    int com_facebook_dialogloginactivity_ok_button -> com_facebook_dialogloginactivity_ok_button
+    int com_facebook_internet_permission_error_message -> com_facebook_internet_permission_error_message
+    int com_facebook_internet_permission_error_title -> com_facebook_internet_permission_error_title
+    int com_facebook_loading -> com_facebook_loading
+    int com_facebook_loginview_cancel_action -> com_facebook_loginview_cancel_action
+    int com_facebook_loginview_log_in_button -> com_facebook_loginview_log_in_button
+    int com_facebook_loginview_log_out_action -> com_facebook_loginview_log_out_action
+    int com_facebook_loginview_log_out_button -> com_facebook_loginview_log_out_button
+    int com_facebook_loginview_logged_in_as -> com_facebook_loginview_logged_in_as
+    int com_facebook_loginview_logged_in_using_facebook -> com_facebook_loginview_logged_in_using_facebook
+    int com_facebook_logo_content_description -> com_facebook_logo_content_description
+    int com_facebook_nearby -> com_facebook_nearby
+    int com_facebook_picker_done_button_text -> com_facebook_picker_done_button_text
+    int com_facebook_placepicker_subtitle_catetory_only_format -> com_facebook_placepicker_subtitle_catetory_only_format
+    int com_facebook_placepicker_subtitle_format -> com_facebook_placepicker_subtitle_format
+    int com_facebook_placepicker_subtitle_were_here_only_format -> com_facebook_placepicker_subtitle_were_here_only_format
+    int com_facebook_requesterror_password_changed -> com_facebook_requesterror_password_changed
+    int com_facebook_requesterror_permissions -> com_facebook_requesterror_permissions
+    int com_facebook_requesterror_reconnect -> com_facebook_requesterror_reconnect
+    int com_facebook_requesterror_relogin -> com_facebook_requesterror_relogin
+    int com_facebook_requesterror_web_login -> com_facebook_requesterror_web_login
+    int com_facebook_usersettingsfragment_log_in_button -> com_facebook_usersettingsfragment_log_in_button
+    int com_facebook_usersettingsfragment_logged_in -> com_facebook_usersettingsfragment_logged_in
+    int com_facebook_usersettingsfragment_not_logged_in -> com_facebook_usersettingsfragment_not_logged_in
+com.facebook.android.R$styleable -> com.facebook.a.h:
+    int[] com_facebook_friend_picker_fragment -> com_facebook_friend_picker_fragment
+    int com_facebook_friend_picker_fragment_multi_select -> com_facebook_friend_picker_fragment_multi_select
+    int[] com_facebook_login_view -> com_facebook_login_view
+    int com_facebook_login_view_confirm_logout -> com_facebook_login_view_confirm_logout
+    int com_facebook_login_view_fetch_user_info -> com_facebook_login_view_fetch_user_info
+    int com_facebook_login_view_login_text -> com_facebook_login_view_login_text
+    int com_facebook_login_view_logout_text -> com_facebook_login_view_logout_text
+    int[] com_facebook_picker_fragment -> com_facebook_picker_fragment
+    int com_facebook_picker_fragment_done_button_background -> com_facebook_picker_fragment_done_button_background
+    int com_facebook_picker_fragment_done_button_text -> com_facebook_picker_fragment_done_button_text
+    int com_facebook_picker_fragment_extra_fields -> com_facebook_picker_fragment_extra_fields
+    int com_facebook_picker_fragment_show_pictures -> com_facebook_picker_fragment_show_pictures
+    int com_facebook_picker_fragment_show_title_bar -> com_facebook_picker_fragment_show_title_bar
+    int com_facebook_picker_fragment_title_bar_background -> com_facebook_picker_fragment_title_bar_background
+    int com_facebook_picker_fragment_title_text -> com_facebook_picker_fragment_title_text
+    int[] com_facebook_place_picker_fragment -> com_facebook_place_picker_fragment
+    int com_facebook_place_picker_fragment_radius_in_meters -> com_facebook_place_picker_fragment_radius_in_meters
+    int com_facebook_place_picker_fragment_results_limit -> com_facebook_place_picker_fragment_results_limit
+    int com_facebook_place_picker_fragment_search_text -> com_facebook_place_picker_fragment_search_text
+    int com_facebook_place_picker_fragment_show_search_box -> com_facebook_place_picker_fragment_show_search_box
+    int[] com_facebook_profile_picture_view -> com_facebook_profile_picture_view
+    int com_facebook_profile_picture_view_is_cropped -> com_facebook_profile_picture_view_is_cropped
+    int com_facebook_profile_picture_view_preset_size -> com_facebook_profile_picture_view_preset_size
+com.facebook.android.Util -> com.facebook.a.i:
+    android.os.Bundle decodeUrl(java.lang.String) -> a
+    android.os.Bundle parseUrl(java.lang.String) -> b
+com.facebook.internal.CacheableRequestBatch -> com.facebook.b.a:
+    java.lang.String cacheKey -> a
+    boolean forceRoundTrip -> b
+    java.lang.String getCacheKeyOverride() -> k
+    boolean getForceRoundTrip() -> l
+com.facebook.internal.FileLruCache -> com.facebook.b.b:
+    java.lang.String TAG -> a
+    java.util.concurrent.atomic.AtomicLong bufferIndex -> b
+    java.lang.String tag -> c
+    com.facebook.internal.FileLruCache$Limits limits -> d
+    java.io.File directory -> e
+    boolean isTrimPending -> f
+    java.lang.Object lock -> g
+    java.util.concurrent.atomic.AtomicLong lastClearCacheTime -> h
+    java.io.InputStream get(java.lang.String) -> a
+    java.io.InputStream get(java.lang.String,java.lang.String) -> a
+    java.io.OutputStream openPutStream(java.lang.String) -> b
+    java.io.OutputStream openPutStream(java.lang.String,java.lang.String) -> b
+    void clearCache() -> a
+    void renameToTargetAndTrim(java.lang.String,java.io.File) -> a
+    java.io.InputStream interceptAndPut(java.lang.String,java.io.InputStream) -> a
+    java.lang.String toString() -> toString
+    void postTrim() -> c
+    void trim() -> d
+    java.util.concurrent.atomic.AtomicLong access$0() -> b
+    java.util.concurrent.atomic.AtomicLong access$1(com.facebook.internal.FileLruCache) -> a
+    void access$2(com.facebook.internal.FileLruCache,java.lang.String,java.io.File) -> a
+    void access$3(com.facebook.internal.FileLruCache) -> b
+com.facebook.internal.FileLruCache$1 -> com.facebook.b.c:
+    com.facebook.internal.FileLruCache this$0 -> a
+    long val$bufferFileCreateTime -> b
+    java.io.File val$buffer -> c
+    java.lang.String val$key -> d
+    void onClose() -> a
+com.facebook.internal.FileLruCache$2 -> com.facebook.b.d:
+    com.facebook.internal.FileLruCache this$0 -> a
+    java.io.File[] val$filesToDelete -> b
+    void run() -> run
+com.facebook.internal.FileLruCache$3 -> com.facebook.b.e:
+    com.facebook.internal.FileLruCache this$0 -> a
+    void run() -> run
+com.facebook.internal.FileLruCache$BufferFile -> com.facebook.b.f:
+    java.io.FilenameFilter filterExcludeBufferFiles -> a
+    java.io.FilenameFilter filterExcludeNonBufferFiles -> b
+    void deleteAll(java.io.File) -> a
+    java.io.FilenameFilter excludeBufferFiles() -> a
+    java.io.FilenameFilter excludeNonBufferFiles() -> b
+    java.io.File newFile(java.io.File) -> b
+com.facebook.internal.FileLruCache$BufferFile$1 -> com.facebook.b.g:
+    boolean accept(java.io.File,java.lang.String) -> accept
+com.facebook.internal.FileLruCache$BufferFile$2 -> com.facebook.b.h:
+    boolean accept(java.io.File,java.lang.String) -> accept
+com.facebook.internal.FileLruCache$CloseCallbackOutputStream -> com.facebook.b.i:
+    java.io.OutputStream innerStream -> a
+    com.facebook.internal.FileLruCache$StreamCloseCallback callback -> b
+    void close() -> close
+    void flush() -> flush
+    void write(byte[],int,int) -> write
+    void write(byte[]) -> write
+    void write(int) -> write
+com.facebook.internal.FileLruCache$CopyingInputStream -> com.facebook.b.j:
+    java.io.InputStream input -> a
+    java.io.OutputStream output -> b
+    int available() -> available
+    void close() -> close
+    void mark(int) -> mark
+    boolean markSupported() -> markSupported
+    int read(byte[]) -> read
+    int read() -> read
+    int read(byte[],int,int) -> read
+    void reset() -> reset
+    long skip(long) -> skip
+com.facebook.internal.FileLruCache$Limits -> com.facebook.b.k:
+    int byteCount -> a
+    int fileCount -> b
+    int getByteCount() -> a
+    int getFileCount() -> b
+com.facebook.internal.FileLruCache$ModifiedFile -> com.facebook.b.l:
+    java.io.File file -> a
+    long modified -> b
+    java.io.File getFile() -> a
+    long getModified() -> b
+    int compareTo(com.facebook.internal.FileLruCache$ModifiedFile) -> a
+    boolean equals(java.lang.Object) -> equals
+    int hashCode() -> hashCode
+    int compareTo(java.lang.Object) -> compareTo
+com.facebook.internal.FileLruCache$StreamCloseCallback -> com.facebook.b.m:
+    void onClose() -> a
+com.facebook.internal.FileLruCache$StreamHeader -> com.facebook.b.n:
+    void writeHeader(java.io.OutputStream,org.json.JSONObject) -> a
+    org.json.JSONObject readHeader(java.io.InputStream) -> a
+com.facebook.internal.ImageDownloader -> com.facebook.b.o:
+    com.facebook.internal.WorkQueue downloadQueue -> a
+    com.facebook.internal.WorkQueue cacheReadQueue -> b
+    java.util.Map pendingRequests -> c
+    void clearCache(android.content.Context) -> a
+com.facebook.internal.ImageResponseCache -> com.facebook.b.p:
+    java.lang.String TAG -> a
+    com.facebook.internal.FileLruCache imageCache -> b
+    com.facebook.internal.FileLruCache getCache(android.content.Context) -> a
+    void clearCache(android.content.Context) -> b
+com.facebook.internal.Logger -> com.facebook.b.q:
+    java.util.HashMap stringsToReplace -> a
+    com.facebook.LoggingBehavior behavior -> b
+    java.lang.String tag -> c
+    java.lang.StringBuilder contents -> d
+    int priority -> e
+    void registerStringToReplace(java.lang.String,java.lang.String) -> a
+    void registerAccessToken(java.lang.String) -> a
+    void log(com.facebook.LoggingBehavior,java.lang.String,java.lang.String) -> a
+    void log(com.facebook.LoggingBehavior,java.lang.String,java.lang.String,java.lang.Object[]) -> a
+    void log(com.facebook.LoggingBehavior,int,java.lang.String,java.lang.String) -> a
+    java.lang.String replaceStrings(java.lang.String) -> d
+    void log() -> a
+    void logString(java.lang.String) -> b
+    void append(java.lang.String) -> c
+    void append(java.lang.String,java.lang.Object[]) -> a
+    void appendKeyValue(java.lang.String,java.lang.Object) -> a
+    boolean shouldLog() -> b
+com.facebook.internal.NativeProtocol -> com.facebook.b.r:
+    android.net.Uri PLATFORM_PROVIDER_VERSIONS_URI -> a
+    java.util.List KNOWN_PROTOCOL_VERSIONS -> b
+    boolean validateSignature(android.content.Context,java.lang.String) -> a
+    android.content.Intent validateKatanaActivityIntent(android.content.Context,android.content.Intent) -> a
+    android.content.Intent validateKatanaServiceIntent(android.content.Context,android.content.Intent) -> b
+    android.content.Intent createProxyAuthIntent(android.content.Context,java.lang.String,java.util.List,java.lang.String) -> a
+    android.content.Intent createTokenRefreshIntent(android.content.Context) -> a
+    android.content.Intent createPlatformServiceIntent(android.content.Context) -> b
+    android.content.Intent createLoginDialog20121101Intent(android.content.Context,java.lang.String,java.util.ArrayList,java.lang.String) -> a
+    boolean isErrorResult(android.content.Intent) -> a
+    java.lang.Exception getErrorFromResult(android.content.Intent) -> b
+    java.lang.String generateCallId() -> a
+    java.lang.String ensureDefaultAudience(java.lang.String) -> a
+    java.util.ArrayList ensureDefaultPermissions(java.util.ArrayList) -> a
+    boolean isServiceDisabledResult20121101(android.content.Intent) -> c
+    int getLatestAvailableProtocolVersion(android.content.Context,int) -> a
+com.facebook.internal.PlatformServiceClient -> com.facebook.b.s:
+    android.content.Context context -> a
+    android.os.Handler handler -> b
+    com.facebook.internal.PlatformServiceClient$CompletedListener listener -> c
+    boolean running -> d
+    android.os.Messenger sender -> e
+    int requestMessage -> f
+    int replyMessage -> g
+    java.lang.String applicationId -> h
+    int protocolVersion -> i
+    void setCompletedListener(com.facebook.internal.PlatformServiceClient$CompletedListener) -> a
+    boolean start() -> a
+    void cancel() -> b
+    void onServiceConnected(android.content.ComponentName,android.os.IBinder) -> onServiceConnected
+    void onServiceDisconnected(android.content.ComponentName) -> onServiceDisconnected
+    void sendMessage() -> c
+    void populateRequestBundle(android.os.Bundle) -> a
+    void handleMessage(android.os.Message) -> a
+    void callback(android.os.Bundle) -> b
+com.facebook.internal.PlatformServiceClient$1 -> com.facebook.b.t:
+    com.facebook.internal.PlatformServiceClient this$0 -> a
+    void handleMessage(android.os.Message) -> handleMessage
+com.facebook.internal.PlatformServiceClient$CompletedListener -> com.facebook.b.u:
+    void completed(android.os.Bundle) -> a
+com.facebook.internal.ServerProtocol -> com.facebook.b.v:
+    java.util.Collection errorsProxyAuthDisabled -> a
+    java.util.Collection errorsUserCanceled -> b
+    java.lang.String getDialogAuthority() -> a
+    java.lang.String getGraphUrlBase() -> b
+    java.lang.String getRestUrlBase() -> c
+com.facebook.internal.SessionAuthorizationType -> com.facebook.b.w:
+    com.facebook.internal.SessionAuthorizationType READ -> a
+    com.facebook.internal.SessionAuthorizationType PUBLISH -> b
+    com.facebook.internal.SessionAuthorizationType[] ENUM$VALUES -> c
+    com.facebook.internal.SessionAuthorizationType[] values() -> values
+    com.facebook.internal.SessionAuthorizationType valueOf(java.lang.String) -> valueOf
+com.facebook.internal.SessionTracker -> com.facebook.b.x:
+    com.facebook.Session session -> a
+    com.facebook.Session$StatusCallback callback -> b
+    android.content.BroadcastReceiver receiver -> c
+    android.support.v4.content.LocalBroadcastManager broadcastManager -> d
+    boolean isTracking -> e
+    com.facebook.Session getSession() -> a
+    com.facebook.Session getOpenSession() -> b
+    void setSession(com.facebook.Session) -> a
+    void startTracking() -> c
+    void stopTracking() -> d
+    boolean isTracking() -> e
+    void addBroadcastReceiver() -> f
+    com.facebook.Session$StatusCallback access$0(com.facebook.internal.SessionTracker) -> a
+    com.facebook.Session access$1(com.facebook.internal.SessionTracker) -> b
+com.facebook.internal.SessionTracker$ActiveSessionBroadcastReceiver -> com.facebook.b.y:
+    com.facebook.internal.SessionTracker this$0 -> a
+    void onReceive(android.content.Context,android.content.Intent) -> onReceive
+com.facebook.internal.SessionTracker$CallbackWrapper -> com.facebook.b.z:
+    com.facebook.Session$StatusCallback wrapped -> b
+    com.facebook.internal.SessionTracker this$0 -> a
+    void call(com.facebook.Session,com.facebook.SessionState,java.lang.Exception) -> a
+com.facebook.internal.UrlRedirectCache -> com.facebook.b.aa:
+    java.lang.String TAG -> a
+    java.lang.String REDIRECT_CONTENT_TAG -> b
+    com.facebook.internal.FileLruCache urlRedirectCache -> c
+    com.facebook.internal.FileLruCache getCache(android.content.Context) -> a
+    void clearCache(android.content.Context) -> b
+com.facebook.internal.Utility -> com.facebook.b.ab:
+    java.lang.String[] APP_SETTING_FIELDS -> a
+    java.util.Map fetchedAppSettings -> b
+    boolean isSubset(java.util.Collection,java.util.Collection) -> a
+    boolean isNullOrEmpty(java.util.Collection) -> a
+    boolean isNullOrEmpty(java.lang.String) -> a
+    java.util.Collection unmodifiableCollection(java.lang.Object[]) -> a
+    java.lang.String md5hash(java.lang.String) -> b
+    android.net.Uri buildUri(java.lang.String,java.lang.String,android.os.Bundle) -> a
+    void putObjectInBundle(android.os.Bundle,java.lang.String,java.lang.Object) -> a
+    void closeQuietly(java.io.Closeable) -> a
+    void disconnectQuietly(java.net.URLConnection) -> a
+    java.lang.String getMetadataApplicationId(android.content.Context) -> a
+    java.lang.Object getStringPropertyAsJSON(org.json.JSONObject,java.lang.String,java.lang.String) -> a
+    java.lang.String readStreamToString(java.io.InputStream) -> a
+    void clearCookiesForDomain(android.content.Context,java.lang.String) -> a
+    void clearFacebookCookies(android.content.Context) -> b
+    void logd(java.lang.String,java.lang.Exception) -> a
+    void logd(java.lang.String,java.lang.String) -> a
+    boolean areObjectsEqual(java.lang.Object,java.lang.Object) -> a
+    com.facebook.internal.Utility$FetchedAppSettings queryAppSettings(java.lang.String,boolean) -> a
+    boolean safeGetBooleanFromResponse(com.facebook.model.GraphObject,java.lang.String) -> a
+    void clearCaches(android.content.Context) -> c
+    void deleteDirectory(java.io.File) -> a
+    java.util.List asListNoNulls(java.lang.Object[]) -> b
+com.facebook.internal.Utility$FetchedAppSettings -> com.facebook.b.ac:
+    boolean supportsAttribution -> a
+    boolean supportsImplicitLogging -> b
+    boolean supportsAttribution() -> a
+    boolean supportsImplicitLogging() -> b
+com.facebook.internal.Validate -> com.facebook.b.ad:
+    void notNull(java.lang.Object,java.lang.String) -> a
+    void notEmpty(java.util.Collection,java.lang.String) -> a
+    void containsNoNulls(java.util.Collection,java.lang.String) -> b
+    void notEmptyAndContainsNoNulls(java.util.Collection,java.lang.String) -> c
+    void notNullOrEmpty(java.lang.String,java.lang.String) -> a
+com.facebook.internal.WorkQueue -> com.facebook.b.ae:
+    java.lang.Object workLock -> b
+    int maxConcurrent -> c
+    java.util.concurrent.Executor executor -> d
+    com.facebook.internal.WorkQueue$WorkNode runningJobs -> e
+    int runningCount -> f
+    boolean $assertionsDisabled -> a
+com.facebook.internal.WorkQueue$WorkNode -> com.facebook.b.af:
+    boolean $assertionsDisabled -> a
+com.facebook.model.CreateGraphObject -> com.facebook.c.a:
+    java.lang.String value() -> a
+com.facebook.model.GraphMultiResult -> com.facebook.c.b:
+    com.facebook.model.GraphObjectList getData() -> a
+com.facebook.model.GraphObject -> com.facebook.c.c:
+    com.facebook.model.GraphObject cast(java.lang.Class) -> a
+    java.util.Map asMap() -> b
+    org.json.JSONObject getInnerJSONObject() -> c
+    java.lang.Object getProperty(java.lang.String) -> a
+    void setProperty(java.lang.String,java.lang.Object) -> a
+com.facebook.model.GraphObject$Factory -> com.facebook.c.d:
+    java.util.HashSet verifiedGraphObjectClasses -> a
+    java.text.SimpleDateFormat[] dateFormats -> b
+    com.facebook.model.GraphObject create(org.json.JSONObject) -> a
+    com.facebook.model.GraphObject create(org.json.JSONObject,java.lang.Class) -> a
+    com.facebook.model.GraphObject create() -> a
+    com.facebook.model.GraphObject create(java.lang.Class) -> a
+    com.facebook.model.GraphObjectList createList(org.json.JSONArray,java.lang.Class) -> a
+    com.facebook.model.GraphObjectList createList(java.lang.Class) -> b
+    com.facebook.model.GraphObject createGraphObjectProxy(java.lang.Class,org.json.JSONObject) -> b
+    java.util.Map createGraphObjectProxyForMap(org.json.JSONObject) -> c
+    boolean hasClassBeenVerified(java.lang.Class) -> c
+    void recordClassHasBeenVerified(java.lang.Class) -> d
+    void verifyCanProxyClass(java.lang.Class) -> e
+    java.lang.Object coerceValueToExpectedType(java.lang.Object,java.lang.Class,java.lang.reflect.ParameterizedType) -> a
+    java.lang.String convertCamelCaseToLowercaseWithUnderscores(java.lang.String) -> a
+    java.lang.Object getUnderlyingJSONObject(java.lang.Object) -> b
+    com.facebook.model.GraphObject access$0(java.lang.Class,org.json.JSONObject) -> a
+    java.util.Map access$1(org.json.JSONObject) -> b
+    java.lang.Object access$2(java.lang.Object) -> a
+com.facebook.model.GraphObject$Factory$GraphObjectListImpl -> com.facebook.c.e:
+    org.json.JSONArray state -> a
+    java.lang.Class itemType -> b
+    java.lang.String toString() -> toString
+    void add(int,java.lang.Object) -> add
+    java.lang.Object set(int,java.lang.Object) -> set
+    int hashCode() -> hashCode
+    boolean equals(java.lang.Object) -> equals
+    java.lang.Object get(int) -> get
+    int size() -> size
+    org.json.JSONArray getInnerJSONArray() -> a
+    void clear() -> clear
+    boolean remove(java.lang.Object) -> remove
+    boolean removeAll(java.util.Collection) -> removeAll
+    boolean retainAll(java.util.Collection) -> retainAll
+    void checkIndex(int) -> a
+    void put(int,java.lang.Object) -> a
+com.facebook.model.GraphObject$Factory$GraphObjectProxy -> com.facebook.c.f:
+    java.lang.Class graphObjectClass -> b
+    java.lang.String toString() -> toString
+    java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[]) -> invoke
+    java.lang.Object proxyMapMethods(java.lang.reflect.Method,java.lang.Object[]) -> a
+    java.lang.Object proxyGraphObjectMethods(java.lang.Object,java.lang.reflect.Method,java.lang.Object[]) -> b
+    java.lang.Object createGraphObjectsFromParameters(com.facebook.model.CreateGraphObject,java.lang.Object) -> a
+    java.lang.Object proxyGraphObjectGettersAndSetters(java.lang.reflect.Method,java.lang.Object[]) -> b
+    java.lang.Object setJSONProperty(java.lang.Object[]) -> a
+com.facebook.model.GraphObject$Factory$GraphObjectProxy$1 -> com.facebook.c.g:
+    com.facebook.model.GraphObject$Factory$GraphObjectProxy this$2 -> a
+    java.lang.Class val$expectedType -> b
+    java.lang.reflect.Type[] getActualTypeArguments() -> getActualTypeArguments
+    java.lang.reflect.Type getOwnerType() -> getOwnerType
+    java.lang.reflect.Type getRawType() -> getRawType
+com.facebook.model.GraphObject$Factory$ProxyBase -> com.facebook.c.h:
+    java.lang.Object state -> a
+    java.lang.Object throwUnexpectedMethodSignature(java.lang.reflect.Method) -> a
+    java.lang.Object proxyObjectMethods(java.lang.Object,java.lang.reflect.Method,java.lang.Object[]) -> a
+com.facebook.model.GraphObjectList -> com.facebook.c.i:
+    org.json.JSONArray getInnerJSONArray() -> a
+com.facebook.model.GraphUser -> com.facebook.c.j:
+    java.lang.String getId() -> a
+    java.lang.String getName() -> d
+com.facebook.model.JsonUtil -> com.facebook.c.k:
+    void jsonObjectClear(org.json.JSONObject) -> a
+    boolean jsonObjectContainsValue(org.json.JSONObject,java.lang.Object) -> a
+    java.util.Set jsonObjectEntrySet(org.json.JSONObject) -> b
+    java.util.Set jsonObjectKeySet(org.json.JSONObject) -> c
+    void jsonObjectPutAll(org.json.JSONObject,java.util.Map) -> a
+    java.util.Collection jsonObjectValues(org.json.JSONObject) -> d
+com.facebook.model.JsonUtil$JSONObjectEntry -> com.facebook.c.l:
+    java.lang.String key -> a
+    java.lang.Object value -> b
+    java.lang.String getKey() -> a
+    java.lang.Object getValue() -> getValue
+    java.lang.Object setValue(java.lang.Object) -> setValue
+    java.lang.Object getKey() -> getKey
+com.facebook.model.PropertyName -> com.facebook.c.m:
+    java.lang.String value() -> a
+com.facebook.widget.FacebookDialog -> com.facebook.widget.FacebookDialog:
+    com.facebook.NativeAppCallAttachmentStore attachmentStore -> a
+    boolean handleActivityResult(android.content.Context,com.facebook.widget.FacebookDialog$PendingCall,int,android.content.Intent,com.facebook.widget.FacebookDialog$Callback) -> a
+com.facebook.widget.FacebookDialog$Callback -> com.facebook.widget.a:
+    void onComplete(com.facebook.widget.FacebookDialog$PendingCall,android.os.Bundle) -> a
+    void onError(com.facebook.widget.FacebookDialog$PendingCall,java.lang.Exception,android.os.Bundle) -> a
+com.facebook.widget.FacebookDialog$PendingCall -> com.facebook.widget.FacebookDialog$PendingCall:
+    java.util.UUID callId -> a
+    android.content.Intent requestIntent -> b
+    int requestCode -> c
+    android.os.Parcelable$Creator CREATOR -> CREATOR
+    android.content.Intent getRequestIntent() -> a
+    java.util.UUID getCallId() -> b
+    int getRequestCode() -> c
+    int describeContents() -> describeContents
+    void writeToParcel(android.os.Parcel,int) -> writeToParcel
+com.facebook.widget.FacebookDialog$PendingCall$1 -> com.facebook.widget.b:
+    com.facebook.widget.FacebookDialog$PendingCall createFromParcel(android.os.Parcel) -> a
+    com.facebook.widget.FacebookDialog$PendingCall[] newArray(int) -> a
+    java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
+    java.lang.Object[] newArray(int) -> newArray
+com.facebook.widget.LoginButton -> com.facebook.widget.LoginButton:
+    java.lang.String TAG -> a
+    java.lang.String applicationId -> b
+    com.facebook.internal.SessionTracker sessionTracker -> c
+    com.facebook.model.GraphUser user -> d
+    com.facebook.Session userInfoSession -> e
+    boolean confirmLogout -> f
+    boolean fetchUserInfo -> g
+    java.lang.String loginText -> h
+    java.lang.String logoutText -> i
+    com.facebook.widget.LoginButton$UserInfoChangedCallback userInfoChangedCallback -> j
+    android.support.v4.app.Fragment parentFragment -> k
+    com.facebook.widget.LoginButton$LoginButtonProperties properties -> l
+    java.lang.String loginLogoutEventName -> m
+    void setOnErrorListener(com.facebook.widget.LoginButton$OnErrorListener) -> setOnErrorListener
+    com.facebook.widget.LoginButton$OnErrorListener getOnErrorListener() -> getOnErrorListener
+    void setDefaultAudience(com.facebook.SessionDefaultAudience) -> setDefaultAudience
+    com.facebook.SessionDefaultAudience getDefaultAudience() -> getDefaultAudience
+    void setReadPermissions(java.util.List) -> setReadPermissions
+    void setReadPermissions(java.lang.String[]) -> setReadPermissions
+    void setPublishPermissions(java.util.List) -> setPublishPermissions
+    void setPublishPermissions(java.lang.String[]) -> setPublishPermissions
+    void setLoginBehavior(com.facebook.SessionLoginBehavior) -> setLoginBehavior
+    com.facebook.SessionLoginBehavior getLoginBehavior() -> getLoginBehavior
+    void setApplicationId(java.lang.String) -> setApplicationId
+    com.facebook.widget.LoginButton$UserInfoChangedCallback getUserInfoChangedCallback() -> getUserInfoChangedCallback
+    void setUserInfoChangedCallback(com.facebook.widget.LoginButton$UserInfoChangedCallback) -> setUserInfoChangedCallback
+    void setSessionStatusCallback(com.facebook.Session$StatusCallback) -> setSessionStatusCallback
+    com.facebook.Session$StatusCallback getSessionStatusCallback() -> getSessionStatusCallback
+    void setSession(com.facebook.Session) -> setSession
+    void onFinishInflate() -> onFinishInflate
+    void finishInit() -> b
+    void setFragment(android.support.v4.app.Fragment) -> setFragment
+    void onAttachedToWindow() -> onAttachedToWindow
+    void onDetachedFromWindow() -> onDetachedFromWindow
+    java.util.List getPermissions() -> getPermissions
+    void setProperties(com.facebook.widget.LoginButton$LoginButtonProperties) -> setProperties
+    void setLoginLogoutEventName(java.lang.String) -> setLoginLogoutEventName
+    void parseAttributes(android.util.AttributeSet) -> a
+    void setButtonText() -> c
+    boolean initializeActiveSessionWithCachedToken(android.content.Context) -> a
+    void fetchUserInfo() -> d
+    void handleError(java.lang.Exception) -> a
+    java.lang.String access$0() -> a
+    com.facebook.internal.SessionTracker access$1(com.facebook.widget.LoginButton) -> a
+    boolean access$2(com.facebook.widget.LoginButton) -> b
+    com.facebook.model.GraphUser access$3(com.facebook.widget.LoginButton) -> c
+    java.lang.String access$4(com.facebook.widget.LoginButton) -> d
+    android.support.v4.app.Fragment access$5(com.facebook.widget.LoginButton) -> e
+    com.facebook.widget.LoginButton$LoginButtonProperties access$6(com.facebook.widget.LoginButton) -> f
+    java.lang.String access$7(com.facebook.widget.LoginButton) -> g
+    void access$8(com.facebook.widget.LoginButton) -> h
+    void access$9(com.facebook.widget.LoginButton) -> i
+    void access$10(com.facebook.widget.LoginButton,com.facebook.model.GraphUser) -> a
+    com.facebook.widget.LoginButton$UserInfoChangedCallback access$11(com.facebook.widget.LoginButton) -> j
+com.facebook.widget.LoginButton$1 -> com.facebook.widget.c:
+    com.facebook.widget.LoginButton this$0 -> a
+    com.facebook.Session val$currentSession -> b
+    void onCompleted(com.facebook.model.GraphUser,com.facebook.Response) -> a
+com.facebook.widget.LoginButton$LoginButtonCallback -> com.facebook.widget.d:
+    com.facebook.widget.LoginButton this$0 -> a
+    void call(com.facebook.Session,com.facebook.SessionState,java.lang.Exception) -> a
+com.facebook.widget.LoginButton$LoginButtonProperties -> com.facebook.widget.e:
+    com.facebook.SessionDefaultAudience defaultAudience -> a
+    java.util.List permissions -> b
+    com.facebook.internal.SessionAuthorizationType authorizationType -> c
+    com.facebook.widget.LoginButton$OnErrorListener onErrorListener -> d
+    com.facebook.SessionLoginBehavior loginBehavior -> e
+    com.facebook.Session$StatusCallback sessionStatusCallback -> f
+    void setOnErrorListener(com.facebook.widget.LoginButton$OnErrorListener) -> a
+    com.facebook.widget.LoginButton$OnErrorListener getOnErrorListener() -> a
+    void setDefaultAudience(com.facebook.SessionDefaultAudience) -> a
+    com.facebook.SessionDefaultAudience getDefaultAudience() -> b
+    void setReadPermissions(java.util.List,com.facebook.Session) -> a
+    void setPublishPermissions(java.util.List,com.facebook.Session) -> b
+    boolean validatePermissions(java.util.List,com.facebook.internal.SessionAuthorizationType,com.facebook.Session) -> a
+    java.util.List getPermissions() -> c
+    void setLoginBehavior(com.facebook.SessionLoginBehavior) -> a
+    com.facebook.SessionLoginBehavior getLoginBehavior() -> d
+    void setSessionStatusCallback(com.facebook.Session$StatusCallback) -> a
+    com.facebook.Session$StatusCallback getSessionStatusCallback() -> e
+    com.facebook.SessionDefaultAudience access$0(com.facebook.widget.LoginButton$LoginButtonProperties) -> a
+    java.util.List access$1(com.facebook.widget.LoginButton$LoginButtonProperties) -> b
+    com.facebook.SessionLoginBehavior access$2(com.facebook.widget.LoginButton$LoginButtonProperties) -> c
+    com.facebook.internal.SessionAuthorizationType access$3(com.facebook.widget.LoginButton$LoginButtonProperties) -> d
+    com.facebook.Session$StatusCallback access$4(com.facebook.widget.LoginButton$LoginButtonProperties) -> e
+    com.facebook.widget.LoginButton$OnErrorListener access$5(com.facebook.widget.LoginButton$LoginButtonProperties) -> f
+com.facebook.widget.LoginButton$LoginClickListener -> com.facebook.widget.f:
+    com.facebook.widget.LoginButton this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.facebook.widget.LoginButton$LoginClickListener$1 -> com.facebook.widget.g:
+    com.facebook.widget.LoginButton$LoginClickListener this$1 -> a
+    com.facebook.Session val$openSession -> b
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.facebook.widget.LoginButton$OnErrorListener -> com.facebook.widget.h:
+    void onError(com.facebook.FacebookException) -> a
+com.facebook.widget.LoginButton$UserInfoChangedCallback -> com.facebook.widget.i:
+    void onUserInfoFetched(com.facebook.model.GraphUser) -> a
+com.facebook.widget.WebDialog -> com.facebook.widget.j:
+    java.lang.String url -> a
+    com.facebook.widget.WebDialog$OnCompleteListener onCompleteListener -> b
+    android.webkit.WebView webView -> c
+    android.app.ProgressDialog spinner -> d
+    android.widget.ImageView crossImageView -> e
+    android.widget.FrameLayout contentFrameLayout -> f
+    boolean listenerCalled -> g
+    boolean isDetached -> h
+    void dismiss() -> dismiss
+    void onDetachedFromWindow() -> onDetachedFromWindow
+    void onAttachedToWindow() -> onAttachedToWindow
+    void onCreate(android.os.Bundle) -> onCreate
+    android.util.Pair getMargins() -> a
+    void sendSuccessToListener(android.os.Bundle) -> a
+    void sendErrorToListener(java.lang.Throwable) -> a
+    void sendCancelToListener() -> b
+    void createCrossImage() -> c
+    void setUpWebView(int) -> a
+    void access$0(com.facebook.widget.WebDialog,android.os.Bundle) -> a
+    void access$1(com.facebook.widget.WebDialog) -> a
+    void access$2(com.facebook.widget.WebDialog,java.lang.Throwable) -> a
+    boolean access$3(com.facebook.widget.WebDialog) -> b
+    android.app.ProgressDialog access$4(com.facebook.widget.WebDialog) -> c
+    android.widget.FrameLayout access$5(com.facebook.widget.WebDialog) -> d
+    android.webkit.WebView access$6(com.facebook.widget.WebDialog) -> e
+    android.widget.ImageView access$7(com.facebook.widget.WebDialog) -> f
+com.facebook.widget.WebDialog$1 -> com.facebook.widget.k:
+    com.facebook.widget.WebDialog this$0 -> a
+    void onCancel(android.content.DialogInterface) -> onCancel
+com.facebook.widget.WebDialog$2 -> com.facebook.widget.l:
+    com.facebook.widget.WebDialog this$0 -> a
+    void onCancel(android.content.DialogInterface) -> onCancel
+com.facebook.widget.WebDialog$3 -> com.facebook.widget.m:
+    com.facebook.widget.WebDialog this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.facebook.widget.WebDialog$Builder -> com.facebook.widget.n:
+    com.facebook.widget.WebDialog build() -> a
+    com.facebook.widget.WebDialog$BuilderBase setOnCompleteListener(com.facebook.widget.WebDialog$OnCompleteListener) -> a
+com.facebook.widget.WebDialog$BuilderBase -> com.facebook.widget.o:
+    android.content.Context context -> a
+    com.facebook.Session session -> b
+    java.lang.String applicationId -> c
+    java.lang.String action -> d
+    int theme -> e
+    com.facebook.widget.WebDialog$OnCompleteListener listener -> f
+    android.os.Bundle parameters -> g
+    com.facebook.widget.WebDialog$BuilderBase setOnCompleteListener(com.facebook.widget.WebDialog$OnCompleteListener) -> a
+    com.facebook.widget.WebDialog build() -> a
+    java.lang.String getApplicationId() -> b
+    android.content.Context getContext() -> c
+    int getTheme() -> d
+    android.os.Bundle getParameters() -> e
+    com.facebook.widget.WebDialog$OnCompleteListener getListener() -> f
+    void finishInit(android.content.Context,java.lang.String,android.os.Bundle) -> a
+com.facebook.widget.WebDialog$DialogWebViewClient -> com.facebook.widget.p:
+    com.facebook.widget.WebDialog this$0 -> a
+    boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String) -> shouldOverrideUrlLoading
+    void onReceivedError(android.webkit.WebView,int,java.lang.String,java.lang.String) -> onReceivedError
+    void onReceivedSslError(android.webkit.WebView,android.webkit.SslErrorHandler,android.net.http.SslError) -> onReceivedSslError
+    void onPageStarted(android.webkit.WebView,java.lang.String,android.graphics.Bitmap) -> onPageStarted
+    void onPageFinished(android.webkit.WebView,java.lang.String) -> onPageFinished
+com.facebook.widget.WebDialog$OnCompleteListener -> com.facebook.widget.q:
+    void onComplete(android.os.Bundle,com.facebook.FacebookException) -> a
+hu.droidium.bibliapp.BaseActivity -> hu.droidium.bibliapp.a:
+    android.app.ProgressDialog progressDialog -> a
+    android.app.Dialog dialog -> b
+    boolean showDialog(int,int,int,android.view.View$OnClickListener,int,android.view.View$OnClickListener,int,android.view.View$OnClickListener,hu.droidium.bibliapp.Orientation) -> a
+    boolean showDialog(int,java.lang.String,java.lang.String,java.lang.String,android.view.View$OnClickListener,java.lang.String,android.view.View$OnClickListener,java.lang.String,android.view.View$OnClickListener,hu.droidium.bibliapp.Orientation) -> a
+    android.app.Dialog access$0(hu.droidium.bibliapp.BaseActivity) -> a
+    void access$1(hu.droidium.bibliapp.BaseActivity,android.app.Dialog) -> a
+hu.droidium.bibliapp.BaseActivity$1 -> hu.droidium.bibliapp.b:
+    hu.droidium.bibliapp.BaseActivity this$0 -> a
+    android.view.View$OnClickListener val$firstButtonListener -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.BaseActivity$2 -> hu.droidium.bibliapp.c:
+    hu.droidium.bibliapp.BaseActivity this$0 -> a
+    android.view.View$OnClickListener val$secondButtonListener -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.BaseActivity$3 -> hu.droidium.bibliapp.d:
+    hu.droidium.bibliapp.BaseActivity this$0 -> a
+    android.view.View$OnClickListener val$thirdButtonListener -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.BibleBaseActivity -> hu.droidium.bibliapp.e:
+    java.util.List PERMISSIONS -> d
+    com.facebook.Session session -> e
+    boolean sessionOnline -> f
+    com.facebook.UiLifecycleHelper uiHelper -> g
+    boolean pendingPublishReauthorization -> h
+    hu.droidium.bibliapp.data.BibleDataAdapter bibleDataAdapter -> a
+    hu.droidium.bibliapp.data.BookmarkDataAdapter bookmarkDataAdapter -> b
+    hu.droidium.bibliapp.data.TagDataAdapter tagDataAdapter -> c
+    hu.droidium.bibliapp.data.Translator translator -> i
+    android.content.SharedPreferences prefs -> j
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void login() -> e
+    void onPause() -> onPause
+    void onDestroy() -> onDestroy
+    void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
+    void call(com.facebook.Session,com.facebook.SessionState,java.lang.Exception) -> a
+    void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    void checkIfOnline() -> f
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    java.util.List getAllBookmarks() -> c
+    hu.droidium.bibliapp.database.Bookmark saveBookmark(java.lang.String,java.lang.String,int,int,java.lang.String) -> a
+    void publishStory(java.lang.String,java.lang.String,java.lang.String) -> a
+    void publishStory() -> g
+    boolean isSubsetOf(java.util.Collection,java.util.Collection) -> a
+    boolean isFacebookSessionOpened() -> d
+    android.content.SharedPreferences access$0(hu.droidium.bibliapp.BibleBaseActivity) -> a
+    void access$1(hu.droidium.bibliapp.BibleBaseActivity) -> b
+    void access$2(hu.droidium.bibliapp.BibleBaseActivity,boolean) -> a
+    boolean access$3(hu.droidium.bibliapp.BibleBaseActivity) -> c
+    com.facebook.Session access$4(hu.droidium.bibliapp.BibleBaseActivity) -> d
+    void access$5(hu.droidium.bibliapp.BibleBaseActivity,boolean) -> b
+    void access$6(hu.droidium.bibliapp.BibleBaseActivity) -> e
+hu.droidium.bibliapp.BibleBaseActivity$1 -> hu.droidium.bibliapp.f:
+    hu.droidium.bibliapp.BibleBaseActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.BibleBaseActivity$2 -> hu.droidium.bibliapp.g:
+    hu.droidium.bibliapp.BibleBaseActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.BibleBaseActivity$3 -> hu.droidium.bibliapp.h:
+    hu.droidium.bibliapp.BibleBaseActivity this$0 -> a
+    void onCompleted(com.facebook.model.GraphUser,com.facebook.Response) -> a
+hu.droidium.bibliapp.BibleBaseActivity$4 -> hu.droidium.bibliapp.i:
+    hu.droidium.bibliapp.BibleBaseActivity this$0 -> a
+    void onCompleted(com.facebook.Response) -> a
+hu.droidium.bibliapp.BookListActivity -> hu.droidium.bibliapp.BookListActivity:
+    hu.droidium.bibliapp.BookTitleAdapter adapter -> d
+    void onCreate(android.os.Bundle) -> onCreate
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.BookTitleAdapter -> hu.droidium.bibliapp.j:
+    java.util.HashSet observers -> a
+    android.view.LayoutInflater inflater -> b
+    hu.droidium.bibliapp.data.BibleDataAdapter bibleDataAdapter -> c
+    android.content.Context context -> d
+    java.lang.String[] bookIds -> e
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    int getViewTypeCount() -> getViewTypeCount
+    boolean hasStableIds() -> hasStableIds
+    boolean isEmpty() -> isEmpty
+    void registerDataSetObserver(android.database.DataSetObserver) -> registerDataSetObserver
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> unregisterDataSetObserver
+    boolean areAllItemsEnabled() -> areAllItemsEnabled
+    boolean isEnabled(int) -> isEnabled
+hu.droidium.bibliapp.ChapterAdapter -> hu.droidium.bibliapp.k:
+    hu.droidium.bibliapp.data.BibleDataAdapter bibleDataAdapter -> a
+    java.lang.String bookId -> b
+    java.util.HashSet observers -> c
+    android.content.Context context -> d
+    android.view.LayoutInflater inflater -> e
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    int getViewTypeCount() -> getViewTypeCount
+    boolean hasStableIds() -> hasStableIds
+    boolean isEmpty() -> isEmpty
+    void registerDataSetObserver(android.database.DataSetObserver) -> registerDataSetObserver
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> unregisterDataSetObserver
+    boolean areAllItemsEnabled() -> areAllItemsEnabled
+    boolean isEnabled(int) -> isEnabled
+hu.droidium.bibliapp.ChapterListActivity -> hu.droidium.bibliapp.ChapterListActivity:
+    hu.droidium.bibliapp.ChapterAdapter adapter -> d
+    java.lang.String bookId -> e
+    void onCreate(android.os.Bundle) -> onCreate
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+hu.droidium.bibliapp.Constants -> hu.droidium.bibliapp.l:
+    android.content.SharedPreferences getPrefs(android.content.Context) -> a
+    void savePosition(java.lang.String,int,int,android.content.Context) -> a
+    void scaleText(android.widget.TextView,android.content.Context) -> a
+    java.lang.String getVerseLabel(java.lang.String,int,int,hu.droidium.bibliapp.data.BibleDataAdapter) -> a
+hu.droidium.bibliapp.MainActivity -> hu.droidium.bibliapp.MainActivity:
+    android.widget.Button lastReadVers -> d
+    android.widget.Button toBookList -> e
+    android.view.View bookmarks -> f
+    android.widget.Button settings -> g
+    android.widget.Button tags -> h
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.Orientation -> hu.droidium.bibliapp.m:
+    hu.droidium.bibliapp.Orientation HORIZONTAL -> a
+    hu.droidium.bibliapp.Orientation VERTICAL -> b
+    hu.droidium.bibliapp.Orientation[] ENUM$VALUES -> c
+    hu.droidium.bibliapp.Orientation[] values() -> values
+    hu.droidium.bibliapp.Orientation valueOf(java.lang.String) -> valueOf
+hu.droidium.bibliapp.SettingsActivity -> hu.droidium.bibliapp.SettingsActivity:
+    android.widget.TextView smallerText -> d
+    android.widget.TextView largerText -> e
+    android.content.SharedPreferences prefs -> f
+    android.widget.TextView actualText -> g
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void refreshUI() -> e
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.VerseAdapter -> hu.droidium.bibliapp.n:
+    java.lang.String bookId -> a
+    int chapterIndex -> b
+    hu.droidium.bibliapp.data.BibleDataAdapter bibleDataAdapter -> c
+    hu.droidium.bibliapp.data.TagDataAdapter tagDataAdapter -> d
+    android.util.SparseArray bookmarks -> e
+    java.util.HashSet observers -> f
+    long displayMenu -> g
+    boolean facebookEnabled -> h
+    hu.droidium.bibliapp.BibleBaseActivity activity -> i
+    android.view.LayoutInflater inflater -> j
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    int getViewTypeCount() -> getViewTypeCount
+    boolean hasStableIds() -> hasStableIds
+    boolean isEmpty() -> isEmpty
+    void registerDataSetObserver(android.database.DataSetObserver) -> registerDataSetObserver
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> unregisterDataSetObserver
+    boolean areAllItemsEnabled() -> areAllItemsEnabled
+    boolean isEnabled(int) -> isEnabled
+    void showOptions(android.view.View,long,boolean) -> a
+    void onClick(android.view.View) -> onClick
+    hu.droidium.bibliapp.BibleBaseActivity access$0(hu.droidium.bibliapp.VerseAdapter) -> a
+    java.lang.String access$1(hu.droidium.bibliapp.VerseAdapter) -> b
+    int access$2(hu.droidium.bibliapp.VerseAdapter) -> c
+    android.util.SparseArray access$3(hu.droidium.bibliapp.VerseAdapter) -> d
+    java.util.HashSet access$4(hu.droidium.bibliapp.VerseAdapter) -> e
+    hu.droidium.bibliapp.data.TagDataAdapter access$5(hu.droidium.bibliapp.VerseAdapter) -> f
+hu.droidium.bibliapp.VerseAdapter$1 -> hu.droidium.bibliapp.o:
+    hu.droidium.bibliapp.VerseAdapter this$0 -> a
+    android.app.AlertDialog val$dialog -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.VerseAdapter$2 -> hu.droidium.bibliapp.p:
+    hu.droidium.bibliapp.VerseAdapter this$0 -> a
+    android.widget.EditText val$commentEditor -> b
+    java.lang.String val$verseId -> c
+    java.lang.String val$versBody -> d
+    android.app.AlertDialog val$dialog -> e
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.VerseAdapter$3 -> hu.droidium.bibliapp.q:
+    hu.droidium.bibliapp.VerseAdapter this$0 -> a
+    android.app.AlertDialog val$dialog -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.VerseAdapter$4 -> hu.droidium.bibliapp.r:
+    hu.droidium.bibliapp.VerseAdapter this$0 -> a
+    android.widget.EditText val$commentEditor -> b
+    int val$vers -> c
+    android.app.AlertDialog val$dialog -> d
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.VerseAdapter$5 -> hu.droidium.bibliapp.s:
+    hu.droidium.bibliapp.VerseAdapter this$0 -> a
+    android.app.AlertDialog val$dialog -> b
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.VerseAdapter$6 -> hu.droidium.bibliapp.t:
+    hu.droidium.bibliapp.VerseAdapter this$0 -> a
+    java.util.List val$tagMetas -> b
+    java.util.HashSet val$usedTagMetaIds -> c
+    hu.droidium.bibliapp.tag_ui.CheckableTagAdapter val$tagAdapter -> d
+    int val$verseIndex -> e
+    android.app.AlertDialog val$dialog -> f
+    void onClick(android.view.View) -> onClick
+hu.droidium.bibliapp.VerseListActivity -> hu.droidium.bibliapp.VerseListActivity:
+    java.lang.String bookId -> d
+    hu.droidium.bibliapp.VerseAdapter adapter -> e
+    android.widget.ListView verseList -> f
+    int chapterIndex -> g
+    void onCreate(android.os.Bundle) -> onCreate
+    void onPause() -> onPause
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+hu.droidium.bibliapp.bookmar_ui.BookmarkAdapter -> hu.droidium.bibliapp.bookmar_ui.a:
+    java.util.HashSet observers -> a
+    android.view.LayoutInflater inflater -> b
+    java.util.List bookmarks -> c
+    hu.droidium.bibliapp.data.BibleDataAdapter bibleDataAdapter -> d
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    int getViewTypeCount() -> getViewTypeCount
+    boolean hasStableIds() -> hasStableIds
+    boolean isEmpty() -> isEmpty
+    void registerDataSetObserver(android.database.DataSetObserver) -> registerDataSetObserver
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> unregisterDataSetObserver
+    boolean areAllItemsEnabled() -> areAllItemsEnabled
+    boolean isEnabled(int) -> isEnabled
+hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity -> hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity:
+    hu.droidium.bibliapp.bookmar_ui.BookmarkAdapter adapter -> d
+    void onCreate(android.os.Bundle) -> onCreate
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+hu.droidium.bibliapp.data.AssetBibleDataAdapter -> hu.droidium.bibliapp.a.a:
+    android.content.Context context -> a
+    java.util.Vector assets -> b
+    java.util.Vector bookIds -> c
+    java.util.HashMap titleMap -> d
+    java.util.HashMap abbreviationMap -> e
+    hu.droidium.bibliapp.data.Book lastAccessedBook -> f
+    java.lang.String getBookAbbreviation(java.lang.String) -> a
+    java.lang.String[] getBookIds() -> a
+    java.lang.String getBookTitle(java.lang.String) -> b
+    int getChapterCount(java.lang.String) -> c
+    int getVerseCount(java.lang.String,int) -> a
+    java.lang.String getVerseLine(java.lang.String,int,int) -> a
+hu.droidium.bibliapp.data.AssetReader -> hu.droidium.bibliapp.a.b:
+    java.util.Vector readTitles(android.content.Context) -> a
+    hu.droidium.bibliapp.data.Book parseBook(java.lang.String,android.content.Context) -> a
+    java.util.List parseTagMetas(android.content.Context) -> b
+hu.droidium.bibliapp.data.BibleDataAdapter -> hu.droidium.bibliapp.a.c:
+    java.lang.String getBookAbbreviation(java.lang.String) -> a
+    java.lang.String[] getBookIds() -> a
+    java.lang.String getBookTitle(java.lang.String) -> b
+    int getChapterCount(java.lang.String) -> c
+    int getVerseCount(java.lang.String,int) -> a
+    java.lang.String getVerseLine(java.lang.String,int,int) -> a
+hu.droidium.bibliapp.data.Book -> hu.droidium.bibliapp.a.d:
+    java.lang.String title -> a
+    java.lang.String id -> b
+    java.util.Vector chapters -> c
+    hu.droidium.bibliapp.data.Chapter getChapter(int) -> a
+    int getChapterCount() -> a
+    java.lang.String getId() -> b
+hu.droidium.bibliapp.data.BookmarkDataAdapter -> hu.droidium.bibliapp.a.e:
+    hu.droidium.bibliapp.database.Bookmark saveBookmark(hu.droidium.bibliapp.database.Bookmark) -> a
+    java.util.List getBookmarksForChapter(java.lang.String,int) -> a
+    java.util.List getAllBookmarks(java.lang.String,boolean) -> a
+hu.droidium.bibliapp.data.Chapter -> hu.droidium.bibliapp.a.f:
+    android.util.SparseArray verses -> a
+    int index -> b
+    hu.droidium.bibliapp.data.Book book -> c
+    hu.droidium.bibliapp.data.Verse getVerse(int) -> a
+    void setVerse(int,java.lang.String) -> a
+    int getVerseCount() -> a
+hu.droidium.bibliapp.data.TagDataAdapter -> hu.droidium.bibliapp.a.g:
+    java.util.List getTagMetas() -> a
+    hu.droidium.bibliapp.database.TagMeta getTagMeta(java.lang.String) -> a
+    java.util.ArrayList getTagColors(java.lang.String,int,int) -> a
+    java.util.List getTags(java.lang.String,int,int) -> b
+    boolean removeTag(java.lang.String,java.lang.String,int,int) -> a
+    boolean addTag(java.lang.String,java.lang.String,int,int) -> b
+    java.util.List getTags(java.lang.String) -> b
+    int getTotalTags() -> b
+    int getTotalTags(java.lang.String) -> c
+hu.droidium.bibliapp.data.Translator -> hu.droidium.bibliapp.a.h:
+hu.droidium.bibliapp.data.Verse -> hu.droidium.bibliapp.a.i:
+    hu.droidium.bibliapp.data.Book book -> a
+    java.lang.String line -> b
+    int verseIndex -> c
+    int chapterIndex -> d
+    java.lang.String getLine() -> a
+    void setLine(java.lang.String) -> a
+    void setVerseIndex(int) -> a
+hu.droidium.bibliapp.database.BibleDbHelper -> hu.droidium.bibliapp.b.a:
+    void onCreate(android.database.sqlite.SQLiteDatabase) -> onCreate
+    void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int) -> onUpgrade
+    void onDowngrade(android.database.sqlite.SQLiteDatabase,int,int) -> onDowngrade
+hu.droidium.bibliapp.database.Bookmark -> hu.droidium.bibliapp.b.b:
+    long id -> a
+    java.lang.String note -> b
+    java.lang.String bookId -> c
+    int chapter -> d
+    int vers -> e
+    java.util.Date lastUpdate -> f
+    java.lang.String color -> g
+    java.util.Date getDate(java.lang.String) -> a
+    long getId() -> a
+    java.lang.String getNote() -> b
+    java.lang.String getBookId() -> c
+    int getChapter() -> d
+    int getVers() -> e
+    java.util.Date getLastUpdate() -> f
+    java.lang.String getColor() -> g
+    java.lang.String getCreateTableText() -> h
+hu.droidium.bibliapp.database.DatabaseManager -> hu.droidium.bibliapp.b.c:
+    hu.droidium.bibliapp.database.BibleDbHelper dbHelper -> a
+    android.database.sqlite.SQLiteDatabase db -> b
+    hu.droidium.bibliapp.database.Bookmark saveBookmark(hu.droidium.bibliapp.database.Bookmark) -> a
+    java.util.List getBookmarksForChapter(java.lang.String,int) -> a
+    java.util.List getAllBookmarks(java.lang.String,boolean) -> a
+    java.util.List getTagMetas() -> a
+    hu.droidium.bibliapp.database.TagMeta getTagMeta(java.lang.String) -> a
+    java.util.List getTags(java.lang.String,int,int) -> b
+    java.util.ArrayList getTagColors(java.lang.String,int,int) -> a
+    boolean removeTag(java.lang.String,java.lang.String,int,int) -> a
+    boolean addTag(java.lang.String,java.lang.String,int,int) -> b
+    boolean addTagMeta(java.lang.String,java.lang.String,java.lang.String) -> a
+    void loadTagMetaFromAssets(android.content.Context) -> a
+    java.util.List getTags(java.lang.String) -> b
+    int getTotalTags() -> b
+    int getTotalTags(java.lang.String) -> c
+hu.droidium.bibliapp.database.Tag -> hu.droidium.bibliapp.b.d:
+    java.lang.String tagId -> a
+    java.lang.String book -> b
+    int chapter -> c
+    int vers -> d
+    long updated -> e
+    java.lang.String getBook() -> a
+    int getChapter() -> b
+    int getVers() -> c
+    java.lang.String getCreateTableText() -> d
+hu.droidium.bibliapp.database.TagMeta -> hu.droidium.bibliapp.b.e:
+    java.lang.String tagId -> a
+    java.lang.String name -> b
+    java.lang.String color -> c
+    java.lang.String getId() -> a
+    java.lang.String getName() -> b
+    java.lang.String getColor() -> c
+    java.lang.String getCreateTableText() -> d
+    hu.droidium.bibliapp.database.TagMeta parse(java.lang.String) -> a
+hu.droidium.bibliapp.database.Translation -> hu.droidium.bibliapp.b.f:
+    java.lang.String getCreateTableText() -> a
+hu.droidium.bibliapp.tag_ui.CheckableTagAdapter -> hu.droidium.bibliapp.tag_ui.a:
+    java.util.HashSet observers -> a
+    android.view.LayoutInflater inflater -> b
+    java.util.List tags -> c
+    java.util.HashMap checked -> d
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    int getViewTypeCount() -> getViewTypeCount
+    boolean hasStableIds() -> hasStableIds
+    boolean isEmpty() -> isEmpty
+    void registerDataSetObserver(android.database.DataSetObserver) -> registerDataSetObserver
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> unregisterDataSetObserver
+    boolean areAllItemsEnabled() -> areAllItemsEnabled
+    boolean isEnabled(int) -> isEnabled
+    boolean isChecked(java.lang.String) -> a
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+hu.droidium.bibliapp.tag_ui.TagAdapter -> hu.droidium.bibliapp.tag_ui.b:
+    java.util.HashSet observers -> a
+    android.view.LayoutInflater inflater -> b
+    java.util.List tags -> c
+    hu.droidium.bibliapp.data.BibleDataAdapter bibleDataAdapter -> d
+    int color -> e
+    java.lang.String tagMetaId -> f
+    hu.droidium.bibliapp.data.TagDataAdapter tagDataAdapter -> g
+    void refresh() -> a
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    int getViewTypeCount() -> getViewTypeCount
+    boolean hasStableIds() -> hasStableIds
+    boolean isEmpty() -> isEmpty
+    void registerDataSetObserver(android.database.DataSetObserver) -> registerDataSetObserver
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> unregisterDataSetObserver
+    boolean areAllItemsEnabled() -> areAllItemsEnabled
+    boolean isEnabled(int) -> isEnabled
+hu.droidium.bibliapp.tag_ui.TagListActivity -> hu.droidium.bibliapp.tag_ui.TagListActivity:
+    hu.droidium.bibliapp.tag_ui.TagAdapter adapter -> d
+    java.lang.String tagId -> e
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+hu.droidium.bibliapp.tag_ui.TagMargin -> hu.droidium.bibliapp.tag_ui.TagMargin:
+    int width -> a
+    int height -> b
+    int x -> c
+    int y -> d
+    java.util.List paints -> e
+    void setColors(java.util.ArrayList) -> setColors
+    void onDraw(android.graphics.Canvas) -> onDraw
+    void onSizeChanged(int,int,int,int) -> onSizeChanged
+hu.droidium.bibliapp.tag_ui.TagMetaAdapter -> hu.droidium.bibliapp.tag_ui.c:
+    java.util.HashSet observers -> a
+    android.view.LayoutInflater inflater -> b
+    java.util.List tags -> c
+    java.util.HashMap occurrences -> d
+    hu.droidium.bibliapp.data.TagDataAdapter tagDataAdapter -> e
+    android.content.Context context -> f
+    void refresh() -> a
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    int getViewTypeCount() -> getViewTypeCount
+    boolean hasStableIds() -> hasStableIds
+    boolean isEmpty() -> isEmpty
+    void registerDataSetObserver(android.database.DataSetObserver) -> registerDataSetObserver
+    void unregisterDataSetObserver(android.database.DataSetObserver) -> unregisterDataSetObserver
+    boolean areAllItemsEnabled() -> areAllItemsEnabled
+    boolean isEnabled(int) -> isEnabled
+hu.droidium.bibliapp.tag_ui.TagMetaListActivity -> hu.droidium.bibliapp.tag_ui.TagMetaListActivity:
+    hu.droidium.bibliapp.tag_ui.TagMetaAdapter adapter -> d
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void facebookSessionOpened() -> a
+    void facebookSessionClosed() -> b
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick

@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="6" android:versionName="1.4" package="hu.droidium.bibliapp">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="7" android:versionName="1.5" package="hu.droidium.bibliapp">
 
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="18"/>
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
-    <permission android:name="hu.droidium.bibliapp.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
-
-   <uses-permission android:name="hu.droidium.bibliapp.permission.C2D_MESSAGE"/>
-   <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
-   <uses-permission android:name="android.permission.WAKE_LOCK"/>
-   <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
-   <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
         <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
 
@@ -36,27 +29,6 @@
             </intent-filter>
         </activity>
 
-        <!-- receiver android:name="RandomVersWidgetProvider" >
-            <intent-filter>
-                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-            </intent-filter>
-
-            <meta-data
-                android:name="android.appwidget.provider"
-                android:resource="@xml/random_vers_widget_info" />
-        </receiver-->
-        <service android:name=".GCMIntentService"/>
-        <receiver android:name="com.google.android.gcm.GCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
-            <intent-filter>
-                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
-                <category android:name="hu.droidium.bibliapp"/>
-            </intent-filter>
-            <intent-filter>
-                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
-                <category android:name="hu.droidium.bibliapp"/>
-            </intent-filter>
-        </receiver>
-    
         <activity android:launchMode="singleTop" android:name=".RegisterActivity"/>
         <activity android:name=".tag_ui.TagMetaListActivity"></activity>
         <activity android:name=".tag_ui.TagListActivity"></activity>
