@@ -63,6 +63,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	private Translator translator;
 	
 	private SharedPreferences prefs;
+	private DatabaseManager databaseManager;
 	private static ArrayList<TagMeta> localizedTagMetas;
 
 	@Override
@@ -71,7 +72,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		prefs = Constants.getPrefs(this);
 		bibleDataAdapter = new AssetBibleDataAdapter(this);
 		// Most functionality is covered by a database manager
-		DatabaseManager databaseManager = new DatabaseManager(this);
+		databaseManager = new DatabaseManager(this);
 		bookmarkDataAdapter = databaseManager;
 		tagDataAdapter = databaseManager;
 		translator = databaseManager;
@@ -158,6 +159,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 	@Override
 	protected void onDestroy() {
+		databaseManager.destroy();
 		uiHelper.onDestroy();
 		super.onDestroy();
 	}

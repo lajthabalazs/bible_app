@@ -27,6 +27,7 @@
         android:layout_height="0dip"
         android:layout_weight="1"
         android:scrollbars="none"
+        android:background="@android:color/transparent"
         android:cacheColorHint="@android:color/transparent"
         android:listSelector="@android:color/transparent">
     </ListView>

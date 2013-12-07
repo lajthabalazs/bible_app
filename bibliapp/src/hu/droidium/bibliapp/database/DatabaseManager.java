@@ -353,7 +353,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	    String selection = Tag.COLUMN_NAME_TAG_ID + "=?";
 	    String[] selectionArgs = new String[]{tagMetaId};
 	    String orderString = Tag.COLUMN_NAME_LAST_UPDATE + " desc";
-		Cursor c = db.query(true, Tag.TABLE_NAME, columns, selection, selectionArgs, null, null, orderString, null, null);
+		Cursor c = db.query(Tag.TABLE_NAME, columns, selection, selectionArgs, null, null, orderString, null);
 	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
 			String tagId = c.getString(c.getColumnIndex(Tag.COLUMN_NAME_TAG_ID));
 			String bookId = c.getString(c.getColumnIndex(Tag.COLUMN_NAME_BOOK));
@@ -387,5 +387,9 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	    } else {
 	    	return 0;
 	    }
+	}
+
+	public void destroy() {
+		db.close();
 	}
 }
