@@ -30,6 +30,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:gravity="top|left"
+        android:layout_margin="@dimen/activity_small_horizontal_margin"
+        android:background="@color/white"
         android:inputType="textMultiLine" >
 
         <requestFocus />

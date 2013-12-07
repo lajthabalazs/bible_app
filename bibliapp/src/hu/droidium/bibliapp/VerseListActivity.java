@@ -15,6 +15,8 @@ import android.widget.TextView;
 
 public class VerseListActivity extends BibleBaseActivity implements OnItemClickListener {
 
+	@SuppressWarnings("unused")
+	private static final String TAG = VerseListActivity.class.getName();
 	private String bookId;
 	private VerseAdapter adapter;
 	private ListView verseList;
@@ -34,13 +36,14 @@ public class VerseListActivity extends BibleBaseActivity implements OnItemClickL
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);
 		verseList.setOnItemClickListener(this);
+		SharedPreferences prefs = Constants.getPrefs(this);
+		boolean shouldOpenLastRead = prefs.getBoolean(Constants.SHOULD_OPEN_LAST_READ, false);
 		if (intent.hasExtra(Constants.VERSE_INDEX)) {
 			int verseIndex = intent.getIntExtra(Constants.VERSE_INDEX,0);
 			verseList.setSelection(verseIndex);
-		} else if (intent.hasExtra(Constants.SHOULD_OPEN_LAST_READ)) {
-			SharedPreferences prefs = Constants.getPrefs(this);
+		} else if (shouldOpenLastRead) {
+			prefs.edit().remove(Constants.SHOULD_OPEN_LAST_READ).commit();
 			int verseIndex = prefs.getInt(Constants.LAST_READ_VERS, 0);
-			
 			verseList.setSelection(verseIndex);
 		}
 	}

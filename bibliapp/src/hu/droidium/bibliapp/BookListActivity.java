@@ -22,7 +22,6 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		Intent intent = getIntent();
 		setContentView(R.layout.book_list);
 		TextView bookmarksLink = (TextView) findViewById(R.id.bookmarkLink);
 		bookmarksLink.setOnClickListener(this);
@@ -31,9 +30,10 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 		bookList.setCacheColorHint(Color.TRANSPARENT);
 		bookList.setAdapter(adapter);
 		bookList.setOnItemClickListener(this);
-		if (intent.hasExtra(Constants.SHOULD_OPEN_LAST_READ)) {
+		SharedPreferences prefs = Constants.getPrefs(this);
+		boolean shouldOpenLastRead = prefs.getBoolean(Constants.SHOULD_OPEN_LAST_READ, false);		
+		if (shouldOpenLastRead) {
 			log(R.string.flurryEventContinuedFromLastTime);
-			SharedPreferences prefs = Constants.getPrefs(this);
 			String bookId = prefs.getString(Constants.LAST_READ_BOOK_ID, null);
 			if (bookId.startsWith("raw")) {
 				bookId = bookId.substring(4,6);
@@ -41,7 +41,6 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 			}
 			Intent nextIntent = new Intent(this, ChapterListActivity.class);
 			nextIntent.putExtra(Constants.BOOK_ID, bookId);
-			nextIntent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
 			startActivity(nextIntent);
 		} else {
 			log(R.string.flurryEventBooksListed);

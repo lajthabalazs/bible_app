@@ -84,8 +84,27 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	@Override
 	protected void onResume() {
 		super.onResume();
-		// TODO Check if user wants to participate in logging
-		
+		// Check if user wants to participate in logging
+		if (!isLoggingEnabledSelected()) {
+			OnClickListener firstButtonListener = new OnClickListener() {
+				
+				@Override
+				public void onClick(View v) {
+					setLoggingEnabled(true);
+				}
+			};
+			OnClickListener secondButtonListener = new OnClickListener() {
+				@Override
+				public void onClick(View v) {
+					setLoggingEnabled(false);
+				}
+			};
+			showDialog(R.string.flurryDialogTitle, 
+					R.string.flurryDialogMessage,
+					R.string.flurryDialogEnable, firstButtonListener,
+					R.string.flurryDialogDisable, secondButtonListener,
+					Orientation.HORIZONTAL);
+		}
 		// Check if user wants to use Facebook
 		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
 		switch(facebookAsk) {

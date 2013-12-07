@@ -6,6 +6,7 @@ import java.util.Map;
 import hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity;
 import hu.droidium.bibliapp.tag_ui.TagMetaListActivity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -69,8 +70,9 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 				break;
 			}
 			case R.id.lastReadVersButton: {
+				SharedPreferences prefs = Constants.getPrefs(this);
+				prefs.edit().putBoolean(Constants.SHOULD_OPEN_LAST_READ, true).commit();
 				Intent intent = new Intent(this, BookListActivity.class);
-				intent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
 				startActivity(intent);
 				break;
 			}

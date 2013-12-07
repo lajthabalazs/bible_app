@@ -24,11 +24,19 @@
     <string name="bookmarksTitle">Könyvjelzők</string>
     <string name="toBookList">Könyvek listája</string>
     <string name="continueWhereFinished">Legutóbb olvasott ige</string>
+    
     <string name="facebookDialogTitle">Facebook bejelentkezés</string>
     <string name="facebookDialogMessage">A közösségi szolgáltatások használatához be kell jelentkezni. Szeretne belépni Facebook profiljával?</string>
     <string name="facebookDialogLogin">Belépek</string>
     <string name="facebookDialogLater">Most nem</string>
     <string name="facebookDialogNever">Sose</string>
+    
+    <string name="flurryDialogTitle">Loggolás engedélyezése</string>
+    <string name="flurryDialogMessage">Rengeteg féle eszközt használtok, és én csak 1-2 telefonon tudok tesztelni, ezért ahogy az alkalmazás egyre komplexebb lesz, becsúsznak hibák, ezeknek felderítéséhez és javításához és az alkalmazás használatotok megismeréséhez szeretnék kizárólag az alkalmazáshoz kötődő adatokat gyűjteni.
+        Az alkalmazás nem fogja loggolni hogy melyik versekhez milyen könyvjelzőket, megjegyzéseket fűztök, mit olvastok vagy címkéztek, kizárólag a könyvjelzők és a címkék számát, természetesen név nélkül. Az adatokat csak én fogom megnézni.</string>
+    <string name="flurryDialogEnable">Segítek</string>
+    <string name="flurryDialogDisable">Nem segítek</string>
+    
     <string name="settings">Belállítások</string>
     <string name="textSize">Betűméret</string>
     <string name="settingsSmallerFont">Kisebb</string>

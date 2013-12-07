@@ -12,6 +12,8 @@ import android.widget.ListView;
 
 public class ChapterListActivity extends BibleBaseActivity implements OnItemClickListener {
 
+	@SuppressWarnings("unused")
+	private static final String TAG = ChapterListActivity.class.getName();
 	private ChapterAdapter adapter;
 	private String bookId; 
  
@@ -28,15 +30,19 @@ public class ChapterListActivity extends BibleBaseActivity implements OnItemClic
 		chapterList.setCacheColorHint(Color.TRANSPARENT);
 		chapterList.setAdapter(adapter);
 		chapterList.setOnItemClickListener(this);
-		
-		if (intent.hasExtra(Constants.SHOULD_OPEN_LAST_READ)) {
+		boolean shouldOpenLastRead = prefs.getBoolean(Constants.SHOULD_OPEN_LAST_READ, false);
+		if (shouldOpenLastRead) {
 			int chapterIndex = prefs.getInt(Constants.LAST_READ_CHAPTER, 0);
 			Intent nextIntent = new Intent(this, VerseListActivity.class);
 			nextIntent.putExtra(Constants.BOOK_ID, bookId);
 			nextIntent.putExtra(Constants.CHAPTER_INDEX, chapterIndex);
-			nextIntent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
 			startActivity(nextIntent);
 		}
+	}
+	
+	@Override
+	protected void onResume() {
+		super.onResume();
 	}
 	
 	@Override
