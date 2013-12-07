@@ -10,6 +10,7 @@ import hu.droidium.bibliapp.tag_ui.TagMargin;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
 
 import android.app.AlertDialog;
 import android.database.DataSetObserver;
@@ -25,6 +26,7 @@ import android.widget.ImageView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class VerseAdapter implements ListAdapter, OnClickListener {
 
@@ -235,10 +237,17 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 						@Override
 						public void onClick(View v) {
 							Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapterIndex, vers, Bookmark.DEFAULT_COLOR);
-							bookmarks.put(vers, bookmark);
-							dialog.dismiss();
-							for (DataSetObserver observer : observers){
-								observer.onChanged();
+							if (bookmark != null) {
+								bookmarks.put(vers, bookmark);
+								dialog.dismiss();
+								for (DataSetObserver observer : observers){
+									observer.onChanged();
+								}
+								Map<String, String> params = new HashMap<String, String>();
+								params.put(activity.getString(R.string.flurryParamBookmarkCount), "" + bookmarks.size());
+								activity.log(R.string.flurryEventBookmarkAdded, params);
+							} else {
+								Toast.makeText(activity, R.string.errorCouldntCreateBookmark, Toast.LENGTH_LONG).show();
 							}
 						}
 					});
@@ -283,6 +292,9 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 										tagDataAdapter.removeTag(tagMeta.getId(), bookId, chapterIndex, verseIndex);
 									} else {
 										tagDataAdapter.addTag(tagMeta.getId(), bookId, chapterIndex, verseIndex);
+										Map<String, String> params = new HashMap<String, String>();
+										params.put(activity.getString(R.string.flurryParamTagId), tagMeta.getId());
+										activity.log(R.string.flurryEventTagAdded, params );
 									}
 								}
 							}

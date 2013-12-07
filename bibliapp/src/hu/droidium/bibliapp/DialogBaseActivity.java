@@ -1,6 +1,6 @@
 package hu.droidium.bibliapp;
 
-import android.app.Activity;
+import hu.droidium.flurry_base.FlurryBaseActivity;
 import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.view.View;
@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class BaseActivity extends Activity {
+public class DialogBaseActivity extends FlurryBaseActivity {
 	
 	private ProgressDialog progressDialog;
 	private Dialog dialog; 
@@ -197,6 +197,10 @@ public class BaseActivity extends Activity {
 		dialog.setCancelable(false);
 		dialog.show();
 		return true;
-	}	
+	}
 
+	@Override
+	protected String getFlurryKey() {
+		return getString(R.string.flurryKey);
+	}
 }

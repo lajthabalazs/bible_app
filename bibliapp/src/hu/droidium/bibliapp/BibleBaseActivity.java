@@ -39,7 +39,7 @@ import com.facebook.model.GraphUser;
 import com.facebook.SessionState;
 import com.facebook.UiLifecycleHelper;
 
-public abstract class BibleBaseActivity extends BaseActivity implements
+public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		StatusCallback {
 	private static final String PENDING_PUBLISH_KEY = "pendingPublishReauthorization";
 	private static final String SHARED_PREFS = "Facebook prefs";
@@ -81,20 +81,11 @@ public abstract class BibleBaseActivity extends BaseActivity implements
 		uiHelper.onCreate(savedInstanceState);
 	}
 	
-	/*
-	@Override
-	public void setContentView(int layoutResID) {
-		super.setContentView(layoutResID);
-		TextView title = (TextView)findViewById(R.id.activityTitle);
-		if (title != null) {
-			Constants.scaleText(title, this);
-		}
-	}
-	*/
-
 	@Override
 	protected void onResume() {
 		super.onResume();
+		// TODO Check if user wants to participate in logging
+		
 		// Check if user wants to use Facebook
 		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
 		switch(facebookAsk) {

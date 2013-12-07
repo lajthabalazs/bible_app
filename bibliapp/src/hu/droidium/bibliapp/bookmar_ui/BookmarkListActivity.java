@@ -47,6 +47,7 @@ public class BookmarkListActivity extends BibleBaseActivity implements OnItemCli
 		intent.putExtra(Constants.VERSE_INDEX, bookmark.getVers());
 		intent.putExtra(Constants.CHAPTER_INDEX, bookmark.getChapter());
 		intent.putExtra(Constants.BOOK_ID, bookmark.getBookId());
+		log(R.string.flurryEventBookmarkOpened);
 		startActivity(intent);
 	}
 }

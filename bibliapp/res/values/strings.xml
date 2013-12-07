@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_id">503327623063069</string>
-    
     <string name="app_name">Biblia</string>
+    
+    <string name="flurryKey">XQ56KHHBGB62HBV4C3BG</string>    
+    
     <string name="placeholder">Hely tartó</string>
     <string name="dialogImageContent">Ez itt egy kép</string>
     <string name="action_settings">Beállítások</string>
@@ -38,4 +40,27 @@
     <string name="highlightSaveButton">Mentés</string>
     <string name="verseByTag">Versek témakörök szerint (%1$d vers)</string>
     <string name="tagCountSuffix">(%1$d vers)</string>
+
+        <string name="errorCouldntCreateBookmark">A könyvjelző hozzáadása sikertelen volt.</string>
+    
+    <string name="flurryEventAppStarted">App started</string>
+    <string name="flurryEventBooksListed">Books listed</string>
+    <string name="flurryEventContinuedFromLastTime">Continued reading from last time</string>
+    <string name="flurryEventBookmarkAdded">Bookmark added</string>
+    <string name="flurryEventBookmarksOpened">Bookmarks opened</string>
+    <string name="flurryParamEventSource">Event source</string>
+    <string name="flurryParamBookmarkCount">Bookmark count</string>
+    
+    <string name="flurryEventBookmarkOpened">Verse opened from bookmark</string>
+    
+    <string name="flurryEventTagsOpened">Tags opened</string>
+    <string name="flurryParamTagCount">Tag count</string>
+    
+    <string name="flurryEventTagOpened">Tag opened</string>
+    <string name="flurryParamTagId">Tag id</string>
+    
+    <string name="flurryEventTagAdded">Tag added</string>
+    
+    <string name="flurryEventVerseOpenedFromTag">Verse opened from tag</string>
+    
 </resources>

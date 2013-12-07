@@ -54,6 +54,7 @@ public class TagListActivity extends BibleBaseActivity implements OnItemClickLis
 		// Show verse
 		Intent intent = new Intent(this, VerseListActivity.class);
 		Tag tag = (Tag)adapter.getItem(itemIndex);
+		log(R.string.flurryEventTagOpened);
 		intent.putExtra(Constants.BOOK_ID, tag.getBook());
 		intent.putExtra(Constants.CHAPTER_INDEX, tag.getChapter());
 		intent.putExtra(Constants.VERSE_INDEX, tag.getVers());

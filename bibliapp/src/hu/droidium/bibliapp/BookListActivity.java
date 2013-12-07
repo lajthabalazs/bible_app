@@ -1,5 +1,8 @@
 package hu.droidium.bibliapp;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -29,6 +32,7 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 		bookList.setAdapter(adapter);
 		bookList.setOnItemClickListener(this);
 		if (intent.hasExtra(Constants.SHOULD_OPEN_LAST_READ)) {
+			log(R.string.flurryEventContinuedFromLastTime);
 			SharedPreferences prefs = Constants.getPrefs(this);
 			String bookId = prefs.getString(Constants.LAST_READ_BOOK_ID, null);
 			if (bookId.startsWith("raw")) {
@@ -39,6 +43,8 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 			nextIntent.putExtra(Constants.BOOK_ID, bookId);
 			nextIntent.putExtra(Constants.SHOULD_OPEN_LAST_READ, true);
 			startActivity(nextIntent);
+		} else {
+			log(R.string.flurryEventBooksListed);
 		}
 	}
 	
@@ -61,6 +67,9 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 
 	@Override
 	public void onClick(View v) {
+		Map<String, String> params = new HashMap<String, String>();
+		params.put(getString(R.string.flurryParamEventSource), BookListActivity.class.getName());
+		log(R.string.flurryEventBookmarksOpened, params );
 		Intent intent = new Intent(this, BookmarkListActivity.class);
 		startActivity(intent);
 	}

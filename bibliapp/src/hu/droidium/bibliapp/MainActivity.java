@@ -1,5 +1,8 @@
 package hu.droidium.bibliapp;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity;
 import hu.droidium.bibliapp.tag_ui.TagMetaListActivity;
 import android.content.Intent;
@@ -30,6 +33,12 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 		bookmarks.setOnClickListener(this);
 		tags = (Button)findViewById(R.id.tagsButton);
 		tags.setOnClickListener(this);
+	}
+	
+	@Override
+	protected void onStart() {
+		super.onStart();
+		log(R.string.flurryEventAppStarted);
 	}
 	
 	@Override
@@ -71,11 +80,17 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 				break;
 			}
 			case R.id.bookmarkLink: {
+				Map<String, String> params = new HashMap<String, String>();
+				params.put(getString(R.string.flurryParamEventSource), MainActivity.class.getName());
+				log(R.string.flurryEventBookmarksOpened, params );
 				Intent intent = new Intent(this, BookmarkListActivity.class);
 				startActivity(intent);
 				break;
 			}
 			case R.id.tagsButton: {
+				Map<String, String> params = new HashMap<String, String>();
+				params.put(getString(R.string.flurryParamTagCount), "" + tagDataAdapter.getTotalTags());
+				log(R.string.flurryEventTagsOpened, params );
 				Intent intent = new Intent(this, TagMetaListActivity.class);
 				startActivity(intent);
 				break;
