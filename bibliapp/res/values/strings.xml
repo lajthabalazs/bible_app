@@ -30,6 +30,14 @@
     <string name="facebookDialogLogin">Belépek</string>
     <string name="facebookDialogLater">Most nem</string>
     <string name="facebookDialogNever">Sose</string>
+
+    <string name="ratingDialogTitle">Tetszik az alkalmazás?</string>
+    <string name="ratingDialogMessage">Ha tetszik az alkalmazás, kérlek értékeld a Google Play Store-ban. Ha lehetne jobb is, küldj egy mail-t, hogy mi hiányzik belőle, mitől tudnád jobban használni. Előre is köszönöm!</string>
+    <string name="ratingDialogRate">Tetszett, értékelem</string>
+    <string name="ratingDialogEmail">Javaslatot küldök</string>
+    <string name="ratingDialogLater">Majd később</string>
+    <string name="sendSuggestions">Javaslat küldése</string>
+    <string name="rateEmailSubject">Javaslat a Károli Biblia javításához</string>
     
     <string name="flurryDialogTitle">Loggolás engedélyezése</string>
     <string name="flurryDialogMessage">Rengeteg féle eszközt használtok, és én csak 1-2 telefonon tudok tesztelni, ezért ahogy az alkalmazás egyre komplexebb lesz, becsúsznak hibák, ezeknek felderítéséhez és javításához és az alkalmazás használatotok megismeréséhez szeretnék kizárólag az alkalmazáshoz kötődő adatokat gyűjteni.
@@ -52,6 +60,7 @@
         <string name="errorCouldntCreateBookmark">A könyvjelző hozzáadása sikertelen volt.</string>
     
     <string name="flurryEventAppStarted">App started</string>
+    <string name="flurryEventChapterOpenedCount">Chapters opened</string>
     <string name="flurryEventBooksListed">Books listed</string>
     <string name="flurryEventContinuedFromLastTime">Continued reading from last time</string>
     <string name="flurryEventBookmarkAdded">Bookmark added</string>

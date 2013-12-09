@@ -37,6 +37,9 @@ public class VerseListActivity extends BibleBaseActivity implements OnItemClickL
 		verseList.setAdapter(adapter);
 		verseList.setOnItemClickListener(this);
 		SharedPreferences prefs = Constants.getPrefs(this);
+		int openedCount = prefs.getInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, 0);
+		openedCount ++;
+		prefs.edit().putInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, openedCount).commit();
 		boolean shouldOpenLastRead = prefs.getBoolean(Constants.SHOULD_OPEN_LAST_READ, false);
 		if (intent.hasExtra(Constants.VERSE_INDEX)) {
 			int verseIndex = intent.getIntExtra(Constants.VERSE_INDEX,0);

@@ -13,7 +13,13 @@ public class Constants {
 	public static final String LAST_READ_CHAPTER = "Last read chapter";
 	public static final String LAST_READ_VERS = "Last read vers";
 	public static final String SHOULD_OPEN_LAST_READ = "Open last read";
-
+	
+	public static final String VERSE_LIST_OPENED_COUNT_KEY = "Verse list opened count";
+	public static final int RATE_LIMIT = 20;
+	public static final String RATE_STATE = "Rate state";	
+	public static final int RATE_STATE_NOT_DECIDED = 0;
+	public static final int RATE_STATE_LATER = 1;
+	public static final int RATE_STATE_NEVER = 2;
 	
 	//public static final String BOOK_FILE_NAME = "Book file name";
 	public static final String BOOK_ID = "Book id";
@@ -33,6 +39,7 @@ public class Constants {
 	public static final String TEXT_SIZE_KEY = "Text size";
 	public static final double TEXT_SIZE_FACTOR = 1.2;
 	public static final String TAG_META_ID = "Tag meta id";
+	public static final String LAST_RATE_DIALOG_POWER = "Last rate dialog power";
 
 	
 	public static SharedPreferences getPrefs(Context context) {

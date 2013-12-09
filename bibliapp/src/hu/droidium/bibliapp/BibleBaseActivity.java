@@ -62,14 +62,12 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	protected TagDataAdapter tagDataAdapter;
 	private Translator translator;
 	
-	private SharedPreferences prefs;
 	private DatabaseManager databaseManager;
 	private static ArrayList<TagMeta> localizedTagMetas;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		prefs = Constants.getPrefs(this);
 		bibleDataAdapter = new AssetBibleDataAdapter(this);
 		// Most functionality is covered by a database manager
 		databaseManager = new DatabaseManager(this);
@@ -106,41 +104,9 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 					R.string.flurryDialogDisable, secondButtonListener,
 					Orientation.HORIZONTAL);
 		}
-		// Check if user wants to use Facebook
-		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
-		switch(facebookAsk) {
-			case Constants.FACEBOOK_UNKNOWN: {
-				OnClickListener firstButtonListener = new OnClickListener() {
-					
-					@Override
-					public void onClick(View v) {
-						prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_LOGIN).commit();
-						login();
-					}
-				};
-				OnClickListener secondButtonListener = null;
-				OnClickListener thirdButtonListener = new OnClickListener() {
-					@Override
-					public void onClick(View v) {
-						prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_DONT_ASK).commit();
-					}
-				};
-				showDialog(R.string.facebookDialogTitle, 
-						R.string.facebookDialogMessage,
-						R.string.facebookDialogLogin, firstButtonListener,
-						R.string.facebookDialogLater, secondButtonListener,
-						R.string.facebookDialogNever, thirdButtonListener,
-						Orientation.HORIZONTAL);
-				break;
-			}
-			case Constants.FACEBOOK_LOGIN: {
-				login();
-				break;
-			}
-		}
 	}
 
-	private void login() {
+	protected void login() {
  		if (session != null) {
  			session.addCallback(this);
 		} else {
@@ -240,6 +206,11 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	
 	public Bookmark saveBookmark(String note, String book, int chapter, int vers, String color) {
 		return bookmarkDataAdapter.saveBookmark(new Bookmark(note, book, chapter, vers, color));
+	}
+	
+	protected int getUsageCount() {
+		SharedPreferences prefs = Constants.getPrefs(this);
+		return prefs.getInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, 0);
 	}
 	
 	protected void publishStory(String message, String versId, String versBody) {
