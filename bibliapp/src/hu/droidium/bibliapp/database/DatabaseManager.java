@@ -16,8 +16,11 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.util.Log;
 
 public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Translator {
+	
+	private static final String TAG = DatabaseManager.class.getName();
 	
 	public static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
 	private SQLiteDatabase db;
@@ -390,6 +393,10 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	}
 
 	public void destroy() {
-		db.close();
+		try {
+			db.close();
+		} catch (Exception e) {
+			Log.e(TAG, "Database couldn't be closed.", e);
+		}
 	}
 }

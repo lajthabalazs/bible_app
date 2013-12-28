@@ -16,14 +16,6 @@ public class Parser {
 	private static final String[] SMALL_WORDS = {"az", "a", "és"};
 
 	private static final String[] LARGE_WORDS = {"I.", "II.", "III.", "IV.", "V.", "VI.", "VII.", "VIII.", "IX.", "X."};
-
-	public static void main(String[] args) {
-		File sourceFolder= new File("e:\\work\\bible_app\\content");
-		File outputFolder = new File("e:\\work\\bible_app\\content\\raw");
-		File xmlFolder = new File("e:\\work\\bible_app\\content\\xml");
-		//write(sourceFolder, outputFolder, xmlFolder, "03");
-		parseAll(sourceFolder, outputFolder, xmlFolder);
-	}
 	
 	public static void parseAll(File sourceFolder, File outputFolder, File xmlFolder) {
 		for (int i = 1; i <= 73; i++){
@@ -58,16 +50,22 @@ public class Parser {
 			e.printStackTrace();
 			return e.getMessage();
 		}
-		BufferedWriter writer;
+		BufferedWriter writer = null;
 		try {
 			writer = new BufferedWriter(new FileWriter(new File(outputFolder, filePrefix + ".txt")));
 		} catch (IOException e) {
 			e.printStackTrace();
 			return e.getMessage();
+		} finally {
+			try {
+				writer.close();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
 		}
 		try {
 			@SuppressWarnings("unchecked")
-			List<TagNode> tagNodes = tagNode.getAllChildren();
+			List<TagNode> tagNodes = (List<TagNode>) tagNode.getAllChildren();
 			for (Object node : tagNodes.get(1).getAllChildren()) {
 				if (node instanceof TagNode) {
 					if (((TagNode) node).getName().equals("h1")) {
@@ -158,8 +156,14 @@ public class Parser {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		try {
+			writer.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 		return " ";
 	}
+	
 	
 	public static String capitalizeString(String string) {
 		char[] chars = string.toLowerCase().toCharArray();
