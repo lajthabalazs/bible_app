@@ -1,5 +1,7 @@
 package hu.droidium.bibliapp.database;
 
+import hu.droidium.bibliapp.data.Bookmark;
+
 import java.util.List;
 
 import android.content.Context;
@@ -17,7 +19,7 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 
 	@Override
 	public void onCreate(SQLiteDatabase db) {
-		db.execSQL(Bookmark.getCreateTableText());
+		db.execSQL(DbBookmark.getCreateTableText());
 		db.execSQL(Tag.getCreateTableText());
 		db.execSQL(TagMeta.getCreateTableText());
 		db.execSQL(Translation.getCreateTableText());
@@ -35,14 +37,14 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 			// Change bookmark's book id's from row/xy.txt to xy
 			DatabaseManager databaseManager = new DatabaseManager(db);
 			List<Bookmark> bookmarks = databaseManager.getAllBookmarks(null, false);
-			db.execSQL(Bookmark.getDeleteTableText());
-			db.execSQL(Bookmark.getCreateTableText());
+			db.execSQL(DbBookmark.getDeleteTableText());
+			db.execSQL(DbBookmark.getCreateTableText());
 			for (Bookmark bookmark : bookmarks) {
 				String book = bookmark.getBookId();
 				if (book.startsWith("raw")) {
 					book = book.substring(4,6);
 				}
-				Bookmark newBookmark = new Bookmark(bookmark.getNote(), book, bookmark.getChapter(), bookmark.getVers(), bookmark.getColor());
+				DbBookmark newBookmark = new DbBookmark(bookmark.getNote(), book, bookmark.getChapter(), bookmark.getVers(), bookmark.getColor());
 				databaseManager.saveBookmark(newBookmark);
 			}
 			bookmarks = databaseManager.getAllBookmarks(null, false);

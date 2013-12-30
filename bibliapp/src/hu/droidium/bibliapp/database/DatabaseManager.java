@@ -1,9 +1,13 @@
 package hu.droidium.bibliapp.database;
 
 import hu.droidium.bibliapp.data.AssetReader;
+import hu.droidium.bibliapp.data.Bookmark;
 import hu.droidium.bibliapp.data.BookmarkDataAdapter;
+import hu.droidium.bibliapp.data.Location;
+import hu.droidium.bibliapp.data.LocationAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.data.Translator;
+import hu.droidium.bibliapp.data.Verse;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -18,7 +22,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Translator {
+public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Translator, LocationAdapter {
 	
 	private static final String TAG = DatabaseManager.class.getName();
 	
@@ -40,21 +44,21 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	@Override
 	public Bookmark saveBookmark(Bookmark bookmark) {
 		ContentValues values = new ContentValues();
-		values.put(Bookmark.COLUMN_NAME_NOTE, bookmark.getNote());
-		values.put(Bookmark.COLUMN_NAME_BOOK, bookmark.getBookId());
-		values.put(Bookmark.COLUMN_NAME_CHAPTER, bookmark.getChapter());
-		values.put(Bookmark.COLUMN_NAME_VERS, bookmark.getVers());
-		values.put(Bookmark.COLUMN_NAME_LAST_UPDATE, new SimpleDateFormat(DATE_FORMAT, Locale.getDefault()).format(bookmark.getLastUpdate()));
-		values.put(Bookmark.COLUMN_NAME_COLOR, bookmark.getColor());
-		if (bookmark.getId() == Bookmark.NEW_ID) {
+		values.put(DbBookmark.COLUMN_NAME_NOTE, bookmark.getNote());
+		values.put(DbBookmark.COLUMN_NAME_BOOK, bookmark.getBookId());
+		values.put(DbBookmark.COLUMN_NAME_CHAPTER, bookmark.getChapter());
+		values.put(DbBookmark.COLUMN_NAME_VERS, bookmark.getVers());
+		values.put(DbBookmark.COLUMN_NAME_LAST_UPDATE, new SimpleDateFormat(DATE_FORMAT, Locale.getDefault()).format(bookmark.getLastUpdate()));
+		values.put(DbBookmark.COLUMN_NAME_COLOR, bookmark.getColor());
+		if (bookmark.getId() == Bookmark.NO_ID) {
 			// Insert new value
-			long newId = db.insert(Bookmark.TABLE_NAME, null , values);
-			return new Bookmark(newId, bookmark.getNote(), bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers(), bookmark.getColor(), new Date());
+			long newId = db.insert(DbBookmark.TABLE_NAME, null , values);
+			return new DbBookmark(newId, bookmark.getNote(), bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers(), bookmark.getColor(), new Date());
 		} else {
 			// Update old value
-			String selection = Bookmark._ID + "= ?";
+			String selection = DbBookmark._ID + "= ?";
 			String[] selectionArgs = { String.valueOf(bookmark.getId()) };
-			int result = db.update(Bookmark.TABLE_NAME,
+			int result = db.update(DbBookmark.TABLE_NAME,
 					values,
 					selection,
 					selectionArgs);
@@ -70,18 +74,18 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	@Override
 	public List<Bookmark> getBookmarksForChapter(String book, int chapter) {
 		String[] projection = {
-				Bookmark._ID,
-				Bookmark.COLUMN_NAME_NOTE,
-				Bookmark.COLUMN_NAME_BOOK,
-				Bookmark.COLUMN_NAME_CHAPTER,
-				Bookmark.COLUMN_NAME_VERS,
-				Bookmark.COLUMN_NAME_LAST_UPDATE,
-				Bookmark.COLUMN_NAME_COLOR
+				DbBookmark._ID,
+				DbBookmark.COLUMN_NAME_NOTE,
+				DbBookmark.COLUMN_NAME_BOOK,
+				DbBookmark.COLUMN_NAME_CHAPTER,
+				DbBookmark.COLUMN_NAME_VERS,
+				DbBookmark.COLUMN_NAME_LAST_UPDATE,
+				DbBookmark.COLUMN_NAME_COLOR
 		};
-		String selection = Bookmark.COLUMN_NAME_BOOK + " LIKE ? AND " + Bookmark.COLUMN_NAME_CHAPTER + " = ?" ;
+		String selection = DbBookmark.COLUMN_NAME_BOOK + " LIKE ? AND " + DbBookmark.COLUMN_NAME_CHAPTER + " = ?" ;
 		String[] selectionArgs = { book, String.valueOf(chapter) };
 		Cursor c = db.query(
-				Bookmark.TABLE_NAME,
+				DbBookmark.TABLE_NAME,
 				projection,
 				selection,
 				selectionArgs,
@@ -91,12 +95,12 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 				);
 		List<Bookmark> bookmarks = new ArrayList<Bookmark>();
 		for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
-			long id = c.getLong(c.getColumnIndex(Bookmark._ID));
-			String note = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_NOTE));
-			int vers = c.getInt(c.getColumnIndex(Bookmark.COLUMN_NAME_VERS));
-			String color = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_COLOR));
-			String lastUpdate = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_LAST_UPDATE));
-			bookmarks.add(new Bookmark(id, note, book, chapter, vers, color, lastUpdate));
+			long id = c.getLong(c.getColumnIndex(DbBookmark._ID));
+			String note = c.getString(c.getColumnIndex(DbBookmark.COLUMN_NAME_NOTE));
+			int vers = c.getInt(c.getColumnIndex(DbBookmark.COLUMN_NAME_VERS));
+			String color = c.getString(c.getColumnIndex(DbBookmark.COLUMN_NAME_COLOR));
+			String lastUpdate = c.getString(c.getColumnIndex(DbBookmark.COLUMN_NAME_LAST_UPDATE));
+			bookmarks.add(new DbBookmark(id, note, book, chapter, vers, color, lastUpdate));
 		}
 		return bookmarks;
 	}
@@ -104,20 +108,20 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	@Override
 	public List<Bookmark> getAllBookmarks(String sortColumn, boolean sortDesc) {
 		String[] projection = {
-				Bookmark._ID,
-				Bookmark.COLUMN_NAME_NOTE,
-				Bookmark.COLUMN_NAME_BOOK,
-				Bookmark.COLUMN_NAME_CHAPTER,
-				Bookmark.COLUMN_NAME_VERS,
-				Bookmark.COLUMN_NAME_LAST_UPDATE,
-				Bookmark.COLUMN_NAME_COLOR
+				DbBookmark._ID,
+				DbBookmark.COLUMN_NAME_NOTE,
+				DbBookmark.COLUMN_NAME_BOOK,
+				DbBookmark.COLUMN_NAME_CHAPTER,
+				DbBookmark.COLUMN_NAME_VERS,
+				DbBookmark.COLUMN_NAME_LAST_UPDATE,
+				DbBookmark.COLUMN_NAME_COLOR
 		};
-		String sortOrder  = Bookmark.COLUMN_NAME_LAST_UPDATE + " DESC";
+		String sortOrder  = DbBookmark.COLUMN_NAME_LAST_UPDATE + " DESC";
 		if (sortColumn != null) {
 			sortOrder = sortColumn + " " + (sortDesc?"DESC":"ASC");
 		}
 		Cursor c = db.query(
-				Bookmark.TABLE_NAME,
+				DbBookmark.TABLE_NAME,
 				projection,
 				null,
 				null,
@@ -127,23 +131,23 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 				);
 		List<Bookmark> bookmarks = new ArrayList<Bookmark>();
 		for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
-			long id = c.getLong(c.getColumnIndex(Bookmark._ID));
-			String note = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_NOTE));
-			String book = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_BOOK));
-			int chapter = c.getInt(c.getColumnIndex(Bookmark.COLUMN_NAME_CHAPTER));
-			int vers = c.getInt(c.getColumnIndex(Bookmark.COLUMN_NAME_VERS));
-			String color = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_COLOR));
-			String lastUpdate = c.getString(c.getColumnIndex(Bookmark.COLUMN_NAME_LAST_UPDATE));
-			bookmarks.add(new Bookmark(id, note, book, chapter, vers, color, lastUpdate));
+			long id = c.getLong(c.getColumnIndex(DbBookmark._ID));
+			String note = c.getString(c.getColumnIndex(DbBookmark.COLUMN_NAME_NOTE));
+			String book = c.getString(c.getColumnIndex(DbBookmark.COLUMN_NAME_BOOK));
+			int chapter = c.getInt(c.getColumnIndex(DbBookmark.COLUMN_NAME_CHAPTER));
+			int vers = c.getInt(c.getColumnIndex(DbBookmark.COLUMN_NAME_VERS));
+			String color = c.getString(c.getColumnIndex(DbBookmark.COLUMN_NAME_COLOR));
+			String lastUpdate = c.getString(c.getColumnIndex(DbBookmark.COLUMN_NAME_LAST_UPDATE));
+			bookmarks.add(new DbBookmark(id, note, book, chapter, vers, color, lastUpdate));
 		}
 		return bookmarks;
 	}
 	
 	@Override
 	public void deleteBookmark(Bookmark bookmark) {
-		String selection = Bookmark._ID + "=?";
+		String selection = DbBookmark._ID + "=?";
 		String[] selectionArgs = { String.valueOf(bookmark.getId()) };
-		db.delete(Bookmark.TABLE_NAME, selection, selectionArgs);
+		db.delete(DbBookmark.TABLE_NAME, selection, selectionArgs);
 	}
 
 	@Override
@@ -398,5 +402,23 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 		} catch (Exception e) {
 			Log.e(TAG, "Database couldn't be closed.", e);
 		}
+	}
+
+	@Override
+	public List<Location> getLocations(String bookId, int chapter, int verse) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Location> getAllLocations() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Verse> getVerses(String locationName) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }

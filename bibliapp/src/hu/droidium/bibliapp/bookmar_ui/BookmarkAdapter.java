@@ -3,7 +3,7 @@ package hu.droidium.bibliapp.bookmar_ui;
 import hu.droidium.bibliapp.Constants;
 import hu.droidium.bibliapp.R;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
-import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.data.Bookmark;
 
 import java.util.HashSet;
 import java.util.List;

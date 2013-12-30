@@ -2,7 +2,6 @@ package hu.droidium.bibliapp.data;
 
 import java.util.List;
 
-import hu.droidium.bibliapp.database.Bookmark;
 
 public interface BookmarkDataAdapter {
 

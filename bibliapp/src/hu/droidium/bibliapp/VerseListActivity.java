@@ -2,7 +2,7 @@ package hu.droidium.bibliapp;
 
 import java.util.List;
 
-import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.data.Bookmark;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
