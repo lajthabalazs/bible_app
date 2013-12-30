@@ -2,6 +2,8 @@ package parser;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -88,6 +90,28 @@ public class MapParser extends DefaultHandler {
 	
 	public List<PlaceMark> getMarks() {
 		return new ArrayList<PlaceMark>(placeMarks);
+	}
+	
+	public static void export(List<PlaceMark> places, OutputStream output) {
+		OutputStreamWriter writer = new OutputStreamWriter(output);
+		for (PlaceMark place : places) {
+			try {
+				writer.write(place.getOutput());
+				writer.write("\n");
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		try {
+			writer.flush();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		try {
+			writer.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@SuppressWarnings("unused")

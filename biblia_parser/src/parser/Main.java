@@ -3,6 +3,7 @@ package parser;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.TreeSet;
@@ -12,14 +13,13 @@ public class Main {
 		List<PlaceMark> points = parseMap();
 		BookDictionary dictionary = parseAbbreviations();
 		for (PlaceMark point : points) {
-			System.out.println(point.name);
 			point.translateVerses(dictionary);
 		}
-		/*
-		for (PlaceMark point : points) {
-			point.printVerses();
+		try {
+			MapParser.export(points, new FileOutputStream("e:\\git_local\\bible_app\\content\\map\\locations.txt"));
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
 		}
-		*/
 	}
 	
 	public static BookDictionary parseAbbreviations() {

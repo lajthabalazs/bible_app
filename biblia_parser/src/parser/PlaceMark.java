@@ -82,4 +82,12 @@ public class PlaceMark implements Comparable<PlaceMark>{
 		}
 		verses = translated;
 	}
+
+	public String getOutput() {
+		String ret = name + "," + lat + "," + lon;
+		for (String verse : verses) {
+			ret = ret + "," + verse;
+		}
+		return ret;
+	}
 }

@@ -6,7 +6,7 @@ import hu.droidium.bibliapp.Constants;
 import hu.droidium.bibliapp.BibleBaseActivity;
 import hu.droidium.bibliapp.R;
 import hu.droidium.bibliapp.VerseListActivity;
-import hu.droidium.bibliapp.database.Bookmark;
+import hu.droidium.bibliapp.data.Bookmark;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
