@@ -1,4 +1,8 @@
 biblia_parser/bin/*
 bibliapp/bin/*
 bibliapp/gen/*
+bibliapp/assets/raw/*
+bibliapp/assets/abbreviations.txt
+bibliapp/assets/locations.txt
+content/map/locations.txt
 */*.class
