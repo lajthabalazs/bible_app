@@ -1,11 +1,10 @@
 package parser;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
 
 public class PlaceMark implements Comparable<PlaceMark>{
 	public String name;
-	public List<String> verses = new ArrayList<String>();
+	public HashSet<String> verses = new HashSet<String>();
 	public String lat;
 	public String lon;
 
@@ -71,7 +70,7 @@ public class PlaceMark implements Comparable<PlaceMark>{
 	}
 	
 	public void translateVerses(BookDictionary dictionary) {
-		List<String> translated = new ArrayList<String>();
+		HashSet<String> translated = new HashSet<String>();
 		for (String verse : verses) {
 			int space = verse.lastIndexOf(" ");
 			String bookName = verse.substring(0, verse.lastIndexOf(" "));
@@ -87,6 +86,26 @@ public class PlaceMark implements Comparable<PlaceMark>{
 		String ret = name + "," + lat + "," + lon;
 		for (String verse : verses) {
 			ret = ret + "," + verse;
+		}
+		/* Just testing Android parser code */
+		String[] parts = ret.split(",");
+		String name = null;
+		String lat = null;
+		String lon = null;
+		try {
+			name = parts[0];
+			lat = parts[1];
+			lon = parts[2];
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		for (int i = 3; i < parts.length; i++) {
+			try {
+				String[] verseParts = parts[i].split("[[ ]||[:]]");
+				System.out.println(name + " " + lat + " " + lon + " " + verseParts[0] + " " + Integer.parseInt(verseParts[1]) + " " + Integer.parseInt(verseParts[2]));
+			} catch (Exception e) {
+				
+			}
 		}
 		return ret;
 	}
