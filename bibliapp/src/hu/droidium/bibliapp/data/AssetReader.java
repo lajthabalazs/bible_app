@@ -1,5 +1,6 @@
 package hu.droidium.bibliapp.data;
 
+
 import hu.droidium.bibliapp.database.TagMeta;
 
 import java.io.BufferedReader;
@@ -19,6 +20,7 @@ public class AssetReader {
 	private static final String TAG = "AssetReader";
 	private static final String RAW_DIRECTORY = "raw";
 	private static final String TAG_META_FILE = "tags.txt";
+	private static final String LOCATION_FILE = "locations.txt";
 
 	/**
 	 * Reads book titles.
@@ -98,6 +100,34 @@ public class AssetReader {
 			return null;
 		} catch (Exception e) {
 			Log.e(TAG, "Couldn't read " + TAG_META_FILE);
+			e.printStackTrace();
+			return null;
+		}
+	}
+
+	public static List<Location> parseLocations(Context context) {
+		try {
+			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(LOCATION_FILE), "UTF8"));
+			List<Location> locations = new ArrayList<Location>();
+			String line = in.readLine();
+			while (line != null) {
+				List<Location> parsedLocations = Location.parse(line);
+				if (parsedLocations != null) {
+					locations.addAll(parsedLocations);
+				} else {
+					Log.e(TAG, "Couldn't load location from line " + line);
+				}
+				line = in.readLine();
+			}
+			return locations;
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
+			return null;
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		} catch (Exception e) {
+			Log.e(TAG, "Couldn't read " + LOCATION_FILE);
 			e.printStackTrace();
 			return null;
 		}

@@ -1,5 +1,6 @@
 package hu.droidium.bibliapp.data;
 
+
 import hu.droidium.bibliapp.database.Tag;
 import hu.droidium.bibliapp.database.TagMeta;
 

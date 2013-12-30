@@ -2,6 +2,7 @@ package hu.droidium.bibliapp;
 
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.Bookmark;
+import hu.droidium.bibliapp.data.LocationAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.database.TagMeta;
 import hu.droidium.bibliapp.tag_ui.CheckableTagAdapter;
@@ -41,13 +42,15 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private boolean facebookEnabled;
 	private BibleBaseActivity activity; 
 	private LayoutInflater inflater;
+	private LocationAdapter locationAdapter;
 	
-	public VerseAdapter(String bookId, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagDataAdapter) {
+	public VerseAdapter(String bookId, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagDataAdapter, LocationAdapter locationAdapter) {
 		this.bookId = bookId;
 		this.chapterIndex = chapterIndex;
 
 		this.bibleDataAdapter = bibleDataAdapter;
 		this.tagDataAdapter = tagDataAdapter;
+		this.locationAdapter = locationAdapter;
 		this.activity = activity;
 		this.inflater = inflater;
 		
@@ -94,10 +97,18 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		ImageView facebookButton = (ImageView)convertView.findViewById(R.id.facebookShareButton);
 		ImageView bookmarkButton = (ImageView)convertView.findViewById(R.id.saveBookmark);
 		ImageView highlightButton = (ImageView)convertView.findViewById(R.id.highlight);
+		ImageView locationButton = (ImageView)convertView.findViewById(R.id.locationButton);
 		TagMargin tagMargin = (TagMargin)convertView.findViewById(R.id.tagMargin);
 		tagMargin.setTag(position);
 		tagMargin.setOnClickListener(this);
 		tagMargin.setColors(tagDataAdapter.getTagColors(bookId, chapterIndex, position));
+		if (locationAdapter.getLocations(bookId, chapterIndex, position + 1).size() > 0) {
+			locationButton.setVisibility(View.VISIBLE);
+			locationButton.setOnClickListener(this);
+			locationButton.setTag(position);
+		} else {
+			locationButton.setVisibility(View.GONE);
+		}
 		if (displayMenu == position) {
 			displayMenu = -1;
 			bookmarkButton.setVisibility(View.VISIBLE);
@@ -107,13 +118,12 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 			if (facebookEnabled) {
 				facebookButton.setVisibility(View.VISIBLE);
 				facebookButton.setOnClickListener(this);
-			}
-			// Animate buttons
-			Animation slideInFacebook = AnimationUtils.loadAnimation(activity, R.anim.facebook_share_button_in_from_right);
-			slideInFacebook.setDuration(900);
-			if (facebookEnabled) {
-				facebookButton.startAnimation(slideInFacebook);		
 				facebookButton.setTag(position);
+				Animation slideInFacebook = AnimationUtils.loadAnimation(activity, R.anim.facebook_share_button_in_from_right);
+				slideInFacebook.setDuration(900);
+				facebookButton.startAnimation(slideInFacebook);		
+			} else {
+				facebookButton.setVisibility(View.INVISIBLE);
 			}
 			if (bookmarks.get(position) == null) {
 				Animation slideInBookmark = AnimationUtils.loadAnimation(activity, R.anim.save_bookmark_button_in_from_right);
@@ -307,6 +317,11 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 					dialog.setView(dialogView);
 					dialog.show();
 				}
+				break;
+			}
+			case R.id.locationButton : {
+				// TODO show map
+				Toast.makeText(activity, "Showing map for verse " + bookId + " " + chapterIndex + ":" + (index + 1), Toast.LENGTH_LONG);
 				break;
 			}
 			default:

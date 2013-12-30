@@ -7,66 +7,79 @@
     android:paddingTop="@dimen/activity_small_vertical_margin"
     android:background="@android:color/transparent"
     android:orientation="horizontal">
+
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent" >
 
-    <hu.droidium.bibliapp.tag_ui.TagMargin
-        android:id="@+id/tagMargin"
-        android:layout_width="20dp"
-        android:alpha="0.5"
-        android:layout_height="match_parent"
-        android:layout_alignParentLeft="true"/>
-    
-    <LinearLayout
-        android:orientation="vertical"
-	    android:layout_width="match_parent"
-	    android:layout_height="wrap_content">
-	    <TextView
-	        android:id="@+id/verseTitle"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-	        android:text="@string/unknownTitle"
-	        android:gravity="center"
-	        android:layout_gravity="center"
-		    style="@style/ListItemTitle"
-	        android:background="@android:color/transparent"/>
-	    <TextView
-	        android:id="@+id/verseContent"
-	        android:layout_width="wrap_content"
-	        android:layout_height="wrap_content"
-	        android:text="@string/unknownTitle"
-	        style="@style/listItemText"
-	        android:layout_marginLeft="5dp"
-	        android:background="@android:color/transparent"/>
-    </LinearLayout>
-    
-    <ImageView
-        android:id="@+id/facebookShareButton"
-        android:src="@drawable/facebook"
-        android:contentDescription="@string/facebookShareButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"/>
+        <hu.droidium.bibliapp.tag_ui.TagMargin
+            android:id="@+id/tagMargin"
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:alpha="0.5" />
 
-    <ImageView
-        android:id="@+id/saveBookmark"
-        android:contentDescription="@string/addBookmarkButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginRight="@dimen/activity_small_horizontal_margin"
-        android:layout_toLeftOf="@+id/facebookShareButton"
-        android:src="@drawable/bookmark" />
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <ImageView
-        android:id="@+id/highlight"
-        android:contentDescription="@string/highlightButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginRight="@dimen/activity_small_horizontal_margin"
-        android:layout_toLeftOf="@+id/saveBookmark"
-        android:src="@drawable/highlighter" />
-	</RelativeLayout>
+            <TextView
+                android:id="@+id/verseTitle"
+                style="@style/ListItemTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:text="@string/unknownTitle" />
+
+            <TextView
+                android:id="@+id/verseContent"
+                style="@style/listItemText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:background="@android:color/transparent"
+                android:text="@string/unknownTitle" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/facebookShareButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:contentDescription="@string/facebookShareButton"
+            android:src="@drawable/facebook" />
+
+        <ImageView
+            android:id="@+id/saveBookmark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="@dimen/activity_small_horizontal_margin"
+            android:layout_toLeftOf="@+id/facebookShareButton"
+            android:contentDescription="@string/addBookmarkButton"
+            android:src="@drawable/bookmark" />
+
+        <ImageView
+            android:id="@+id/highlight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="@dimen/activity_small_horizontal_margin"
+            android:layout_toLeftOf="@+id/saveBookmark"
+            android:contentDescription="@string/highlightButton"
+            android:src="@drawable/highlighter" />
+
+        <ImageView
+            android:id="@+id/locationButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/bookmark" />
+    </RelativeLayout>
+
 </LinearLayout>

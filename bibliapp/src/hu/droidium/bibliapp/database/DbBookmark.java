@@ -22,7 +22,7 @@ public class DbBookmark extends Bookmark implements BaseColumns {
 		super(id, note, book, chapter, vers, color, lastUpdate);
 	}
 
-	public DbBookmark(long id, String note, String book, int chapter, int vers, String color, String lastUpdate) {
+	protected DbBookmark(long id, String note, String book, int chapter, int vers, String color, String lastUpdate) {
 		super(id, note, book, chapter, vers, color, Bookmark.getDate(lastUpdate));
 	}
 

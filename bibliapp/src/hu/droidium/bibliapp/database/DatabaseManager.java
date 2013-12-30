@@ -337,11 +337,15 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 
 	private void loadTagMetaFromAssets(Context context) {
 		SharedPreferences prefs = context.getSharedPreferences(VERSION_STORE, Context.MODE_PRIVATE);
-		
-		if (prefs.getInt(VERSION_KEY, -1) != db.getVersion()) {			
+		if (prefs.getInt(VERSION_KEY, -1) < db.getVersion()) {
+			// Add tag meta, may override older tag metas
 			List<TagMeta> tagMetas = AssetReader.parseTagMetas(context);
 			for (TagMeta tag : tagMetas) {
 				addTagMeta(tag.getId(), tag.getName(), tag.getColor());
+			}
+			List<Location> locations = AssetReader.parseLocations(context);
+			for (Location location : locations) {
+				addLocation(location);
 			}
 			prefs.edit().putInt(VERSION_KEY, db.getVersion()).commit();
 		}
@@ -404,21 +408,83 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 		}
 	}
 
+	private boolean addLocation(Location location) {
+		ContentValues values = new ContentValues();
+		values.put(DbLocation.COLUMN_NAME_NAME, location.getName());
+		values.put(DbLocation.COLUMN_NAME_LAT, location.getLat());
+		values.put(DbLocation.COLUMN_NAME_LON, location.getLon());
+		values.put(DbLocation.COLUMN_NAME_BOOK, location.getBookId());
+		values.put(DbLocation.COLUMN_NAME_CHAPTER, location.getChapter());
+		values.put(DbLocation.COLUMN_NAME_VERS, location.getVerse());
+		long result = db.replace(DbLocation.TABLE_NAME, null , values);
+		if (result != 1) {
+			return false;
+		}
+		else {
+			return true;
+		}
+	}
+
 	@Override
 	public List<Location> getLocations(String bookId, int chapter, int verse) {
-		// TODO Auto-generated method stub
-		return null;
+		ArrayList<Location> locations = new ArrayList<Location>();
+	    String[] columns = new String[]{
+	    		DbLocation.COLUMN_NAME_NAME,
+	    		DbLocation.COLUMN_NAME_LAT,
+	    		DbLocation.COLUMN_NAME_LON};
+	    String selection = DbLocation.COLUMN_NAME_BOOK + "=? AND " + DbLocation.COLUMN_NAME_CHAPTER + "=? AND " + DbLocation.COLUMN_NAME_VERS + "=?" ;
+	    String[] selectionArgs = new String[]{bookId, Integer.toString(chapter), Integer.toString(verse)};
+	    String orderString = DbLocation.COLUMN_NAME_NAME + " asc";
+		Cursor c = db.query(DbLocation.TABLE_NAME, columns, selection, selectionArgs, null, null, orderString, null);
+	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String name = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_NAME));
+			String lat = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_LAT));
+			String lon = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_LON));
+			locations.add(new DbLocation(name, lat, lon, bookId, chapter, verse));
+		}
+	    return locations;
 	}
 
 	@Override
 	public List<Location> getAllLocations() {
-		// TODO Auto-generated method stub
-		return null;
+		ArrayList<Location> locations = new ArrayList<Location>();
+	    String[] columns = new String[]{
+	    		DbLocation.COLUMN_NAME_NAME,
+	    		DbLocation.COLUMN_NAME_LAT,
+	    		DbLocation.COLUMN_NAME_LON,
+	    		DbLocation.COLUMN_NAME_BOOK,
+	    		DbLocation.COLUMN_NAME_CHAPTER,
+	    		DbLocation.COLUMN_NAME_VERS};
+	    String orderString = DbLocation.COLUMN_NAME_NAME + " asc";
+		Cursor c = db.query(DbLocation.TABLE_NAME, columns, null, null, null, null, orderString, null);
+	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String name = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_NAME));
+			String lat = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_LAT));
+			String lon = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_LON));
+			String bookId = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_BOOK));
+			int chapter = c.getInt(c.getColumnIndex(DbLocation.COLUMN_NAME_CHAPTER));
+			int verse = c.getInt(c.getColumnIndex(DbLocation.COLUMN_NAME_VERS));
+			locations.add(new DbLocation(name, lat, lon, bookId, chapter, verse));
+		}
+	    return locations;
 	}
 
 	@Override
 	public List<Verse> getVerses(String locationName) {
-		// TODO Auto-generated method stub
-		return null;
+		ArrayList<Verse> verses = new ArrayList<Verse>();
+	    String[] columns = new String[]{
+	    		DbLocation.COLUMN_NAME_BOOK,
+	    		DbLocation.COLUMN_NAME_CHAPTER,
+	    		DbLocation.COLUMN_NAME_VERS};
+	    String selection = DbLocation.COLUMN_NAME_NAME + "=?" ;
+	    String[] selectionArgs = new String[]{locationName};
+		Cursor c = db.query(DbLocation.TABLE_NAME, columns, selection, selectionArgs, null, null, null, null);
+	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String bookId = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_BOOK));
+			int chapter = c.getInt(c.getColumnIndex(DbLocation.COLUMN_NAME_CHAPTER));
+			int verse = c.getInt(c.getColumnIndex(DbLocation.COLUMN_NAME_VERS));
+			verses.add(new Verse(bookId, chapter, verse, null));
+		}
+	    return verses;
 	}
 }

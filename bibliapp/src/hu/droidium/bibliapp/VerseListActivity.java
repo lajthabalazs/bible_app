@@ -31,7 +31,7 @@ public class VerseListActivity extends BibleBaseActivity implements OnItemClickL
 		chapterIndex = intent.getIntExtra(Constants.CHAPTER_INDEX, 0);
 		((TextView)findViewById(R.id.activityTitle)).setText(bibleDataAdapter.getBookTitle(bookId));
 		List<Bookmark> bookmarks = bookmarkDataAdapter.getBookmarksForChapter(bookId, chapterIndex);
-		adapter = new VerseAdapter(bookId, chapterIndex, bookmarks, getLayoutInflater(), this, bibleDataAdapter, tagDataAdapter);
+		adapter = new VerseAdapter(bookId, chapterIndex, bookmarks, getLayoutInflater(), this, bibleDataAdapter, tagDataAdapter, locationAdapter);
 		verseList = (ListView)findViewById(R.id.verseList);
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);

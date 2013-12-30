@@ -4,6 +4,7 @@ import hu.droidium.bibliapp.data.AssetBibleDataAdapter;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.Bookmark;
 import hu.droidium.bibliapp.data.BookmarkDataAdapter;
+import hu.droidium.bibliapp.data.LocationAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.data.Translator;
 import hu.droidium.bibliapp.database.DatabaseManager;
@@ -60,6 +61,8 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	protected BibleDataAdapter bibleDataAdapter;
 	protected BookmarkDataAdapter bookmarkDataAdapter;
 	protected TagDataAdapter tagDataAdapter;
+	protected LocationAdapter locationAdapter;
+	
 	private Translator translator;
 	
 	private DatabaseManager databaseManager;
@@ -73,6 +76,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		databaseManager = new DatabaseManager(this);
 		bookmarkDataAdapter = databaseManager;
 		tagDataAdapter = databaseManager;
+		locationAdapter = databaseManager;
 		translator = databaseManager;
 		
 		

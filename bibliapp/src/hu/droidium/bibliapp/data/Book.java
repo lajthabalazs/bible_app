@@ -65,11 +65,6 @@ public class Book {
 	}
 
 
-	public String getAbbreviation() {
-		return title;
-	}
-
-
 	public String getId() {
 		return id;
 	}

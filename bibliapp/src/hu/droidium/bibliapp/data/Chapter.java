@@ -22,7 +22,7 @@ public class Chapter {
 	}
 
 	public void setVerse(int verseIndex, String line) {
-		verses.put(verseIndex, new Verse(book, index, verseIndex, line));			
+		verses.put(verseIndex, new Verse(book.getId(), index, verseIndex, line));			
 	}
 	
 	public int getVerseCount() {

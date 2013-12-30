@@ -12,7 +12,7 @@ public class TagMeta implements BaseColumns {
 	public static final String COLUMN_NAME_TAG_ID = "tagId";
 	public static final String COLUMN_NAME_TAG_NAME = "tagName";
 	public static final String COLUMN_NAME_COLOR = "color";
-	
+
 	private String tagId;
 	private String name;
 	private String color;

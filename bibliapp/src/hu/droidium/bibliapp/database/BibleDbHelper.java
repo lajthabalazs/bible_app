@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class BibleDbHelper extends SQLiteOpenHelper {
 
-	private static final int DATABASE_VERSION = 4;
+	private static final int DATABASE_VERSION = 5;
 	private static final String DATABASE_NAME = "BibleDatabase";
 
 	public BibleDbHelper(Context context) {
@@ -23,6 +23,7 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 		db.execSQL(Tag.getCreateTableText());
 		db.execSQL(TagMeta.getCreateTableText());
 		db.execSQL(Translation.getCreateTableText());
+		db.execSQL(DbLocation.getCreateTableText());
 	}
 
 	@Override
@@ -48,6 +49,9 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 				databaseManager.saveBookmark(newBookmark);
 			}
 			bookmarks = databaseManager.getAllBookmarks(null, false);
+		}
+		if (oldVersion < 5) {
+			db.execSQL(DbLocation.getCreateTableText());
 		}
 	}
 	

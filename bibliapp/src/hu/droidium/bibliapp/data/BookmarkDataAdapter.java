@@ -12,5 +12,4 @@ public interface BookmarkDataAdapter {
 	List<Bookmark> getAllBookmarks(String sortColumn, boolean sortDesc);
 
 	void deleteBookmark(Bookmark bookmark);
-
 }
