@@ -2,8 +2,9 @@ package parser;
 
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.util.List;
 
 import org.htmlcleaner.CleanerProperties;
@@ -52,7 +53,7 @@ public class Parser {
 		}
 		BufferedWriter writer = null;
 		try {
-			writer = new BufferedWriter(new FileWriter(new File(outputFolder, filePrefix + ".txt")));
+			writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(outputFolder, filePrefix)),"UTF-8"));
 		} catch (IOException e) {
 			e.printStackTrace();
 			return e.getMessage();

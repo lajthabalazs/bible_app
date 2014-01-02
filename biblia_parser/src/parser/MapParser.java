@@ -1,8 +1,10 @@
 package parser;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
@@ -92,25 +94,27 @@ public class MapParser extends DefaultHandler {
 		return new ArrayList<PlaceMark>(placeMarks);
 	}
 	
-	public static void export(List<PlaceMark> places, OutputStream output) {
-		OutputStreamWriter writer = new OutputStreamWriter(output);
-		for (PlaceMark place : places) {
-			try {
-				writer.write(place.getOutput());
-				writer.write("\n");
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
+	public static void export(List<PlaceMark> places, File outputFolder, String filePrefix) {
+		BufferedWriter writer = null;
 		try {
+			writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(outputFolder, filePrefix)),"UTF-8"));
+			for (PlaceMark place : places) {
+				try {
+					writer.write(place.getOutput());
+					writer.write("\n");
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
 			writer.flush();
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
-		try {
-			writer.close();
-		} catch (IOException e) {
-			e.printStackTrace();
+		} finally {
+			try {
+				writer.close();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
 		}
 	}
 

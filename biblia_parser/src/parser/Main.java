@@ -15,11 +15,7 @@ public class Main {
 		for (PlaceMark point : points) {
 			point.translateVerses(dictionary);
 		}
-		try {
-			MapParser.export(points, new FileOutputStream("e:\\git_local\\bible_app\\content\\map\\locations.txt"));
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
+		MapParser.export(points, new File("e:\\git_local\\bible_app\\content\\map"), "locations.txt");
 	}
 	
 	public static BookDictionary parseAbbreviations() {
