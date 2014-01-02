@@ -70,6 +70,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
+		Log.e(TAG, "Create base activity.");
 		super.onCreate(savedInstanceState);
 		bibleDataAdapter = new AssetBibleDataAdapter(this);
 		// Most functionality is covered by a database manager

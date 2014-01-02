@@ -4,9 +4,11 @@
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />    
     
    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
-        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id"/>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/app_id" android:hardwareAccelerated="false"/>
 
         <activity android:label="@string/app_name" android:name="hu.droidium.bibliapp.ReaderActivity"/>
         <activity android:label="@string/app_name" android:name="hu.droidium.bibliapp.SettingsActivity"/>
@@ -22,9 +24,12 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-
         <activity android:launchMode="singleTop" android:name=".RegisterActivity"/>
         <activity android:name=".tag_ui.TagMetaListActivity"/>
         <activity android:name=".tag_ui.TagListActivity"/>
+        <activity android:name="MapActivity"></activity>
+        <activity android:name="LocationListActivity">
+        </activity>
+        <service android:name=".database.DatabaseInitService"></service>
 	</application>
 </manifest>

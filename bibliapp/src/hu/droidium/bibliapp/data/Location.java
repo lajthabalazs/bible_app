@@ -15,7 +15,14 @@ public class Location {
 	private int chapter;
 	private int verse;
 	
-	protected Location(String name, String lat, String lon, String bookId, int chapter, int verse) {}
+	protected Location(String name, String lat, String lon, String bookId, int chapter, int verse) {
+		this.name = name;
+		this.lat = lat;
+		this.lon = lon;
+		this.bookId = bookId;
+		this.chapter = chapter;
+		this.verse = verse;
+	}
 
 	public String getName() {
 		return name;
@@ -65,5 +72,10 @@ public class Location {
 			}
 		}
 		return locations;
+	}
+	
+	@Override
+	public String toString() {
+		return name;
 	}
 }

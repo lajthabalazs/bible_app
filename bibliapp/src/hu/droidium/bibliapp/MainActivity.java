@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
@@ -27,6 +28,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
+		Log.e(TAG, "Create main activity.");
 		super.onCreate(savedInstanceState);
 		prefs = Constants.getPrefs(this);
 		setContentView(R.layout.main_layout);
@@ -40,18 +42,22 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 		bookmarks.setOnClickListener(this);
 		tags = (Button)findViewById(R.id.tagsButton);
 		tags.setOnClickListener(this);
+		Log.e(TAG, "Main activity created.");
 	}
 	
 	@Override
 	protected void onStart() {
+		Log.e(TAG, "Starting main activity.");
 		super.onStart();
 		log(R.string.flurryEventAppStarted);
 	}
 	
 	@Override
 	protected void onResume() {
+		Log.e(TAG, "Resuming main activity.");
 		super.onResume();
 		if (firstRun) {
+			Log.e(TAG, "First run.");
 			firstRun = false;
 			// Check if user wants to use Facebook
 			int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);

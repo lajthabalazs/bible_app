@@ -1,6 +1,5 @@
 package hu.droidium.bibliapp.database;
 
-import hu.droidium.bibliapp.data.AssetReader;
 import hu.droidium.bibliapp.data.Bookmark;
 import hu.droidium.bibliapp.data.BookmarkDataAdapter;
 import hu.droidium.bibliapp.data.Location;
@@ -17,7 +16,6 @@ import java.util.Locale;
 
 import android.content.ContentValues;
 import android.content.Context;
-import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
@@ -28,13 +26,12 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	
 	public static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
 	private SQLiteDatabase db;
-	private static final String VERSION_STORE = "Database version store";
-	private static final String VERSION_KEY = "Database version key";
+	static final String LOCATION_UPDATE_STATUS_KEY = "Location update status key";
 	
 	public DatabaseManager(Context context) {
+		Log.e(TAG, "Create database manager.");		
 		BibleDbHelper dbHelper = new BibleDbHelper(context);
 		db = dbHelper.getWritableDatabase();
-		loadTagMetaFromAssets(context);
 	}
 
 	public DatabaseManager(SQLiteDatabase db) {
@@ -335,23 +332,6 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 		}
 	}
 
-	private void loadTagMetaFromAssets(Context context) {
-		SharedPreferences prefs = context.getSharedPreferences(VERSION_STORE, Context.MODE_PRIVATE);
-		if (prefs.getInt(VERSION_KEY, -1) < db.getVersion()) {
-			// Add tag meta, may override older tag metas
-			List<TagMeta> tagMetas = AssetReader.parseTagMetas(context);
-			for (TagMeta tag : tagMetas) {
-				addTagMeta(tag.getId(), tag.getName(), tag.getColor());
-			}
-			List<Location> locations = AssetReader.parseLocations(context);
-			for (Location location : locations) {
-				addLocation(location);
-			}
-			prefs.edit().putInt(VERSION_KEY, db.getVersion()).commit();
-		}
-		
-	}
-
 	@Override
 	public List<Tag> getTags(String tagMetaId) {		
 		ArrayList<Tag> tags = new ArrayList<Tag>();
@@ -408,7 +388,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 		}
 	}
 
-	private boolean addLocation(Location location) {
+	boolean addLocation(Location location) {
 		ContentValues values = new ContentValues();
 		values.put(DbLocation.COLUMN_NAME_NAME, location.getName());
 		values.put(DbLocation.COLUMN_NAME_LAT, location.getLat());
@@ -486,5 +466,9 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 			verses.add(new Verse(bookId, chapter, verse, null));
 		}
 	    return verses;
+	}
+
+	public int getVersion() {
+		return db.getVersion();
 	}
 }

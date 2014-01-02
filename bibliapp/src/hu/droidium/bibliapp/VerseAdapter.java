@@ -14,7 +14,9 @@ import java.util.List;
 import java.util.Map;
 
 import android.app.AlertDialog;
+import android.content.Intent;
 import android.database.DataSetObserver;
+import android.util.Log;
 import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -31,6 +33,8 @@ import android.widget.Toast;
 
 public class VerseAdapter implements ListAdapter, OnClickListener {
 
+	private static final String TAG = VerseAdapter.class.getName();
+	
 	private String bookId;
 	private int chapterIndex;
 
@@ -44,10 +48,10 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private LayoutInflater inflater;
 	private LocationAdapter locationAdapter;
 	
+	
 	public VerseAdapter(String bookId, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagDataAdapter, LocationAdapter locationAdapter) {
 		this.bookId = bookId;
 		this.chapterIndex = chapterIndex;
-
 		this.bibleDataAdapter = bibleDataAdapter;
 		this.tagDataAdapter = tagDataAdapter;
 		this.locationAdapter = locationAdapter;
@@ -184,6 +188,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	}
 
 	public void showOptions(View view, long itemId, boolean facebookEnabled) {
+		Log.e(TAG , "Facebook enabled " + facebookEnabled);
 		displayMenu = itemId;
 		this.facebookEnabled = facebookEnabled;
 		for (DataSetObserver observer : observers){
@@ -320,8 +325,12 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 				break;
 			}
 			case R.id.locationButton : {
-				// TODO show map
 				Toast.makeText(activity, "Showing map for verse " + bookId + " " + chapterIndex + ":" + (index + 1), Toast.LENGTH_LONG);
+				Intent intent = new Intent(activity, MapActivity.class);
+				intent.putExtra(Constants.BOOK_ID, bookId);
+				intent.putExtra(Constants.CHAPTER_INDEX, chapterIndex);
+				intent.putExtra(Constants.VERSE_INDEX, index);
+				activity.startActivity(intent);
 				break;
 			}
 			default:

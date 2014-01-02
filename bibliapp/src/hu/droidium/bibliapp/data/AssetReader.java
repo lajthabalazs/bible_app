@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Vector;
 
@@ -19,8 +20,7 @@ import android.util.Log;
 public class AssetReader {
 	private static final String TAG = "AssetReader";
 	private static final String RAW_DIRECTORY = "raw";
-	private static final String TAG_META_FILE = "tags.txt";
-	private static final String LOCATION_FILE = "locations.txt";
+	private static final String VERSION_FILE = "versions.txt";
 
 	/**
 	 * Reads book titles.
@@ -77,9 +77,9 @@ public class AssetReader {
 		}
 	}
 
-	public static List<TagMeta> parseTagMetas(Context context) {
+	public static List<TagMeta> parseTagMetas(Context context, String metaFile) {
 		try {
-			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(TAG_META_FILE), "UTF8"));
+			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(metaFile), "UTF8"));
 			List<TagMeta> tags = new ArrayList<TagMeta>();
 			String line = in.readLine();
 			while (line != null) {
@@ -99,15 +99,44 @@ public class AssetReader {
 			e.printStackTrace();
 			return null;
 		} catch (Exception e) {
-			Log.e(TAG, "Couldn't read " + TAG_META_FILE);
+			Log.e(TAG, "Couldn't read " + metaFile);
+			e.printStackTrace();
+			return null;
+		}
+	}
+	
+	public static HashMap<String, Integer> parseVersions(Context context) {
+		try {
+			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(VERSION_FILE), "UTF8"));
+			HashMap<String, Integer> versions = new HashMap<String, Integer>();
+			String line = in.readLine();
+			while (line != null) {
+				String[] parts = line.split(" ");
+				if (parts.length == 2) {
+					int version = Integer.parseInt(parts[1]);
+					versions.put(parts[0], version);
+				} else {
+					Log.e(TAG, "Couldn't load location from line " + line);
+				}
+				line = in.readLine();
+			}
+			return versions;
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
+			return null;
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		} catch (Exception e) {
+			Log.e(TAG, "Couldn't read " + VERSION_FILE);
 			e.printStackTrace();
 			return null;
 		}
 	}
 
-	public static List<Location> parseLocations(Context context) {
+	public static List<Location> parseLocations(Context context, String locationFile) {
 		try {
-			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(LOCATION_FILE), "UTF8"));
+			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(locationFile), "UTF8"));
 			List<Location> locations = new ArrayList<Location>();
 			String line = in.readLine();
 			while (line != null) {
@@ -127,7 +156,7 @@ public class AssetReader {
 			e.printStackTrace();
 			return null;
 		} catch (Exception e) {
-			Log.e(TAG, "Couldn't read " + LOCATION_FILE);
+			Log.e(TAG, "Couldn't read " + locationFile);
 			e.printStackTrace();
 			return null;
 		}
