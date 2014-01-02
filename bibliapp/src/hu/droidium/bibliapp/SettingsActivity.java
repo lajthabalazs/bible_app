@@ -38,13 +38,13 @@ public class SettingsActivity extends BibleBaseActivity implements OnClickListen
 	private void refreshUI() {
 		int currentMultiplierFactor = prefs.getInt(Constants.TEXT_SIZE_KEY, 0);
 		double currentMultiplier = Math.pow(Constants.TEXT_SIZE_FACTOR, currentMultiplierFactor);
-		Log.e(TAG, "Factor " + currentMultiplierFactor + " -> " + currentMultiplier);
+		Log.v(TAG, "Factor " + currentMultiplierFactor + " -> " + currentMultiplier);
 		DisplayMetrics metrics = new DisplayMetrics();
 		getWindowManager().getDefaultDisplay().getMetrics(metrics);
 		int baseSize = (int)(getResources().getDimension(R.dimen.text_size_list_item_text_normal) / metrics.scaledDensity);
-		Log.e(TAG, "Base dimension " + baseSize);
+		Log.v(TAG, "Base dimension " + baseSize);
 		int actualSize = (int) (baseSize * currentMultiplier);
-		Log.e(TAG, "Actual dimension " + baseSize);
+		Log.v(TAG, "Actual dimension " + baseSize);
 		int smallerSize = (int) (baseSize * currentMultiplier / Constants.TEXT_SIZE_FACTOR);
 		int largerSize = (int) (baseSize * currentMultiplier * Constants.TEXT_SIZE_FACTOR);
 		smallerText.setTextSize(TypedValue.COMPLEX_UNIT_SP, smallerSize);

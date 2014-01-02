@@ -71,7 +71,6 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		Log.e(TAG, "Create base activity.");
 		super.onCreate(savedInstanceState);
 		bibleDataAdapter = new AssetBibleDataAdapter(this);
 		// Most functionality is covered by a database manager
@@ -85,7 +84,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		uiHelper = new UiLifecycleHelper(this, this);
 		uiHelper.onCreate(savedInstanceState);
 		// Update database
-		Log.e(TAG, "Checking for updates.");
+		Log.d(TAG, "Checking for updates.");
 		startService(new Intent(this, DatabaseUpdateService.class));
 	}
 	
@@ -123,10 +122,8 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 	protected void login() {
  		if (session != null) {
- 			Log.e(TAG, "Add a session callback.");
  			session.addCallback(this);
 		} else {
-			Log.e(TAG, "Open active session.");
 			Session.openActiveSession(this, true, this);
  		}
 	}
@@ -336,11 +333,11 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 			Session.openActiveSession(context, null,false, new StatusCallback() {
 				@Override
 				public void call(Session session, SessionState state, Exception exception) {
-					Log.e(TAG, "Silent Facebook login succesfull");
+					Log.d(TAG, "Silent Facebook login succesfull");
 				}
 			});
 		} else {
-			Log.e(TAG, "User already logged in with Facebook");
+			Log.d(TAG, "User already logged in with Facebook");
 		}
 	}
 	
@@ -354,7 +351,6 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 
 	public boolean isFacebookSessionOpened() {
-		Log.e(TAG, "Facebook session is opened " + sessionOnline);
 		return sessionOnline;
 	}
 

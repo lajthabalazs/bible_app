@@ -3,6 +3,8 @@ package hu.droidium.bibliapp.data;
 public interface BibleDataAdapter {
 
 	String getBookAbbreviation(String bookId);
+	
+	String getBookId(String abbreviation);
 
 	String[] getBookIds();
 

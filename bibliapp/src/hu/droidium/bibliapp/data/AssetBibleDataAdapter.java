@@ -12,17 +12,20 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 	private Vector<String> bookIds;
 	private HashMap<String, String> titleMap;
 	private HashMap<String, String> abbreviationMap;
+	private HashMap<String, String> idMap;
 	private Book lastAccessedBook = null;
 	
 	public AssetBibleDataAdapter(Context context) {
 		this.context = context;
 		assets = AssetReader.readTitles(context);
 		abbreviationMap = new HashMap<String, String>();
+		idMap = new HashMap<String, String>();
 		titleMap = new HashMap<String, String>();
 		bookIds = new Vector<String>();
 		for (String[] assetLine : assets) {
 			titleMap.put(assetLine[0], assetLine[1]);
 			abbreviationMap.put(assetLine[0], assetLine[2]);
+			idMap.put(assetLine[2], assetLine[0]);
 			bookIds.add(assetLine[0]);
 		}
 	} 
@@ -30,6 +33,11 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 	@Override
 	public String getBookAbbreviation(String bookId) {
 		return abbreviationMap.get(bookId);
+	}
+	
+	@Override
+	public String getBookId(String abbreviation) {
+		return idMap.get(abbreviation);
 	}
 
 	@Override

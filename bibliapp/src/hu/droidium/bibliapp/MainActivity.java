@@ -28,7 +28,6 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		Log.e(TAG, "Create main activity.");
 		super.onCreate(savedInstanceState);
 		prefs = Constants.getPrefs(this);
 		setContentView(R.layout.main_layout);
@@ -44,28 +43,25 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 		bookmarks.setOnClickListener(this);
 		tags = (Button)findViewById(R.id.tagsButton);
 		tags.setOnClickListener(this);
-		Log.e(TAG, "Main activity created.");
 	}
 	
 	@Override
 	protected void onStart() {
-		Log.e(TAG, "Starting main activity.");
 		super.onStart();
 		log(R.string.flurryEventAppStarted);
 	}
 	
 	@Override
 	protected void onResume() {
-		Log.e(TAG, "Resuming main activity.");
 		super.onResume();
 		if (firstRun) {
-			Log.e(TAG, "First run.");
+			Log.i(TAG, "First run of this session.");
 			firstRun = false;
 			// Check if user wants to use Facebook
 			int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
 			switch(facebookAsk) {
 				case Constants.FACEBOOK_UNKNOWN: {
-					Log.e(TAG, "Facebook decision not made yet.");
+					Log.d(TAG, "Facebook decision not made yet.");
 					OnClickListener firstButtonListener = new OnClickListener() {
 						
 						@Override
@@ -90,12 +86,12 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 					break;
 				}
 				case Constants.FACEBOOK_LOGIN: {
-					Log.e(TAG, "Facebook login.");
+					Log.d(TAG, "Facebook login.");
 					login();
 					break;
 				}
 				default: {
-					Log.e(TAG, "No Facebook login.");
+					Log.d(TAG, "No Facebook login.");
 					break;
 				}
 			}
@@ -150,16 +146,6 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	}
 	
 	@Override
-	protected void facebookSessionOpened() {
-		Log.e(TAG, "Facebook session opened.");
-	}
-
-	@Override
-	protected void facebookSessionClosed() {
-		Log.e(TAG, "Facebook session closed.");
-	}
-
-	@Override
 	public void onClick(View v) {
 		switch (v.getId()) {
 			case R.id.toBookListButton: {
@@ -204,5 +190,13 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 				break;
 			}
 		}
+	}
+
+	@Override
+	protected void facebookSessionOpened() {
+	}
+
+	@Override
+	protected void facebookSessionClosed() {
 	}
 }

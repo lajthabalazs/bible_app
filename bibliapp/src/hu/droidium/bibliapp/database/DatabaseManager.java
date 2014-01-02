@@ -29,7 +29,6 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	static final String LOCATION_UPDATE_STATUS_KEY = "Location update status key";
 	
 	public DatabaseManager(Context context) {
-		Log.e(TAG, "Create database manager.");		
 		BibleDbHelper dbHelper = new BibleDbHelper(context);
 		db = dbHelper.getWritableDatabase();
 	}

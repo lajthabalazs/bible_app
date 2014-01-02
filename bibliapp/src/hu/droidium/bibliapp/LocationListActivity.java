@@ -25,9 +25,10 @@ public class LocationListActivity extends BibleBaseActivity {
 	protected void onResume() {
 		super.onResume();
 		List<Location> locations = locationAdapter.getAllLocations();
-		String[] locationNames = new String[locations.size()];
+		String[] locationNames = new String[locations.size() / 100];
 		for (int i = 0; i < locationNames.length; i++){
-			locationNames[i] = locations.get(i).getName() + " >" + locations.get(i).getBookId() + "< >" + locations.get(i).getChapter() + ":" + locations.get(i).getVerse();
+			List<Location> foundLocations = locationAdapter.getLocations(locations.get(i).getBookId(), locations.get(i).getChapter(), locations.get(i).getVerse());
+			locationNames[i] = locations.get(i).getName() + " >" + locations.get(i).getBookId() + "< >" + locations.get(i).getChapter() + ":" + locations.get(i).getVerse() + " " + foundLocations.size();			
 		}
 		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, locationNames);
 		locationList.setAdapter(adapter);

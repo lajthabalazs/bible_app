@@ -35,9 +35,10 @@ public class VersionManager {
 		SharedPreferences prefs = context.getSharedPreferences(VERSION_STORE, Context.MODE_PRIVATE);
 		prefs.edit().putInt(item, newVersion).commit();
 	}
+
 	public static void setUpdateProgress(Context context, String item, int newVersion, int progress) {
 		SharedPreferences prefs = context.getSharedPreferences(VERSION_STORE, Context.MODE_PRIVATE);
 		prefs.edit().putInt(UPDATE_PROGRESS_PREFIX  + item + newVersion, progress).commit();
-		Log.e(TAG, item + " update progress " + progress);
+		Log.v(TAG, item + " update progress " + progress);
 	}
 }

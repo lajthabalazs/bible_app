@@ -5,6 +5,7 @@ import hu.droidium.bibliapp.data.Bookmark;
 import hu.droidium.bibliapp.data.LocationAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.database.TagMeta;
+import hu.droidium.bibliapp.map.MapActivity;
 import hu.droidium.bibliapp.tag_ui.CheckableTagAdapter;
 import hu.droidium.bibliapp.tag_ui.TagMargin;
 
@@ -12,6 +13,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+
 
 import android.app.AlertDialog;
 import android.content.Intent;
@@ -62,6 +64,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		for (Bookmark bookmark : bookmarks) {
 			this.bookmarks.put(bookmark.getVers(), bookmark);
 		}
+		Log.v(TAG, bookmarks.size() + " bookmarks found for this chapter");
 	}
 
 	@Override
@@ -188,7 +191,6 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	}
 
 	public void showOptions(View view, long itemId, boolean facebookEnabled) {
-		Log.e(TAG , "Facebook enabled " + facebookEnabled);
 		displayMenu = itemId;
 		this.facebookEnabled = facebookEnabled;
 		for (DataSetObserver observer : observers){

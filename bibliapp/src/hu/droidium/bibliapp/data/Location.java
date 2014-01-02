@@ -48,7 +48,7 @@ public class Location {
 		return verse;
 	}
 
-	public static List<Location> parse(String line) {
+	public static List<Location> parse(String line, BibleDataAdapter bibleDataAdapter) {
 		List<Location> locations = new ArrayList<Location>();
 		String[] parts = line.split(",");
 		String name = null;
@@ -65,7 +65,9 @@ public class Location {
 		for (int i = 3; i < parts.length; i++) {
 			try {
 				String[] verseParts = parts[i].split("[[ ]||[:]]");
-				Location location = new Location(name, lat, lon, verseParts[0], Integer.parseInt(verseParts[1]), Integer.parseInt(verseParts[2]));
+				String bookAbbreviation = verseParts[0];
+				String bookId = bibleDataAdapter.getBookId(bookAbbreviation);
+				Location location = new Location(name, lat, lon, bookId, Integer.parseInt(verseParts[1]), Integer.parseInt(verseParts[2]));
 				locations.add(location);
 			} catch (Exception e) {
 				

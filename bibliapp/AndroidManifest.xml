@@ -27,9 +27,9 @@
         <activity android:launchMode="singleTop" android:name=".RegisterActivity"/>
         <activity android:name=".tag_ui.TagMetaListActivity"/>
         <activity android:name=".tag_ui.TagListActivity"/>
-        <activity android:name="MapActivity"></activity>
         <activity android:name="LocationListActivity">
         </activity>
         <service android:name=".database.DatabaseUpdateService"></service>
+        <activity android:name="hu.droidium.bibliapp.map.MapActivity"></activity>
 	</application>
 </manifest>

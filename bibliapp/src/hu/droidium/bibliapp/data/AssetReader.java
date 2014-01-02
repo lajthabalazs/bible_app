@@ -134,13 +134,13 @@ public class AssetReader {
 		}
 	}
 
-	public static List<Location> parseLocations(Context context, String locationFile) {
+	public static List<Location> parseLocations(Context context, String locationFile, BibleDataAdapter bibleDataAdapter) {
 		try {
 			BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(locationFile), "UTF8"));
 			List<Location> locations = new ArrayList<Location>();
 			String line = in.readLine();
 			while (line != null) {
-				List<Location> parsedLocations = Location.parse(line);
+				List<Location> parsedLocations = Location.parse(line, bibleDataAdapter);
 				if (parsedLocations != null) {
 					locations.addAll(parsedLocations);
 				} else {
