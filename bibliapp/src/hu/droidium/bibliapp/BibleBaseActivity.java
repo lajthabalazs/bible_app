@@ -109,12 +109,20 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 					R.string.flurryDialogDisable, secondButtonListener,
 					Orientation.HORIZONTAL);
 		}
+		// Check if user wants to use Facebook
+		SharedPreferences prefs = Constants.getPrefs(this);
+		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
+		if (facebookAsk == Constants.FACEBOOK_LOGIN) {
+			login();
+		}
 	}
 
 	protected void login() {
  		if (session != null) {
+ 			Log.e(TAG, "Add a session callback.");
  			session.addCallback(this);
 		} else {
+			Log.e(TAG, "Open active session.");
 			Session.openActiveSession(this, true, this);
  		}
 	}
@@ -166,7 +174,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 			@Override
 			public void onCompleted(GraphUser user, Response response) {
 				if (user!=null) {
-					Log.i("We have a user!", user.getName());
+					Log.i(TAG, "We have a user:" + user.getName());
 					sessionOnline = true;
 					if (pendingPublishReauthorization
 							&& session.getState().equals(SessionState.OPENED_TOKEN_UPDATED)) {
@@ -342,6 +350,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 
 	public boolean isFacebookSessionOpened() {
+		Log.e(TAG, "Facebook session is opened " + sessionOnline);
 		return sessionOnline;
 	}
 

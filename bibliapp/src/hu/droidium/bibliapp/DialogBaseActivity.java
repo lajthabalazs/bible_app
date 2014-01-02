@@ -1,5 +1,8 @@
 package hu.droidium.bibliapp;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import hu.droidium.flurry_base.FlurryBaseActivity;
 import android.app.Dialog;
 import android.app.ProgressDialog;
@@ -13,29 +16,30 @@ import android.widget.TextView;
 public class DialogBaseActivity extends FlurryBaseActivity {
 	
 	private ProgressDialog progressDialog;
-	private Dialog dialog; 
+	private Dialog dialog;
+	private List<DialogDescriptor> enqueuedDialogs = new ArrayList<DialogBaseActivity.DialogDescriptor>();
 
 	/* ************************ DIALOG FUNCTIONS ************************ */
 	
-	protected boolean showDialog(int titleId, int messageId,
+	protected void showDialog(int titleId, int messageId,
 			int firstButtonId, OnClickListener firstButtonListener) {
 		String title = getString(titleId);
 		String message = getString(messageId);
 		String firstButtonText = getString(firstButtonId);
-		return showDialog(-1, title, message, firstButtonText, firstButtonListener, null, null, null, null, Orientation.HORIZONTAL);
+		showDialog(-1, title, message, firstButtonText, firstButtonListener, null, null, null, null, Orientation.HORIZONTAL);
 	}
 	
-	protected boolean showDialog(int titleId, int messageId,
+	protected void showDialog(int titleId, int messageId,
 			int firstButtonId, OnClickListener firstButtonListener,
 			int secondButtonId, OnClickListener secondButtonListener, Orientation orientation) {
 		String title = getString(titleId);
 		String message = getString(messageId);
 		String firstButtonText = getString(firstButtonId);
 		String secondButtonText = getString(secondButtonId);
-		return showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, null, null, orientation);
+		showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, null, null, orientation);
 	}
 	
-	protected boolean showDialog(int titleId, int messageId,
+	protected void showDialog(int titleId, int messageId,
 			int firstButtonId, OnClickListener firstButtonListener,
 			int secondButtonId, OnClickListener secondButtonListener,
 			int thirdButtonId, OnClickListener thirdButtonListener, Orientation orientation) {
@@ -44,28 +48,28 @@ public class DialogBaseActivity extends FlurryBaseActivity {
 		String firstButtonText = getString(firstButtonId);
 		String secondButtonText = getString(secondButtonId);
 		String thirdButtonText = getString(thirdButtonId);
-		return showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation);
+		showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation);
 	}
 
-	protected boolean showDialog(int imageId, int titleId, int messageId,
+	protected void showDialog(int imageId, int titleId, int messageId,
 			int firstButtonId, OnClickListener firstButtonListener) {
 		String title = getString(titleId);
 		String message = getString(messageId);
 		String firstButtonText = getString(firstButtonId);
-		return showDialog(imageId, title, message, firstButtonText, firstButtonListener, null, null, null, null, Orientation.HORIZONTAL);
+		showDialog(imageId, title, message, firstButtonText, firstButtonListener, null, null, null, null, Orientation.HORIZONTAL);
 	}
 
-	protected boolean showDialog(int imageId, int titleId, int messageId,
+	protected void showDialog(int imageId, int titleId, int messageId,
 			int firstButtonId, OnClickListener firstButtonListener,
 			int secondButtonId, OnClickListener secondButtonListener, Orientation orientation) {
 		String title = getString(titleId);
 		String message = getString(messageId);
 		String firstButtonText = getString(firstButtonId);
 		String secondButtonText = getString(secondButtonId);
-		return showDialog(imageId, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, null, null, orientation);
+		showDialog(imageId, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, null, null, orientation);
 	}
 
-	protected boolean showDialog(int imageId, int titleId, int messageId,
+	protected void showDialog(int imageId, int titleId, int messageId,
 			int firstButtonId, OnClickListener firstButtonListener,
 			int secondButtonId, OnClickListener secondButtonListener,
 			int thirdButtonId, OnClickListener thirdButtonListener, Orientation orientation) {
@@ -74,25 +78,25 @@ public class DialogBaseActivity extends FlurryBaseActivity {
 		String firstButtonText = getString(firstButtonId);
 		String secondButtonText = getString(secondButtonId);
 		String thirdButtonText = getString(thirdButtonId);
-		return showDialog(imageId, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation);
+		showDialog(imageId, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation);
 	}
 
-	protected boolean showDialog(String title, String message,
+	protected void showDialog(String title, String message,
 			String firstButtonText, OnClickListener firstButtonListener) {
-		return showDialog(-1, title, message, firstButtonText, firstButtonListener, null, null, null, null, Orientation.HORIZONTAL);
+		showDialog(-1, title, message, firstButtonText, firstButtonListener, null, null, null, null, Orientation.HORIZONTAL);
 	}
 	
-	protected boolean showDialog(String title, String message,
+	protected void showDialog(String title, String message,
 			String firstButtonText, OnClickListener firstButtonListener,
 			String secondButtonText, OnClickListener secondButtonListener, Orientation orientation) {
-		return showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, null, null, orientation);
+		showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, null, null, orientation);
 	}
 
-	protected boolean showDialog(String title, String message,
+	protected void showDialog(String title, String message,
 			String firstButtonText, OnClickListener firstButtonListener,
 			String secondButtonText, OnClickListener secondButtonListener,
 			String thirdButtonText, OnClickListener thirdButtonListener, Orientation orientation) {
-		return showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation);
+		showDialog(-1, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation);
 	}
 
 	/**
@@ -108,15 +112,17 @@ public class DialogBaseActivity extends FlurryBaseActivity {
 	 * @param thirdButtonListener
 	 * @return
 	 */
-	protected boolean showDialog(int imageId, String title, String message,
+	protected void showDialog(int imageId, String title, String message,
 			String firstButtonText, final OnClickListener firstButtonListener,
 			String secondButtonText, final OnClickListener secondButtonListener,
 			String thirdButtonText, final OnClickListener thirdButtonListener, Orientation orientation) {
 		if (dialog != null) {
-			return false;
+			enqueuedDialogs.add(new DialogDescriptor(imageId, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation));
+			return;
 		}
 		if (progressDialog != null) {
-			return false;
+			enqueuedDialogs.add(new DialogDescriptor(imageId, title, message, firstButtonText, firstButtonListener, secondButtonText, secondButtonListener, thirdButtonText, thirdButtonListener, orientation));
+			return;
 		}
 		dialog = new Dialog(this);
 		dialog.setTitle(title);
@@ -143,10 +149,11 @@ public class DialogBaseActivity extends FlurryBaseActivity {
 				@Override
 				public void onClick(View v) {
 					dialog.dismiss();
-					dialog = null;
 					if (firstButtonListener != null) {
 						firstButtonListener.onClick(null);
 					}
+					dialog = null;
+					checkEnqueud();
 				}
 				
 			});
@@ -161,10 +168,11 @@ public class DialogBaseActivity extends FlurryBaseActivity {
 				@Override
 				public void onClick(View v) {
 					dialog.dismiss();
-					dialog = null;
 					if (secondButtonListener != null) {
 						secondButtonListener.onClick(null);
 					}
+					dialog = null;
+					checkEnqueud();
 				}
 			});
 		} else {
@@ -178,10 +186,11 @@ public class DialogBaseActivity extends FlurryBaseActivity {
 				@Override
 				public void onClick(View v) {
 					dialog.dismiss();
-					dialog = null;
 					if (thirdButtonListener != null) {
 						thirdButtonListener.onClick(null);
 					}
+					dialog = null;
+					checkEnqueud();
 				}
 			});
 		} else {
@@ -196,11 +205,50 @@ public class DialogBaseActivity extends FlurryBaseActivity {
 		}
 		dialog.setCancelable(false);
 		dialog.show();
-		return true;
+	}
+
+	private void checkEnqueud() {
+		if(enqueuedDialogs.size() > 0) {
+			DialogDescriptor descriptor = enqueuedDialogs.remove(0);
+			showDialog(descriptor.imageId, descriptor.title, descriptor.message,
+					descriptor.firstButtonText, descriptor.firstButtonListener,
+					descriptor.secondButtonText, descriptor.secondButtonListener,
+					descriptor.thirdButtonText, descriptor.thirdButtonListener, descriptor.orientation);
+		}
 	}
 
 	@Override
 	protected String getFlurryKey() {
 		return getString(R.string.flurryKey);
+	}
+	
+	private static class DialogDescriptor {
+		int imageId;
+		String title;
+		String message;
+		String firstButtonText;
+		OnClickListener firstButtonListener;
+		String secondButtonText;
+		OnClickListener secondButtonListener;
+		String thirdButtonText;
+		OnClickListener thirdButtonListener;
+		Orientation orientation;		
+
+		public DialogDescriptor(int imageId, String title, String message,
+				String firstButtonText, OnClickListener firstButtonListener,
+				String secondButtonText,
+				OnClickListener secondButtonListener, String thirdButtonText,
+				OnClickListener thirdButtonListener, Orientation orientation) {
+			this.imageId = imageId;
+			this.title = title;
+			this.message = message;
+			this.firstButtonText = firstButtonText;
+			this.firstButtonListener = firstButtonListener;
+			this.secondButtonText = secondButtonText;
+			this.secondButtonListener = secondButtonListener;
+			this.thirdButtonText = thirdButtonText;
+			this.thirdButtonListener = thirdButtonListener;
+			this.orientation = orientation;
+		}
 	}
 }

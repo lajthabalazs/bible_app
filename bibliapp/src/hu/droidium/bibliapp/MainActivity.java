@@ -87,8 +87,12 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 					break;
 				}
 				case Constants.FACEBOOK_LOGIN: {
-					Log.e(TAG, "Facebook decision not made yet.");
+					Log.e(TAG, "Facebook login.");
 					login();
+					break;
+				}
+				default: {
+					Log.e(TAG, "No Facebook login.");
 					break;
 				}
 			}
@@ -144,10 +148,12 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	
 	@Override
 	protected void facebookSessionOpened() {
+		Log.e(TAG, "Facebook session opened.");
 	}
 
 	@Override
 	protected void facebookSessionClosed() {
+		Log.e(TAG, "Facebook session closed.");
 	}
 
 	@Override
