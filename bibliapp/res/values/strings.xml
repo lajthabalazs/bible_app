@@ -23,6 +23,7 @@
     <string name="noteLabel">Megjegyzés</string>
     <string name="bookmarksTitle">Könyvjelzők</string>
     <string name="toBookList">Könyvek listája</string>
+    <string name="toLocationList">Helyek</string>
     <string name="continueWhereFinished">Legutóbb olvasott ige</string>
     
     <string name="facebookDialogTitle">Facebook bejelentkezés</string>

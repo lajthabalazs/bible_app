@@ -16,12 +16,13 @@ public class DatabaseUpdateService extends IntentService {
 	private static final String TAG_META_FILE = "tags.txt";
 	private static final String LOCATION_FILE = "locations.txt";
 
-	public DatabaseUpdateService(String name) {
-		super(name);
+	public DatabaseUpdateService() {
+		super("DatabaseUpdateService");
 	}
 
 	@Override
 	protected void onHandleIntent(Intent intent) {
+		Log.e(TAG, "Running update service.");
 		DatabaseManager databaseManager = new DatabaseManager(this);
 		updateTagMetas(databaseManager);
 		updateLocations(databaseManager);

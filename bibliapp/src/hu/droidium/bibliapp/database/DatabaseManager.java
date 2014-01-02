@@ -34,7 +34,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 		db = dbHelper.getWritableDatabase();
 	}
 
-	public DatabaseManager(SQLiteDatabase db) {
+	protected DatabaseManager(SQLiteDatabase db) {
 		this.db = db;
 	}
 

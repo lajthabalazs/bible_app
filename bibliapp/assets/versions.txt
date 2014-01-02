@@ -1,4 +1,4 @@
 raw 0
 abbreviations.txt 0
-map/locations.txt 0
+locations.txt 0
 tags.txt 0

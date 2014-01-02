@@ -8,6 +8,7 @@ import hu.droidium.bibliapp.data.LocationAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.data.Translator;
 import hu.droidium.bibliapp.database.DatabaseManager;
+import hu.droidium.bibliapp.database.DatabaseUpdateService;
 import hu.droidium.bibliapp.database.TagMeta;
 
 import java.util.ArrayList;
@@ -83,6 +84,9 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		
 		uiHelper = new UiLifecycleHelper(this, this);
 		uiHelper.onCreate(savedInstanceState);
+		// Update database
+		Log.e(TAG, "Checking for updates.");
+		startService(new Intent(this, DatabaseUpdateService.class));
 	}
 	
 	@Override

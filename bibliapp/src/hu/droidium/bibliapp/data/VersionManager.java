@@ -19,9 +19,9 @@ public class VersionManager {
 
 	public static int getAssetVersion(Context context, String item) {
 		HashMap<String, Integer> versions = AssetReader.parseVersions(context);
-		if (versions != null) {
+		try {
 			return versions.get(item);
-		} else {
+		} catch (Exception e){
 			return -1;
 		}
 	}
