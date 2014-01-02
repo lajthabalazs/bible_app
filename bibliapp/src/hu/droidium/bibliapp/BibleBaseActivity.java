@@ -50,7 +50,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 	private static final List<String> PERMISSIONS = Arrays
 			.asList("publish_actions");
-	private static final String TAG = "FacebookEnabledBibleActivity";
+	private static final String TAG = BibleBaseActivity.class.getName();
 
 	private Session session;
 	private boolean sessionOnline = false;
@@ -165,7 +165,6 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		Request.executeMeRequestAsync(session, new Request.GraphUserCallback() {
 			@Override
 			public void onCompleted(GraphUser user, Response response) {
-				// TODO process user information if needed
 				if (user!=null) {
 					Log.i("We have a user!", user.getName());
 					sessionOnline = true;

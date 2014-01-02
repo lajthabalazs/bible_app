@@ -45,7 +45,7 @@ public class AssetReader {
 					BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(fileName), "UTF8"));
 					ret.add(new String[]{bookId, in.readLine(), abbreviations.get(i - 1)});
 				} catch (FileNotFoundException e) {
-					System.out.println("File not found "+ fileName);
+					Log.w(TAG, "File not found "+ fileName);
 				}
 			}
 			return ret;

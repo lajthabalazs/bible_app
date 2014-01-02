@@ -16,7 +16,6 @@ import android.widget.Button;
 
 public class MainActivity extends BibleBaseActivity implements OnClickListener {
 
-	@SuppressWarnings("unused")
 	private static final String TAG = MainActivity.class.getName();
 	private Button lastReadVers;
 	private Button toBookList;
@@ -63,6 +62,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 			int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
 			switch(facebookAsk) {
 				case Constants.FACEBOOK_UNKNOWN: {
+					Log.e(TAG, "Facebook decision not made yet.");
 					OnClickListener firstButtonListener = new OnClickListener() {
 						
 						@Override
@@ -87,6 +87,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 					break;
 				}
 				case Constants.FACEBOOK_LOGIN: {
+					Log.e(TAG, "Facebook decision not made yet.");
 					login();
 					break;
 				}
