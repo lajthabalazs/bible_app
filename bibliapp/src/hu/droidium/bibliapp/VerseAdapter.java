@@ -109,7 +109,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		tagMargin.setTag(position);
 		tagMargin.setOnClickListener(this);
 		tagMargin.setColors(tagDataAdapter.getTagColors(bookId, chapterIndex, position));
-		if (locationAdapter.getLocations(bookId, chapterIndex, position + 1).size() > 0) {
+		if (locationAdapter.getLocations(bookId, chapterIndex + 1, position + 1).size() > 0) {
 			locationButton.setVisibility(View.VISIBLE);
 			locationButton.setOnClickListener(this);
 			locationButton.setTag(position);
@@ -327,7 +327,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 				break;
 			}
 			case R.id.locationButton : {
-				Toast.makeText(activity, "Showing map for verse " + bookId + " " + chapterIndex + ":" + (index + 1), Toast.LENGTH_LONG);
+				Toast.makeText(activity, "Showing map for verse " + bookId + " " + (chapterIndex + 1) + ":" + (index + 1), Toast.LENGTH_LONG).show();
 				Intent intent = new Intent(activity, MapActivity.class);
 				intent.putExtra(Constants.BOOK_ID, bookId);
 				intent.putExtra(Constants.CHAPTER_INDEX, chapterIndex);

@@ -9,16 +9,16 @@ public class Location {
 	
 	private static final String TAG = Location.class.getName();
 	private String name;
-	private String lat;
 	private String lon;
+	private String lat;
 	private String bookId;
 	private int chapter;
 	private int verse;
 	
-	protected Location(String name, String lat, String lon, String bookId, int chapter, int verse) {
+	protected Location(String name, String lon, String lat, String bookId, int chapter, int verse) {
 		this.name = name;
-		this.lat = lat;
 		this.lon = lon;
+		this.lat = lat;
 		this.bookId = bookId;
 		this.chapter = chapter;
 		this.verse = verse;
@@ -28,12 +28,12 @@ public class Location {
 		return name;
 	}
 
-	public String getLat() {
-		return lat;
-	}
-
 	public String getLon() {
 		return lon;
+	}
+
+	public String getLat() {
+		return lat;
 	}
 
 	public String getBookId() {
@@ -52,12 +52,12 @@ public class Location {
 		List<Location> locations = new ArrayList<Location>();
 		String[] parts = line.split(",");
 		String name = null;
-		String lat = null;
 		String lon = null;
+		String lat = null;
 		try {
 			name = parts[0];
-			lat = parts[1];
 			lon = parts[2];
+			lat = parts[1];
 		} catch (Exception e) {
 			Log.e(TAG, "Error reading locations from line: " + line + " (" + e.getMessage() + ")", e);
 			return null;
@@ -67,7 +67,7 @@ public class Location {
 				String[] verseParts = parts[i].split("[[ ]||[:]]");
 				String bookAbbreviation = verseParts[0];
 				String bookId = bibleDataAdapter.getBookId(bookAbbreviation);
-				Location location = new Location(name, lat, lon, bookId, Integer.parseInt(verseParts[1]), Integer.parseInt(verseParts[2]));
+				Location location = new Location(name, lon, lat, bookId, Integer.parseInt(verseParts[1]), Integer.parseInt(verseParts[2]));
 				locations.add(location);
 			} catch (Exception e) {
 				
