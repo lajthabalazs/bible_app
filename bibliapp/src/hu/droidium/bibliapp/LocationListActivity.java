@@ -2,15 +2,19 @@ package hu.droidium.bibliapp;
 
 import hu.droidium.bibliapp.data.Location;
 
+import java.util.Arrays;
 import java.util.List;
 
+import android.location.LocationManager;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class LocationListActivity extends BibleBaseActivity {
 
+	private static final String TAG = LocationListActivity.class.getName();
 	private ListView locationList;
 
 	@Override
@@ -24,13 +28,8 @@ public class LocationListActivity extends BibleBaseActivity {
 	@Override
 	protected void onResume() {
 		super.onResume();
-		List<Location> locations = locationAdapter.getAllLocations();
-		String[] locationNames = new String[locations.size() / 100];
-		for (int i = 0; i < locationNames.length; i++){
-			List<Location> foundLocations = locationAdapter.getLocations(locations.get(i).getBookId(), locations.get(i).getChapter(), locations.get(i).getVerse());
-			locationNames[i] = locations.get(i).getName() + " >" + locations.get(i).getBookId() + "< >" + locations.get(i).getChapter() + ":" + locations.get(i).getVerse() + " " + foundLocations.size();			
-		}
-		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, locationNames);
+		List<String> locations = locationAdapter.getLocationNames();
+		ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,locations.toArray(new String[locations.size()]));
 		locationList.setAdapter(adapter);
 	}
 	

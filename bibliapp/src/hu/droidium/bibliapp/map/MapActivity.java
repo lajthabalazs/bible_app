@@ -11,7 +11,6 @@ import hu.droidium.flurry_base.LogCategory;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.osmdroid.api.IMapController;
 import org.osmdroid.bonuspack.overlays.ExtendedOverlayItem;
 import org.osmdroid.bonuspack.overlays.ItemizedOverlayWithBubble;
 import org.osmdroid.tileprovider.MapTileProviderBasic;
@@ -21,9 +20,7 @@ import org.osmdroid.tileprovider.util.CloudmadeUtil;
 import org.osmdroid.util.BoundingBoxE6;
 import org.osmdroid.util.GeoPoint;
 import org.osmdroid.util.ResourceProxyImpl;
-import org.osmdroid.views.overlay.ItemizedIconOverlay;
 import org.osmdroid.views.overlay.ItemizedIconOverlay.OnItemGestureListener;
-import org.osmdroid.views.overlay.ItemizedOverlayWithFocus;
 import org.osmdroid.views.overlay.OverlayItem;
 import org.osmdroid.views.overlay.TilesOverlay;
 
@@ -31,12 +28,9 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
-import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class MapActivity extends BibleBaseActivity implements OnItemGestureListener<OverlayItem> {
 
@@ -46,7 +40,6 @@ public class MapActivity extends BibleBaseActivity implements OnItemGestureListe
 	private BibleMapView mapView;
 	private String bookId;
 	private int chapter;
-	private IMapController controller;
 	private int verseIndex;
 	private ItemizedOverlayWithBubble<ExtendedOverlayItem> locationsOverlay;
 	private ResourceProxyImpl resourceProxy;
@@ -66,7 +59,6 @@ public class MapActivity extends BibleBaseActivity implements OnItemGestureListe
 				LayoutParams.MATCH_PARENT, 1.0f);		
 		mapView.setLayoutParams(params);
 		mapView.setBuiltInZoomControls(true);
-		controller = mapView.getController();
 		mapParent.addView(mapView, 0);
 		CloudmadeUtil.retrieveCloudmadeKey(getApplicationContext());
 		// Add tiles layer with custom tile source
@@ -146,22 +138,12 @@ public class MapActivity extends BibleBaseActivity implements OnItemGestureListe
 	
 	public boolean onItemSingleTapUp(final int index,
 			final OverlayItem item) {
-		Toast.makeText(
-				MapActivity.this,
-				"Item '" + item.getTitle() + "' (index="
-						+ index + ") got single tapped up",
-				Toast.LENGTH_LONG).show();
 		return true;
 	}
 
 	@Override
 	public boolean onItemLongPress(final int index,
 			final OverlayItem item) {
-		Toast.makeText(
-				MapActivity.this,
-				"Item '" + item.getTitle() + "' (index="
-						+ index + ") got long pressed",
-				Toast.LENGTH_LONG).show();
 		return false;
 	}
 }

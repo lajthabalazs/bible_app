@@ -5,5 +5,6 @@ import java.util.List;
 public interface LocationAdapter {
 	public List<Location> getLocations(String bookId, int chapter, int verse);
 	public List<Location> getAllLocations();
+	public List<String> getLocationNames();
 	List<Verse> getVerses(String locationName);
 }

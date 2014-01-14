@@ -328,7 +328,6 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 				break;
 			}
 			case R.id.locationButton : {
-				Toast.makeText(activity, "Showing map for verse " + bookId + " " + (chapterIndex + 1) + ":" + (index + 1), Toast.LENGTH_LONG).show();
 				Intent intent = new Intent(activity, MapActivity.class);
 				intent.putExtra(Constants.BOOK_ID, bookId);
 				intent.putExtra(Constants.CHAPTER_INDEX, chapterIndex);

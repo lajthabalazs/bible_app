@@ -414,7 +414,6 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	    String selection = DbLocation.COLUMN_NAME_BOOK + "=? AND " + DbLocation.COLUMN_NAME_CHAPTER + "=? AND " + DbLocation.COLUMN_NAME_VERS + "=?" ;
 	    String[] selectionArgs = new String[]{bookId, Integer.toString(chapter), Integer.toString(verse)};
 	    String orderString = DbLocation.COLUMN_NAME_NAME + " asc";
-	    Log.e(TAG, "Getting locations for book ");
 		Cursor c = db.query(DbLocation.TABLE_NAME, columns, selection, selectionArgs, null, null, orderString, null);
 	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
 			String name = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_NAME));
@@ -447,6 +446,19 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 			locations.add(new DbLocation(name, lat, lon, bookId, chapter, verse));
 		}
 	    return locations;
+	}
+	@Override
+	public List<String> getLocationNames() {
+		ArrayList<String> names = new ArrayList<String>();
+	    String[] columns = new String[]{
+	    		DbLocation.COLUMN_NAME_NAME};
+	    String orderString = DbLocation.COLUMN_NAME_NAME + " asc";
+		Cursor c = db.query(true, DbLocation.TABLE_NAME, columns, null, null, null, null, orderString, null);
+	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
+			String name = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_NAME));
+			names.add(name);
+		}
+	    return names;
 	}
 
 	@Override
