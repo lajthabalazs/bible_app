@@ -36,13 +36,38 @@ public class ChapterListActivity extends BibleBaseActivity implements OnItemClic
 			Intent nextIntent = new Intent(this, VerseListActivity.class);
 			nextIntent.putExtra(Constants.BOOK_ID, bookId);
 			nextIntent.putExtra(Constants.CHAPTER_INDEX, chapterIndex);
-			startActivity(nextIntent);
+			startActivityForResult(nextIntent, Constants.VERSE_REQUEST);
+		}
+		boolean shouldTurnPage = prefs.getBoolean(Constants.TURNING_PAGE, false);
+		if (shouldTurnPage) {
+			Intent nextIntent = new Intent(this, VerseListActivity.class);
+			nextIntent.putExtra(Constants.BOOK_ID, bookId);
+			nextIntent.putExtra(Constants.CHAPTER_INDEX, 0);
+			startActivityForResult(nextIntent, Constants.VERSE_REQUEST);
 		}
 	}
 	
 	@Override
 	protected void onResume() {
 		super.onResume();
+	}
+	
+	@Override
+	public void onActivityResult(int requestCode, int resultCode, Intent data) {
+		// If verse list activity returns with a navigation command, execute it! 
+		if (requestCode == Constants.VERSE_REQUEST) {
+			if (resultCode == Constants.RESULT_NEXT_BOOK) {
+				String nextBookId = bibleDataAdapter.getNextBookId(bookId);
+				if (nextBookId != null) {
+					// start next book
+				}
+			} else if (resultCode == Constants.RESULT_PREVIOUS_BOOK) {
+				String previousBookId = bibleDataAdapter.getPreviousBookId(bookId);
+				if (previousBookId != null) {
+					// start previous book
+				}
+			}
+		}
 	}
 	
 	@Override

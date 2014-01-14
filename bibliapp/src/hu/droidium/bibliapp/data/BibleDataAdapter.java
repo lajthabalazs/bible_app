@@ -7,6 +7,10 @@ public interface BibleDataAdapter {
 	String getBookId(String abbreviation);
 
 	String[] getBookIds();
+	
+	String getNextBookId(String bookId);
+	
+	String getPreviousBookId(String bookId);
 
 	String getBookTitle(String bookId);
 

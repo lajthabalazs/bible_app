@@ -44,6 +44,34 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 	public String[] getBookIds() {
 		return bookIds.toArray(new String[bookIds.size()]);
 	}
+	
+	@Override
+	public String getNextBookId(String bookId) {
+		for (int i = 0; i < bookIds.size(); i++) {
+			if (bookIds.get(i).equals(bookId)) {
+				if (i == bookIds.size() - 1) {
+					return null;
+				} else {
+					return bookIds.get(i + 1);
+				}
+			}
+		}
+		return null;
+	}
+
+	@Override
+	public String getPreviousBookId(String bookId) {
+		for (int i = 0; i < bookIds.size(); i++) {
+			if (bookIds.get(i).equals(bookId)) {
+				if (i == 0) {
+					return null;
+				} else {
+					return bookIds.get(i - 1);
+				}
+			}
+		}
+		return null;
+	}
 
 	@Override
 	public String getBookTitle(String bookId) {

@@ -3,6 +3,7 @@ package hu.droidium.bibliapp;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
+import android.os.Bundle;
 import android.util.TypedValue;
 import android.widget.TextView;
 
@@ -39,7 +40,11 @@ public class Constants {
 	public static final double TEXT_SIZE_FACTOR = 1.2;
 	public static final String TAG_META_ID = "Tag meta id";
 	public static final String LAST_RATE_DIALOG_POWER = "Last rate dialog power";
-
+	public static final int VERSE_REQUEST = 6391;
+	public static final int RESULT_NEXT_BOOK = 6392;
+	public static final int RESULT_PREVIOUS_BOOK = 6393;
+	public static final String TURNING_PAGE = "Turning page";
+	
 	
 	public static SharedPreferences getPrefs(Context context) {
 		return context.getSharedPreferences(SHARED_PREFS, Context.MODE_PRIVATE);
