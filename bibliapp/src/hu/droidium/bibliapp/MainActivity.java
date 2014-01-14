@@ -1,7 +1,9 @@
 package hu.droidium.bibliapp;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 import hu.droidium.bibliapp.bookmar_ui.BookmarkListActivity;
 import hu.droidium.bibliapp.tag_ui.TagMetaListActivity;
@@ -9,10 +11,11 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import hu.droidium.flurry_base.Log;
+import hu.droidium.flurry_base.LogCategory;
 
 public class MainActivity extends BibleBaseActivity implements OnClickListener {
 
@@ -29,6 +32,9 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		Set<LogCategory> categoriesToLog = new HashSet<LogCategory>();
+		categoriesToLog.add(LogCategory.MAP);
+		Log.setLogCategories(categoriesToLog);
 		prefs = Constants.getPrefs(this);
 		setContentView(R.layout.main_layout);
 		toBookList = (Button) findViewById(R.id.toBookListButton);
@@ -55,13 +61,13 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	protected void onResume() {
 		super.onResume();
 		if (firstRun) {
-			Log.i(TAG, "First run of this session.");
+			Log.i(LogCategory.LIFECYCLE, TAG, "First run of this session.");
 			firstRun = false;
 			// Check if user wants to use Facebook
 			int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
 			switch(facebookAsk) {
 				case Constants.FACEBOOK_UNKNOWN: {
-					Log.d(TAG, "Facebook decision not made yet.");
+					Log.d(LogCategory.FACEBOOK, TAG, "Facebook decision not made yet.");
 					OnClickListener firstButtonListener = new OnClickListener() {
 						
 						@Override
@@ -86,12 +92,12 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 					break;
 				}
 				case Constants.FACEBOOK_LOGIN: {
-					Log.d(TAG, "Facebook login.");
+					Log.d(LogCategory.FACEBOOK, TAG, "Facebook login.");
 					login();
 					break;
 				}
 				default: {
-					Log.d(TAG, "No Facebook login.");
+					Log.d(LogCategory.FACEBOOK, TAG, "No Facebook login.");
 					break;
 				}
 			}

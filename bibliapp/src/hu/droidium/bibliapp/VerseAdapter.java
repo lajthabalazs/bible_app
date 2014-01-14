@@ -4,6 +4,7 @@ import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.Bookmark;
 import hu.droidium.bibliapp.data.LocationAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
+import hu.droidium.bibliapp.data.Verse;
 import hu.droidium.bibliapp.database.TagMeta;
 import hu.droidium.bibliapp.map.MapActivity;
 import hu.droidium.bibliapp.tag_ui.CheckableTagAdapter;
@@ -202,7 +203,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	public void onClick(View v) {
 		Integer index = (Integer)v.getTag();
 		final int vers = index;
-		final String verseId = Constants.getVerseLabel(bookId, chapterIndex, vers, bibleDataAdapter);
+		final String verseId = Verse.getVerseLabel(bookId, chapterIndex, vers, bibleDataAdapter);
 		final String versBody = bibleDataAdapter.getVerseLine(bookId, chapterIndex, index);
 
 		switch (v.getId()) {

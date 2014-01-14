@@ -5,7 +5,8 @@ import org.osmdroid.util.BoundingBoxE6;
 import org.osmdroid.views.MapView;
 
 import android.content.Context;
-import android.util.Log;
+import hu.droidium.flurry_base.Log;
+import hu.droidium.flurry_base.LogCategory;
 
 public class BibleMapView extends MapView{
 
@@ -24,8 +25,8 @@ public class BibleMapView extends MapView{
 	@Override
 	protected void onLayout(boolean arg0, int arg1, int arg2, int arg3, int arg4) {
 		super.onLayout(arg0, arg1, arg2, arg3, arg4);
-		if (targetBox != null) {
-			Log.e(TAG, "Zooming to bounding box");
+		if (targetBox != null) {			
+			Log.d(LogCategory.MAP, TAG, "Zooming to bounding box");
 			zoomToBoundingBox(targetBox);
 			targetBox = null;
 		}

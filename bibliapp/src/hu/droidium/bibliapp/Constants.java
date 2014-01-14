@@ -1,6 +1,5 @@
 package hu.droidium.bibliapp;
 
-import hu.droidium.bibliapp.data.BibleDataAdapter;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
@@ -69,9 +68,4 @@ public class Constants {
 		float actualSize = (float) (baseSize * currentMultiplier);
 		textView.setTextSize(TypedValue.COMPLEX_UNIT_PX, actualSize);
 	}
-	
-	public static String getVerseLabel(String bookId, int chapterIndex, int verseIndex, BibleDataAdapter bibleDataAdapter) {
-		return bibleDataAdapter.getBookAbbreviation(bookId) + ", " + (chapterIndex + 1) + "." + (verseIndex + 1);
-	}
-
 }

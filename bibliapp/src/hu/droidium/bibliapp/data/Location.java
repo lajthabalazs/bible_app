@@ -3,7 +3,7 @@ package hu.droidium.bibliapp.data;
 import java.util.ArrayList;
 import java.util.List;
 
-import android.util.Log;
+import hu.droidium.flurry_base.Log;
 
 public class Location {
 	

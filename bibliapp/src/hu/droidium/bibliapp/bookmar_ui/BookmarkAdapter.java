@@ -1,9 +1,9 @@
 package hu.droidium.bibliapp.bookmar_ui;
 
-import hu.droidium.bibliapp.Constants;
 import hu.droidium.bibliapp.R;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.Bookmark;
+import hu.droidium.bibliapp.data.Verse;
 
 import java.util.HashSet;
 import java.util.List;
@@ -56,7 +56,7 @@ public class BookmarkAdapter implements ListAdapter {
 		}
 		convertView.setTag(bookmark);
 		TextView titleView = (TextView)convertView.findViewById(R.id.verseTitle);
-		titleView.setText(Constants.getVerseLabel(bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers(), bibleDataAdapter));
+		titleView.setText(Verse.getVerseLabel(bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers(), bibleDataAdapter));
 		TextView versTextView = (TextView)convertView.findViewById(R.id.verseContent);
 		versTextView.setText(bibleDataAdapter.getVerseLine(bookmark.getBookId(), bookmark.getChapter(), bookmark.getVers()));
 		TextView noteView = (TextView)convertView.findViewById(R.id.bookmarkNote);

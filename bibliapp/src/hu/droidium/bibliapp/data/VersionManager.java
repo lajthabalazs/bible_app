@@ -4,7 +4,8 @@ import java.util.HashMap;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import android.util.Log;
+import hu.droidium.flurry_base.Log;
+import hu.droidium.flurry_base.LogCategory;
 
 public class VersionManager {
 	
@@ -39,6 +40,6 @@ public class VersionManager {
 	public static void setUpdateProgress(Context context, String item, int newVersion, int progress) {
 		SharedPreferences prefs = context.getSharedPreferences(VERSION_STORE, Context.MODE_PRIVATE);
 		prefs.edit().putInt(UPDATE_PROGRESS_PREFIX  + item + newVersion, progress).commit();
-		Log.v(TAG, item + " update progress " + progress);
+		Log.v(LogCategory.DATABASE, TAG, item + " update progress " + progress);
 	}
 }

@@ -9,7 +9,8 @@ import java.util.List;
 
 import android.app.IntentService;
 import android.content.Intent;
-import android.util.Log;
+import hu.droidium.flurry_base.Log;
+import hu.droidium.flurry_base.LogCategory;
 
 public class DatabaseUpdateService extends IntentService {
 
@@ -23,7 +24,7 @@ public class DatabaseUpdateService extends IntentService {
 
 	@Override
 	protected void onHandleIntent(Intent intent) {
-		Log.d(TAG, "Running update service.");
+		Log.d(LogCategory.DATABASE, TAG, "Running update service.");
 		DatabaseManager databaseManager = new DatabaseManager(this);
 		updateTagMetas(databaseManager);
 		updateLocations(databaseManager);
@@ -33,7 +34,7 @@ public class DatabaseUpdateService extends IntentService {
 		int assetVersion = VersionManager.getAssetVersion(this, TAG_META_FILE);
 		int installedVersion = VersionManager.getInstalledVersion(this, TAG_META_FILE);
 		if (assetVersion != installedVersion) {
-			Log.i(TAG, "Update needed, current version " + installedVersion + ", available version " + assetVersion);
+			Log.i(LogCategory.DATABASE, TAG, "Update needed, current version " + installedVersion + ", available version " + assetVersion);
 			List<TagMeta> tagMetas = AssetReader.parseTagMetas(this, TAG_META_FILE);
 			TagMeta tag;
 			int lastUpdated = VersionManager.getUpdateProgress(this, assetVersion, TAG_META_FILE);
@@ -43,9 +44,9 @@ public class DatabaseUpdateService extends IntentService {
 				VersionManager.setUpdateProgress(this, TAG_META_FILE, assetVersion, progress);
 			}
 			VersionManager.setInstalledVersion(this, TAG_META_FILE, assetVersion);
-			Log.i(TAG, "Tags updated from version " + installedVersion + " to " + assetVersion);
+			Log.i(LogCategory.DATABASE, TAG, "Tags updated from version " + installedVersion + " to " + assetVersion);
 		} else {
-			Log.i(TAG, "Tags up to date, version " + installedVersion);
+			Log.i(LogCategory.DATABASE, TAG, "Tags up to date, version " + installedVersion);
 		}
 	}
 	
@@ -54,7 +55,7 @@ public class DatabaseUpdateService extends IntentService {
 		int assetVersion = VersionManager.getAssetVersion(this, LOCATION_FILE);
 		int installedVersion = VersionManager.getInstalledVersion(this, LOCATION_FILE);
 		if (assetVersion != installedVersion) {
-			Log.i(TAG, "Update needed, current version " + installedVersion + ", available version " + assetVersion);
+			Log.i(LogCategory.DATABASE, TAG, "Update needed, current version " + installedVersion + ", available version " + assetVersion);
 			List<Location> locations = AssetReader.parseLocations(this, LOCATION_FILE, bibleDataAdapter);
 			int lastUpdated = VersionManager.getUpdateProgress(this, assetVersion, LOCATION_FILE);
 			for (int progress = lastUpdated + 1; progress < locations.size(); progress++) {
@@ -62,9 +63,9 @@ public class DatabaseUpdateService extends IntentService {
 				VersionManager.setUpdateProgress(this, LOCATION_FILE, assetVersion, progress);
 			}
 			VersionManager.setInstalledVersion(this, LOCATION_FILE, assetVersion);
-			Log.i(TAG, "Locations updated from version " + installedVersion + " to " + assetVersion);
+			Log.i(LogCategory.DATABASE, TAG, "Locations updated from version " + installedVersion + " to " + assetVersion);
 		} else {
-			Log.i(TAG, "Locations up to date, version " + installedVersion);
+			Log.i(LogCategory.DATABASE, TAG, "Locations up to date, version " + installedVersion);
 		}
 	}
 }

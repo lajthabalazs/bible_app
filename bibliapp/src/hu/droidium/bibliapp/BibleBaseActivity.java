@@ -10,6 +10,8 @@ import hu.droidium.bibliapp.data.Translator;
 import hu.droidium.bibliapp.database.DatabaseManager;
 import hu.droidium.bibliapp.database.DatabaseUpdateService;
 import hu.droidium.bibliapp.database.TagMeta;
+import hu.droidium.flurry_base.Log;
+import hu.droidium.flurry_base.LogCategory;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -25,7 +27,6 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
@@ -37,9 +38,9 @@ import com.facebook.RequestAsyncTask;
 import com.facebook.Response;
 import com.facebook.Session;
 import com.facebook.Session.StatusCallback;
-import com.facebook.model.GraphUser;
 import com.facebook.SessionState;
 import com.facebook.UiLifecycleHelper;
+import com.facebook.model.GraphUser;
 
 public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		StatusCallback {
@@ -84,7 +85,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		uiHelper = new UiLifecycleHelper(this, this);
 		uiHelper.onCreate(savedInstanceState);
 		// Update database
-		Log.d(TAG, "Checking for updates.");
+		Log.d(LogCategory.DATABASE, TAG, "Checking for updates.");
 		startService(new Intent(this, DatabaseUpdateService.class));
 	}
 	
@@ -175,7 +176,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 			@Override
 			public void onCompleted(GraphUser user, Response response) {
 				if (user!=null) {
-					Log.i(TAG, "We have a user:" + user.getName());
+					Log.i(LogCategory.FACEBOOK, TAG, "We have a user:" + user.getName());
 					sessionOnline = true;
 					if (pendingPublishReauthorization
 							&& session.getState().equals(SessionState.OPENED_TOKEN_UPDATED)) {
@@ -290,7 +291,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 					try {
 						postId = graphResponse.getString("id");
 					} catch (JSONException e) {
-						Log.i("TFacebookEnabledBibleActivity", "JSON error "
+						Log.i(LogCategory.FACEBOOK, "TFacebookEnabledBibleActivity", "JSON error "
 								+ e.getMessage());
 					}
 					FacebookRequestError error = response.getError();
@@ -333,11 +334,11 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 			Session.openActiveSession(context, null,false, new StatusCallback() {
 				@Override
 				public void call(Session session, SessionState state, Exception exception) {
-					Log.d(TAG, "Silent Facebook login succesfull");
+					Log.d(LogCategory.FACEBOOK, TAG, "Silent Facebook login succesfull");
 				}
 			});
 		} else {
-			Log.d(TAG, "User already logged in with Facebook");
+			Log.d(LogCategory.FACEBOOK, TAG, "User already logged in with Facebook");
 		}
 	}
 	

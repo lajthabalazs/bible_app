@@ -3,11 +3,12 @@ package hu.droidium.bibliapp;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
-import android.util.Log;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
+import hu.droidium.flurry_base.Log;
+import hu.droidium.flurry_base.LogCategory;
 
 public class SettingsActivity extends BibleBaseActivity implements OnClickListener {
 	
@@ -38,13 +39,13 @@ public class SettingsActivity extends BibleBaseActivity implements OnClickListen
 	private void refreshUI() {
 		int currentMultiplierFactor = prefs.getInt(Constants.TEXT_SIZE_KEY, 0);
 		double currentMultiplier = Math.pow(Constants.TEXT_SIZE_FACTOR, currentMultiplierFactor);
-		Log.v(TAG, "Factor " + currentMultiplierFactor + " -> " + currentMultiplier);
+		Log.v(LogCategory.UI, TAG, "Factor " + currentMultiplierFactor + " -> " + currentMultiplier);
 		DisplayMetrics metrics = new DisplayMetrics();
 		getWindowManager().getDefaultDisplay().getMetrics(metrics);
 		int baseSize = (int)(getResources().getDimension(R.dimen.text_size_list_item_text_normal) / metrics.scaledDensity);
-		Log.v(TAG, "Base dimension " + baseSize);
+		Log.v(LogCategory.UI, TAG, "Base dimension " + baseSize);
 		int actualSize = (int) (baseSize * currentMultiplier);
-		Log.v(TAG, "Actual dimension " + baseSize);
+		Log.v(LogCategory.UI, TAG, "Actual dimension " + baseSize);
 		int smallerSize = (int) (baseSize * currentMultiplier / Constants.TEXT_SIZE_FACTOR);
 		int largerSize = (int) (baseSize * currentMultiplier * Constants.TEXT_SIZE_FACTOR);
 		smallerText.setTextSize(TypedValue.COMPLEX_UNIT_SP, smallerSize);

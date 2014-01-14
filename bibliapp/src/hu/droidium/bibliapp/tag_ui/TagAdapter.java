@@ -1,9 +1,9 @@
 package hu.droidium.bibliapp.tag_ui;
 
-import hu.droidium.bibliapp.Constants;
 import hu.droidium.bibliapp.R;
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
+import hu.droidium.bibliapp.data.Verse;
 import hu.droidium.bibliapp.database.Tag;
 
 import java.util.ArrayList;
@@ -76,7 +76,7 @@ public class TagAdapter implements ListAdapter {
 		View tagColorCheck = convertView.findViewById(R.id.highlightListItemColorBox);
 		tagColorCheck.setTag(tag);
 		tagNameText.setTag(tag);
-		tagNameText.setText(Constants.getVerseLabel(tag.getBook(), tag.getChapter(), tag.getVers(), bibleDataAdapter));
+		tagNameText.setText(Verse.getVerseLabel(tag.getBook(), tag.getChapter(), tag.getVers(), bibleDataAdapter));
 		tagColorCheck.getBackground().setColorFilter(color, Mode.MULTIPLY);
 		return convertView;
 	}

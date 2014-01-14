@@ -18,7 +18,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.util.Log;
+import hu.droidium.flurry_base.Log;
 
 public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Translator, LocationAdapter {
 	
@@ -414,6 +414,7 @@ public class DatabaseManager implements BookmarkDataAdapter, TagDataAdapter, Tra
 	    String selection = DbLocation.COLUMN_NAME_BOOK + "=? AND " + DbLocation.COLUMN_NAME_CHAPTER + "=? AND " + DbLocation.COLUMN_NAME_VERS + "=?" ;
 	    String[] selectionArgs = new String[]{bookId, Integer.toString(chapter), Integer.toString(verse)};
 	    String orderString = DbLocation.COLUMN_NAME_NAME + " asc";
+	    Log.e(TAG, "Getting locations for book ");
 		Cursor c = db.query(DbLocation.TABLE_NAME, columns, selection, selectionArgs, null, null, orderString, null);
 	    for (boolean ok = c.moveToFirst(); ok; ok = c.moveToNext()) {
 			String name = c.getString(c.getColumnIndex(DbLocation.COLUMN_NAME_NAME));

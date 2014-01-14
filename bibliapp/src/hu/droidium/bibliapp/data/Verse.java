@@ -53,4 +53,8 @@ public class Verse {
 		}
 		return colors;
 	}
+	
+	public static String getVerseLabel(String bookId, int chapterIndex, int verseIndex, BibleDataAdapter bibleDataAdapter) {
+		return bibleDataAdapter.getBookAbbreviation(bookId) + ", " + (chapterIndex + 1) + "." + (verseIndex + 1);
+	}
 }

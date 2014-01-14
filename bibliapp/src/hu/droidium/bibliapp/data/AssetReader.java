@@ -15,7 +15,8 @@ import java.util.List;
 import java.util.Vector;
 
 import android.content.Context;
-import android.util.Log;
+import hu.droidium.flurry_base.Log;
+import hu.droidium.flurry_base.LogCategory;
 
 public class AssetReader {
 	private static final String TAG = "AssetReader";
@@ -45,7 +46,7 @@ public class AssetReader {
 					BufferedReader in = new BufferedReader(new InputStreamReader(context.getAssets().open(fileName), "UTF8"));
 					ret.add(new String[]{bookId, in.readLine(), abbreviations.get(i - 1)});
 				} catch (FileNotFoundException e) {
-					Log.w(TAG, "File not found "+ fileName);
+					Log.w(LogCategory.FILE_IO, TAG, "File not found "+ fileName);
 				}
 			}
 			return ret;
