@@ -1,83 +1,81 @@
 package hu.droidium.bibliapp;
 
 import hu.droidium.bibliapp.data.Bookmark;
+import hu.droidium.flurry_base.Log;
 
 import java.util.List;
 
-import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.util.DisplayMetrics;
-import android.util.Log;
-import android.view.Display;
-import android.view.GestureDetector;
-import android.view.GestureDetector.OnGestureListener;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.View.OnTouchListener;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class VerseListActivity extends BibleBaseActivity implements
-		OnItemClickListener, OnGestureListener, OnTouchListener {
+		OnItemClickListener {
 
 	private static final String TAG = VerseListActivity.class.getName();
 	private String bookId;
 	private VerseAdapter adapter;
 	private ListView verseList;
 	private int chapterIndex;
-	private GestureDetector gestureDetector;
-	private float screenPixels;
-	private double screenInches;
+	private TextView titleView;
+	private int verseIndex;
 
-	@SuppressWarnings("deprecation")
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.verse_list);
-		Intent intent = getIntent();
-		bookId = intent.getStringExtra(Constants.BOOK_ID);
-		chapterIndex = intent.getIntExtra(Constants.CHAPTER_INDEX, 0);
-		((TextView) findViewById(R.id.activityTitle)).setText(bibleDataAdapter
-				.getBookTitle(bookId));
-		List<Bookmark> bookmarks = bookmarkDataAdapter.getBookmarksForChapter(
-				bookId, chapterIndex);
-		adapter = new VerseAdapter(bookId, chapterIndex, bookmarks,
-				getLayoutInflater(), this, bibleDataAdapter, tagDataAdapter,
+		titleView = ((TextView) findViewById(R.id.activityTitle));
+		adapter = new VerseAdapter(getLayoutInflater(), this, bibleDataAdapter, tagDataAdapter,
 				locationAdapter);
 		verseList = (ListView) findViewById(R.id.verseList);
 		verseList.setCacheColorHint(Color.TRANSPARENT);
 		verseList.setAdapter(adapter);
 		verseList.setOnItemClickListener(this);
 		verseList.setOnTouchListener(this);
+	}
+	
+	@Override
+	protected void onResume() {
+		super.onResume();
 		SharedPreferences prefs = Constants.getPrefs(this);
-		int openedCount = prefs
-				.getInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, 0);
+		int openedCount = prefs.getInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, 0);
 		openedCount++;
-		prefs.edit().putInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, openedCount)
+		prefs.edit()
+			.putInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, openedCount)
+			.commit();
+
+		bookId = prefs.getString(Constants.BOOK_ID_TO_OPEN, null);
+		chapterIndex = prefs.getInt(Constants.CHAPTER_INDEX_TO_OPEN, -1);
+		prefs.edit().remove(Constants.SHOULD_OPEN_CHAPTER).commit(); // Removes executed command from preferences
+		if (prefs.getBoolean(Constants.SHOULD_OPEN_VERSE, false)) {
+			prefs.edit().remove(Constants.SHOULD_OPEN_VERSE).commit(); // Removes done command from preferences
+			verseIndex = prefs.getInt(Constants.VERSE_INDEX_TO_OPEN, -1);
+		} else {
+			verseIndex = -1;
+		}
+		refresh();
+		// Remove commands from shared preferences
+		prefs.edit()
+				.remove(Constants.SHOULD_OPEN_BOOK)
+				.remove(Constants.SHOULD_OPEN_CHAPTER)
+				.remove(Constants.SHOULD_OPEN_VERSE)
 				.commit();
-		boolean shouldOpenLastRead = prefs.getBoolean(
-				Constants.SHOULD_OPEN_LAST_READ, false);
-		if (intent.hasExtra(Constants.VERSE_INDEX)) {
-			int verseIndex = intent.getIntExtra(Constants.VERSE_INDEX, 0);
-			verseList.setSelection(verseIndex);
-		} else if (shouldOpenLastRead) {
-			prefs.edit().remove(Constants.SHOULD_OPEN_LAST_READ).commit();
-			int verseIndex = prefs.getInt(Constants.LAST_READ_VERS, 0);
+	}
+	
+	private void refresh(){
+		titleView.setText(bibleDataAdapter.getBookTitle(bookId));
+		List<Bookmark> bookmarks = bookmarkDataAdapter.getBookmarksForChapter(
+				bookId, chapterIndex);
+		adapter.setData(bookId, chapterIndex, bookmarks);
+		if (verseIndex != -1) {
 			verseList.setSelection(verseIndex);
 		}
-		gestureDetector = new GestureDetector(this, this);
-		Display display = getWindowManager().getDefaultDisplay();
-		screenPixels = display.getWidth();
-		DisplayMetrics dm = new DisplayMetrics();
-		getWindowManager().getDefaultDisplay().getMetrics(dm);
-		double x = Math.pow(dm.widthPixels / dm.xdpi, 2);
-		double y = Math.pow(dm.heightPixels / dm.ydpi, 2);
-		screenInches = Math.sqrt(x + y);
-		Log.d("debug", "Screen inches : " + screenInches);
 	}
 
 	@Override
@@ -88,84 +86,72 @@ public class VerseListActivity extends BibleBaseActivity implements
 	}
 
 	@Override
-	protected void facebookSessionOpened() {
-	}
-
-	@Override
-	protected void facebookSessionClosed() {
-	}
-
-	@Override
 	public void onItemClick(AdapterView<?> parentView, View view,
 			int itemIndex, long itemId) {
 		adapter.showOptions(view, itemId, super.isFacebookSessionOpened());
 	}
 
 	@Override
-	public boolean onTouch(View v, MotionEvent event) {
-		gestureDetector.onTouchEvent(event);
-		return false;
-	}
-
-	@Override
-	public boolean onDown(MotionEvent e) {
-		return false;
-	}
-
-	@Override
-	public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX,
-			float velocityY) {
-		float physicalVelocityInch = (float)(velocityX / screenPixels * screenInches);
-		if (Math.abs(velocityX) > Math.abs(velocityY) * 2) {
-			if (physicalVelocityInch > 5) {
-				if (chapterIndex != 0) {
-					Intent previusChapterIntent = new Intent(this, VerseListActivity.class);
-					previusChapterIntent.putExtra(Constants.BOOK_ID, bookId);
-					previusChapterIntent.putExtra(Constants.CHAPTER_INDEX, chapterIndex - 1);
-					previusChapterIntent.putExtra(Constants.VERSE_INDEX, bibleDataAdapter.getVerseCount(bookId, chapterIndex - 1) - 1);
-					startActivity(previusChapterIntent);
-					overridePendingTransition(R.anim.activity_slide_in_from_left,
-							R.anim.activity_slide_out_right);
-					finish();
-				} else {
-					// TODO Go to previous book
-					finish();
-				}
-			} else if (physicalVelocityInch < -5) {
-				if (chapterIndex == bibleDataAdapter.getChapterCount(bookId) - 1) {
-					// TODO Go to next book
-					finish();
-				} else {
-					Intent nextChapterIntent = new Intent(this, VerseListActivity.class);
-					nextChapterIntent.putExtra(Constants.BOOK_ID, bookId);
-					nextChapterIntent.putExtra(Constants.CHAPTER_INDEX, chapterIndex + 1);
-					nextChapterIntent.putExtra(Constants.VERSE_INDEX, 0);
-					startActivity(nextChapterIntent);
-					overridePendingTransition(R.anim.activity_slide_in_from_right,
-							R.anim.activity_slide_out_left);
-					finish();
-				}
+	protected boolean flingRight() {
+		if (chapterIndex == bibleDataAdapter.getChapterCount(bookId) - 1) {
+			Log.e(TAG, "Go to next book.");
+			String nextBookId = bibleDataAdapter.getNextBookId(bookId);
+			if (nextBookId != null) {
+				SharedPreferences prefs = Constants.getPrefs(this);
+				bookId = nextBookId;
+				chapterIndex = 0;
+				verseIndex = 0;
+				prefs.edit()
+					.putString(Constants.BOOK_ID_TO_OPEN, nextBookId)
+					.putInt(Constants.CHAPTER_INDEX_TO_OPEN, chapterIndex)
+					.putInt(Constants.VERSE_INDEX_TO_OPEN, verseIndex)
+					.commit();
+				refresh();
+			} else {
+				Toast.makeText(this, R.string.atFirstChapter, Toast.LENGTH_LONG).show();
 			}
+		} else {
+			chapterIndex = chapterIndex + 1;
+			verseIndex = 0;
+			SharedPreferences prefs = Constants.getPrefs(this);
+			prefs.edit()
+				.putInt(Constants.CHAPTER_INDEX_TO_OPEN, chapterIndex)
+				.putInt(Constants.VERSE_INDEX_TO_OPEN, verseIndex)
+				.commit();
+			refresh();
 		}
 		return true;
 	}
 
 	@Override
-	public void onLongPress(MotionEvent e) {
-	}
-
-	@Override
-	public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
-			float distanceY) {
-		return false;
-	}
-
-	@Override
-	public void onShowPress(MotionEvent e) {
-	}
-
-	@Override
-	public boolean onSingleTapUp(MotionEvent e) {
-		return false;
-	}
+	protected boolean flingLeft() {
+		if (chapterIndex == 0) {
+			Log.e(TAG, "Go to previous book.");
+			String previousBookId = bibleDataAdapter.getPreviousBookId(bookId);			
+			if (previousBookId != null) {
+				chapterIndex = bibleDataAdapter.getChapterCount(previousBookId) - 1;
+				verseIndex = bibleDataAdapter.getVerseCount(previousBookId, chapterIndex) - 1;
+				bookId = previousBookId;
+				SharedPreferences prefs = Constants.getPrefs(this);
+				prefs.edit()
+					.putString(Constants.BOOK_ID_TO_OPEN, previousBookId)
+					.putInt(Constants.CHAPTER_INDEX_TO_OPEN, chapterIndex)
+					.putInt(Constants.VERSE_INDEX_TO_OPEN, verseIndex)
+					.commit();
+				refresh();
+			} else {
+				Toast.makeText(this, R.string.atLastChapter, Toast.LENGTH_LONG).show();
+			}
+		} else {
+			chapterIndex = chapterIndex - 1;
+			verseIndex = bibleDataAdapter.getVerseCount(bookId, chapterIndex) - 1;
+			SharedPreferences prefs = Constants.getPrefs(this);
+			prefs.edit()
+				.putInt(Constants.CHAPTER_INDEX_TO_OPEN, chapterIndex)
+				.putInt(Constants.VERSE_INDEX_TO_OPEN, verseIndex)
+				.commit();
+			refresh();
+		}
+		return true;
+	}	
 }

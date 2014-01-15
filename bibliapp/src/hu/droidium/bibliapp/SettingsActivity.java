@@ -54,14 +54,6 @@ public class SettingsActivity extends BibleBaseActivity implements OnClickListen
 	}
 
 	@Override
-	protected void facebookSessionOpened() {
-	}
-
-	@Override
-	protected void facebookSessionClosed() {
-	}
-
-	@Override
 	public void onClick(View v) {
 		switch (v.getId()) {
 			case R.id.settingsSmallerText: {

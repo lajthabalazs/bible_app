@@ -82,4 +82,7 @@
     <string name="flurryEventVerseOpenedFromTag">Verse opened from tag</string>
     
     <string name="initializingDataBase">Az adatbázis inicializálása a háttérben. Ez akár 10 percig is eltarthat.</string>
+    
+    <string name="atLastChapter">Elértél a Biblia végére.</string>
+    <string name="atFirstChapter">A Biblia legelején vagy.</string>
 </resources>

@@ -20,11 +20,19 @@ public class ChapterAdapter implements ListAdapter {
 	private Context context;
 	private LayoutInflater inflater;
 	
-	public ChapterAdapter(String bookId, BibleDataAdapter bibleDataAdapter, LayoutInflater inflater, Context context) {
-		this.bookId = bookId;
+	public ChapterAdapter(BibleDataAdapter bibleDataAdapter, LayoutInflater inflater, Context context) {
 		this.bibleDataAdapter = bibleDataAdapter;
 		this.context = context;
 		this.inflater = inflater;
+	}
+	
+	public void setBookId(String bookId) {
+		if (this.bookId == null || !this.bookId.equals(bookId)){
+			this.bookId = bookId;
+			for (DataSetObserver observer : observers) {
+				observer.onChanged();
+			}
+		}
 	}
 
 	@Override

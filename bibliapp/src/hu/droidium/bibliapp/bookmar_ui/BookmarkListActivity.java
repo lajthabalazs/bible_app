@@ -32,14 +32,6 @@ public class BookmarkListActivity extends BibleBaseActivity implements OnItemCli
 	}
 
 	@Override
-	protected void facebookSessionOpened() {
-	}
-
-	@Override
-	protected void facebookSessionClosed() {
-	}
-
-	@Override
 	public void onItemClick(AdapterView<?> parentView, View view, int itemIndex, long itemId) {
 		// Show verse
 		Intent intent = new Intent(this, VerseListActivity.class);

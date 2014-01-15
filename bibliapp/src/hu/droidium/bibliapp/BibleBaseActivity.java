@@ -27,8 +27,15 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
+import android.util.DisplayMetrics;
+import android.view.Display;
+import android.view.GestureDetector;
+import android.view.MotionEvent;
 import android.view.View;
+import android.view.GestureDetector.OnGestureListener;
 import android.view.View.OnClickListener;
+import android.view.View.OnTouchListener;
+import android.view.ViewGroup.LayoutParams;
 import android.widget.Toast;
 
 import com.facebook.FacebookRequestError;
@@ -42,8 +49,15 @@ import com.facebook.SessionState;
 import com.facebook.UiLifecycleHelper;
 import com.facebook.model.GraphUser;
 
+/**
+ * This activity should be added as touch event listener to the views that implement touch listeners,
+ * otherwise fling events won't be captured.
+ * 
+ * @author Balazs Lajtha
+ *
+ */
 public abstract class BibleBaseActivity extends DialogBaseActivity implements
-		StatusCallback {
+		StatusCallback, OnGestureListener, OnTouchListener {
 	private static final String PENDING_PUBLISH_KEY = "pendingPublishReauthorization";
 	private static final String SHARED_PREFS = "Facebook prefs";
 	private static final String MESSAGE_KEY = "Post message key";
@@ -53,6 +67,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	private static final List<String> PERMISSIONS = Arrays
 			.asList("publish_actions");
 	private static final String TAG = BibleBaseActivity.class.getName();
+	private static final float FLING_LIMIT = 3.0f;
 
 	private Session session;
 	private boolean sessionOnline = false;
@@ -70,6 +85,12 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	private DatabaseManager databaseManager;
 	private static ArrayList<TagMeta> localizedTagMetas;
 
+	private GestureDetector gestureDetector;
+	private float screenPixels;
+	private double screenInches;
+	
+
+	@SuppressWarnings("deprecation")
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -87,6 +108,31 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		// Update database
 		Log.d(LogCategory.DATABASE, TAG, "Checking for updates.");
 		startService(new Intent(this, DatabaseUpdateService.class));
+		gestureDetector = new GestureDetector(this, this);
+		Display display = getWindowManager().getDefaultDisplay();
+		screenPixels = display.getWidth();
+		DisplayMetrics dm = new DisplayMetrics();
+		getWindowManager().getDefaultDisplay().getMetrics(dm);
+		double x = Math.pow(dm.widthPixels / dm.xdpi, 2);
+		double y = Math.pow(dm.heightPixels / dm.ydpi, 2);
+		screenInches = Math.sqrt(x + y);
+		Log.d(LogCategory.LIFECYCLE, TAG, "Screen inches : " + screenInches);
+	}
+	
+	@Override
+	public void setContentView(int layoutResID) {
+		setContentView(getLayoutInflater().inflate(layoutResID, null));
+	}
+	
+	@Override
+	public void setContentView(View view) {
+		setContentView(view, new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
+	}
+	
+	@Override
+	public void setContentView(View view, LayoutParams params) {
+		super.setContentView(view, params);
+		view.setOnTouchListener(this);
 	}
 	
 	@Override
@@ -192,9 +238,9 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		});
 	}
 
-	protected abstract void facebookSessionOpened();
+	protected void facebookSessionOpened() {}
 
-	protected abstract void facebookSessionClosed();
+	protected void facebookSessionClosed() {}
 
 	public List<Bookmark> getBookmarksForChapter(String bookId, int chapterIndex) {
 		List<Bookmark> bookmarks = bookmarkDataAdapter.getBookmarksForChapter(bookId, chapterIndex);
@@ -357,5 +403,55 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 
 	public String[] getBookIds() {
 		return bibleDataAdapter.getBookIds();
-	}	
+	}
+	
+	@Override
+	public boolean onTouch(View v, MotionEvent event) {
+		return gestureDetector.onTouchEvent(event);
+	}
+
+	@Override
+	public boolean onDown(MotionEvent e) {
+		return false;
+	}
+
+	@Override
+	public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX,
+			float velocityY) {
+		float physicalVelocityInch = (float) (velocityX / screenPixels * screenInches);
+		if (Math.abs(velocityX) > Math.abs(velocityY) * 2) {
+			if (physicalVelocityInch > FLING_LIMIT) {
+				return flingLeft();
+			} else if (physicalVelocityInch < - FLING_LIMIT) {
+				return flingRight();
+			}
+		}
+		return false;
+	}
+
+	protected boolean flingRight() {
+		return false;
+	}
+	protected boolean flingLeft() {
+		return false;
+	}
+	
+	@Override
+	public void onLongPress(MotionEvent e) {
+	}
+
+	@Override
+	public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX,
+			float distanceY) {
+		return false;
+	}
+
+	@Override
+	public void onShowPress(MotionEvent e) {
+	}
+
+	@Override
+	public boolean onSingleTapUp(MotionEvent e) {
+		return false;
+	}
 }

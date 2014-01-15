@@ -30,20 +30,20 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 		bookList.setCacheColorHint(Color.TRANSPARENT);
 		bookList.setAdapter(adapter);
 		bookList.setOnItemClickListener(this);
+	}
+	
+	@Override
+	protected void onResume() {
+		super.onResume();
+		// Checks if a book, chapter or verse should be opened.
 		SharedPreferences prefs = Constants.getPrefs(this);
-		boolean shouldOpenLastRead = prefs.getBoolean(Constants.SHOULD_OPEN_LAST_READ, false);		
-		if (shouldOpenLastRead) {
-			log(R.string.flurryEventContinuedFromLastTime);
-			String bookId = prefs.getString(Constants.LAST_READ_BOOK_ID, null);
-			if (bookId.startsWith("raw")) {
-				bookId = bookId.substring(4,6);
-				prefs.edit().putString(Constants.LAST_READ_BOOK_ID, bookId).commit();
-			}
+		boolean shouldOpenBook = prefs.getBoolean(Constants.SHOULD_OPEN_BOOK, false);
+		boolean shouldOpenChapter = prefs.getBoolean(Constants.SHOULD_OPEN_CHAPTER, false);
+		boolean shouldOpenVerse = prefs.getBoolean(Constants.SHOULD_OPEN_VERSE, false);		
+		String bookId = prefs.getString(Constants.BOOK_ID_TO_OPEN, null);
+		if (bookId != null && (shouldOpenBook || shouldOpenChapter || shouldOpenVerse)) {
 			Intent nextIntent = new Intent(this, ChapterListActivity.class);
-			nextIntent.putExtra(Constants.BOOK_ID, bookId);
 			startActivity(nextIntent);
-		} else {
-			log(R.string.flurryEventBooksListed);
 		}
 	}
 	
@@ -51,24 +51,24 @@ public class BookListActivity extends BibleBaseActivity implements OnItemClickLi
 	public void onItemClick(AdapterView<?> adapterView, View view,
 			int selectedIndex, long id) {
 		String bookId = (String)adapter.getItem(selectedIndex);
-		Intent intent = new Intent(this, ChapterListActivity.class);
-		intent.putExtra(Constants.BOOK_ID, bookId);
-		startActivity(intent);
-	}
-
-	@Override
-	protected void facebookSessionOpened() {
-	}
-
-	@Override
-	protected void facebookSessionClosed() {
+		SharedPreferences prefs = Constants.getPrefs(this);
+		prefs.edit()
+			.putString(Constants.BOOK_ID_TO_OPEN, bookId)
+			.putInt(Constants.CHAPTER_INDEX_TO_OPEN, 0)
+			.putInt(Constants.VERSE_INDEX_TO_OPEN, 0)
+			.putBoolean(Constants.SHOULD_OPEN_BOOK, true)
+			.putBoolean(Constants.SHOULD_OPEN_CHAPTER, false)
+			.putBoolean(Constants.SHOULD_OPEN_VERSE, false)
+			
+			.commit();
+		startActivity(new Intent(this, ChapterListActivity.class));
 	}
 
 	@Override
 	public void onClick(View v) {
 		Map<String, String> params = new HashMap<String, String>();
 		params.put(getString(R.string.flurryParamEventSource), BookListActivity.class.getName());
-		log(R.string.flurryEventBookmarksOpened, params );
+		log(R.string.flurryEventBookmarksOpened, params);
 		Intent intent = new Intent(this, BookmarkListActivity.class);
 		startActivity(intent);
 	}

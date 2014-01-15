@@ -52,9 +52,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private LocationAdapter locationAdapter;
 	
 	
-	public VerseAdapter(String bookId, int chapterIndex, List<Bookmark> bookmarks, LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagDataAdapter, LocationAdapter locationAdapter) {
-		this.bookId = bookId;
-		this.chapterIndex = chapterIndex;
+	public VerseAdapter(LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagDataAdapter, LocationAdapter locationAdapter) {
 		this.bibleDataAdapter = bibleDataAdapter;
 		this.tagDataAdapter = tagDataAdapter;
 		this.locationAdapter = locationAdapter;
@@ -62,10 +60,21 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 		this.inflater = inflater;
 		
 		this.bookmarks = new SparseArray<Bookmark>();
-		for (Bookmark bookmark : bookmarks) {
-			this.bookmarks.put(bookmark.getVers(), bookmark);
+	}
+
+	public void setData(String bookId, int chapterIndex, List<Bookmark> bookmarks) {
+		if (this.bookId == null || !this.bookId.equals(bookId) || this.chapterIndex != chapterIndex){
+			this.bookId = bookId;
+			this.chapterIndex = chapterIndex;
+			this.bookmarks.clear();
+			for (Bookmark bookmark : bookmarks) {
+				this.bookmarks.put(bookmark.getVers(), bookmark);
+			}
+			for (DataSetObserver observer : observers) {
+				observer.onChanged();
+			}
+			Log.v(TAG, bookmarks.size() + " bookmarks found for this chapter");
 		}
-		Log.v(TAG, bookmarks.size() + " bookmarks found for this chapter");
 	}
 
 	@Override

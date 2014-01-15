@@ -3,7 +3,6 @@ package hu.droidium.bibliapp;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
-import android.os.Bundle;
 import android.util.TypedValue;
 import android.widget.TextView;
 
@@ -12,7 +11,6 @@ public class Constants {
 	public static final String LAST_READ_BOOK_ID = "Last read book";
 	public static final String LAST_READ_CHAPTER = "Last read chapter";
 	public static final String LAST_READ_VERS = "Last read vers";
-	public static final String SHOULD_OPEN_LAST_READ = "Open last read";
 	
 	public static final String VERSE_LIST_OPENED_COUNT_KEY = "Verse list opened count";
 	public static final int RATE_LIMIT = 20;
@@ -26,10 +24,6 @@ public class Constants {
 	public static final String CHAPTER_INDEX = "Chapter index";
 	public static final String VERSE_INDEX = "Vers index";
 	
-	public static final String COLUMN_NAME_BOOK = "bookId";
-	public static final String COLUMN_NAME_CHAPTER = "chapterNumber";
-	public static final String COLUMN_NAME_VERS = "versNumber";
-
 	private static final String SHARED_PREFS = "General preferences";
 	public static final String FACEBOOK_LOGIN_DECISION = "Facebook login decision";
 	public static final int FACEBOOK_UNKNOWN = 0;
@@ -40,11 +34,15 @@ public class Constants {
 	public static final double TEXT_SIZE_FACTOR = 1.2;
 	public static final String TAG_META_ID = "Tag meta id";
 	public static final String LAST_RATE_DIALOG_POWER = "Last rate dialog power";
-	public static final int VERSE_REQUEST = 6391;
-	public static final int RESULT_NEXT_BOOK = 6392;
-	public static final int RESULT_PREVIOUS_BOOK = 6393;
-	public static final String TURNING_PAGE = "Turning page";
 	
+	public static final String BOOK_ID_TO_OPEN = "Book to open";
+	public static final String CHAPTER_INDEX_TO_OPEN = "Chapter index to open";
+	public static final String VERSE_INDEX_TO_OPEN = "Verse index to open";
+
+	public static final String SHOULD_OPEN_BOOK = "Open book";
+	public static final String SHOULD_OPEN_CHAPTER = "Open chapter";
+	public static final String SHOULD_OPEN_VERSE = "Open verse";
+
 	
 	public static SharedPreferences getPrefs(Context context) {
 		return context.getSharedPreferences(SHARED_PREFS, Context.MODE_PRIVATE);

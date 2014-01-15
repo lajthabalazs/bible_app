@@ -80,6 +80,9 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 
 	@Override
 	public int getChapterCount(String bookId) {
+		if (bookId == null) {
+			return 0;
+		}
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
 		}
@@ -88,6 +91,9 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 
 	@Override
 	public int getVerseCount(String bookId, int chapterId) {
+		if (bookId == null) {
+			return 0;
+		}
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
 		}
@@ -96,6 +102,9 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 
 	@Override
 	public String getVerseLine(String bookId, int chapterIndex, int verseIndex) {
+		if (bookId == null) {
+			return null;
+		}
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
 		}

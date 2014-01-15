@@ -155,13 +155,28 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	public void onClick(View v) {
 		switch (v.getId()) {
 			case R.id.toBookListButton: {
+				log(R.string.flurryEventBooksListed);				
 				Intent intent = new Intent(this, BookListActivity.class);
 				startActivity(intent);
 				break;
 			}
 			case R.id.lastReadVersButton: {
+				log(R.string.flurryEventContinuedFromLastTime);
+				// Add book, chapter and verse id to intent
 				SharedPreferences prefs = Constants.getPrefs(this);
-				prefs.edit().putBoolean(Constants.SHOULD_OPEN_LAST_READ, true).commit();
+				String bookId = prefs.getString(Constants.LAST_READ_BOOK_ID, null);
+				if (bookId != null && bookId.startsWith("raw")) {
+					bookId = bookId.substring(4,6);
+					prefs.edit().putString(Constants.LAST_READ_BOOK_ID, bookId).commit();
+				}
+				int chapterIndex = prefs.getInt(Constants.LAST_READ_CHAPTER, 0);
+				int verseIndex = prefs.getInt(Constants.LAST_READ_VERS, 0);
+				prefs.edit()
+					.putString(Constants.BOOK_ID_TO_OPEN, bookId)
+					.putInt(Constants.CHAPTER_INDEX_TO_OPEN, chapterIndex)
+					.putInt(Constants.VERSE_INDEX_TO_OPEN, verseIndex)
+					.putBoolean(Constants.SHOULD_OPEN_VERSE, true)
+					.commit();
 				Intent intent = new Intent(this, BookListActivity.class);
 				startActivity(intent);
 				break;
@@ -196,13 +211,5 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 				break;
 			}
 		}
-	}
-
-	@Override
-	protected void facebookSessionOpened() {
-	}
-
-	@Override
-	protected void facebookSessionClosed() {
 	}
 }
