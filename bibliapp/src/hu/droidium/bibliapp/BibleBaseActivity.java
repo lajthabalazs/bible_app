@@ -264,10 +264,6 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		return localizedTagMetas;
 	}
 	
-	public Bookmark saveBookmark(String note, String book, int chapter, int vers, String color) {
-		return bookmarkDataAdapter.saveBookmark(new Bookmark(note, book, chapter, vers, color));
-	}
-	
 	protected int getUsageCount() {
 		SharedPreferences prefs = Constants.getPrefs(this);
 		return prefs.getInt(Constants.VERSE_LIST_OPENED_COUNT_KEY, 0);

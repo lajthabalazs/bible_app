@@ -27,6 +27,14 @@ public class BookmarkAdapter implements ListAdapter {
 		this.bookmarks = bookmarks;
 		this.bibleDataAdapter = bibleDataAdapter;
 	}
+	
+	public void refresh(List<Bookmark> bookmarks) {
+		this.bookmarks = bookmarks;
+		for (DataSetObserver observer : observers) {
+			observer.onChanged();
+		}
+		
+	}
 
 	@Override
 	public int getCount() {

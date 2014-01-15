@@ -31,7 +31,7 @@ public class VerseListActivity extends BibleBaseActivity implements
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.verse_list);
 		titleView = ((TextView) findViewById(R.id.activityTitle));
-		adapter = new VerseAdapter(getLayoutInflater(), this, bibleDataAdapter, tagDataAdapter,
+		adapter = new VerseAdapter(getLayoutInflater(), this, bibleDataAdapter, bookmarkDataAdapter, tagDataAdapter,
 				locationAdapter);
 		verseList = (ListView) findViewById(R.id.verseList);
 		verseList.setCacheColorHint(Color.TRANSPARENT);

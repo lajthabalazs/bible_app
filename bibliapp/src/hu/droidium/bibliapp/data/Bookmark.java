@@ -27,6 +27,11 @@ public class Bookmark {
 	protected Bookmark (long id, String note, String book, int chapter, int vers, String color, String lastUpdate) {
 		this(id, note, book, chapter, vers, color, getDate(lastUpdate));
 	}
+	
+	public void update(String note, String color) {
+		this.note = note;
+		this.color = color;
+	}
 
 	public static Date getDate(String lastUpdate) {
 		try {

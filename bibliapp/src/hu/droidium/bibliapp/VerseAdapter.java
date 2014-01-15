@@ -2,6 +2,7 @@ package hu.droidium.bibliapp;
 
 import hu.droidium.bibliapp.data.BibleDataAdapter;
 import hu.droidium.bibliapp.data.Bookmark;
+import hu.droidium.bibliapp.data.BookmarkDataAdapter;
 import hu.droidium.bibliapp.data.LocationAdapter;
 import hu.droidium.bibliapp.data.TagDataAdapter;
 import hu.droidium.bibliapp.data.Verse;
@@ -42,6 +43,7 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private int chapterIndex;
 
 	private BibleDataAdapter bibleDataAdapter;
+	private BookmarkDataAdapter bookmarkDataAdapter;
 	private TagDataAdapter tagDataAdapter;
 	private SparseArray<Bookmark> bookmarks;
 	private HashSet<DataSetObserver> observers = new HashSet<DataSetObserver>();
@@ -52,10 +54,11 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 	private LocationAdapter locationAdapter;
 	
 	
-	public VerseAdapter(LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, TagDataAdapter tagDataAdapter, LocationAdapter locationAdapter) {
+	public VerseAdapter(LayoutInflater inflater, BibleBaseActivity activity, BibleDataAdapter bibleDataAdapter, BookmarkDataAdapter bookmarkDataAdapter, TagDataAdapter tagDataAdapter, LocationAdapter locationAdapter) {
 		this.bibleDataAdapter = bibleDataAdapter;
 		this.tagDataAdapter = tagDataAdapter;
 		this.locationAdapter = locationAdapter;
+		this.bookmarkDataAdapter = bookmarkDataAdapter;
 		this.activity = activity;
 		this.inflater = inflater;
 		
@@ -263,7 +266,8 @@ public class VerseAdapter implements ListAdapter, OnClickListener {
 					dialogView.findViewById(R.id.addBookmarkButton).setOnClickListener(new OnClickListener() {
 						@Override
 						public void onClick(View v) {
-							Bookmark bookmark = activity.saveBookmark(commentEditor.getText().toString(), bookId, chapterIndex, vers, Bookmark.DEFAULT_COLOR);
+
+							Bookmark bookmark = bookmarkDataAdapter.saveBookmark(new Bookmark(commentEditor.getText().toString(), bookId, chapterIndex, vers, Bookmark.DEFAULT_COLOR));
 							if (bookmark != null) {
 								bookmarks.put(vers, bookmark);
 								dialog.dismiss();

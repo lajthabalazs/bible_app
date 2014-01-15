@@ -65,6 +65,8 @@
     <string name="flurryEventBooksListed">Books listed</string>
     <string name="flurryEventContinuedFromLastTime">Continued reading from last time</string>
     <string name="flurryEventBookmarkAdded">Bookmark added</string>
+    <string name="flurryEventBookmarkEdited">Bookmark edited</string>
+    <string name="flurryEventBookmarkDeleted">Bookmark deleted</string>
     <string name="flurryEventBookmarksOpened">Bookmarks opened</string>
     <string name="flurryParamEventSource">Event source</string>
     <string name="flurryParamBookmarkCount">Bookmark count</string>
@@ -85,4 +87,7 @@
     
     <string name="atLastChapter">Elértél a Biblia végére.</string>
     <string name="atFirstChapter">A Biblia legelején vagy.</string>
+    <string name="deleteBookmark">Törlés</string>
+    <string name="modifyBookmark">Mentés</string>
+    <string name="modifyBookmarkTtle">Könyvjelző szerkesztése</string>
 </resources>
