@@ -19,6 +19,7 @@
     <string name="facebookPostSend">Megosztom</string>
     <string name="facebookPostCancel">Mégsem</string>
     <string name="facebookShareDialogTitle">Hallja mindenki!</string>
+    <string name="facebookLoginError">Sikertelen belépés</string>
     <string name="saveBookmark">Könyvjelző hozzáadása</string>
     <string name="noteLabel">Megjegyzés</string>
     <string name="bookmarksTitle">Könyvjelzők</string>

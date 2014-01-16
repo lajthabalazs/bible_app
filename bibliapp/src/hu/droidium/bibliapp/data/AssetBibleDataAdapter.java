@@ -86,6 +86,9 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
 		}
+		if (lastAccessedBook == null) {
+			return 0;
+		}
 		return lastAccessedBook.getChapterCount();
 	}
 
@@ -97,6 +100,9 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
 		}
+		if (lastAccessedBook == null) {
+			return 0;
+		}
 		return lastAccessedBook.getChapter(chapterId).getVerseCount();
 	}
 
@@ -107,6 +113,9 @@ public class AssetBibleDataAdapter implements BibleDataAdapter {
 		}
 		if (lastAccessedBook == null || !lastAccessedBook.getId().equals(bookId)) {
 			lastAccessedBook = AssetReader.parseBook(bookId, context);
+		}
+		if (lastAccessedBook == null) {
+			return null;
 		}
 		return lastAccessedBook.getChapter(chapterIndex).getVerse(verseIndex).getLine();
 	}

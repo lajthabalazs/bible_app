@@ -22,6 +22,7 @@ import java.util.Locale;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import android.app.AlertDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -46,7 +47,6 @@ import com.facebook.Response;
 import com.facebook.Session;
 import com.facebook.Session.StatusCallback;
 import com.facebook.SessionState;
-import com.facebook.UiLifecycleHelper;
 import com.facebook.model.GraphUser;
 
 /**
@@ -69,9 +69,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	private static final String TAG = BibleBaseActivity.class.getName();
 	private static final float FLING_LIMIT = 3.0f;
 
-	private Session session;
 	private boolean sessionOnline = false;
-	private UiLifecycleHelper uiHelper;	
 	
 	private boolean pendingPublishReauthorization = false;
 	
@@ -103,8 +101,6 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		translator = databaseManager;
 		
 		
-		uiHelper = new UiLifecycleHelper(this, this);
-		uiHelper.onCreate(savedInstanceState);
 		// Update database
 		Log.d(LogCategory.DATABASE, TAG, "Checking for updates.");
 		startService(new Intent(this, DatabaseUpdateService.class));
@@ -117,6 +113,13 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		double y = Math.pow(dm.heightPixels / dm.ydpi, 2);
 		screenInches = Math.sqrt(x + y);
 		Log.d(LogCategory.LIFECYCLE, TAG, "Screen inches : " + screenInches);
+		// Check if user wants to use Facebook
+		SharedPreferences prefs = Constants.getPrefs(this);
+		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
+		if (facebookAsk == Constants.FACEBOOK_LOGIN) {
+			login(savedInstanceState);
+		}
+		
 	}
 	
 	@Override
@@ -159,35 +162,45 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 					R.string.flurryDialogDisable, secondButtonListener,
 					Orientation.HORIZONTAL);
 		}
-		// Check if user wants to use Facebook
-		SharedPreferences prefs = Constants.getPrefs(this);
-		int facebookAsk = prefs.getInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_UNKNOWN);
-		if (facebookAsk == Constants.FACEBOOK_LOGIN) {
-			login();
-		}
 	}
 
-	protected void login() {
- 		if (session != null) {
- 			session.addCallback(this);
-		} else {
-			Session.openActiveSession(this, true, this);
- 		}
+	protected void login(Bundle savedInstanceState) {
+		
+        Session session = Session.getActiveSession();
+        if (session == null) {
+            if (savedInstanceState != null) {
+                session = Session.restoreSession(this, null, this, savedInstanceState);
+            }
+            if (session == null) {
+                session = new Session(this);
+            }
+            Session.setActiveSession(session);
+            if (session.getState().equals(SessionState.CREATED_TOKEN_LOADED)) {
+                session.openForRead(new Session.OpenRequest(this).setCallback(this));
+            }
+        }
 	}
 	
 	@Override
+	protected void onStart() {
+		super.onStart();
+		Session.getActiveSession().addCallback(this);
+	}
+	
+	@Override
+    public void onStop() {
+        super.onStop();
+        Session.getActiveSession().removeCallback(this);
+    }
+	
+	@Override
 	protected void onPause() {
-		uiHelper.onPause();
-		if (session != null) {
-			session.removeCallback(this);
-		}
 		super.onPause();
 	}
 
 	@Override
 	protected void onDestroy() {
 		databaseManager.destroy();
-		uiHelper.onDestroy();
 		super.onDestroy();
 	}
 
@@ -195,15 +208,20 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	protected void onSaveInstanceState(Bundle outState) {
 		super.onSaveInstanceState(outState);
 		outState.putBoolean(PENDING_PUBLISH_KEY, pendingPublishReauthorization);
-		uiHelper.onSaveInstanceState(outState);
+        Session session = Session.getActiveSession();
+        Session.saveSession(session, outState);
 	}
 
 	@Override
 	public void call(Session session, SessionState state, Exception exception) {
-		this.session = session;
-		session.addCallback(this);
+		 if (exception != null) {
+             new AlertDialog.Builder(this)
+                     .setTitle(R.string.facebookLoginError)
+                     .setMessage(exception.getMessage())
+                     .setPositiveButton(android.R.string.ok, null)
+                     .show();
+         }		
 		if (state.isOpened()) {
-			this.session = session;
 			checkIfOnline();
 		} else if (state.isClosed()) {
 			facebookSessionClosed();
@@ -213,12 +231,13 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	@Override
 	public void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);
-		uiHelper.onActivityResult(requestCode, resultCode, data);
+		Session.getActiveSession().onActivityResult(this, requestCode, resultCode, data);
 	}
 	
-	@SuppressWarnings("deprecation")
 	private void checkIfOnline() {
-		Request.executeMeRequestAsync(session, new Request.GraphUserCallback() {
+        final Session session = Session.getActiveSession();
+        
+		Request.newMeRequest(session, new Request.GraphUserCallback() {
 			@Override
 			public void onCompleted(GraphUser user, Response response) {
 				if (user!=null) {
@@ -235,7 +254,7 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 					facebookSessionClosed();
 				}
 			}
-		});
+		}).executeAsync();
 	}
 
 	protected void facebookSessionOpened() {}

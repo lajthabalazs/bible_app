@@ -28,6 +28,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	private Button tags;
 	private boolean firstRun = true;
 	private SharedPreferences prefs;
+	private Bundle savedInstanceState;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +50,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 		bookmarks.setOnClickListener(this);
 		tags = (Button)findViewById(R.id.tagsButton);
 		tags.setOnClickListener(this);
+		this.savedInstanceState = savedInstanceState;
 	}
 	
 	@Override
@@ -73,7 +75,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 						@Override
 						public void onClick(View v) {
 							prefs.edit().putInt(Constants.FACEBOOK_LOGIN_DECISION, Constants.FACEBOOK_LOGIN).commit();
-							login();
+							login(savedInstanceState);
 						}
 					};
 					OnClickListener secondButtonListener = null;
@@ -93,7 +95,7 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 				}
 				case Constants.FACEBOOK_LOGIN: {
 					Log.d(LogCategory.FACEBOOK, TAG, "Facebook login.");
-					login();
+					login(savedInstanceState);
 					break;
 				}
 				default: {

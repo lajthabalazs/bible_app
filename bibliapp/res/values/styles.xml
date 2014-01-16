@@ -9,7 +9,7 @@
 
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">
-        <item name="android:windowBackground">@drawable/paper_1280x720</item>
+        <item name="android:windowBackground">@drawable/paper_bg</item>
 		<item name="android:windowNoTitle">true</item>        
     </style>
     
