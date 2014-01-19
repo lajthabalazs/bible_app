@@ -33,23 +33,12 @@
         android:layout_marginBottom="5dp"
         android:text="@string/settings" />
 
-    <Button
-        android:id="@+id/toLocationListButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/toSettingsButton"
-        android:padding="@dimen/activity_horizontal_margin"
-        android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
-        android:layout_marginRight="@dimen/activity_double_horizontal_margin"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="5dp"
-        android:text="@string/toLocationList" />
     
     <Button
         android:id="@+id/tagsButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/toLocationListButton"
+        android:layout_above="@+id/toSettingsButton"
         android:layout_centerHorizontal="true"
         android:layout_marginLeft="@dimen/activity_double_horizontal_margin"
         android:layout_marginRight="@dimen/activity_double_horizontal_margin"

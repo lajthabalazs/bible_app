@@ -24,7 +24,6 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 	private Button toBookList;
 	private View bookmarks;
 	private Button settings;
-	private Button toLocation;
 	private Button tags;
 	private boolean firstRun = true;
 	private SharedPreferences prefs;
@@ -43,8 +42,6 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 		lastReadVers = (Button) findViewById(R.id.lastReadVersButton);
 		lastReadVers.setOnClickListener(this);
 		settings = (Button) findViewById(R.id.toSettingsButton);
-		toLocation = (Button) findViewById(R.id.toLocationListButton);
-		toLocation.setOnClickListener(this);
 		settings.setOnClickListener(this);
 		bookmarks = findViewById(R.id.bookmarkLink);
 		bookmarks.setOnClickListener(this);
@@ -185,11 +182,6 @@ public class MainActivity extends BibleBaseActivity implements OnClickListener {
 			}
 			case R.id.toSettingsButton: {
 				Intent intent = new Intent(this, SettingsActivity.class);
-				startActivity(intent);
-				break;
-			}
-			case R.id.toLocationListButton: {
-				Intent intent = new Intent(this, LocationListActivity.class);
 				startActivity(intent);
 				break;
 			}
