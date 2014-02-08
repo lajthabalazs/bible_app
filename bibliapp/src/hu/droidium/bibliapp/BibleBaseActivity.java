@@ -184,13 +184,19 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	@Override
 	protected void onStart() {
 		super.onStart();
-		Session.getActiveSession().addCallback(this);
+		Session session = Session.getActiveSession();
+		if (session != null) {
+			session.addCallback(this);
+		}
 	}
 	
 	@Override
     public void onStop() {
         super.onStop();
-        Session.getActiveSession().removeCallback(this);
+		Session session = Session.getActiveSession();
+		if (session != null) {
+			Session.getActiveSession().removeCallback(this);
+		}
     }
 	
 	@Override
@@ -209,7 +215,9 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 		super.onSaveInstanceState(outState);
 		outState.putBoolean(PENDING_PUBLISH_KEY, pendingPublishReauthorization);
         Session session = Session.getActiveSession();
-        Session.saveSession(session, outState);
+		if (session != null) {
+			Session.saveSession(session, outState);
+		}
 	}
 
 	@Override
@@ -231,30 +239,34 @@ public abstract class BibleBaseActivity extends DialogBaseActivity implements
 	@Override
 	public void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);
-		Session.getActiveSession().onActivityResult(this, requestCode, resultCode, data);
+		Session session = Session.getActiveSession();
+		if (session != null) {
+			Session.getActiveSession().onActivityResult(this, requestCode, resultCode, data);
+		}
 	}
 	
 	private void checkIfOnline() {
         final Session session = Session.getActiveSession();
-        
-		Request.newMeRequest(session, new Request.GraphUserCallback() {
-			@Override
-			public void onCompleted(GraphUser user, Response response) {
-				if (user!=null) {
-					Log.i(LogCategory.FACEBOOK, TAG, "We have a user:" + user.getName());
-					sessionOnline = true;
-					if (pendingPublishReauthorization
-							&& session.getState().equals(SessionState.OPENED_TOKEN_UPDATED)) {
-						pendingPublishReauthorization = false;
-						publishStory();
+		if (session != null) {
+			Request.newMeRequest(session, new Request.GraphUserCallback() {
+				@Override
+				public void onCompleted(GraphUser user, Response response) {
+					if (user!=null) {
+						Log.i(LogCategory.FACEBOOK, TAG, "We have a user:" + user.getName());
+						sessionOnline = true;
+						if (pendingPublishReauthorization
+								&& session.getState().equals(SessionState.OPENED_TOKEN_UPDATED)) {
+							pendingPublishReauthorization = false;
+							publishStory();
+						}
+						facebookSessionOpened();
+					} else {
+						sessionOnline = false;
+						facebookSessionClosed();
 					}
-					facebookSessionOpened();
-				} else {
-					sessionOnline = false;
-					facebookSessionClosed();
 				}
-			}
-		}).executeAsync();
+			}).executeAsync();
+		}
 	}
 
 	protected void facebookSessionOpened() {}

@@ -51,6 +51,7 @@ public class BibleDbHelper extends SQLiteOpenHelper {
 			bookmarks = databaseManager.getAllBookmarks(null, false);
 		}
 		if (oldVersion < 5) {
+			// Add location table to database
 			db.execSQL(DbLocation.getCreateTableText());
 		}
 	}
